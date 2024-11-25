@@ -3,30 +3,39 @@ return {
         NativeName = "English",
         EnglishName = "English",
     },
-    
+
     ["cz"] = {
         NativeName = "Čeština",
         EnglishName = "Czech",
     },
-    
+
     ["fr"] = {
         NativeName = "Français",
         EnglishName = "French",
     },
-    
+
     ["de"] = {
         NativeName = "Deutsch",
         EnglishName = "German",
     },
-    
+
     ["pt"] = {
         NativeName = "Português",
         EnglishName = "Portuguese",
     },
-    
+
     ["zh"] = {
-        NativeName = "简体中文",
-        EnglishName = "Chinese Simplified",
+        ["cn"] = {
+            NativeName = "简体中文",
+            EnglishName = "Chinese Simplified",
+        },
+        
+        ["hant"] = {
+            NativeName = "繁體中文",
+            EnglishName = "Chinese Traditional",
+        },
+
+        Default = "cn"
     },
     
     ["ru"] = {
