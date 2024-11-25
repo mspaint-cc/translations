@@ -18,6 +18,8 @@ getgenv().language = {
 }
 ```
 
+You can create a PR to submit changes and add new language support. Please do not spam the PRs with spam.
+
 > [!IMPORTANT]
 > NativeName is the name of the language in the native language, example for french:
 > ```lua
@@ -29,3 +31,5 @@ getgenv().language = {
 >     }
 > }
 > ```
+
+
