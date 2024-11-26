@@ -41,5 +41,10 @@
     "ru": {
         "NativeName": "Русский",
         "EnglishName": "Russian"
+    },
+
+    "fa": {
+        "NativeName": "فارسی",
+        "EnglishName": "Persian"
     }
 }
