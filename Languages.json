@@ -43,6 +43,11 @@
         "EnglishName": "Russian"
     },
 
+    "ua": {
+        "NativeName": "Українська",
+        "EnglishName": "Ukrainian"
+    },
+
     "fa": {
         "NativeName": "فارسی",
         "EnglishName": "Persian"
