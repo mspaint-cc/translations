@@ -4,7 +4,7 @@
 
     "Main": "Главное",
     "Exploits": "Эксплойты",
-    "Visuals": "Визуальные эффекты",
+    "Visuals": "Визуальное",
     "Reach": "Досягаемость",
     "Misc": "Разное",
     "Movement": "Движение",
@@ -108,7 +108,7 @@
     "Enable Jump": "Включить прыжок",
     "Jump Boost": "Увеличение прыжка",
     "Fast Closet Exit": "Быстрый выход из шкафа",
-    "Door Reach": "Увеличенная дальность взаимодействия с дверью",
+    "Door Reach": "Дальность взаимодействия с дверью ",
     "Prompt Reach Multiplier": "Увеличенная дальность взаимодействия с вещями",
 
     "Auto Interact": "Автоматическое взаимодействие",
@@ -117,12 +117,12 @@
 
     "Auto Heartbeat Minigame": "Авто Мини-игра «Автобиение сердца»",
     "Auto Library Solver": "Авто-решатель библиотечного кода",
-    "Auto Library Code Setting": "Настройки авто-решателя библиотечного кода",
+    "Auto Library Code Setting": "Настройки авто-решателя библиотеки",
     "Unlock Distance": "Дистанция разблокировки",
 
     "Auto Breaker Solver": "Автоматически решить щиток",
     "The breaker box has been successfully solved.": "Щиток-паззл был успешно решён.",
-    "Auto Breaker Solver Method": "Метод решения щитка.",
+    "Auto Breaker Solver Method": "Метод решения щитка",
     "Auto Breaker Box": "Коробка автовыключателя",
 
     "Auto Anchor Solver": "Авто-решатель якоря",
@@ -166,7 +166,7 @@
     "Notify Entities": "Сообщить о присутствии сущностей",
     "Notify Library Code": "Сообщить код библиотеки",
     "Notify Oxygen": "Сообщать о количестве кислорода",
-    "Notify Hide Time": "Сообщать об оставшемся времени сокрытия",
+    "Notify Hide Time": "С. об оставшемся времени сокрытия",
 
     "Notify Chat": "Уведомить в чате",
     "Entity and Padlock Code": "Код сущности и замка",
@@ -204,7 +204,7 @@
     "Knob Cost: ": "Стоимость в knobs: ",
 
     "Anti-Entity": "Анти-сущность",
-    "Spam Other Tools": "Спамить инструменты других игроков",
+    "Spam Other Tools": "Спамить инструменты других",
     "Upside Down": "Вверх дном",
 
     "Speed Bypass": "Обход ограничения скорости",
@@ -212,15 +212,15 @@
 
     "Anticheat Manipulation": "Манипулирование анти-чита",
     "Godmode": "Режим бога",
-    "Lags you back and is buggy with crouch": "Заставляет вас вернуться назад и не работает когда приседаете.",
+    "Lags you back and is buggy with crouch": "Заставляет вас вернуться назад и не работает когда приседаете",
     "Infinite Items": "Бесконечные предметы",
     "Infinite Crucifix": "Бесконечные распятия",
     "Very risky, you might die/lose the crucifix": "Очень рискованно, вы можете умереть/потерять распятия",
 
     "Fake Revive": "Фальшивое возрождение",
     "You have revived, fake revive has stopped working.": "Вы воскресли, Фальшивое воскрешение отключено.",
-    "Enable it again to start fake revive": "Включите снова, чтобы начать Фальшивое воскрешение.",
-    "Fake Revive has stopped working, enable it again to start fake revive": "Включите снова чтобы начать фальшивое оживление.",
+    "Enable it again to start fake revive": "Включите снова, чтобы начать Фальшивое воскрешение",
+    "Fake Revive has stopped working, enable it again to start fake revive": "Включите снова чтобы начать фальшивое оживление",
     "Delete Seek (FE)": "Удалить Seek (FE)",
     
     "Enable Star Rift": "Активировать звездный рифт",
@@ -247,7 +247,7 @@
     "Loading Death Farm Script": "Загрузка кода фермы смертей",
     "Please be patient.": "Будьте терпеливы, пожалуйста",
     "Knob Farm": "Авто-Ферма Knobs",
-    "Only works in Room 100 and figure is spawned": "Работает только в комнате 100 когда появляется фигура.",
+    "Only works in Room 100 and figure is spawned": "Работает только в комнате 100 когда появляется фигура",
     "Knob Farm Mode": "Режим авто-фермы knobs",
     "Knob Farm Warning": "Предупреждение для авто-фермы knobs",
     "The <b>I Love Pancakes!!!</b> modifier is required to use the snare method.": "Модификатор <b>I Love Pancakes!!!</b> необходим для использования метода snare.",
@@ -547,8 +547,8 @@
     "Open Keybind Menu": "Открыть меню привязки клавиш",
     "Custom Cursor": "Пользовательский курсор",
     "Menu bind": "Привязка меню",
-    "Join Discord": "Присоединиться к Discord",
-    "Copy Link": "Скопировать ссылку",
+    "Join Discord": "Discord сервер",
+    "Copy Link": "Копировать ссылку",
     "Unload": "Разгрузка",
     "Save Error Logs": "Сохранять журналы ошибок",
     "Your executor doesn't support the FileSystem API.": "Ваш чит(инжектор) не поддерживает API файловой системы.",
@@ -576,7 +576,7 @@
     "' didn't load: Invalid element type.": "' не загрузился: Неверный тип элемента.",
     "This tab is for UN-OFFICIAL addons made for mspaint. We are not responsible for what addons you will use. You are putting yourself AT RISK since you are executing third-party scripts.": "Эта вкладка предназначена для НЕОФИЦИАЛЬНЫХ дополнений, созданных для mspaint. Мы не несем ответственности за то, какие аддоны  вы будете использовать. Вы подвергаете себя РИСКУ, поскольку выполняете сторонние скрипты.",
     "WARNING": "ВНИМАНИЕ",
-    "Your addons FOLDER is empty! (": "ПАПКА ваших аддонов пуста.! (",
+    "Your addons FOLDER is empty! (": "ПАПКА ваших аддонов пуста! (",
     "[mspaint] Invalid file extension for '": "[mspaint] Неверное расширение файла для '",
     "[mspaint] Loading addon '": "[mspaint] Загрузка аддона '",
     "Failed to load this addon (": "Не удалось загрузить это дополнение. (",
