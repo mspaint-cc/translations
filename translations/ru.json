@@ -11,7 +11,7 @@
     "Locations": "Нахождение",
     
     "Sniper": "Снайпер",
-    "Other": "Иной",
+    "Other": "Иное",
     "Player": "Игрок",
     "Trolling": "Троллинг",
     "Notifier": "Уведомитель",
@@ -109,7 +109,7 @@
     "Jump Boost": "Увеличение прыжка",
     "Fast Closet Exit": "Быстрый выход из шкафа",
     "Door Reach": "Дальность взаимодействия с дверью ",
-    "Prompt Reach Multiplier": "Увеличенная дальность взаимодействия с вещями",
+    "Prompt Reach Multiplier": "Дальность взаимодействия с вещями",
 
     "Auto Interact": "Автоматическое взаимодействие",
     "Auto Interact Ignore": "Игнорировать автоматическое взаимодействие с",
@@ -136,8 +136,8 @@
     "Door": "Дверь",
     "Objective": "Цель",
     "Entity": "Сущность",
-    "Item": "Объект",
-    "Items": "Объекты",
+    "Item": "Предметы",
+    "Items": "Предметы",
     "Chest": "Сундук",
     "Toolshed": "Сарай с ножницами",
     "Gold": "Золото",
@@ -183,7 +183,7 @@
     "Notification Style": "Стиль уведомления",
     "Caption Style": "Стиль подписи",
 
-    "Self": "Себя",
+    "Self": "Личное",
 
     "Third Person": "Вид от третьего лица",
     "Field of View": "Поле зрения",
@@ -270,7 +270,7 @@
 
     "Minecart Teleport": "Телепортация вагонетки",
     "Minecart Teleport debug": "Дебаг телепортация вагонетки",
-    "Visualize Correct Seek Path": "Визуализировать правильный путь seek",
+    "Visualize Correct Seek Path": "Показать правильный путь seek",
     "Minecart teleport is ready! Waiting for the minecart...": "Телепортация вагонетки готова! В ожидании вагонетки...",
     "Minecart teleport started. Enjoy the ride!": "Телепортация вагонетки началась. Наслаждайтесь поездкой!",
 
