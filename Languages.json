@@ -51,5 +51,10 @@
     "fa": {
         "NativeName": "فارسی",
         "EnglishName": "Persian"
+    },
+
+    "ar": {
+        "NativeName": "عربي",
+        "EnglishName": "Arabic"
     }
 }
