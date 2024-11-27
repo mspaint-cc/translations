@@ -35,7 +35,7 @@
     "Enable Text": "Включить текст",
     "Enable Highlight": "Включить выделение",
     "Fill Transparency": "Заполнить прозрачность",
-    "Outline Transparency": "Прозрачность обводки",
+    "Outline Transparency": "Прозрачность контура",
     "Show Distance": "Показать дальность",
     "Text Size": "Размер текста",
     "Enable Tracer": "Включить трассер.",
@@ -46,6 +46,7 @@
     
     "Speed Hack": "Чит на скорость",
     "Enable Walk Speed": "Включить изменения скорости",
+	"Enable Speed Hack": "Включить чит на скорость",
     "Speed Boost": "Увеличение скорости",
     "Walk Speed": "Скорость ходьбы",
     "Jump Power Hack": "Изменить силу прыжка",
@@ -112,7 +113,7 @@
     "Prompt Reach Multiplier": "Дальность взаимодействия с вещями",
 
     "Auto Interact": "Автоматическое взаимодействие",
-    "Auto Interact Ignore": "Игнорировать автоматическое взаимодействие с",
+    "Auto Interact Ignore": "Исключить из взаимодействий",
     "Interact Mode": "Режим взаимодействия",
 
     "Auto Heartbeat Minigame": "Авто Мини-игра «Автобиение сердца»",
@@ -141,6 +142,7 @@
     "Chest": "Сундук",
     "Toolshed": "Сарай с ножницами",
     "Gold": "Золото",
+	"Guiding Light": "Вспомогательный свет",
     "Timer Lever": "Рычаг таймера",
     "Key": "Ключ",
     "Keycard": "Ключ-карта",
@@ -239,7 +241,7 @@
     "You have not selected any items to buy!": "Вы не выбрали ни одного товара для покупки!",
     "You do not have enough knobs to buy the items you have selected!": "Не достаточно валюты",
     
-    "Anti-Seek Obstructions": "Устранение препятствий для Seek",
+    "Anti-Seek Obstructions": "Анти-препятствия для Seek",
     "Avoid Rush/Ambush": "Избежать Rush и Ambush",
     "Doesn't work for greenhouse :(": "Не работает в теплице (90+) :(",
 
@@ -265,11 +267,11 @@
     "Anti-Seek Flood": "Анти-наводнение Seek",
     
     "Beat Door 200": "Завершить комнату 200",
-    "You haven't reached door 200...": "Вы не дошли до комнаты 200...",
+    "You haven't reached door 200...": "Вы еще не достигли комнаты 200...",
     "Anticheat Bypass": "Обход античита",
 
     "Minecart Teleport": "Телепортация вагонетки",
-    "Minecart Teleport debug": "Дебаг телепортация вагонетки",
+    "Minecart Teleport Debug": "Дебаг телепортация вагонетки",
     "Visualize Correct Seek Path": "Показать правильный путь seek",
     "Minecart teleport is ready! Waiting for the minecart...": "Телепортация вагонетки готова! В ожидании вагонетки...",
     "Minecart teleport started. Enjoy the ride!": "Телепортация вагонетки началась. Наслаждайтесь поездкой!",
@@ -290,7 +292,7 @@
     "Calculated Objective Successfully!\nObjective: %s\nCreating path...": "Цель рассчитана успешно!\nЦель: %s\nСоздание пути...",
     "Computing Path to %s...": "Вычисление пути к %s...",
     "Computed path successfully with %s waypoints!": "Путь успешно вычислен с помощью %s путевых точок!",
-    "Seems like you are stuck, trying to recalculate path...": "Кажется ты застрял, пытаемся пересчитать путь...",
+    "Seems like you are stuck, trying to recalculate path...": "Кажется, вы застряли, пробуем пересчитать путь...",
     "Failed to move to waypoint": "Не удалось перейти к путевой точке",
     "Pathfinding failed with status %s": "Поиск пути не выполнен со статусом %s",
     "You have reached A-1000": "Вы достигли A-1000",
@@ -549,7 +551,7 @@
     "Menu bind": "Привязка меню",
     "Join Discord": "Discord сервер",
     "Copy Link": "Копировать ссылку",
-    "Unload": "Разгрузка",
+    "Unload": "Разгрузить",
     "Save Error Logs": "Сохранять журналы ошибок",
     "Your executor doesn't support the FileSystem API.": "Ваш чит(инжектор) не поддерживает API файловой системы.",
     "[GameId: %s, JobID: %s] %s": "[GameId: %s, JobID: %s] %s",
