@@ -18,7 +18,7 @@
     "Notifier": "اعلام کننده",
     "Automation": "اَتوماتیک",
     "Ambient": "محیط",
-    "Bypass ": "دور زدن",
+    "Bypass": "دور زدن",
     "Farm": "فارم کردن",
 
 
@@ -189,15 +189,15 @@
     "Anti-Halt": "ضد Halt",
     "Anti-Screech": "ضد Screech",
     
-    "Anti-Eyes ": "ضد چشم ها",
+    
   
     "Anti-Figure Hearing": "ناشنوا کردن فیگور",
-    "Anti-Snare": "ضد تله",
+    "Anti-Snare": "ضد Snare",
 
     "Anti-%s": "%s ضد",
     "Vacuum": "Vacuum",
     "Dupe": "Dupe",
-    "Eyes": "چشم ها",
+    "Eyes": "Eyes",
     "Lookman": "Lookman",
     "Giggle": "Giggle",
     "Anti-Giggle": "ضد Giggle",
@@ -521,6 +521,20 @@
     "File System is required for this feature.": "برای استفاده از این قابلیت به نیاز دارید (File System).",
     "Failed to load location: ": "بارگیری مکان شکست خورد : ",
 
+    "Auto Fish": "ماهیگری خودکار",
+    "Mode": "حالت",
+    "Location": "مکان",
+    "Only works with Exploit Mode.": "فقط در حالت تقلب کار می کند",
+    "Enable Location": "قعال کردن مکان",
+    "Minimum Throw Power": "کمترین قدرت پرتاب",
+    "Maximum Throw Power": "بیشترین قدرت پرتاب",
+    "Appraise fish (450C$)": "بررسی ماهی (450C$)",
+    "You will not drown in the water.": "در آب غرق نمی شوید" ,
+    "Disable being afk.": "خاموش کردن خودکار AFK",
+    "You can walk on water.": "می توانید روی آب راه بروید",
+    "Open Shipwright": "باز کردن صفحه خرید قایق",
+    "You don't have enough money.": "پول کافی ندارید",
+    "Disable Auto Cast first.": "ابتدا ماهیگیری خودکار را خاموش کنید.",
     "Teleport": "تلپورت",
     "Areas": "مناطق",
     "Teleport to Area": "تلپورت به منطقه",
