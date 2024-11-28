@@ -20,6 +20,7 @@ getgenv().language = {
     }
 }
 ```
+> Missing translations are printed in the Developer console (F9, /console)
 ## Language Info
 > [!IMPORTANT]
 > NativeName is the name of the language in the native language, example for french:
