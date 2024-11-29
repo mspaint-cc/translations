@@ -19,6 +19,11 @@
         "EnglishName": "German"
     },
 
+    "es": {
+        "NativeName": "Español",
+        "EnglishName": "Spanish"
+    },
+    
     "pt": {
         "NativeName": "Português",
         "EnglishName": "Portuguese"
