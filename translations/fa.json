@@ -477,6 +477,7 @@
     "No Flashlight Shadow": "حذف سایه چراغ قوه",
     "No Blur": "حذف تار بودن",
 
+   
  
     "[Fisch] New Catch!": "[Fisch] صید تازه!",
     "[Fisch] Auto Sell Result": "[Fisch] نتیجه فروش خودکار",
@@ -542,7 +543,7 @@
     "Teleport to NPC": "تلپورت به شخصیت غیرقابل بازی",
     "Interactables": "قابل تعامل ها",
     "Teleport to Interactable": "تلپورت به قابل تعامل",
-
+    "Perfect Reel Chance": "شانس جمع کردن بی‌نقص نخ ماهیگیری",
     "Failed to find Boat's Base.": "پیدا کردن پایگاه قایق شکست خورد.",
 
     "Anchor Player": "ثابت نگه داشتن بازیکن",
