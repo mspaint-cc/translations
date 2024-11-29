@@ -63,6 +63,11 @@
         "EnglishName": "Arabic"
     },
 
+    "ur": {
+        "NativeName": "اردو",
+        "EnglishName": "Urdu"
+    },
+
     "kz": {
         "NativeName": "қазақ",
         "EnglishName": "Kazakh"
