@@ -291,6 +291,7 @@
     "Minecart Teleport": "矿车传送",
     "Minecart Teleport debug": "矿车传送调试",
     "Visualize Correct Seek Path": "可视化正确的Seek路径",
+    "Path Type": "寻路模式",
     "Minecart teleport is ready! Waiting for the minecart...": "矿车传送已就绪！正在等待矿车...",
     "Minecart teleport started. Enjoy the ride!": "矿车传送已开始。祝您旅途愉快！",
     
