@@ -524,5 +524,6 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "Некоректна змінна 'Game' (очікувалась 'string/table', отримано '",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' не завантажився: Некоректна змінна 'Game' (очікувалась 'string/table', отримано '",
     "[mspaint] Failed to load addon '": "[mspaint] Не вдалося завантажити аддон '",
-    "Failed to load this addon:": "Не вдалося завантажити цей аддон:"
+    "Failed to load this addon:": "Не вдалося завантажити цей аддон:",
+    "Path Type": "Тип шляху"
 }
