@@ -273,6 +273,7 @@
     "Minecart Teleport": "Телепортация вагонетки",
     "Minecart Teleport Debug": "Дебаг телепортация вагонетки",
     "Visualize Correct Seek Path": "Показать правильный путь seek",
+    "Path Type": "Тип визуализированного пути"
     "Minecart teleport is ready! Waiting for the minecart...": "Телепортация вагонетки готова! В ожидании вагонетки...",
     "Minecart teleport started. Enjoy the ride!": "Телепортация вагонетки началась. Наслаждайтесь поездкой!",
 
