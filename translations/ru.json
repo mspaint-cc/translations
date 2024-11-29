@@ -474,7 +474,7 @@
     "Refresh Custom Locations": "Обновить индивидуальные локации",
     "File System is required for this feature.": "Для этой функции требуется API файловой системы.",
     "Failed to load location: ": "Не удалось загрузить локацию.: ",
-
+	
     "Teleport": "Телепортация",
     "Areas": "Зоны",
     "Teleport to Area": "Телепортация в зону",
@@ -487,7 +487,7 @@
 
     "Anchor Player": "Закрепить игрока",
     "Anchors you during Auto Casting.": "Закрепляет вас во время Auto Casting.",
-    
+    "Perfect Reel Chance": "Шанс на идеальную намотку",
     "Auto Reel": "Авто Катушка",
     "Auto Fish": "Авто Рыбалка",
     "Mode": "Режим",
