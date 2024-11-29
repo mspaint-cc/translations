@@ -124,7 +124,7 @@
     "Auto Library Code Setting": "Configuração do Solucionador",
     "Unlock Distance": "Distância de Destravamento",
 
-    "Auto Breaker Solver": "Solucionar Disjuntor Automat",
+    "Auto Breaker Solver": "Solucionar Disjuntor Automaticamente",
     "The breaker box has been successfully solved.": "A caixa de disjuntor foi resolvida com successo.",
     "Auto Breaker Solver Method": "Método do Solucionador",
     "Auto Breaker Box": "Caixa de Disjuntor Automático",
