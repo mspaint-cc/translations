@@ -560,5 +560,6 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "المتغير 'Game' غير صالح (متوقع 'string/table' لكن تم الحصول على '')",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "'لم يتم التحميل: غير صالح 'Game' المتغيرات (توقع 'string/table' حصل)'",
     "[mspaint] Failed to load addon '": "[mspaint] فشل تحميل الملحق '",
-    "Failed to load this addon:": "فشل تحميل هاذا الملحق:"
+    "Failed to load this addon:": "فشل تحميل هاذا الملحق:",
+    "Path Type": "نوع المسار"
 }
