@@ -120,16 +120,16 @@
     "Interact Mode": "Modo de Interação",
 
     "Auto Heartbeat Minigame": "Automatizar Minijogo de Batimento",
-    "Auto Library Solver": "Solucionador de Biblioteca Automático",
+    "Auto Library Solver": "Solucionar Biblioteca Automaticamente",
     "Auto Library Code Setting": "Configuração do Solucionador",
     "Unlock Distance": "Distância de Destravamento",
 
-    "Auto Breaker Solver": "Solucionador de Disjuntor Automático",
+    "Auto Breaker Solver": "Solucionar Disjuntor Automat",
     "The breaker box has been successfully solved.": "A caixa de disjuntor foi resolvida com successo.",
     "Auto Breaker Solver Method": "Método do Solucionador",
     "Auto Breaker Box": "Caixa de Disjuntor Automático",
 
-    "Auto Anchor Solver": "Solucionador de Âncora Automático",
+    "Auto Anchor Solver": "Solucionar Âncora Automaticamente",
     "Solved Anchor %s successfully!": "Âncora %s resolvida com sucesso!",
     "Solved anchor with the code ": "Âncora resolvida com o código ",
 
@@ -275,6 +275,7 @@
     "Minecart Teleport": "Teletransporte do Carrinho",
     "Minecart Teleport debug": "Debug de Teletransporte do Carrinho",
     "Visualize Correct Seek Path": "Visualizar o Caminho Correto do Seek",
+    "Path Type": "Tipo do Caminho",
     "Minecart teleport is ready! Waiting for the minecart...": "O Teletransporte do Carrinho está pronto! Esperando pelo carrinho...",
     "Minecart teleport started. Enjoy the ride!": "O Teletransporte do Carrinho começou. Aproveite o passeio!",
 
@@ -491,6 +492,7 @@
     "Anchors you during Auto Casting.": "Âncora seu personagem durante a automação do arremeso.",
     
     "Auto Reel": "Automatizar Minijogo 'Reel'",
+    "Perfect Reel Chance": "Chance de Perfeição do 'Reel'"
 
     "Auto Fish": "Pescar Automaticamente",
     "Mode": "Modo",
