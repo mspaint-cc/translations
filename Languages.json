@@ -61,5 +61,10 @@
     "ar": {
         "NativeName": "عربي",
         "EnglishName": "Arabic"
+    },
+
+    "kz": {
+        "NativeName": "қазақ",
+        "EnglishName": "Kazakh"
     }
 }
