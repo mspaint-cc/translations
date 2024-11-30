@@ -71,7 +71,11 @@
     "Alive Check": "Checagem de Vivo",
     "Wall Check": "Checagem de Parede",
 
-    
+    "Auto Buy": "Comprar Automaticamente",
+    "Chest Type": "Tipo do Baú",
+    "Bought %s chest(s).": "%s baús foram comprados",
+    "Failed to buy chest(s).": "Falha ao comprar baú(s)",
+    "Build Saving [BETA]": "Salvamento de Construções [BETA]",
     "Builds": "Construções",
     "Auto Farm": "Auto Farm",
     "Auto Farm Speed": "Velocidade da Auto Farm",
@@ -562,7 +566,7 @@
 
     
     "Lifetime": "Vitalício",
-    "Language": "Linguagem",
+    "Language": "Idioma",
     "%d day%s": "%d dia%s",
     "%d hour%s %d minute%s": "%d hora%s %d minuto%s",
     "%d hour%s": "%d hora%s",
