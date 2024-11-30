@@ -102,7 +102,11 @@
     "Deleted build: ": "Construcción borrada: ",
     "Refresh Builds": "Recargar construcciones",
     "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": "Construcción automatica esta en BЕТА! Algunos bloques no pueden ser guardados corretamente, por favor reporte bloques faltantes y errores en nuestro Discord",
-
+    "Auto Buy": "Comprar automaicamente",
+    "Chest Type": "Tipo de Cofre",
+    "Bought %s chest(s).": "%s cofre(s) comprados",
+    "Failed to buy chest(s).": "Falla en comprar cofres"
+    "Build Saving [BETA]": "Guardado de Construccion [BETA]",
     
     "Ladder Speed": "Velocidad de escalada",
     "Enable Jump": "Activar salto",
