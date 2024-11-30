@@ -526,6 +526,15 @@
     "Failed to cast fishing rod.": "Fallo en lanzar vara de pescar.",
     "Stopped.": "Parado.",
 
+    "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "ADVERTENCIA! Tu ejecutador no soporta la funcion de 'require'. Algunos datos pueden estar desactualizados",
+    "Loading location data...": "Buscando datos de la localizacion",
+    "Searching for a fishing rod...": "Buscando por una caña de pescar",
+    "Casting the fishing rod...": "Lanzando la caña de pescar..",
+    "Failed to cast the fishing rod, retrying...": "Fallo en lanzar la caña de pescar",
+    "Resuming Auto Fish...": "Reanundando la pesca automatica",
+    "Auto Fish stopped.": "Pesca automatica parada",
+    "Auto Buy": "Comprar automaticamente",
+
     "Auto Shake": "Аuto Agitacion",
     "Auto Shake Mode": "Modo de Agitacion Automática",
     "Close chat and enable screenshot mode (top right camera button) for this to work all the time.": "Cierre el chat y activa modo de foto (arriba en la derecha boton de camara) para que esto funcione todo el tiempo.",
