@@ -104,6 +104,11 @@
     "Refresh Builds": "Обновить постройки",
     "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": "Автостроение в настоящее время находится на стадии БЕТА! Некоторые блоки могут быть сохранены неправильно. Будьте другом и сообщите о проблеме на нашем сервере Discord.",
 
+	"Auto Buy": "Автопокупка",
+	"Chest Type": "Тип сундука",
+	"Bought %s chest(s).": "Куплено %s сундук(ов).",
+	"Failed to buy chest(s).": "Не удалось купить сундук(и).",
+	"Build Saving [BETA]": "Сохранение сборки [БЕТА]",
     
     "Ladder Speed": "Скорость лестницы",
     "Enable Jump": "Включить прыжок",
@@ -158,7 +163,7 @@
     "Bed": "Кровать",
     "Guidance": "Свет-указатель",
     "[Opened]": "[Открыто]",
-    "[Locked]": "[Заблокировано]",
+    "[Locked]": "[Заперто]",
     "Gate": "Ворота",
     "Lever": "Рычаг",
 
