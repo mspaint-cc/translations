@@ -103,7 +103,11 @@
     "Deleted build: ": "已刪除建築物: ",
     "Refresh Builds": "刷新建築物",
     "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": "自動建造仍在測試版！有些方塊可能無法正常保存，請將這些現象報告至官方Discord服務器！",
-
+    "Auto Buy": "自動購買",
+    "Chest Type": "箱子類型",
+    "Bought %s chest(s).": "已購買 &s 個箱子",
+    "Failed to buy chest(s).": "無法購買箱子（失敗）",
+    "Build Saving [BETA]": "自動保存建築[測試版]",
     
     "Ladder Speed": "爬梯子速度",
     "Enable Jump": "啓用跳躍",
