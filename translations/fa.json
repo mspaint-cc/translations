@@ -100,7 +100,7 @@
     "Build Saving [BETA]": "ذخیره کردن سازه(آزمایشی)",
     "Auto Buy": "خرید خودکار",
     "Chest Type": "نوع صندوق",
-    "Bought %s chest(s).": "این مقدار خریداری شد %s صندوق",
+    "Bought %s chest(s).": "صندوق با این مقدار طلا خریداری شد : %s",
     "Failed to buy chest(s).": "خریداری صندوق ها شکست خورد",
     "Save Player's Build": "ذخیره کردن سازه بازیکنِ",
     "Build with that name already exists!": "یک سازه با آن نام درحال حاضر وجود دارد",
@@ -124,7 +124,7 @@
     "Failed to delete build: ": "حذف کردن با شکست مواجه شد: ",
     "Deleted build: ": "سازه حذف شد: ",
     "Refresh Builds": "تازه سازی سازه ها",
-    "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": " ساخت خودکار در حال حاضر در حالت آزمایشی است، ممکن است بلاک ها به درستی ذخیره نشود،لطفا خظا هارا در سرور دیسکورد ما گزارش دهید",
+    "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": "ساخت خودکار در حال حاضر در حالت آزمایشی است، ممکن است بلاک ها به درستی ذخیره نشود",
 
    
     "Ladder Speed": "سرعت بالا یا پایین امدن از نرده بان",
@@ -643,9 +643,9 @@
 
    
     "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint]  اجرا کننده(اگزکیوتر) شما این از این پشتیبانی نمی کند، افزونه‌ها کار نمی کنند(FileSystem API).",
-    "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] Le dossier des addons n'existe pas. Création...",
-    "[mspaint] Loading addons...": "[mspaint] Chargement des addons...",
-    "[mspaint] Element '": "[mspaint] Élément '",
+    "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] پوشه افزونه ها وجود ندارد، درحال ساخت پوشه افزونه ها...",
+    "[mspaint] Loading addons...": "[mspaint] بارگیری افزونه ها...",
+    "[mspaint] Element '": "[mspaint] المنت '",
     "' didn't load: Invalid Linoria element.": "'بارگیری نشد' :اطلاعات نادرست لینوریا",
     "' didn't load: Invalid data.": "'بارگیری نشد:' اطلاعات نادرست است",
     "' didn't load: Invalid name.": "'بارگیری نشد:' نام نادرست است",
@@ -663,6 +663,13 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "Invalid 'Game' variable (expected 'string/table' got '",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' didn't load: Invalid 'Game' variable (expected 'string/table' got '",
     "[mspaint] Failed to load addon '": "[mspaint] بارگیری افزونه‌ با شکست مواجه شد '",
-    "Failed to load this addon:": "بارگیری افزونه‌ با شکست مواجه شد :" 
+    "Failed to load this addon:": "بارگیری افزونه‌ با شکست مواجه شد :" ,
+    "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "هشدار!!،اجرا کننده(اگزکیوتر) شما از Require ساپورت نمی کند. ممکن است بعضی از قابلیت ها قدیمی باشند.",
+    "Loading location data...": "بارگیری داده های مناطق",
+    "Searching for a fishing rod...": "جستوجو کردم برای پیدا کردن چوب ماهیگیری...",
+    "Casting the fishing rod...": "پرتاب کردن چوب ماهیگیری...",
+    "Failed to cast the fishing rod, retrying...": "پرتاب چوب ماهیگیری شکست خود، تلاش مجدد...",
+    "Resuming Auto Fish...": "ادامه دادن ماهیگیری خودکار",
+    "Auto Fish stopped.": "ماهیگیری خودکار از کار افتاد."
 
 }
