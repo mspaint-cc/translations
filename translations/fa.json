@@ -666,7 +666,7 @@
     "Failed to load this addon:": "بارگیری افزونه‌ با شکست مواجه شد :" ,
     "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "هشدار!!،اجرا کننده(اگزکیوتر) شما از Require ساپورت نمی کند. ممکن است بعضی از قابلیت ها قدیمی باشند.",
     "Loading location data...": "بارگیری داده های مناطق",
-    "Searching for a fishing rod...": "جستوجو کردم برای پیدا کردن چوب ماهیگیری...",
+    "Searching for a fishing rod...": "جستوجو کردن برای پیدا کردن چوب ماهیگیری...",
     "Casting the fishing rod...": "پرتاب کردن چوب ماهیگیری...",
     "Failed to cast the fishing rod, retrying...": "پرتاب چوب ماهیگیری شکست خورد، تلاش مجدد...",
     "Resuming Auto Fish...": "ادامه دادن ماهیگیری خودکار",
