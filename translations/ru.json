@@ -464,6 +464,52 @@
     "Testing Discord Notification...": "Протестировать уведомления Discord...",
     "Test": "Тест",
     "Test message.": "Тестовое сообщение.",
+
+	"WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "ВНИМАНИЕ! Ваш чит не поддерживает функцию 'require'. Некоторые данные могут быть устаревшими.",
+	"Loading location data...": "Загрузка данных о местоположении...",
+	"Searching for a fishing rod...": "Поиск удочки...",
+	"Casting the fishing rod...": "Заброс удочки...",
+	"Failed to cast the fishing rod, retrying...": "Не удалось забросить удочку, повторная попытка...",
+	"Resuming Auto Fish...": "Возобновление авто рыбной ловли...",
+	"Auto Fish stopped.": "Авто рыбная ловля остановлена.",
+
+	"Info": "Информация",
+	"Menu Keybind": "Меню клавишь",
+	
+	"Infinite Jetpack Duration": "Бесконечная длительность реактивного ранца",
+	"Motor Modification": "Модификация мотора",
+	"Enable Motor Modifications": "Включить модификации мотора",
+	"Motor Speed": "Скорость мотора",
+	"Motor Turning Speed": "Скорость поворота мотора",
+	
+	"Waiting for Fisch to load.": "Ожидание загрузки Fisch.",
+	
+	"Select a custom location first.": "Сначала выберите пользовательское местоположение.",
+	
+	"Auto Fish Settings": "Настройки авто рыбной ловли",
+	"Auto Treasure Map": "Авто карта сокровищ",
+	"Auto Repair": "Авто ремонт",
+	"Repair Current Maps": "Ремонт текущих карт",
+	"Done.": "Готово.",
+	"Waiting for Auto Treasure Map to finish...": "Ожидание завершения авто карты сокровищ...",
+	"Paused due to Auto Treasure Map.": "Приостановлено из-за авто карты сокровищ",
+	"[Fisch] Auto Treasure Map - Repair.": "[Fisch] Авто карта сокровищ - Ремонт",
+	"Successfully repaired a new Treasure Map!": "Успешно отремонтирована новая карта сокровищ!",
+	
+	"[Fisch] Auto Treasure Map - Claimed.": "[Fisch] Авто карта сокровищ - Получено.",
+	"Successfully claimed a Treasure Map!": "Успешно получена карта сокровищ!",
+	"Failed to claimed a Treasure Map. Not enough money.": "Не удалось получить карту сокровищ. Недостаточно денег.",
+	
+	"Failed to find the boat's spawn event.": "Не удалось найти событие появления лодки",
+	"Failed to load the boat's data.": "Не удалось загрузить данные лодки",
+	"Failed to find the despawn button.": "Не удалось найти кнопку исчезновения",
+	"Failed to open the Shipwright UI.": "Не удалось открыть интерфейс корабела",
+	"Please interact with the NPC.": "Пожалуйста, взаимодействуйте с NPC",
+	"Disable Auto Cast first.": "Сначала отключите авто заброс",
+	"Failed to find the NPC, retrying with teleport...": "Не удалось найти NPC, повторная попытка с использованием телепорта...",
+	"Failed to find the the NPC.": "Не удалось найти NPC",
+	"Interacting with the NPC...": "Взаимодействие с NPC...",
+	"You don't have the Treasure Map equipped.": "Вы не держите карту сокровищ в руках",
     
     "Custom Locations": "Индивидуальные локации",
     "Custom Location Name": "Название индивидуальных локаций",
