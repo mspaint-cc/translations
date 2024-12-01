@@ -1,6 +1,6 @@
 {
    
-    "mspaint": "mspaint (FA)",
+    "mspaint": "mspaint (فارسی - Fa)",
 
     "Main": "اصلی",
     "Exploits": "تقلب ها",
@@ -22,7 +22,7 @@
     "Farm": "فارم کردن",
 
 
-    "Loading data...": "...بالا آوردن اطلاعات",
+    "Loading data...": "بارگیری داده ها...",
     "Settings": "تنظیمات",
 
     
@@ -109,11 +109,11 @@
     "Build data loaded, building...\n  Version: %s\nBlocks: %s": "داده های سازه بارگیری شده اند ...\n  نسخه: %s\nبلاکها: %s",
     "Invalid color for '%s'": "رنگ اشتباه برای '%s'",
     "Setting %s colors...": "قرار دادن %s رنگ ها...",
-    "You don't have the painting tool. Can't set the block's color.": "شما ابزار نقاشی(رنگ آمیزی) را ندارید. نمیتوان رنگ بلاک را انتخاب کرد",
+    "You don't have the painting tool. Can't set the block's color.": "شما ابزار نقاشی(رنگ آمیزی) را ندارید. نمی توان رنگ بلاک را انتخاب کرد",
     "Setting '%s' property.": "تنظیم کردن اطلاعات '%s'.",
     "You don't have the properties tool. Can't set the block's properties.": "شما پیچ گوشتی را خریداری نکرده اید. نمی توان تنظیمات بلاک را تغییر داد.",
     "Linking objects...": "وصل کردن اشیا به هم...",
-    "You don't have the bind tool. Can't link blocks together.": "شما آچر را خریداری نکرده اید. نمیتوان بلاک ها را به هم متصل کرد.",
+    "You don't have the bind tool. Can't link blocks together.": "شما آچر را خریداری نکرده اید. نمی توان بلاک ها را به هم متصل کرد.",
     "Build was force stopped.": "ساخت متوقف شد.",
     "Failed to load a part of your build! Check Developer Console for more information.": "ساخت با شکست مواجه شد زیرا قسمتی از ساخت بارگیری نشد بود.",
     "Build loaded successfully!": "سازه با موفقیت بارگیری شد!",
@@ -172,7 +172,7 @@
     "Electrical Key": "کلید اتاق برق",
     "Gate Lever": "اهرم دروازه",
     "Book": "کتاب",
-    "Breaker": " فیوز(برای در 100)",
+    "Breaker": "فیوز",
     "Generator": "ژنراتور",
     "Gate Power Button": "دکمه در آهنی",
     "Fuse": "فیوز",
@@ -605,7 +605,7 @@
     "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] بارگیری متوقف شده است. (خطا: درحال بارگیری)",
     "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] بارگیری متوقف شد. (خطا: از قبل بارگیری شده است)",
     "No message today... 😢": "هیج پیامی برای امروز نیست... 😢",
-    "MOTD: %s": ":پیام روز %s",
+    "MOTD: %s": " : پیام روز %s",
 
    
     "Lifetime": "مادام العمر",
@@ -620,9 +620,9 @@
     "Unloaded!": "غیر فعال شد!",
     "UI Settings": "تنظیمات رابط کاربری",
     "Credits": "سپاس از",
-    "Execute On Teleport": "اجرای مجدد هنگام ورود به بازی دیگر",
+    "Execute On Teleport": "اجرای مجدد خودکار هنگام ورود به بازی دیگر",
     "Open Keybind Menu": "کنترل ها",
-    "Custom Cursor": "مکان نمای خاص",
+    "Custom Cursor": "مکان نمای موس خاص",
     "Menu bind": "منوی کنترل",
     "Join Discord": "جوین شدن در سرور دیسکورد",
     "Copy Link": "کپی لینک",
@@ -664,7 +664,7 @@
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' didn't load: Invalid 'Game' variable (expected 'string/table' got '",
     "[mspaint] Failed to load addon '": "[mspaint] بارگیری افزونه‌ با شکست مواجه شد '",
     "Failed to load this addon:": "بارگیری افزونه‌ با شکست مواجه شد :" ,
-    "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "هشدار!!،اجرا کننده(اگزکیوتر) شما از Require ساپورت نمی کند. ممکن است بعضی از قابلیت ها قدیمی باشند.",
+    "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "هشدار!!، اجراکننده(اگزکیوتر) شما از این پشتیبانی نمی کند، ممکن است بعضی از داده ها قدیمی باشند (Require).",
     "Loading location data...": "بارگیری داده های مناطق",
     "Searching for a fishing rod...": "جستوجو کردن برای پیدا کردن چوب ماهیگیری...",
     "Casting the fishing rod...": "پرتاب کردن چوب ماهیگیری...",
