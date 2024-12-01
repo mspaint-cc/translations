@@ -670,6 +670,43 @@
     "Casting the fishing rod...": "پرتاب کردن چوب ماهیگیری...",
     "Failed to cast the fishing rod, retrying...": "پرتاب چوب ماهیگیری شکست خورد، تلاش مجدد...",
     "Resuming Auto Fish...": "ادامه دادن ماهیگیری خودکار",
-    "Auto Fish stopped.": "ماهیگیری خودکار از کار افتاد."
+    "Auto Fish stopped.": "ماهیگیری خودکار از کار افتاد.",
+   "Info": "اطلاعات",
+"Menu Keybind": "منوی کنترل",
+
+"Infinite Jetpack Duration": "جت پک بینهایت",
+"Motor Modification": "تغییر سرعت موتور قایق",
+"Enable Motor Modifications": "فعال سازی تغییر سرعت موتور قایق",
+"Motor Speed": "سرعت موتور",
+"Motor Turning Speed": "سرعت چرخش موتور",
+
+"Waiting for Fisch to load.": "منتظر لود شدن بازی.",
+
+"Select a custom location first.": ".ابتدا یک مکان مشخص شده را انتخاب کنید",
+
+"Auto Fish Settings": "تنظیمات ماهیگیری خودکار",
+"Auto Treasure Map": "نقشه گنج خودکار",
+"Auto Repair": "تعمیر خودکار",
+"Repair Current Maps": "تعمیر نقشه های فعلی",
+"Done.": "انجام شد.",
+"Waiting for Auto Treasure Map to finish...": "منتظر ماندن برای نقشه گنج خودکار که تمام شود...",
+"Paused due to Auto Treasure Map.": "متوقف شدن به دلیل روشن بودن نقشه گنج خودکار.",
+"[Fisch] Auto Treasure Map - Repair.": "[Fisch] نقشه گنج خودکار - تعمیر",
+"Successfully repaired a new Treasure Map!": "با موفقیت یک نقشه گنج جدید تعمیر شد!",
+
+"[Fisch] Auto Treasure Map - Claimed.": "[Fisch] نقشه گنج خودکار - دریافت شد.",
+"Successfully claimed a Treasure Map!": "با موفقیت یک نقشه گنچ دریافت شد!",
+"Failed to claimed a Treasure Map. Not enough money.": "دریافت کردن نقشه گنج شکست خورد، پول کافی ندارید.",
+
+"Failed to find the boat's spawn event.": "پیدا کردن نقطه احضار قایق شکست خورد.",
+"Failed to load the boat's data.": "بارگیری داده قایق شکست خورد.",
+"Failed to find the despawn button.": "دکمه از بین بردن قایق پیدا نشد.",
+"Failed to open the Shipwright UI.": "باز کردن صفحه خرید قایق شکست خورد.",
+"Please interact with the NPC.": "لطفا با شخصیت غیر قابل بازی ارتباط برقرار کنید.",
+"Disable Auto Fish first.": "ابتدا ماهیگیری خودکار را غیرفعال کنید.",
+"Failed to find the NPC, retrying with teleport...": "پیدا کردن شخصیت غیر قابل بازی شکست خورد، تلاش مجدد با استفاده از تلپورت...",
+"Failed to find the the NPC.": "شخصیت غیر قابل بازی پیدا نشد.",
+"Interacting with the NPC...": "...در حال برقراری ارتباط با شخصیت غیر قابل بازی",
+"You don't have the Treasure Map equipped.": "شما نقشه گنج را در دست خود انتخاب نکرده اید.",
 
 }
