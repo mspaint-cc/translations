@@ -597,4 +597,42 @@
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' wurde nicht geladen: Ungültige 'Game'-Variable (erwartet 'string/table' erhalten '",
     "[mspaint] Failed to load addon '": "[mspaint] Fehler beim Laden des Addons '",
     "Failed to load this addon:": "Fehler beim Laden dieses Addons:"
+
+    "Info": "Info",
+    "Menu Keybind": "Tastenmenü",
+
+    "Infinite Jetpack Duration": "Unendliche Jetpack-Dauer",
+    "Motor Modification": "Motor Modifikation",
+    "Enable Motor Modifications": "Motor Modifikationen aktivieren",
+    "Motor Speed": "Motorgeschwindigkeit",
+    "Motor Turning Speed": "Motorwendegeschwindigkeit",
+
+    "Waiting for Fisch to load.": "Warten auf das Laden von Fisch",
+
+    "Select a custom location first.": "Wählen Sie zuerst einen benutzerdefinierten Standort aus",
+
+    "Auto Fish Settings": "Auto Fish Einstellungen",
+    "Auto Treasure Map": "Automatische Schatzkarte",
+    "Auto Repair": "Automatische Reparatur",
+    "Repair Current Maps": "Aktuelle Karten reparieren",
+    "Done.": "Erledigt",
+    "Waiting for Auto Treasure Map to finish...": "Warten auf Auto Schatzkarte zu beenden...",
+    "Paused due to Auto Treasure Map.": "Pausiert wegen Auto Schatzkarte",
+    "[Fisch] Auto Treasure Map - Repair.": "[Fisch] Automatische Schatzkarte - Reparatur.",
+    "Successfully repaired a new Treasure Map!": "Erfolgreich eine neue Schatzkarte repariet!",
+
+    "[Fisch] Auto Treasure Map - Claimed.": "[Fisch] Auto Schatzkarte - Beansprucht",
+    "Successfully claimed a Treasure Map!": "Erfolgreich eine Schatzkarte beansprucht!",
+    "Failed to claimed a Treasure Map. Not enough money.": "Schatzkarte konnte nicht beansprucht werden. Nicht genug Geld",
+
+    "Failed to find the boat's spawn event.": "Boots Spawnereignis nicht gefunden",
+    "Failed to load the boat's data.": "Bootsdaten konnten nicht geladen werden",
+    "Failed to find the despawn button.": "Entfernungsknopf nicht gefunden",
+    "Failed to open the Shipwright UI.": "Öffnung von Shipwright UI fehlgeschlagen.",
+    "Please interact with the NPC.": "Bitte interagieren Sie mit dem NPC",
+    "Disable Auto Fish first.": "Deaktivieren Sie zuerst Auto Fish.",
+    "Failed to find the NPC, retrying with teleport...": "NPC konnte nicht gefunden werden, versuche es erneut mit Teleport...",
+    "Failed to find the the NPC.": "NPC konnte nicht gefunden werden",
+    "Interacting with the NPC...": "Interagiere mit dem NPC...",
+    "You don't have the Treasure Map equipped.": "Sie haben die Schatzkarte nicht ausgerüstet.",
 }
