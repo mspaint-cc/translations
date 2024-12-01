@@ -149,9 +149,9 @@
     "Auto Breaker Solver Method": "解锁方法",
     "Auto Breaker Box": "自动断路器解锁",
 
-    "Auto Anchor Solver": "Auto résolution de l'ancre",
-    "Solved Anchor %s successfully!": "L'ancre %s a été résolue avec succès!",
-    "Solved anchor with the code ": "L'ancre a été résolue avec le code ",
+    "Auto Anchor Solver": "自动密码机",
+    "Solved Anchor %s successfully!": "成功解开 %s 密码机!",
+    "Solved anchor with the code ": "成功使用密码解开密码机",
 
     "Revive": "复活",
     "Play Again": "重开",
