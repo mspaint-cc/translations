@@ -335,7 +335,7 @@
 "Interacting with the NPC...": "NPC-мен байланыс жасалып жатыр...",
 "You don't have the Treasure Map equipped.": "Қазына картасы жабдықталмаған.",
 "Get All Badges": "Барлық белгілерді алу",
-"Open Door": "Есік ашу",
+"Open Door": "Есіктi ашу",
 "Open Slide Door": "Сырғымалы есікті ашу",
 "Open Lever Door": "Тұтқалы есікті ашу",
 "Open Vault": "Қойманы ашу",
@@ -347,5 +347,5 @@
 "Disable Elkman": "Бұғы адамды өшіру",
 "Disable Sarrow": "Сарроуды өшіру",
 "Disable Dozer": "Дозерді өшіру",
-"Disable Goatman": "Ешкі адамды өшіру",
+"Disable Goatman": "Ешкі адамды Өшіру",
 }
