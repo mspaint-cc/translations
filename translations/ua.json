@@ -565,7 +565,6 @@
    "Failed to find the despawn button.":"Не вдалося знайти кнопку деспауна.",
    "Failed to open the Shipwright UI.":"Failed to open the Shipwright UI.",
    "Please interact with the NPC.":"Будь ласка, взаємодійте з NPC.",
-   "Disable Auto Cast first.":"Спочатку вимкніть автокидок.",
    "Failed to find the NPC, retrying with teleport...":"Не вдалося знайти NPC, повторна спроба з телепортом...",
    "Failed to find the the NPC.":"Не вдалося знайти NPC.",
    "Interacting with the NPC...":"Взаємодія з NPC...",
@@ -583,5 +582,5 @@
    "Disable Elkman": "Вимкнути Elkman",
    "Disable Sarrow": "Вимкнути Sarrow",
    "Disable Dozer": "Вимкнути Dozer",
-   "Disable Goatman": "Вимкнути Goatman",
+   "Disable Goatman": "Вимкнути Goatman"
 }
