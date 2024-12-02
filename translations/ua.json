@@ -575,5 +575,13 @@
    "Open Slide Door": "Відкрийти розсувні двері",
    "Open Lever Door": "Відкрийте двері важеля",
    "Open Vault": "Відкрити сховище",
-   "Open Distance": "Дистанція відкриття"
+   "Open Distance": "Дистанція відкриття",
+   "Disable Kill Client Remote": "Вимкнути Kill Client Remote",
+   "Disable Carnation": "Вимкнути Carnation",
+   "Disable Slight & Heed Damage": "Вимкнути легкі та чутливі пошкодження",
+   "Disable Slugfish": "Вимкнути Slugfish",
+   "Disable Elkman": "Вимкнути Elkman",
+   "Disable Sarrow": "Вимкнути Sarrow",
+   "Disable Dozer": "Вимкнути Dozer",
+   "Disable Goatman": "Вимкнути Goatman",
 }
