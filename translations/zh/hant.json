@@ -633,4 +633,42 @@
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' 未加載：無效的 'Game' 變量（預期爲 'string/table'，但得到 '",
     "[mspaint] Failed to load addon '": "[mspaint] 加載插件 ' 失敗",
     "Failed to load this addon:": "加載此插件失敗："
+
+    "Info": "信息",
+    "Menu Keybind": "菜單熱鍵",
+
+    "Infinite Jetpack Duration": "無限噴氣背包時常",
+    "Motor Modification": "發動機附加",
+    "Enable Motor Modifications": "啓用發動機附加",
+    "Motor Speed": "發動機速度",
+    "Motor Turning Speed": "發動機旋轉速度",
+
+    "Waiting for Fisch to load.": "等待Fisch加載完畢.",
+
+    "Select a custom location first.": "選擇壹個自定義位置先.",
+
+    "Auto Fish Settings": "自動釣魚設置",
+    "Auto Treasure Map": "自動藏寶圖",
+    "Auto Repair": "自動修複",
+    "Repair Current Maps": "修複目前所有圖",
+    "Done.": "完成。",
+    "Waiting for Auto Treasure Map to finish...": "等待自動藏寶圖解釋",
+    "Paused due to Auto Treasure Map.": "因自動藏寶圖而暫停。",
+    "[Fisch] Auto Treasure Map - Repair.": "[Fisch] 自動藏寶圖 - 修複",
+    "Successfully repaired a new Treasure Map!": "成功修複藏寶圖!",
+
+    "[Fisch] Auto Treasure Map - Claimed.": "[Fisch] 自動藏寶圖 - 已領取",
+    "Successfully claimed a Treasure Map!": "",
+    "Failed to claimed a Treasure Map. Not enough money.": "無法領取藏寶圖。錢不夠。",
+
+    "Failed to find the boat's spawn event.": "無法找到船的生成點",
+    "Failed to load the boat's data.": "無法加載船的數據",
+    "Failed to find the despawn button.": "無法找到刷新按鈕",
+    "Failed to open the Shipwright UI.": "無法打開生成UI",
+    "Please interact with the NPC.": "請跟NPC互動",
+    "Disable Auto Fish first.": "先把自動釣魚關了",
+    "Failed to find the NPC, retrying with teleport...": "尋找NPC失敗，重試中...",
+    "Failed to find the the NPC.": "無法找到NPC",
+    "Interacting with the NPC...": "跟NPC互動中...",
+    "You don't have the Treasure Map equipped.": "妳沒有在拿藏寶圖",
 }
