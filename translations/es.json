@@ -102,7 +102,6 @@
     "Deleted build: ": "Construcción borrada: ",
     "Refresh Builds": "Recargar construcciones",
     "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": "Construcción automatica esta en BЕТА! Algunos bloques no pueden ser guardados corretamente, por favor reporte bloques faltantes y errores en nuestro Discord",
-    "Auto Buy": "Comprar automaticamente",
     "Chest Type": "Tipo de Cofre",
     "Bought %s chest(s).": "%s cofre(s) comprados",
     "Failed to buy chest(s).": "Falla en comprar cofres",
@@ -624,7 +623,8 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "Variable 'Juego' no valido (esperado 'string/table' fue '",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' no cargado: Variable 'Juego' no valido (esperado 'string/table' fue '",
     "[mspaint] Failed to load addon '": "[mspaint] Fallo en cargar el addon. '",
-    "Failed to load this addon:": "Fallo en cargar el addon:"
+    "Failed to load this addon:": "Fallo en cargar el addon:",
+
     "Info": "Informacion",
     "Menu Keybind": "Menu de combinacion de teclas",
 
@@ -646,7 +646,7 @@
     "Waiting for Auto Treasure Map to finish...": "Esperando a que mapa del tesoro automatico termine...",
     "Paused due to Auto Treasure Map.": "Pausado debido a mapa de tesoro automatico",
     "[Fisch] Auto Treasure Map - Repair.": "[Fisch] Mapa de tesoro automatico - reparar",
-    "Successfully repaired a new Treasure Map!": "Reparo del mapa de tesoro ha sido con exito"
+    "Successfully repaired a new Treasure Map!": "Reparo del mapa de tesoro ha sido con exito",
     "[Fisch] Auto Treasure Map - Claimed.": "[Fisch] Mapa de tesoro automatico - Reclamado",
     "Successfully claimed a Treasure Map!": "Reclamacion del mapa de tesoro ha sido con exito!",
     "Failed to claimed a Treasure Map. Not enough money.": "Fallo en reclamar un mapa del tesoro. No tienes sufieciente dinero",
@@ -675,6 +675,6 @@
     "Disable Sarrow": "Desactivar Sarrow",
     "Disable Dozer": "Desactivar Dozer",
     "Disable Goatman": "Desactivar Goatman",
-    "One crab cage costs 45C$.": "Una jaula de cangrejo cuesta 45C$"
-    "Failed to fetch %s, please make a bug report!": "No se ha podido obtener %s, ¡por favor haz un informe de error!",
+    "One crab cage costs 45C$.": "Una jaula de cangrejo cuesta 45C$",
+    "Failed to fetch %s, please make a bug report!": "No se ha podido obtener %s, ¡por favor haz un informe de error!"
 }
