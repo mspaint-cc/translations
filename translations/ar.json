@@ -516,6 +516,8 @@
    "Unpausing...":"جاري الغاء الإيقاف المؤقت...",
    "Perfect Reel Chance":"فرصت البكرة المثالية",
    "Failed to cast fishing rod.":"فشل قذف سنارة الصيد.",
+   "One crab cage costs 45C$.": "45C$ قفص سلطعون واحد بمبلغ .",
+   "Failed to fetch %s, please make a bug report!": "فشل جلب %s، يرجى تقديم تقرير بالأخطاء!",
    "Stopped.":"توقف.",
    "Auto Shake":"هز تلقائي",
    "Auto Shake Mode":"وضع الهز التلقائي",
