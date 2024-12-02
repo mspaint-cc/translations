@@ -565,7 +565,7 @@
     "Restart mspaint to apply language changes.": "Перезапустите mspaint, чтобы применить изменения языка.",
 
     
-    "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Ваш эксекутор не поддерживает API файловой системы. Аддоны не будут работать.",
+    "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Ваш чит(инжектор) не поддерживает API файловой системы. Аддоны не будут работать.",
     "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] Папка Addons не существует. Создание...",
     "[mspaint] Loading addons...": "[mspaint] Загрузка addons...",
     "[mspaint] Element '": "[mspaint] Элемент '",
@@ -592,8 +592,8 @@
 	"Location": "Локация",
 	"Only works with Exploit Mode.": "Работает только в режиме Exploit.",
 	"Enable Location": "Включить локацию",
-	"Minimum Throw Power": "Минимальная сила броска",
-	"Maximum Throw Power": "Максимальная сила броска",
+	"Minimum Throw Power": "Мин. сила броска",
+	"Maximum Throw Power": "Макс. сила броска",
 	"Appraise fish (450C$)": "Оценить рыбу (450C$)",
 	"Disable Oxygen": "Отключить кислород",
 	"You will not drown in the water.": "Вы не утонете в воде.",
@@ -616,7 +616,7 @@
 	"Failed to buy chest(s).": "Не удалось купить сундук(и).",
 	"Build Saving [BETA]": "Сохранение построек [BETA]",
 
-	"WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "ВНИМАНИЕ! Ваш исполнитель не поддерживает функцию 'require'. Некоторые данные могут быть устаревшими.",
+	"WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "ВНИМАНИЕ! Ваш чит(инжектор) не поддерживает функцию 'require'. Некоторые данные могут быть устаревшими.",
 	"Loading location data...": "Загрузка данных локации...",
 	"Searching for a fishing rod...": "Поиск удочки...",
 	"Casting the fishing rod...": "Заброс удочки...",
@@ -624,7 +624,7 @@
 	"Resuming Auto Fish...": "Возобновление автоматической рыбалки...",
 	"Auto Fish stopped.": "Автоматическая рыбалка остановлена.",
 	"Info": "Информация",
-	"Menu Keybind": "Клавиша меню",
+	"Menu Keybind": "Меню клавиш",
 	
 	"Infinite Jetpack Duration": "Бесконечная длительность джетпака",
 	"Motor Modification": "Модификация мотора",
@@ -639,7 +639,7 @@
 	"Auto Fish Settings": "Настройки автоматической рыбалки",
 	"Auto Treasure Map": "Автокарта сокровищ",
 	"Auto Repair": "Автоматический ремонт",
-	"Repair Current Maps": "Ремонт текущих карт",
+	"Repair Current Maps": "Ремонтировать текущие карты",
 	"Done.": "Готово.",
 	"Waiting for Auto Treasure Map to finish...": "Ожидание завершения автокарты сокровищ...",
 	"Paused due to Auto Treasure Map.": "Приостановлено из-за автокарты сокровищ.",
@@ -660,12 +660,22 @@
 	"Failed to find the the NPC.": "Не удалось найти NPC.",
 	"Interacting with the NPC...": "Взаимодействие с NPC...",
 	"You don't have the Treasure Map equipped.": "У вас не экипирована карта сокровищ.",
-	"Get All Badges": "Получить все значки",
+	"Get All Badges": "Получить все ачивки",
 	"Open Door": "Открыть дверь",
 	"Open Slide Door": "Открыть раздвижную дверь",
 	"Open Lever Door": "Открыть дверь с рычагом",
 	"Open Vault": "Открыть хранилище",
 	"Open Distance": "Дистанция открытия",
 	"One crab cage costs 45C$.": "Одна клетка для крабов стоит 45C$.",
-	"Failed to fetch %s, please make a bug report!": "Не удалось получить %s, пожалуйста, отправьте отчет об ошибке!"
+	"Failed to fetch %s, please make a bug report!": "Не удалось получить %s, пожалуйста, отправьте отчет об ошибке!",
+
+	"Disable Kill Client Remote": "Отключить \"удаленное убийство клиента\"",
+	"Disable Carnation": "Анти-Carnation",
+	"Disable Slight & Heed Damage": "Анти- Slight & Heed Damage",
+	"Disable Slugfish": "Анти-Slugfish",
+	"Disable Elkman": "Анти-Elkman",
+	"Disable Sarrow": "Анти-Sarrow",
+	"Disable Dozer": "Анти-Dozer",
+	"Disable Goatman": "Анти-Goatman"
+
 }
