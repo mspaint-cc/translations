@@ -637,9 +637,8 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "无效的 'Game' 变量（预期为 'string/table'，但得到 '",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' 未加载：无效的 'Game' 变量（预期为 'string/table'，但得到 '",
     "[mspaint] Failed to load addon '": "[mspaint] 加载插件 ' 失败",
-    "Failed to load this addon:": "加载此插件失败："
+    "Failed to load this addon:": "加载此插件失败：",
 
-    "Info": "信息",
     "Menu Keybind": "菜单热键",
 
     "Infinite Jetpack Duration": "无限喷气背包时常",
@@ -691,6 +690,5 @@
     "Disable Elkman": "无视Elkman",
     "Disable Sarrow": "无视Sarrow",
     "Disable Dozer": "无视Dozer",
-    "Disable Goatman": "无视Goatman",
-
+    "Disable Goatman": "无视Goatman"
 }
