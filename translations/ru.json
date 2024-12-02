@@ -103,12 +103,6 @@
     "Deleted build: ": "Удалена постройка: ",
     "Refresh Builds": "Обновить постройки",
     "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": "Автостроение в настоящее время находится на стадии БЕТА! Некоторые блоки могут быть сохранены неправильно. Будьте другом и сообщите о проблеме на нашем сервере Discord.",
-
-	"Auto Buy": "Автопокупка",
-	"Chest Type": "Тип сундука",
-	"Bought %s chest(s).": "Куплено %s сундук(ов).",
-	"Failed to buy chest(s).": "Не удалось купить сундук(и).",
-	"Build Saving [BETA]": "Сохранение сборки [БЕТА]",
     
     "Ladder Speed": "Скорость лестницы",
     "Enable Jump": "Включить прыжок",
@@ -278,7 +272,6 @@
     "Minecart Teleport": "Телепортация вагонетки",
     "Minecart Teleport Debug": "Дебаг телепортация вагонетки",
     "Visualize Correct Seek Path": "Показать правильный путь seek",
-    "Path Type": "Тип визуализированного пути",
     "Minecart teleport is ready! Waiting for the minecart...": "Телепортация вагонетки готова! В ожидании вагонетки...",
     "Minecart teleport started. Enjoy the ride!": "Телепортация вагонетки началась. Наслаждайтесь поездкой!",
 
@@ -464,52 +457,7 @@
     "Testing Discord Notification...": "Протестировать уведомления Discord...",
     "Test": "Тест",
     "Test message.": "Тестовое сообщение.",
-
-	"WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "ВНИМАНИЕ! Ваш чит не поддерживает функцию 'require'. Некоторые данные могут быть устаревшими.",
-	"Loading location data...": "Загрузка данных о местоположении...",
-	"Searching for a fishing rod...": "Поиск удочки...",
-	"Casting the fishing rod...": "Заброс удочки...",
-	"Failed to cast the fishing rod, retrying...": "Не удалось забросить удочку, повторная попытка...",
-	"Resuming Auto Fish...": "Возобновление авто рыбной ловли...",
-	"Auto Fish stopped.": "Авто рыбная ловля остановлена.",
-
-	"Info": "Информация",
-	"Menu Keybind": "Меню клавишь",
-	
-	"Infinite Jetpack Duration": "Бесконечная длительность реактивного ранца",
-	"Motor Modification": "Модификация мотора",
-	"Enable Motor Modifications": "Включить модификации мотора",
-	"Motor Speed": "Скорость мотора",
-	"Motor Turning Speed": "Скорость поворота мотора",
-	
-	"Waiting for Fisch to load.": "Ожидание загрузки Fisch.",
-	
-	"Select a custom location first.": "Сначала выберите пользовательское местоположение.",
-	
-	"Auto Fish Settings": "Настройки авто рыбной ловли",
-	"Auto Treasure Map": "Авто карта сокровищ",
-	"Auto Repair": "Авто ремонт",
-	"Repair Current Maps": "Ремонт текущих карт",
-	"Done.": "Готово.",
-	"Waiting for Auto Treasure Map to finish...": "Ожидание завершения авто карты сокровищ...",
-	"Paused due to Auto Treasure Map.": "Приостановлено из-за авто карты сокровищ",
-	"[Fisch] Auto Treasure Map - Repair.": "[Fisch] Авто карта сокровищ - Ремонт",
-	"Successfully repaired a new Treasure Map!": "Успешно отремонтирована новая карта сокровищ!",
-	
-	"[Fisch] Auto Treasure Map - Claimed.": "[Fisch] Авто карта сокровищ - Получено.",
-	"Successfully claimed a Treasure Map!": "Успешно получена карта сокровищ!",
-	"Failed to claimed a Treasure Map. Not enough money.": "Не удалось получить карту сокровищ. Недостаточно денег.",
-	
-	"Failed to find the boat's spawn event.": "Не удалось найти событие появления лодки",
-	"Failed to load the boat's data.": "Не удалось загрузить данные лодки",
-	"Failed to find the despawn button.": "Не удалось найти кнопку исчезновения",
-	"Failed to open the Shipwright UI.": "Не удалось открыть интерфейс корабела",
-	"Please interact with the NPC.": "Пожалуйста, взаимодействуйте с NPC",
 	"Disable Auto Cast first.": "Сначала отключите авто заброс",
-	"Failed to find the NPC, retrying with teleport...": "Не удалось найти NPC, повторная попытка с использованием телепорта...",
-	"Failed to find the the NPC.": "Не удалось найти NPC",
-	"Interacting with the NPC...": "Взаимодействие с NPC...",
-	"You don't have the Treasure Map equipped.": "Вы не держите карту сокровищ в руках",
     
     "Custom Locations": "Индивидуальные локации",
     "Custom Location Name": "Название индивидуальных локаций",
@@ -539,30 +487,7 @@
 
     "Anchor Player": "Закрепить игрока",
     "Anchors you during Auto Casting.": "Закрепляет вас во время Auto Casting.",
-    "Perfect Reel Chance": "Шанс на идеальную намотку",
     "Auto Reel": "Авто Катушка",
-    "Auto Fish": "Авто Рыбалка",
-    "Mode": "Режим",
-    "Location": "Местоположение",
-    "Only works with Exploit Mode.": "Работает только в режиме 'Эксплойт'.",
-    "Enable Location": "Включить местоположение",
-    "Minimum Throw Power": "Мин сила броска",
-    "Maximum Throw Power": "Макс сила броска",
-    "Appraise fish (450C$)": "Оценить рыбу (450C$)",
-    "Disable Oxygen": "Отключить кислород",
-    "You will not drown in the water.": "Вы не утонете в воде.",
-    "Disable being afk.": "Отключить статус AFK",
-    "Jesus": "Ходьба по воде",
-    "You can walk on water.": "Вы можете ходить по воде.",
-    "Boats": "Лодки",
-    "Spawn and Teleport to Boat": "Создать и телепортироваться на лодку",
-    "Spawn Boat": "Создать лодку",
-    "Open Shipwright": "Открыть строитель лодок",
-    "Spawned Boats": "Созданные лодки",
-    "Teleport to Spawned Boat": "Телепортироваться к созданной лодке",
-    "Despawn Boats": "Убрать лодки",
-    "You don't have enough money.": "У вас недостаточно денег.",
-    "Disable Auto Cast first.": "Сначала отключите авто заброс.",
 
     "Auto Cast": "Auto Cast",
     "Auto Cast is already running...": "Auto Cast уже работает...",
@@ -683,7 +608,6 @@
 	"Teleport to Spawned Boat": "Телепортироваться к созданной лодке",
 	"Despawn Boats": "Убрать лодки",
 	"You don't have enough money.": "У вас недостаточно денег.",
-	"Disable Auto Cast first.": "Сначала отключите автоматический заброс.",
 	"Perfect Reel Chance": "Шанс идеального заброса",
 	"Path Type": "Тип маршрута",
 	"Auto Buy": "Автопокупка",
@@ -691,6 +615,7 @@
 	"Bought %s chest(s).": "Куплено %s сундук(ов).",
 	"Failed to buy chest(s).": "Не удалось купить сундук(и).",
 	"Build Saving [BETA]": "Сохранение построек [BETA]",
+
 	"WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "ВНИМАНИЕ! Ваш исполнитель не поддерживает функцию 'require'. Некоторые данные могут быть устаревшими.",
 	"Loading location data...": "Загрузка данных локации...",
 	"Searching for a fishing rod...": "Поиск удочки...",
@@ -743,5 +668,4 @@
 	"Open Distance": "Дистанция открытия",
 	"One crab cage costs 45C$.": "Одна клетка для крабов стоит 45C$.",
 	"Failed to fetch %s, please make a bug report!": "Не удалось получить %s, пожалуйста, отправьте отчет об ошибке!"
-
 }
