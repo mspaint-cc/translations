@@ -498,6 +498,13 @@
     "Auto Reel": "Automatizar Minijogo 'Reel'",
     "Perfect Reel Chance": "Chance de Perfeição do 'Reel'",
 
+    "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "AVISO! Seu executor não suporta a função 'require'. Seus dados podem estar desatualizados.",
+    "Loading location data...": "Carregando dados do Local",
+    "Searching for a fishing rod...": "Procurando por uma vara de pesca...",
+    "Casting the fishing rod...": "Arremesando a vara de pesca...",
+    "Failed to cast the fishing rod, retrying...": "Falha ao arremesar a vara de pesca, tentando novamente....",
+    "Resuming Auto Fish...": "Retomando Pesca Automática...",
+    "Auto Fish stopped.": "Pesca Automática foi pausada.",
     "Auto Fish": "Pescar Automaticamente",
     "Mode": "Modo",
     "Location": "Local",
