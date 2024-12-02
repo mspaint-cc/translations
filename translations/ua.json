@@ -569,5 +569,11 @@
    "Failed to find the NPC, retrying with teleport...":"Не вдалося знайти NPC, повторна спроба з телепортом...",
    "Failed to find the the NPC.":"Не вдалося знайти NPC.",
    "Interacting with the NPC...":"Взаємодія з NPC...",
-   "You don't have the Treasure Map equipped.":"У вас немає карти скарбів."
+   "You don't have the Treasure Map equipped.":"У вас немає карти скарбів.",
+   "Get All Badges": "Отримати всі досягнення",
+   "Open Door": "Відкрити двері",
+   "Open Slide Door": "Відкрийти розсувні двері",
+   "Open Lever Door": "Відкрийте двері важеля",
+   "Open Vault": "Відкрити сховище",
+   "Open Distance": "Дистанція відкриття"
 }
