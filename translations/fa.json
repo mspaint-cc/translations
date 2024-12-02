@@ -707,6 +707,19 @@
 "Failed to find the NPC, retrying with teleport...": "پیدا کردن شخصیت غیر قابل بازی شکست خورد، تلاش مجدد با استفاده از تلپورت...",
 "Failed to find the the NPC.": "شخصیت غیر قابل بازی پیدا نشد.",
 "Interacting with the NPC...": "...در حال برقراری ارتباط با شخصیت غیر قابل بازی",
-"You don't have the Treasure Map equipped.": "شما نقشه گنج را در دست خود انتخاب نکرده اید."
-
+"You don't have the Treasure Map equipped.": "شما نقشه گنج را در دست خود انتخاب نکرده اید.",
+"Get All Badges": "دریافت همه دستاورد ها",
+"Open Door": "باز کردن در خودکار",
+"Open Slide Door": "بازکردن در های کشویی خودکار ",
+"Open Lever Door": "باز کردن خودکار در اهرمی",
+"Open Vault": " باز کردن گنجینه ها",
+"Open Distance": "فاصله بازکردن در ها",
+"Disable Kill Client Remote": "",
+"Disable Slight & Heed Damage": "غیر فعال کردن Slight و آسیب های Heed",
+"Disable Slugfish": "غیرفعال کردن Slugfish",
+"Disable Elkman": "غیرفعال کردن Elkman",
+"Disable Sarrow": "غیرفعال کردن Sarrow",
+"Disable Dozer": "غیرفعال کردن Dozer",
+"Disable Goatman": "غیر فعال کردن Goatman",
+"Disable Carnation": "غیرفعال کردن Carnation"
 }
