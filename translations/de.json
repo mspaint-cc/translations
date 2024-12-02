@@ -596,7 +596,7 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "Ungültige 'Game'-Variable (erwartet 'string/table' erhalten '",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' wurde nicht geladen: Ungültige 'Game'-Variable (erwartet 'string/table' erhalten '",
     "[mspaint] Failed to load addon '": "[mspaint] Fehler beim Laden des Addons '",
-    "Failed to load this addon:": "Fehler beim Laden dieses Addons:"
+    "Failed to load this addon:": "Fehler beim Laden dieses Addons:",
 
     "Info": "Info",
     "Menu Keybind": "Tastenmenü",
@@ -634,5 +634,5 @@
     "Failed to find the NPC, retrying with teleport...": "NPC konnte nicht gefunden werden, versuche es erneut mit Teleport...",
     "Failed to find the the NPC.": "NPC konnte nicht gefunden werden",
     "Interacting with the NPC...": "Interagiere mit dem NPC...",
-    "You don't have the Treasure Map equipped.": "Sie haben die Schatzkarte nicht ausgerüstet.",
+    "You don't have the Treasure Map equipped.": "Sie haben die Schatzkarte nicht ausgerüstet."
 }
