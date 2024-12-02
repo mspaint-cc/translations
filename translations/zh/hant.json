@@ -677,4 +677,13 @@
     "Open Lever Door": "打開拉杆們",
     "Open Vault": "打開金庫",
     "Open Distance": "開啓距離",
+    
+    "Disable Kill Client Remote": "關閉客戶端遙控擊殺",
+    "Disable Carnation": "關閉Carnation",
+    "Disable Slight & Heed Damage": "無視輕微及注意損壞",
+    "Disable Slugfish": "無視SlugFish",
+    "Disable Elkman": "無視Elkman",
+    "Disable Sarrow": "無視Sarrow",
+    "Disable Dozer": "無視Dozer",
+    "Disable Goatman": "無視Goatman",
 }
