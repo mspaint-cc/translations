@@ -684,4 +684,13 @@
     "Open Vault": "打开金库",
     "Open Distance": "开启距离",
 
+    "Disable Kill Client Remote": "关闭客户端遥控击杀",
+    "Disable Carnation": "关闭Carnation",
+    "Disable Slight & Heed Damage": "无视轻微及注意损坏",
+    "Disable Slugfish": "无视SlugFish",
+    "Disable Elkman": "无视Elkman",
+    "Disable Sarrow": "无视Sarrow",
+    "Disable Dozer": "无视Dozer",
+    "Disable Goatman": "无视Goatman",
+
 }
