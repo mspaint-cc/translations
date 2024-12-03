@@ -102,6 +102,11 @@
     "Deleted build: ": "Bangunan dihapus: ",
     "Refresh Builds": "Muat Ulang Bangunan",
     "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": "Bangun Otomatis saat ini dalam kondisi BETA! Berberapa blok mungkin tidak disimpan secrara benar, mohon lapor blok yang tidak ada dan masalah di Discord kami",
+    "Auto Buy": "Beli Otomatis",
+    "Chest Type": "Tipe Peti",
+    "Bought %s chest(s).": "%s Peti dibeli",
+    "Failed to buy chest(s).": "Gagal membeli peti",
+    "Build Saving [BETA]": "Simpan Bangunan [BETA]",
 
     
     "Ladder Speed": "Kecepatan Tangga",
@@ -363,7 +368,9 @@
 
     "Failed to load preset: ": "Gagal memuat preset: ",
     "Loaded elevator preset: ": "Telah memuat preset elevator: ",
-    
+
+    "Path Type": "Tipe Jalur",
+
     
     "Throw Power Boost": "Dorongan Kekuatan Lempar",
     "Throw Power": "Kekuatan Lempar",
@@ -487,7 +494,6 @@
     "Anchors you during Auto Casting.": "Menjangkar pemain ketika .",
     
     "Auto Reel": "Gulung Otomaris",
-    
 
     "Auto Cast": "Cast Otomatis",
     "Auto Cast is already running...": "Cast Otomatis sudah berjalan...",
@@ -523,7 +529,98 @@
 
     "Sell Item in Hand": "Jual Item di Tangan",
     "Sell Inventory": "Jual Inventory",
-    
+
+    "Auto Fish": "Pancing Otomatis",
+    "Mode": "Mode",
+    "Location": "Lokasi",
+    "Only works with Exploit Mode.": "Hanya bekerja dengan Mode Exploitasi.",
+    "Enable Location": "Nyalakan Lokasi",
+    "Minimum Throw Power": "Kekuatan Lempar Minimum",
+    "Maximum Throw Power": "Kekuatan Lempar Maksimum",
+    "Appraise fish (450C$)": "Nilaikan Ikan (450C$)",
+    "Disable Oxygen": "Oksigen Tak Terbatas",
+    "You will not drown in the water.": "Anda tidak akan tenggelam di air.",
+    "Disable being afk.": "Matikan menjadi afk.",
+    "Jesus": "Yesus",
+    "You can walk on water.": "Anda bisa berjalan di air.",
+    "Boats": "Kapal-kapal",
+    "Spawn and Teleport to Boat": "Munculkan dan Teleportasi ke Kapal",
+    "Spawn Boat": "Munculkan Kapal",
+    "Open Shipwright": "Buka Shipwright",
+    "Spawned Boats": "Kapal yang sudah Dimunculkan",
+    "Teleport to Spawned Boat": "Teleportasi ke Kapal yang sudah Dimunculkan",
+    "Despawn Boats": "Hilangkan Kapal",
+    "You don't have enough money.": "Anda tidak memiliki uang yang cukup.",
+    "Disable Auto Cast first.": "Matikan Pancing Otomatis terlebih dahulu.",
+
+    "Perfect Reel Chance": "Kemungkinan Gulung Sempurna",
+
+    "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "PERHATIAN! Executor anda tidak mendukung fungsi 'require'. Berberapa data mungkin ketinggalan jaman",
+    "Loading location data...": "Memuat data lokasi...",
+    "Searching for a fishing rod...": "Mencari alat pancing...",
+    "Casting the fishing rod...": "Melempar pancing...",
+    "Failed to cast the fishing rod, retrying...": "Gagal melempar pancing, mencoba lagi...",
+    "Resuming Auto Fish...": "Melanjutkan Pancing Otomatis...",
+    "Auto Fish stopped.": "Pancing Otomatis dihentikan.",
+
+    "Info": "Informasi",
+    "Menu Keybind": "Keybind Menu",
+
+    "Infinite Jetpack Duration": "Durasi Ransel Jet",
+    "Motor Modification": "Modifikasi Motor",
+    "Enable Motor Modifications": "Nyalakan Modifikasi Motor",
+    "Motor Speed": "Kecepatan Motor",
+    "Motor Turning Speed": "Kecepatan Pembelokan Motor",
+
+    "Waiting for Fisch to load.": "Menunggu Fisch untuk memuat.",
+
+    "Select a custom location first.": "Pilih lokasi kustom terlebih dahulu",
+
+    "Auto Fish Settings": "Pengaturan Pancing Otomatis",
+    "Auto Treasure Map": "Peta Harta karun Otomatis",
+    "Auto Repair": "Perbaiki Otomatis",
+    "Repair Current Maps": "Perbaiki Peta Saat Ini",
+    "Done.": "Selesai.",
+    "Waiting for Auto Treasure Map to finish...": "Menunggu untuk Peta Harta karun Otomatis untuk selesai...",
+    "Paused due to Auto Treasure Map.": "Dijeda karena Peta Harta karun Otomatis.",
+    "[Fisch] Auto Treasure Map - Repair.": "[Fisch] Peta Harta karun Otomatis - Perbaiki.",
+    "Successfully repaired a new Treasure Map!": "Berhasil memperbaiki sebuah Peta Harta karun!",
+
+    "[Fisch] Auto Treasure Map - Claimed.": "[Fisch] Peta Harta karun Otomatis - Diklaim.",
+    "Successfully claimed a Treasure Map!": "Berhasil mengklaim sebuah Peta Harta karun!",
+    "Failed to claimed a Treasure Map. Not enough money.": "Gagal mengklaim sebuah Peta Harta karun. Uang tidak mengcukupi.",
+
+    "Failed to find the boat's spawn event.": "Gagal mencari event spawn kapal",
+    "Failed to load the boat's data.": "Gagal memuat data kapal.",
+    "Failed to find the despawn button.": "Gagal mencari tombol hilangkan.",
+    "Failed to open the Shipwright UI.": "Gagal membuka UI Shipwright.",
+    "Please interact with the NPC.": "Mohon berinteraksi dengan NPC.",
+    "Disable Auto Fish first.": "Matikan Pancing Otomatis terlebih dahulu.",
+    "Failed to find the NPC, retrying with teleport...": "Gagal mencari NPC, mencoba lagi dengan teleportasi...",
+    "Failed to find the the NPC.": "Gagal mencari NPC.",
+    "Interacting with the NPC...": "Berinteraksi dengan NPC...",
+    "You don't have the Treasure Map equipped.": "Anda tidak mengalati Peta Harta karun",
+
+    "Get All Badges": "Dapatkan Semua Lenca",
+    "Open Door": "Buka Pintu",
+    "Open Slide Door": "Buka Pintu Geser",
+    "Open Lever Door": "Buka Pintu Tuas",
+    "Open Vault": "Buka Ruang Besi",
+    "Open Distance": "Jarak Buka",
+
+    "Disable Kill Client Remote": "Matikan Remote Bunuh Klien",
+    "Disable Carnation": "Matikan Carnation",
+    "Disable Slight & Heed Damage": "Matikan Kerusakan Slight & Heed",
+    "Disable Slugfish": "Matikan Slugfish",
+    "Disable Elkman": "Matikan Elkman",
+    "Disable Sarrow": "Sarrow",
+    "Disable Dozer": "Matikan Dozer",
+    "Disable Goatman": "Matikan Goatman",
+
+    "One crab cage costs 45C$.": "Harga satu sangkar adalah 45C$.",
+
+    "Failed to fetch %s, please make a bug report!": "Gagal mendapatkan %s, mohon membuat laporan bug",
+
     
     "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] Berhenti memuat. (GALAT: Memuat)",
     "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] Berhenti memuat. (GALAT: Sudah dimuat)",
