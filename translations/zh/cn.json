@@ -690,9 +690,9 @@
     "Disable Elkman": "无视Elkman",
     "Disable Sarrow": "无视Sarrow",
     "Disable Dozer": "无视Dozer",
-    "Disable Goatman": "无视Goatman"
+    "Disable Goatman": "无视Goatman",
 
     "One crab cage costs 45C$.": "一个捕蟹笼45刀乐。",
     
-    "Failed to fetch %s, please make a bug report!": "无法获取 %s ,请向开发者举报此问题。",
+    "Failed to fetch %s, please make a bug report!": "无法获取 %s ,请向开发者举报此问题。"
 }

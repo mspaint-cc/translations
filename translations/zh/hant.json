@@ -685,9 +685,9 @@
     "Disable Elkman": "無視Elkman",
     "Disable Sarrow": "無視Sarrow",
     "Disable Dozer": "無視Dozer",
-    "Disable Goatman": "無視Goatman"
+    "Disable Goatman": "無視Goatman",
 
     "One crab cage costs 45C$.": "壹個捕蟹籠45刀樂。",
     
-    "Failed to fetch %s, please make a bug report!": "無法獲取 %s ,請向開發者舉報此問題。",
+    "Failed to fetch %s, please make a bug report!": "無法獲取 %s ,請向開發者舉報此問題。"
 }

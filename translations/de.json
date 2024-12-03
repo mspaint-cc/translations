@@ -634,9 +634,7 @@
     "Failed to find the NPC, retrying with teleport...": "NPC konnte nicht gefunden werden, versuche es erneut mit Teleport...",
     "Failed to find the the NPC.": "NPC konnte nicht gefunden werden",
     "Interacting with the NPC...": "Interagiere mit dem NPC...",
-    "You don't have the Treasure Map equipped.": "Sie haben die Schatzkarte nicht ausgerüstet."
-
-    
+    "You don't have the Treasure Map equipped.": "Sie haben die Schatzkarte nicht ausgerüstet.",
 
     "Disable Kill Client Remote": "Kill Client Remote deaktivieren",
     "Disable Carnation": "Carnation deaktivieren",
@@ -652,6 +650,5 @@
     "Open Slide Door": "Schiebetür öffnen",
     "Open Lever Door": "Hebeltür öffnen",
     "Open Vault": "Tresor öffnen",
-    "Open Distance": "Distanz öffnen",
-
+    "Open Distance": "Distanz öffnen"
 }
