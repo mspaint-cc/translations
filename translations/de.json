@@ -635,4 +635,23 @@
     "Failed to find the the NPC.": "NPC konnte nicht gefunden werden",
     "Interacting with the NPC...": "Interagiere mit dem NPC...",
     "You don't have the Treasure Map equipped.": "Sie haben die Schatzkarte nicht ausgerüstet."
+
+    
+
+    "Disable Kill Client Remote": "Kill Client Remote deaktivieren",
+    "Disable Carnation": "Carnation deaktivieren",
+    "Disable Slight & Heed Damage": "Slight und Heed Schaden deaktivieren",
+    "Disable Slugfish": "Slugfish deaktivieren",
+    "Disable Elkman": "Elkman deaktivieren",
+    "Disable Sarrow": "Sarrow deaktivieren",
+    "Disable Dozer": "Dozer deaktivieren",
+    "Disable Goatman": "Goatman deaktivieren",
+
+    "Get All Badges": "Alle Abzeichen erhalten",
+    "Open Door": "Tür öffnen",
+    "Open Slide Door": "Schiebetür öffnen",
+    "Open Lever Door": "Hebeltür öffnen",
+    "Open Vault": "Tresor öffnen",
+    "Open Distance": "Distanz öffnen",
+
 }
