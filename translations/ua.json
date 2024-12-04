@@ -584,5 +584,7 @@
    "Disable Dozer": "Вимкнути Dozer",
    "Disable Goatman": "Вимкнути Goatman",
    "One crab cage costs 45C$.": "Одна клітка для краба коштує 45 C$.",
-   "Failed to fetch %s, please make a bug report!": "Не вдалося отримати %s, будь ласка, повідомте про помилку!"
+   "Failed to fetch %s, please make a bug report!": "Не вдалося отримати %s, будь ласка, повідомте про помилку!",
+   "Buy Item": "Купити товар",
+   "Cost: %s": "Вартість: %s"
 }
