@@ -621,6 +621,9 @@
 
     "Failed to fetch %s, please make a bug report!": "Gagal mendapatkan %s, mohon membuat laporan bug",
 
+    "Buy Item": "Beli Alat",
+    "Cost: %s": "Biaya: %s",
+
     
     "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] Berhenti memuat. (GALAT: Memuat)",
     "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] Berhenti memuat. (GALAT: Sudah dimuat)",
