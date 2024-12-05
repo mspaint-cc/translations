@@ -76,5 +76,10 @@
     "id": {
         "NativeName": "Bahasa Indonesia",
         "EnglishName": "Indonesian"
+    },
+
+    "tr": {
+        "NativeName": "Türkçe",
+        "EnglishName": "Turkish"
     }
 }
