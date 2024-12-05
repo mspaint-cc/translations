@@ -604,5 +604,8 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "Variable 'Game' invalide (attendu 'string/table' obtenu '",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' n'a pas chargé: Variable 'Game' invalide (attendu 'string/table' obtenu '",
     "[mspaint] Failed to load addon '": "[mspaint] Échec du chargement de l'addon '",
-    "Failed to load this addon:": "Échec du chargement de cet addon:"
+    "Failed to load this addon:": "Échec du chargement de cet addon:",
+
+    "Buy Item": "Acheter l'Item",
+    "Cost: %s": "Coût: %s"
 }
