@@ -1,5 +1,4 @@
 name: Validate JSON Files
-
 on:
   push:
     paths:
@@ -11,31 +10,57 @@ on:
 jobs:
   validate-json:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch full history for accurate diff
 
     - name: Set up Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
-        node-version: '16'
+        node-version: '20'
 
-    - name: Install jsonlint
-      run: npm install jsonlint -g
+    - name: Install dependencies
+      run: |
+        npm install -g jsonlint
+        npm install -g ajv-cli
 
     - name: Validate JSON Files
       run: |
-        # Determine which JSON files to validate
+        # Get list of changed JSON files
         if [ "${{ github.event_name }}" == "push" ]; then
-          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- '*.json')
+          FILES=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep '\.json$')
         elif [ "${{ github.event_name }}" == "pull_request" ]; then
-          FILES=$(git diff --name-only origin/${{ github.base_ref }}..origin/${{ github.head_ref }} -- '*.json')
+          FILES=$(git diff --name-only HEAD..HEAD^ | grep '\.json$')
+        else
+          FILES=$(find . -name "*.json")
         fi
 
-        # Loop through and validate each file
+        # Validate each file
+        ERRORS=0
         for file in $FILES; do
-          echo "Validating $file..."
-          jsonlint -q $file || exit 1
+          if [ -f "$file" ]; then
+            echo "Validating $file..."
+            
+            # Basic JSON syntax check
+            if ! jsonlint -q "$file"; then
+              echo "JSON syntax error in $file"
+              ERRORS=$((ERRORS + 1))
+            fi
+            
+            # Optional: JSON schema validation (if you have a schema)
+            # Uncomment and adjust path to your JSON schema if needed
+            # if ! ajv validate -s schema.json -d "$file"; then
+            #   echo "JSON schema validation failed for $file"
+            #   ERRORS=$((ERRORS + 1))
+            # fi
+          fi
         done
+
+        # Exit with error if any validation failed
+        if [ $ERRORS -ne 0 ]; then
+          echo "$ERRORS JSON files failed validation"
+          exit 1
+        fi
       shell: bash
