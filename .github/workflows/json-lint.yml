@@ -1,0 +1,32 @@
+name: Validate JSON Files
+
+on:
+  push:
+    paths:
+      - '**/*.json'
+  pull_request:
+    paths:
+      - '**/*.json'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: Install dependencies
+      run: npm install jsonlint -g
+
+    - name: Validate JSON Files
+      run: |
+        for file in $(git diff --name-only HEAD^ HEAD -- '*.json'); do
+          echo "Validating $file..."
+          jsonlint -q $file
+        done
