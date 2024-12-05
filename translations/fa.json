@@ -716,6 +716,7 @@
 "Open Distance": "فاصله بازکردن در ها",
 "Disable Kill Client Remote": "غیرفعال کردن کیک کردن بازیکن",
 "Disable Slight & Heed Damage": "غیر فعال کردن Slight و آسیب های Heed",
+"Disable Carnation": "غیرفعال کردن Carnation",
 "Disable Slugfish": "غیرفعال کردن Slugfish",
 "Disable Elkman": "غیرفعال کردن Elkman",
 "Disable Sarrow": "غیرفعال کردن Sarrow",
@@ -723,5 +724,7 @@
 "Disable Goatman": "غیر فعال کردن Goatman",
 "One crab cage costs 45C$.": "45C$ قیمت یک قفس خرچنگ است",
 "Failed to fetch %s, please make a bug report!": "بارگیری %s شکست خورد",
-"Disable Carnation": "غیرفعال کردن Carnation"
+
+"Buy Item": "خرید وسیله",
+"Cost: %s": "هزینه : %s"
 }

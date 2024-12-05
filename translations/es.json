@@ -677,4 +677,6 @@
     "Disable Goatman": "Desactivar Goatman",
     "One crab cage costs 45C$.": "Una jaula de cangrejo cuesta 45C$",
     "Failed to fetch %s, please make a bug report!": "No se ha podido obtener %s, ¡por favor haz un informe de error!"
+    "Buy Item": "Comprar item",
+    "Cost: %s": "Costo: %s"
 }

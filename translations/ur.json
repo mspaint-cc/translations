@@ -565,28 +565,4 @@
   "Expired":    "معتدد",
   "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.":    "آپ کی کلید کی مدت ختم ہو چکی ہے، اگلی بار عملدرآمد کرنے پر آپ کی رسائی mspaint پر منسوخ کر دی جائے گی، جب تک کہ آپ اپنی کلید کی مدت کو بڑھا نہ لیں یا زندگی بھر کی کلید نہ خرید لیں.",
   "Restart mspaint to apply language changes.":    "زبان کی تبدیلیوں کو لاگو کرنے کے لیے mspaint دوبارہ شروع کریں.",
-
-
-  "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.":    "[mspaint] آپ کا ایگزیکیوٹر فائل سسٹم API کی حمایت نہیں کرتا۔ ایڈانز کام نہیں کریں گے.",
-  "[mspaint] Addons folder doesn't exist. Creating...":    "[mspaint] ایڈانز فولڈر موجود نہیں ہے۔ تخلیق ہو رہا ہے...",
-  "[mspaint] Loading addons...":    "[mspaint] ایڈانز لوڈ ہو رہے ہیں...",
-  "[mspaint] Element '":    "[mspaint] عنصر '",
-  "' didn't load: Invalid Linoria element.":    "' لوڈ نہیں ہوا: غلط Linoria عنصر.",
-  "' didn't load: Invalid data.":    "' لوڈ نہیں ہوا: غلط ڈیٹا.",
-  "' didn't load: Invalid name.":    "' لوڈ نہیں ہوا: غلط نام.",
-  "' didn't load: Invalid addon name.":    "' لوڈ نہیں ہوا: غلط ایڈان نام.",
-  "' didn't load: Invalid element type.":    "' لوڈ نہیں ہوا: غلط عنصر کی قسم.",
-  "This tab is for UN-OFFICIAL addons made for mspaint. We are not responsible for what addons you will use. You are putting yourself AT RISK since you are executing third-party scripts.":    "یہ ٹیب mspaint کے لیے غیر رسمی ایڈانز کے لیے ہے۔ ہم اس بات کے ذمہ دار نہیں ہیں کہ آپ کون سے ایڈانز استعمال کریں گے۔ آپ خود کو خطرے میں ڈال رہے ہیں کیونکہ آپ تیسرے فریق کے اسکرپٹس چلا رہے ہیں.",
-  "WARNING":    "انتباہ",
-  "Your addons FOLDER is empty! (":    "آپ کا ایڈانز فولڈر خالی ہے! (",
-  "[mspaint] Invalid file extension for '":    "[mspaint] کے لیے غلط فائل ایکسٹینشن '",
-  "[mspaint] Loading addon '":    "[mspaint] ایڈان 'لوڈ ہو رہا ہے '",
-  "Failed to load this addon (":    "اس ایڈان کو لوڈ کرنے میں ناکامی (",
-  "Invalid 'Elements' variable (expected 'table' got '":    "'ایلیمنٹس' متغیر غلط ہے (متوقع 'ٹیبل' ملا '",
-  "' didn't load: Invalid 'Elements' variable (expected 'table' got '":    "' لوڈ نہیں ہوا: غلط 'ایلیمنٹس' متغیر (متوقع 'ٹیبل' ملا '",
-  "' didn't load: Wrong game.":    "' لوڈ نہیں ہوا: غلط گیم.",
-  "Invalid 'Game' variable (expected 'string/table' got '":    "غلط 'گیم' متغیر (متوقع 'اسٹرنگ/ٹیبل' ملا '",
-  "' didn't load: Invalid 'Game' variable (expected 'string/table' got '":    "' لوڈ نہیں ہوا: غلط 'گیم' متغیر (متوقع 'اسٹرنگ/ٹیبل' ملا '",
-  "[mspaint] Failed to load addon '":    "[mspaint] ایڈان 'لوڈ کرنے میں ناکامی",
-  "Failed to load this addon:": "اس ایڈان کو لوڈ کرنے میں ناکامی:"
 }
