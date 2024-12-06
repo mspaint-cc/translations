@@ -679,4 +679,16 @@
     "Failed to fetch %s, please make a bug report!": "No se ha podido obtener %s, ¡por favor haz un informe de error!",
     "Buy Item": "Comprar item",
     "Cost: %s": "Costo: %s"
+    "Selected Player": "Jugador seleccionado",
+    "Kill Player with Figure": "Matar jugador con figure",
+    "Figure has not spawned in your room.": "Figure no esta generado en tu habitacion",
+    "Please use an alarm clock and wait until Figure destroys the clock...": "Porfavor usa un reloj de alarma y espera a que Figure destruya el reloj",
+    "You have to select a player to kill.": "Tienes que seleccionar a un jugador que matar",
+    "You can't kill yourself.": "No te puedes matar a ti mismo.",
+    "Killed %s successfully!": "%s matado con exito!",
+    "Had an error while trying to kill the player.": "Hubo un error intentando matar al jugador",
+    "Delete Figure (FE)": "Borrar Figure (FE)",
+    "Delete Figure": "Borrar Figure",
+    "Deleting Figure...": "Borrando Figure",
+    "Deleted Figure Successfully!": "Figure borrado con exito!"
 }
