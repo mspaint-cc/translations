@@ -528,7 +528,7 @@
    "Jesus":"Ісус",
    "You can walk on water.":"Ви можете ходити по воді.",
    "Boats":"Човни",
-   "Spawn and Teleport to Boat":"Поява та телепорт до човна",
+   "Teleport to Boat":"Телепортуватися до Човна",
    "Spawn Boat":"Поява човна",
    "Open Shipwright":"Відкрити корабель",
    "Spawned Boats":"Створуні човни",
@@ -598,5 +598,15 @@
    "One crab cage costs 45C$.": "Одна клітка для краба коштує 45 C$.",
    "Failed to fetch %s, please make a bug report!": "Не вдалося отримати %s, будь ласка, повідомте про помилку!",
    "Buy Item": "Купити товар",
-   "Cost: %s": "Вартість: %s"
+   "Cost: %s": "Вартість: %s",
+   "Fix stuck on Already running.": "Виправлення застрягання вже працює.",
+   "Inventory": "Інвентар",
+   "Center Button": "Центральна Кнопка",
+   "One map repair costs 250C$.": "Ремонт однієї мапи коштує 250С$.",
+   "Auto Claim": "Авто Отримання",
+   "Claim Current Maps": "Отримати Подібні Мапи",
+   "Discord Settings": "Налаштування Discord",
+   "Anchor Bobber": "Закріпити поплавок",
+   "Anchors the bobber during Auto Fishing.": "Закріплює поплавок під час авто риболовлі.",
+   "Anchors you during Auto Fishing.": "Закріплює вас під час авто риболовлі."
 }
