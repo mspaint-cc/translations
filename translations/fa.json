@@ -739,5 +739,16 @@
 "Delete Figure (FE)": "کشتن فیگور(برای همه)",
 "Delete Figure": "کشتن فیگور",
 "Deleting Figure...": "درحال کشتن فیگور...",
-"Deleted Figure Successfully!": "فیگور با موفقیت کشته شد!"
+"Deleted Figure Successfully!": "فیگور با موفقیت کشته شد!",
+"Fix stuck on Already running.": "'تعمیر گیر کردن روی'درحال اجرا",
+"Inventory": "کیف",
+"Center Button": "دکمه مرکز",
+"One map repair costs 250C$.": "هزینه یک تعمیر نقشه (250C$)",
+"Auto Claim": "دریافت خودکار",
+"Claim Current Maps": "دریافت نقشه های فعلی",
+"Discord Settings": "تنظیمات دیسکورد",
+"Teleport to Boat": "تلپورت به قایق",
+"Anchor Bobber": "ثابت کردن شناور",
+"Anchors the bobber during Auto Fishing.": "هنگام ماهیگیری خودکار شناور را ثابت نگه می‌دارد.",
+"Anchors you during Auto Fishing.": "هنگام ماهیگیری خودکار شما را ثابت نگه می‌دارد."
 }
