@@ -505,7 +505,7 @@
     "Jesus": "Jesus",
     "You can walk on water.": "Suda Yürüyebilirsin.",
     "Boats": "Tekneler",
-    "Spawn and Teleport to Boat": "Tekne'yi Çağır Işınlan",
+    "Teleport to Boat": "Tekne'ye Işınlan",
     "Spawn Boat": "Tekneyi Çağır",
     "Open Shipwright": "Gemi Yazarlığını Aç (Shipwright)",
     "Spawned Boats": "Çağırılan Tekneler",
@@ -521,6 +521,16 @@
     "Failed to cast the fishing rod, retrying...": "Olta malesef Castlanamadı Tekrar deneme yapılıyor...",
     "Resuming Auto Fish...": "Otomatik Balık Tutmaya Devam Ediliyor...",
     "Auto Fish stopped.": "Otomatik Balık Tutma Durduruldu.",
+    
+    "Fix stuck on Already running.": "Zaten çalışıyor durumunda takılı kalanı düzelt.",
+    "Inventory": "Envanter",
+    "Center Button": "Orta Buton",
+    "One map repair costs 250C$.": "Bir harita onarım 250C$ ister.",
+    "Auto Claim": "Otomatik Talep Etmek (Claim)",
+    "Claim Current Maps": "Mevcut Haritaları Talep Edin (Claim)",
+    "Discord Settings": "Discord Ayarları",
+    "Anchor Bobber": "Anchor Bobber",
+    "Anchors the bobber during Auto Fishing.": "Otomatik Balık Tutma sırasında bobber'ı sabitler (Anchor).",
     
     "Custom Locations": "Özel Yerler",
     "Custom Location Name": "Özel Yer Adı",
@@ -549,7 +559,7 @@
     "Failed to find Boat's Base.": "Tekne Üssü (Boat Base) bulunamadı.",
 
     "Anchor Player": "Sabit (Anchor) Oyuncusu",
-    "Anchors you during Auto Casting.": "Otomatik Castlanma sırasında sizi sabitler (Anchor)",
+    "Anchors you during Auto Fishing.": "Otomatik Balık Tutarken sizi sabitler (Anchor)",
     
     "Auto Reel": "Otomatik Makara",
     
