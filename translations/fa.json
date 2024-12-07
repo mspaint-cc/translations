@@ -726,5 +726,18 @@
 "Failed to fetch %s, please make a bug report!": "بارگیری %s شکست خورد",
 
 "Buy Item": "خرید وسیله",
-"Cost: %s": "هزینه : %s"
+"Cost: %s": "هزینه : %s",
+   
+"Selected Player": "بازیکن انتخاب شده",
+"Kill Player with Figure": "کشتن بازیکن با استفاده از فیگور",
+"Figure has not spawned in your room.": "فیگور در این اتاق احضار نشده است.",
+"Please use an alarm clock and wait until Figure destroys the clock...": "لطفا از یک ساعت زنگ دار استفاده کنید و صبر کنید تا فیگور آن را نابود کند.",
+"You have to select a player to kill.": "شما باید یک بازیکن را برای کشتن انتخاب کنید.",
+"You can't kill yourself.": "نمیتوانید خودتان را بکشید.",
+"Killed %s successfully!": " با موفقیت %s کشته شد!",
+"Had an error while trying to kill the player.": "کشتن بازیکن با خطا مواجه شد.",
+"Delete Figure (FE)": "کشتن فیگور(برای همه)",
+"Delete Figure": "کشتن فیگور",
+"Deleting Figure...": "درحال کشتن فیگور...",
+"Deleted Figure Successfully!": "فیگور با موفقیت کشته شد!"
 }
