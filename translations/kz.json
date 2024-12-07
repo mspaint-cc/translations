@@ -347,5 +347,18 @@
     "Disable Elkman": "Бұғы адамды өшіру",
     "Disable Sarrow": "Сарроуды өшіру",
     "Disable Dozer": "Дозерді өшіру",
-    "Disable Goatman": "Ешкі адамды Өшіру"
+    "Disable Goatman": "Ешкі адамды Өшіру", 
+  "Selected Player": "Таңдалған ойыншы",
+  "Kill Player with Figure": "Фигурамен ойыншыны өлтіріңіз",
+  "Figure has not spawned in your room.": "Фигура сіздің бөлмеңізде пайда болған жоқ.",
+  "Please use an alarm clock and wait until Figure destroys the clock...": "Сағатты пайдаланып, фигураның сағатты жоюын күтіңіз...",
+  "You have to select a player to kill.": "Сіз өлтіретін ойыншыны таңдауыңыз керек.",
+  "You can't kill yourself.": "Өзіңізді өлтіре алмайсыз.",
+  "Killed %s successfully!": "%s сәтті өлтірілді!",
+  "Had an error while trying to kill the player.": "Ойыншыны өлтіру кезінде қате пайда болды.",
+  "Delete Figure (FE)": "Фигураны жою (FE)",
+  "Delete Figure": "Фигураны жою",
+  "Deleting Figure...": "Фигура жойылуда...",
+  "Deleted Figure Successfully!": "Фигура сәтті жойылды!"
 }
+
