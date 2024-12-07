@@ -359,6 +359,16 @@
   "Delete Figure (FE)": "Фигураны жою (FE)",
   "Delete Figure": "Фигураны жою",
   "Deleting Figure...": "Фигура жойылуда...",
-  "Deleted Figure Successfully!": "Фигура сәтті жойылды!"
+  "Deleted Figure Successfully!": "Фигура сәтті жойылды!",
+  "Fix stuck on Already running.": "«Already running» күйінде тұрып қалғанды түзету.",
+  "Inventory": "Түгендеу",
+  "Center Button": "Орталық түйме",
+  "One map repair costs 250C$.": "Бір картаны жөндеу құны 250C$ тұрады.",
+  "Auto Claim": "Автоматты талап ету",
+  "Claim Current Maps": "Ағымдағы карталарды талап ету",
+  "Discord Settings": "Discord параметрлері",
+  "Anchor Bobber": "Қалқыманы бекіту",
+  "Anchors the bobber during Auto Fishing.": "Автоматты балық аулау кезінде қалқыманы бекітеді.",
+  "Teleport to Boat": "Кемеге телепортация жасау",
+  "Anchors you during Auto Fishing.": "Автоматты балық аулау кезінде сізді бекітеді."
 }
-
