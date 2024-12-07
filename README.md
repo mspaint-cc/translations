@@ -10,7 +10,7 @@ You can use one of the files in `/translations/` as a template. You can create a
 To test out your language in game, you can put the `.json` file in your executor's workspace folder and run this **BEFORE** loading mspaint:
 
 ```lua
-getgenv().environement = "translator_env"
+getgenv().environment = "translator_env"
 getgenv().overrideLanguage = "en"
 getgenv().language = {
     ["en"] = {
