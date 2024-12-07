@@ -331,6 +331,22 @@
     "Preset does not exist!": "Пресет не существует!",
 
 
+
+	"Selected Player": "Выбранный игрок",
+	"Kill Player with Figure": "Убить игрока с помощью Фигуры",
+	"Figure has not spawned in your room.": "Фигура не появилась в вашей комнате",
+	"Please use an alarm clock and wait until Figure destroys the clock...": "Используйте будильник и дождитесь, пока Фигура уничтожит будильник...",
+	"You have to select a player to kill.": "Вы должны выбрать игрока, которого хотите убить",
+	"You can't kill yourself.": "Вы не можете убить себя.",
+	"Killed %s successfully!": "Успешно убит игрок %s!",
+	"Had an error while trying to kill the player.": "Произошла ошибка при попытке убить игрока.",
+	"Delete Figure (FE)": "Удалить Фигуру (FE)",
+	"Delete Figure": "Удалить Фигуру",
+	"Deleting Figure...": "Удаление Фигуры...",
+	"Deleted Figure Successfully!": "Фигура успешно удалена!",
+
+	
+
     "Void/Glitch is coming once the next door is opened.": "Void/Glitch прибудут когда откроется следующая дверь.",
     "Void/Glitch is coming %s.": "Void/Glitch прибудут через %s.",
     "once the next door is opened.": "когда откроется следующая дверь.",
