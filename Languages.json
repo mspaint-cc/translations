@@ -81,5 +81,10 @@
     "tr": {
         "NativeName": "Türkçe",
         "EnglishName": "Turkish"
+    },
+    
+     "hi": {
+        "NativeName": "हिंदी",
+        "EnglishName": "Hindi"
     }
 }
