@@ -552,7 +552,7 @@
     "Failed to find Boat's Base.": "नाव का बेस नहीं मिला।",
 
     "Anchor Player": "एंकर प्लेयर",
-    "Anchors you during Auto Casting.": "ऑटो कास्टिंग के दौरान आपको स्थिर रखता है।",
+    "Anchors you during Auto Fishing.": "ऑटो फिशिंग में आपको ऐंकर करके जमाए रखता है।",
 
     "Auto Reel": "ऑटो रील",
 
@@ -566,7 +566,7 @@
     "Failed to cast fishing rod.": "मछली पकड़ने वाली छड़ी डालने में विफल।",
     "Stopped.": "रुका हुआ।",
     "Boats": "बोट्स",
-    "Spawn and Teleport to Boat": "नाव पर स्पॉन और टेलीपोर्ट",
+    "Teleport to Boat": "नाव पर टेलीपोर्ट करें",
     "Spawn Boat": "नाव स्पॉन करें",
     "Spawned Boats": "स्पॉन्ड नावें",
     "Auto Shake": "ऑटो शेक",
@@ -671,6 +671,16 @@
     "Failed to cast the fishing rod, retrying...": "मछली पकड़ने वाली छड़ी डालने में विफल, पुनः प्रयास कर रहा है...",
     "Resuming Auto Fish...": "ऑटो फिश फिर से शुरू...",
     "Auto Fish stopped.": "ऑटो फिश बंद हो गया।",
+    
+    "Fix stuck on Already running.": "चालू के दौरान अटक जाने हुए ठीक करें।", 
+    "Inventory": "वस्तु सूची", 
+    "Center Button": "बीच का बटन", 
+    "One map repair costs 250C$.": "एक नक्शे की मरम्मत की लागत 250C$ है।", 
+    "Auto Claim": "स्वचालित दावा", 
+    "Claim Current Maps": "वर्तमान नक्शों का दावा करें", 
+    "Discord Settings": "डिस्कॉर्ड सेटिंग्स",      
+    "Anchor Bobber": "एंकर बोबर", 
+    "Anchors the bobber during Auto Fishing.": "ऑटो फिशिंग के दौरान, बोबर ऐंकर किया जाता है।",
     
     "Info": "जानकारी",
     "Menu Keybind": "मेनू कीबाइंड",
