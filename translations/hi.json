@@ -671,8 +671,8 @@
     "Failed to cast the fishing rod, retrying...": "मछली पकड़ने वाली छड़ी डालने में विफल, पुनः प्रयास कर रहा है...",
     "Resuming Auto Fish...": "ऑटो फिश फिर से शुरू...",
     "Auto Fish stopped.": "ऑटो फिश बंद हो गया।",
+    
     "Info": "जानकारी",
-
     "Menu Keybind": "मेनू कीबाइंड",
 
     "Infinite Jetpack Duration": "अनंत जेटपैक अवधि",
@@ -709,12 +709,14 @@
     "Failed to find the the NPC.": "NPC नहीं मिला।",
     "Interacting with the NPC...": "NPC के साथ बातचीत कर रहा है...",
     "You don't have the Treasure Map equipped.": "आपने खजाना नक्शा सुसज्जित नहीं किया है।",
+    
     "Get All Badges": "सभी बैज प्राप्त करें",
     "Open Door": "दरवाजा खोलें",
     "Open Slide Door": "स्लाइड दरवाजा खोलें",
     "Open Lever Door": "लीवर दरवाजा खोलें",
     "Open Vault": "तिजोरी खोलें",
     "Open Distance": "खोलने की दूरी",
+    
     "Disable Kill Client Remote": "क्लाइंट रिमोट बंद करें",
     "Disable Slight & Heed Damage": "Slight और Heed क्षति अक्षम करें",
     "Disable Carnation": "कार्नेशन अक्षम करें",
