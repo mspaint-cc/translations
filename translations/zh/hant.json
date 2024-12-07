@@ -690,4 +690,17 @@
     "One crab cage costs 45C$.": "壹個捕蟹籠45刀樂。",
     
     "Failed to fetch %s, please make a bug report!": "無法獲取 %s ,請向開發者舉報此問題。"
+
+    "Selected Player": "選擇玩家",
+    "Kill Player with Figure": "使用飛哥擊殺所選玩家",
+    "Figure has not spawned in your room.": "飛哥還沒生成呢哥們",
+    "Please use an alarm clock and wait until Figure destroys the clock...": "請使用鬧鍾然後等待飛哥踩掉鬧鍾",
+    "You have to select a player to kill.": "請選擇壹個擊殺目標",
+    "You can't kill yourself.": "自殺的是gay",
+    "Killed %s successfully!": "成功將 %s 擊殺",
+    "Had an error while trying to kill the player.": "幹他的時候出現了問題（doge",
+    "Delete Figure (FE)": "刪除飛哥（FE）",
+    "Delete Figure": "刪除飛哥",
+    "Deleting Figure...": "正在刪除飛哥",
+    "Deleted Figure Successfully!": "成功刪除飛哥"
 }
