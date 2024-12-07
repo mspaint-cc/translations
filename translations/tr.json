@@ -278,6 +278,19 @@
     "No Jammin": "'Jammin' Kaldır",
     "No Bats Decoration": "Yarasa Dekorasyonu Kaldır",
 
+    "Selected Player": "Seçilen Oyuncu",
+    "Kill Player with Figure": "Figure ile Oyuncuyu Öldür",
+    "Figure has not spawned in your room.": "Figure sizin odanızda doğmadı",
+    "Please use an alarm clock and wait until Figure destroys the clock...": "Lütfen bir alarm saati kullanın ve figure saati kırana kadar bekleyin...",
+    "You have to select a player to kill.": "Oyuncuyu öldürmek için seçmeniz gerekiyor.",
+    "You can't kill yourself.": "Kendini öldüremezsiniz.",
+    "Killed %s successfully!": "%s Başarıyla Öldürüldü",
+    "Had an error while trying to kill the player.": "Oyuncuyu öldürürken bir hata oluştu.",
+    "Delete Figure (FE)": "Figure'yi Sil (FE)",
+    "Delete Figure": "Figure'yi Sil",
+    "Deleting Figure...": "Figure Siliniyor...",
+    "Deleted Figure Successfully!": "Figure Başarıyla silindi!"
+
     "Max Floor Angle": "Maks Zemin Derecesi (Floor Angle)",
 
     "Anti-Gloom Egg": "Anti-Gloom Yumurtası",
