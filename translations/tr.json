@@ -639,7 +639,8 @@
     "Expired": "Süresi bitmiş",
     "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.": "Anahtarınızın süresi doldu. Anahtar sürenizi uzatmadığınız veya ömür boyu anahtar satın almadığınız sürece mspaint'e erişiminiz bir sonraki yürütmede iptal edilecektir.",
     "Restart mspaint to apply language changes.": "Dil değişikliklerini uygulamak için mspaint'i yeniden başlatın.",
-
+    "Contributors:": "Katkıda Bulunanlar",
+    "Translators:": "Çevirmenler",
     
     "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Senin executorun FileSystem API'yi desteklemiyor. Eklentiler Çalışmayacaktır.",
     "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] Eklentiler dosyanız yoktur. Sizin için oluşturuluyor...",
