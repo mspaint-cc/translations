@@ -110,7 +110,12 @@
     "Deleted build: ": "Construção deletada: ",
     "Refresh Builds": "Recarregar Construções",
     "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": "Construção Automática está em BETA! Alguns blocos podem não ser salvos corretamente, por favor, relate blocos ausentes e problemas no nosso Discord",
-
+    "Infinite Jetpack Duration": "Duração Infinita de Jetpack",
+    "Motor Modification": "Modificação do Motor",
+    "Enable Motor Modifications": "Ativar Modificações do Motor",
+    "Motor Speed": "Velocidade do Motor",
+    "Motor Turning Speed": "Velocidade de Curva do Motor",
+    
     
     "Ladder Speed": "Velocidade na Escada",
     "Enable Jump": "Ativar Pulo",
@@ -224,6 +229,19 @@
     "Infinite Items": "Itens Infinitos",
     "Infinite Crucifix": "Crucifixo Infinito",
     "Very risky, you might die/lose the crucifix": "Muito arriscado, você pode morrer/perder o crucifixo",
+
+    "Selected Player": "Jogador selecionado",
+    "Kill Player with Figure": "Matar Jogador com o Figure",
+    "Figure has not spawned in your room.": "Figure não está spawnado na sua sala.",
+    "Please use an alarm clock and wait until Figure destroys the clock...": "Por favor use um despertador e espere até o Figure destruir o despertador...",
+    "You have to select a player to kill.": "Você precisa selecionar um jogador para matar.",
+    "You can't kill yourself.": "Você não pode se matar.",
+    "Killed %s successfully!": "Jogador %s morto com sucesso!",
+    "Had an error while trying to kill the player.": "Ocorreu um erro na tentativa de matar o jogador.",
+    "Delete Figure (FE)": "Deletar Figure (FE)",
+    "Delete Figure": "Deletar Figure",
+    "Deleting Figure...": "Deletando Figure...",
+    "Deleted Figure Successfully!": "Figure foi deletado com sucesso!",
 
     "Fake Revive": "Reavivamento Falso",
     "You have revived, fake revive has stopped working.": "Você reviveu, o reavivamento falso parou de funcionar.",
@@ -438,7 +456,8 @@
     "No Flashlight Shadow": "Sem Sombra da Lanterna",
     "No Blur": "Sem Blur",
 
-    
+
+    "Waiting for Fisch to load.": "Esperando o 'Fisch' carregar.",
     "[Fisch] New Catch!": "[Fisch] Nova Captura!",
     "[Fisch] Auto Sell Result": "[Fisch] Vender Resultado Automaticamente",
     "[Fisch] Test.": "[Fisch] Teste.",
@@ -481,6 +500,7 @@
     "Refresh Custom Locations": "Recarregar Localizações Customizadas",
     "File System is required for this feature.": "O Sistema de Arquivos é necessário para essa opção.",
     "Failed to load location: ": "Falha ao carregar localização: ",
+    "Select a custom location first.": "Selecione uma localização customizada primeiro.",
 
     "Teleport": "Teleportação",
     "Areas": "Áreas",
@@ -493,7 +513,7 @@
     "Failed to find Boat's Base.": "Falha ao encontrar a Base do Barco",
 
     "Anchor Player": "Âncorar Jogador",
-    "Anchors you during Auto Casting.": "Âncora seu personagem durante a automação do arremeso.",
+    "Anchors you during Auto Fishing.": "Âncora seu personagem durante a pesca automática.",
     
     "Auto Reel": "Automatizar Minijogo 'Reel'",
     "Perfect Reel Chance": "Chance de Perfeição do 'Reel'",
@@ -519,7 +539,7 @@
     "Jesus": "Jesus",
     "You can walk on water.": "Você pode andar na água.",
     "Boats": "Barcos",
-    "Spawn and Teleport to Boat": "Spawnar e Teleportar pro Barco",
+    "Teleport to Boat": "Teleportar pro Barco",
     "Spawn Boat": "Spawnar Barco",
     "Open Shipwright": "Abrir Construtor de Barcos",
     "Spawned Boats": "Barcos Spawnados",
@@ -550,8 +570,12 @@
     "Sell on Catch": "Vender na Captura",
     "Sell fishes after successfully catching them.": "Vende o peixe após pega-lo com sucesso.",
 
+    "Buy Item": "Comprar Item",
+    "Cost: %s": "Custo: %s",
+    
     "Auto Crab Cage": "Gaiola de Caranguejo Automático",
     "Amount of cages to buy": "Quantidade de gaiolas para comprar",
+    "One crab cage costs 45C$.": "Uma gaiola de caranguejo custa 45C$.",
     "Buy Crab Cages": "Comprar Gaiolas de Caranguejo",
     "Auto Buy Crab Cage": "Comprar Gaiolas de Caranguejo Automaticamente",
     "Please wait.": "Por favor espere.",
@@ -564,12 +588,65 @@
 
     "Sell Item in Hand": "Vender Item em Mão",
     "Sell Inventory": "Vender Inventário",
+
+    "Auto Fish Settings": "Configurações da Pesca Automática",
+    "Auto Treasure Map": "Mapa do Tesouro Automático",
+    "Auto Repair": "Reparo Automático",
+    "Repair Current Maps": "Reparar Mapas Atuais",
+    "Done.": "Feito.",
+    "Waiting for Auto Treasure Map to finish...": "Esperando pela finalização do 'Mapa do Tesouro Automático'...",
+    "Paused due to Auto Treasure Map.": "Pausado pelo 'Mapa do Tesouro Automático'.",
+    "[Fisch] Auto Treasure Map - Repair.": "[Fisch] Mapa do Tesouro Automático - Reparo.",
+    "Successfully repaired a new Treasure Map!": "Um novo Mapa do Tesouro foi reparado com sucesso!",
+
+    "[Fisch] Auto Treasure Map - Claimed.": "[Fisch] Mapa do Tesouro Automático - Obtido.",
+    "Successfully claimed a Treasure Map!": "Um Mapa do Tesouro foi obtido com sucesso!",
+    "Failed to claimed a Treasure Map. Not enough money.": "Falha para obter um Mapa do Tesouro. Dinheiro insuficiente.",
+
+    "Failed to find the boat's spawn event.": "Falha para encontrar o evento de spawn do barco.",
+    "Failed to load the boat's data.": "Falha para carregar os dados do barco.",
+    "Failed to find the despawn button.": "Falha para encontrar o botão de despawn.",
+    "Failed to open the Shipwright UI.": "Falha para abrir a UI do Construtor de Barcos.",
+    "Please interact with the NPC.": "Por favor interaja com o NPC.",
+    "Disable Auto Fish first.": "Desative a 'Pesca Automática' primeiro.",
+    "Failed to find the NPC, retrying with teleport...": "Falha para encontrar o NPC, tentando novamente com teleporte...",
+    "Failed to find the the NPC.": "Falha para encontrar o NPC.",
+    "Interacting with the NPC...": "Interagindo com o NPC...",
+    "You don't have the Treasure Map equipped.": "Você não tem o Mapa do Tesouro equipado.",
+
+    "Fix stuck on Already running.": "",
+    "Inventory": "Inventário",
+    "Center Button": "Centralizar Botão",
+    "One map repair costs 250C$.": "O reparo de um mapa custa 250C$.",
+    "Auto Claim": "Obter Automaticamente",
+    "Claim Current Maps": "Obter Mapas Atuais",
+    "Discord Settings": "Configurações do Discord",
+    "Anchor Bobber": "Ancorar Boia de Pesca",
+    "Anchors the bobber during Auto Fishing.": "Âncora a boia de pesca durante a pesca automática.",
+
+
+    "Get All Badges": "Obter todas as conquistas",
+    "Open Door": "Abrir Porta",
+    "Open Slide Door": "Abrir Porta de Deslizar",
+    "Open Lever Door": "Abrir Porta de Alavanca",
+    "Open Vault": "Abrir Cofre",
+    "Open Distance": "Distância para Abrir",
+
+    "Disable Kill Client Remote": "Desativar Remote 'Kill Client'",
+    "Disable Carnation": "Desativar Carnation",
+    "Disable Slight & Heed Damage": "Desativar Dano do Slight e Heed",
+    "Disable Slugfish": "Desativar Slugfish",
+    "Disable Elkman": "Desativar Elkman",
+    "Disable Sarrow": "Desativar Sarrow",
+    "Disable Dozer": "Desativar Dozer",
+    "Disable Goatman": "Desativar Goatman",
     
     
     "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] Carregamento interrompido. (ERREUR: Carregando)",
     "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] Carregamento interrompido. (ERREUR: Já carregado)",
     "No message today... 😢": "Sem mensagem hoje... 😢",
     "MOTD: %s": "MOTD: %s",
+    "Failed to fetch %s, please make a bug report!": "Falha para obter %s, por favor faça um relatório do erro!",
 
     
     "Lifetime": "Vitalício",
@@ -584,9 +661,13 @@
     "Unloaded!": "Descarregado!",
     "UI Settings": "Configurações da UI",
     "Credits": "Créditos",
+    "Contributors:": "Colaboradores",
+    "Translators:": "Tradutores",
     "Execute On Teleport": "Executar ao Teleportar",
     "Open Keybind Menu": "Abrir Menu de Atalhos",
     "Custom Cursor": "Cursor Customizado",
+    "Info": "Info",
+    "Menu Keybind": "Atalho do Menu",
     "Menu bind": "Atalho do Menu",
     "Join Discord": "Entrar no Discord",
     "Copy Link": "Copiar Link",
