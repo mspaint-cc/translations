@@ -505,7 +505,7 @@
     "Jesus": "Jesús",
     "You can walk on water.": "Puedes caminar en el agua",
     "Boats": "Botes",
-    "Spawn and Teleport to Boat": "Generar y transportarse al bote",
+    "Spawn and Teleport to Boat": "Generar y Transportarse al bote",
     "Spawn Boat": "Generar Bote",
     "Open Shipwright": "Abrir Astillero",
     "Spawned Boats": "Botes Generados",
@@ -691,4 +691,15 @@
     "Delete Figure": "Borrar Figure",
     "Deleting Figure...": "Borrando Figure",
     "Deleted Figure Successfully!": "Figure borrado con exito!"
+    "Fix stuck on Already running.": "Arreglo de atascamiento esta corriendo",
+    "Inventory": "Inventario",
+    "Center Button": "Boton Central",
+    "One map repair costs 250C$.": "Un reparo de mapa cuesta 250C$",
+    "Auto Claim": "Auto Reclamar",
+    "Claim Current Maps": "Reclamar mapas actuales",
+    "Discord Settings": "Configuraciones de Discord",
+    "Anchor Bobber": "Bobber de Ancla",
+    "Anchors the bobber during Auto Fishing.": "Ancla el bobber mientras auto pescar."
+    "Teleport to Boat": "Transportarse al Bote"
+    "Anchors you during Auto Fishing.": "Te ancla durante auto pescar"
 }
