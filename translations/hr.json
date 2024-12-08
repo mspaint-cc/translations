@@ -596,7 +596,7 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "Nevaljna varijala 'Game' (Očekivan 'string/table' dobio '",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' nije učitano: nevaljna varijabla 'Game' (Očekivan 'string/table' dobio '",
     "[mspaint] Failed to load addon '": "[mspaint] Nije uspješno učitavanje dodatka '",
-    "Failed to load this addon:": "Nije uspješno učitavanje dodatka:"
+    "Failed to load this addon:": "Nije uspješno učitavanje dodatka:",
 
     "Info": "Info",
     "Menu Keybind": "Tipka za meni",
