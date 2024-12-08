@@ -669,6 +669,8 @@
     "[GameId: %s, JobID: %s] %s": "[GameId: %s, JobID: %s] %s",
     "Developers:": "Разработчики:",
     "upio - Owner": "upio - Владелец",
+	"Contributors:": "Участники:",
+	"Translators:": "Переводчики:",
     "Thank you for supporting us by doing the key system!": "Спасибо, что поддержали нас, делая ключевую-систему!",
     "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "Спасибо за покупку пожизненного ключа! Это поможет продлить жизнь скрипта :D",
     "Time left: ": "Оставшееся время: ",
