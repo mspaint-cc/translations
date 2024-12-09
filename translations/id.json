@@ -624,6 +624,32 @@
     "Buy Item": "Beli Alat",
     "Cost: %s": "Biaya: %s",
 
+    "Selected Player": "Pemain Diseleksi",
+    "Kill Player with Figure": "Bunuh Pemain dengan Figure",
+    "Figure has not spawned in your room.": "Figure belum spawn di ruangan anda.",
+    "Please use an alarm clock and wait until Figure destroys the clock...": "Mohon gunakan jam alarm dan tunggu sampai Figure menghancurkan jam...",
+    "You have to select a player to kill.": "Anda harus mengseleksi pemain untuk dibunuh.",
+    "You can't kill yourself.": "Anda tidak dapat membunuh diri sendiri.",
+    "Killed %s successfully!": "Berhasil membunuh %s!",
+    "Had an error while trying to kill the player.": "Gagal membunuh pemain",
+    "Delete Figure (FE)": "Hapus Figure (FE)",
+    "Delete Figure": "Hapus Figure",
+    "Deleting Figure...": "Menghapus Figure...",
+    "Deleted Figure Successfully!": "Figure Berhasil Dihapus!",
+
+    "Fix stuck on Already running.": "Perbaiki terjebak ketika sudah berlari.",
+    "Inventory": "Inventory",
+    "Center Button": "Tombol Tengah",
+    "One map repair costs 250C$.": "Biaya memperbaiki satu peta adalah 250C$.",
+    "Auto Claim": "Klaim Otomatis",
+    "Claim Current Maps": "Klaim Peta Ini",
+    "Discord Settings": "Pengaturan Discord",
+    "Anchor Bobber": "Jangkar Bobber",
+    "Anchors the bobber during Auto Fishing.": "Menjangkar bobber ketika Memancing Otomatis.",
+
+    "Contributors:": "Kontibutor:",
+    "Translators:": "Penerjemah:",
+
     
     "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] Berhenti memuat. (GALAT: Memuat)",
     "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] Berhenti memuat. (GALAT: Sudah dimuat)",
