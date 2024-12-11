@@ -707,5 +707,23 @@
     "Delete Figure (FE)": "删除飞哥（FE）",
     "Delete Figure": "删除飞哥",
     "Deleting Figure...": "正在删除飞哥",
-    "Deleted Figure Successfully!": "成功删除飞哥"
+    "Deleted Figure Successfully!": "成功删除飞哥",
+
+    "Fix stuck on Already running.": "修复位置已经在运行了",
+    "Inventory": "背包",
+    "Center Button": "按钮移至中间",
+    "One map repair costs 250C$.": "修复地图需要250C$",
+    "Auto Claim": "自动认领",
+    "Claim Current Maps": "认领目前地图",
+    "Discord Settings": "Discord设置",
+    "Anchor Bobber": "锚住浮标",
+    "Anchors the bobber during Auto Fishing.": "将浮标稳稳锚定住",
+
+    "Contributors:": "开发者",
+    "Translators:": "翻译员",
+
+    "Auto Bait": "自动诱饵",
+    "Priority": "优先级",
+    "Equipped %s.": "已将 %s 装备",
+    "Reset": "重置"
 }
