@@ -752,5 +752,25 @@
 "Anchors the bobber during Auto Fishing.": "هنگام ماهیگیری خودکار شناور را ثابت نگه می‌دارد.",
 "Anchors you during Auto Fishing.": "هنگام ماهیگیری خودکار شما را ثابت نگه می‌دارد.",
 "Contributors:": "همکار ها",
-"Translators:": "مترجم ها "
+"Translators:": "مترجم ها ",
+"Auto Bait": "قرار دادن طعمه خودکار",
+"Priority": "اولویت",
+"Equipped %s.": "به %s مجهز شد.",
+"Reset": "بازنشانی",
+   
+"Fun": "باحال",
+"Auto Spin Flashlight": "چرخاندن خودکار چراغ قوه",
+   
+"Auto Quest": "انجام خودکار ماموریت ها",
+"Make sure to start the quest first!": "ابتدا ماموریت را فعال کنید!",
+"Completed Quest!": "ماموریت انجام شد!",
+"Completing Quest...": "درحال انجام ماموریت...",
+"Finished with quest, re-enabling Auto Farm...": "ماموریت انجام شد ، فعال سازی مجدد فارم خودکار...",
+"Auto Farm is enabled, disabling...": "فارم خودکار درحال حاضر فعال است، درحال خاموش کردن...",
+
+"Complete Cloud Quest": "انجام ماموریت Cloud",
+"Complete Target Quest": "انجام ماموریت Target",
+"Complete Ramp Quest": "انجام ماموریت Ramp",
+"Complete Find Me Quest": "انجام ماموریت Find Me",
+"Complete Thin Ice Quest": "انجام ماموریت Thin Ice"
 }
