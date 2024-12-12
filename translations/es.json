@@ -707,5 +707,17 @@
     "Auto Bait": "Bait Automatico",
     "Priority": "Prioridad",
     "Equipped %s.": "%s Equipado",
-    "Reset": "Resetear"
+    "Reset": "Resetear",
+    "Auto Quest": "Mision Automatica",
+    "Make sure to start the quest first!": "Asegurate de empezar la mision primero!",
+    "Completed Quest!": "Mision completada!",
+    "Completing Quest...": "Completando mision...",
+    "Finished with quest, re-enabling Auto Farm...": "Mision terminada, re-activando Auto Granja",
+    "Auto Farm is enabled, disabling...": "Auto Granja esta activado, desactivando...",
+
+    "Complete Cloud Quest": "Completar mision de Nube",
+    "Complete Target Quest": "Completar mision de objetivo",
+    "Complete Ramp Quest": "Completar mision de Rampa",
+    "Complete Find Me Quest": "Completar mision de Encuentrame",
+    "Complete Thin Ice Quest": "Completar mision de hielo fino"
 }
