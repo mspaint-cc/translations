@@ -521,6 +521,26 @@
     "Failed to cast the fishing rod, retrying...": "Olta malesef Castlanamadı Tekrar deneme yapılıyor...",
     "Resuming Auto Fish...": "Otomatik Balık Tutmaya Devam Ediliyor...",
     "Auto Fish stopped.": "Otomatik Balık Tutma Durduruldu.",
+
+    "Fun":"Eğlence",
+    "Auto Spin Flashlight":"Otomatik Fener Döndürme",
+
+    "Auto Bait":"Otomatik Yem",
+    "Priority":"Öncelik",
+    "Equipped %s.":"%s Takıldı.",
+    "Reset":"Sıfırla",
+
+    "Auto Quest":"Otomatik Görev",
+    "Make sure to start the quest first!":"Önce göreve başladığınızdan emin olun!",
+    "Completed Quest!":"Görev Tamamlandı!",
+    "Completing Quest...":"Görev Tamamlanıyor...",
+    "Finished with quest, re-enabling Auto Farm...":"Görev tamamlandı, Otomatik Farm Tekrar Açılıyor...",
+    "Auto Farm is enabled, disabling...":"Otomatik Farm Açıldı Kapatılıyor...",
+    "Complete Cloud Quest":"Bulut Görevini Tamamla",
+    "Complete Target Quest":"Hedef Görevini Tamamla",
+    "Complete Ramp Quest":"Rampa Görevini Tamamla",
+    "Complete Find Me Quest":"Beni Bul Görevini Tamamla",
+    "Complete Thin Ice Quest":"İnce Buz Görevini Tamamla",
     
     "Fix stuck on Already running.": "Zaten çalışıyor durumunda takılı kalanı düzelt.",
     "Inventory": "Envanter",
