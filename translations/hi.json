@@ -18,7 +18,7 @@
     "Automation": "स्वचालन",
     "Ambient": "परिवेश",
     "Bypass": "बाईपास",
-    "Farm": "ऑटो-खेती",
+    "Farm": "खेती",
 
 
     "Loading data...": "डेटा लोड हो रहा है...",
@@ -350,8 +350,8 @@
     "Banana/Jeff Throw": "केला / जेफ फेंको",
     "You are no longer holding the item due to network owner change!": "नेटवर्क स्वामी बदलने के कारण, अब आपके पास वस्तु नहीं है!",
     "Throw": "फेंकना",
-    "Throw Strength": "फेंकने की शक्ति"
-,
+    "Throw Strength": "फेंकने की शक्ति", 
+
     "Anti-Banana": "एंटी-केला",
     "Infinite Revives": "अनंत पुनर्जीवन",
     "Figure Godmode": "फिगर गॉडमोड",
@@ -769,5 +769,17 @@
     "Auto Bait": "स्वचालित चारा",
     "Priority": "प्राथमिकता",
     "Equipped %s.": "%s सुसज्जित।",
-    "Reset": "रीसेट"
+    "Reset": "रीसेट", 
+    
+    "Auto Quest": "स्वचालित क्वेस्ट",
+    "Make sure to start the quest first!": "सुनिश्चित करें कि आपने पहले क्वेस्ट शुरू की है!",
+    "Completed Quest!": "क्वेस्ट पूरी हुई!",
+    "Completing Quest...": "क्वेस्ट पूरी हो रही है...",
+    "Finished with quest, re-enabling Auto Farm...": "क्वेस्ट पूरी हुई, ऑटो-खेती पुनः सक्षम किया जा रहा है...",
+    "Auto Farm is enabled, disabling...": "ऑटो-खेती सक्षम है, अक्षम किया जा रहा है...",
+    "Complete Cloud Quest": "क्लाउड क्वेस्ट पूरी करें",
+    "Complete Target Quest": "टारगेट क्वेस्ट पूरी करें",
+    "Complete Ramp Quest": "रैंप क्वेस्ट पूरी करें",
+    "Complete Find Me Quest": "मुझे ढूंढो क्वेस्ट पूरा करें",
+    "Complete Thin Ice Quest": "थिन आइस क्वेस्ट पूरी करें"
 }
