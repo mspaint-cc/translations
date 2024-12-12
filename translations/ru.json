@@ -467,6 +467,25 @@
 
 
 
+	"Auto Bait": "Авто-наживка",
+	"Priority": "Приоритет",
+	"Equipped %s.": "Экипирован(о) %s.",
+	"Reset": "Сброс",
+	"Auto Quest": "Авто-задание",
+	"Make sure to start the quest first!": "Убедитесь, что начали задание!",
+	"Completed Quest!": "Задание выполнено!",
+	"Completing Quest...": "Выполнение задания...",
+	"Finished with quest, re-enabling Auto Farm...": "Задание завершено, повторно включается авто-ферма...",
+	"Auto Farm is enabled, disabling...": "Авто-ферма включена, отключение...",
+
+	"Complete Cloud Quest": "Завершить задание Облако",
+	"Complete Target Quest": "Завершить задание Цель",
+	"Complete Ramp Quest": "Завершить задание Рамп",
+	"Complete Find Me Quest": "Завершить задание Найди меня",
+	"Complete Thin Ice Quest": "Завершить задание Тонкий лед",
+	"Fun": "Веселье",
+	"Auto Spin Flashlight": "Авто-кручение фонарика",
+
 	
 	"Auto Fish": "Автоматическая рыбалка",
 	"Mode": "Режим",
