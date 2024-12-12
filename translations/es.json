@@ -703,5 +703,9 @@
     "Teleport to Boat": "Transportarse al Bote",
     "Anchors you during Auto Fishing.": "Te ancla durante auto pescar",
     "Contributors:": "Colaboradores",
-    "Translators:": "Traductores"
+    "Translators:": "Traductores",
+    "Auto Bait": "Bait Automatico",
+    "Priority": "Prioridad",
+    "Equipped %s.": "%s Equipado",
+    "Reset": "Resetear"
 }
