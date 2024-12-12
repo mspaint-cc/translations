@@ -481,6 +481,10 @@
     "Battery": "बैटरी",
     "No Flashlight Shadow": "टॉर्च की छाया नहीं",
     "No Blur": "ब्लर बंद",
+    "Auto Bait": "स्वचालित चारा",
+    "Priority": "प्राथमिकता",
+    "Equipped %s.": "%s सुसज्जित।",
+    "Reset": "रीसेट", 
 
 
 
@@ -551,6 +555,10 @@
     "Perfect Reel Chance": "परफेक्ट रील मौका",
     "Failed to find Boat's Base.": "नाव का बेस नहीं मिला।",
 
+    "Menu": "मेन्यू", 
+    "Fun": "मनोरंजन",
+    "Auto Spin Flashlight": "ऑटो स्पिन टॉर्च", 
+    
     "Anchor Player": "एंकर प्लेयर",
     "Anchors you during Auto Fishing.": "ऑटो फिशिंग में आपको ऐंकर करके जमाए रखता है।",
 
@@ -685,6 +693,18 @@
     "Info": "जानकारी",
     "Menu Keybind": "मेनू कीबाइंड",
 
+    "Auto Quest": "स्वचालित क्वेस्ट",
+    "Make sure to start the quest first!": "सुनिश्चित करें कि आपने पहले क्वेस्ट शुरू की है!",
+    "Completed Quest!": "क्वेस्ट पूरी हुई!",
+    "Completing Quest...": "क्वेस्ट पूरी हो रही है...",
+    "Finished with quest, re-enabling Auto Farm...": "क्वेस्ट पूरी हुई, ऑटो-खेती पुनः सक्षम किया जा रहा है...",
+    "Auto Farm is enabled, disabling...": "ऑटो-खेती सक्षम है, अक्षम किया जा रहा है...",
+    "Complete Cloud Quest": "क्लाउड क्वेस्ट पूरी करें",
+    "Complete Target Quest": "टारगेट क्वेस्ट पूरी करें",
+    "Complete Ramp Quest": "रैंप क्वेस्ट पूरी करें",
+    "Complete Find Me Quest": "मुझे ढूंढो क्वेस्ट पूरा करें",
+    "Complete Thin Ice Quest": "थिन आइस क्वेस्ट पूरी करें",
+
     "Infinite Jetpack Duration": "अनंत जेटपैक अवधि",
     "Motor Modification": "मोटर संशोधन",
     "Enable Motor Modifications": "मोटर संशोधन सक्षम करें",
@@ -764,25 +784,5 @@
     "Addon '": "ऐड-ऑन", 
 
     "Contributors:": "योगदानकर्ताओं",
-    "Translators:": "अनुवादकों", 
-
-    "Auto Bait": "स्वचालित चारा",
-    "Priority": "प्राथमिकता",
-    "Equipped %s.": "%s सुसज्जित।",
-    "Reset": "रीसेट", 
-    
-    "Auto Quest": "स्वचालित क्वेस्ट",
-    "Make sure to start the quest first!": "सुनिश्चित करें कि आपने पहले क्वेस्ट शुरू की है!",
-    "Completed Quest!": "क्वेस्ट पूरी हुई!",
-    "Completing Quest...": "क्वेस्ट पूरी हो रही है...",
-    "Finished with quest, re-enabling Auto Farm...": "क्वेस्ट पूरी हुई, ऑटो-खेती पुनः सक्षम किया जा रहा है...",
-    "Auto Farm is enabled, disabling...": "ऑटो-खेती सक्षम है, अक्षम किया जा रहा है...",
-    "Complete Cloud Quest": "क्लाउड क्वेस्ट पूरी करें",
-    "Complete Target Quest": "टारगेट क्वेस्ट पूरी करें",
-    "Complete Ramp Quest": "रैंप क्वेस्ट पूरी करें",
-    "Complete Find Me Quest": "मुझे ढूंढो क्वेस्ट पूरा करें",
-    "Complete Thin Ice Quest": "थिन आइस क्वेस्ट पूरी करें", 
-
-    "Fun": "मनोरंजन",
-    "Auto Spin Flashlight": "ऑटो स्पिन टॉर्च"
+    "Translators:": "अनुवादकों"
 }
