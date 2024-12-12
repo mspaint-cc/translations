@@ -610,5 +610,24 @@
    "Anchors the bobber during Auto Fishing.": "Закріплює поплавок під час авто риболовлі.",
    "Anchors you during Auto Fishing.": "Закріплює вас під час авто риболовлі.",
    "Contributors:": "Учасники:",
-   "Translators:": "Перекладачі:"
+   "Translators:": "Перекладачі:",
+   "Auto Bait": "Автонаживка",
+   "Priority": "Пріоритет",
+   "Equipped %s.": "Оснащено %s.",
+   "Reset": "Скинути",
+   "Auto Quest": "Автоквест",
+   "Make sure to start the quest first!": "Переконайтеся, що спочатку розпочали квест!",
+   "Completed Quest!": "Квест завершено!",
+   "Completing Quest...": "Виконується квест...",
+   "Finished with quest, re-enabling Auto Farm...": "Квест завершено, автоматичну ферму знову увімкнено...",
+   "Auto Farm is enabled, disabling...": "Автоматична ферма увімкнена, вимикається...",
+   
+   "Complete Cloud Quest": "Завершити квест з хмарою",
+   "Complete Target Quest": "Завершити цільовий квест",
+   "Complete Ramp Quest": "Завершити квест з рампою",
+   "Complete Find Me Quest": "Завершити квест «Знайди мене»",
+   "Complete Thin Ice Quest": "Завершити квест «Тонка крига»",
+   "Fun": "Розвага",
+   "Auto Spin Flashlight": "Автоматичне обертання ліхтарика"
+
 }
