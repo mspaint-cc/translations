@@ -764,5 +764,10 @@
     "Addon '": "ऐड-ऑन", 
 
     "Contributors:": "योगदानकर्ताओं",
-    "Translators:": "अनुवादकों"
+    "Translators:": "अनुवादकों", 
+
+    "Auto Bait": "स्वचालित चारा",
+    "Priority": "प्राथमिकता",
+    "Equipped %s.": "%s सुसज्जित।",
+    "Reset": "रीसेट"
 }
