@@ -719,5 +719,21 @@
     "Auto Bait": "自動誘餌",
     "Priority": "優先級",
     "Equipped %s.": "已將 %s 裝備",
-    "Reset": "重置"
+    "Reset": "重置"，
+
+    "Auto Quest": "自動任務",
+    "Make sure to start the quest first!": "請確保完成第壹個任務",
+    "Completed Quest!": "已完成任務！",
+    "Completing Quest...": "正在完成任務...",
+    "Finished with quest, re-enabling Auto Farm...": "已完成任務，正在重啓自動釣魚",
+    "Auto Farm is enabled, disabling...": "自動釣魚已開啓，正在關閉...",
+
+    "Complete Cloud Quest": "完成摸雲任務",
+    "Complete Target Quest": "完成打擊目標任務",
+    "Complete Ramp Quest": "完成大坡任務",
+    "Complete Find Me Quest": "完成“找到我”任務",
+    "Complete Thin Ice Quest": "自動完成薄冰任務",
+
+    "Fun": "好玩的:)",
+    "Auto Spin Flashlight": "自動旋轉手電筒"
 }
