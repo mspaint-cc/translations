@@ -684,8 +684,8 @@
     "Open Distance": "开启距离",
 
     "Disable Kill Client Remote": "关闭客户端遥控击杀",
-    "Disable Carnation": "关闭Carnation",
-    "Disable Slight & Heed Damage": "无视轻微及注意损坏",
+    "Disable Carnation": "无视Carnation",
+    "Disable Slight & Heed Damage": "无视Slight和Heed的伤害",
     "Disable Slugfish": "无视SlugFish",
     "Disable Elkman": "无视Elkman",
     "Disable Sarrow": "无视Sarrow",
@@ -725,5 +725,22 @@
     "Auto Bait": "自动诱饵",
     "Priority": "优先级",
     "Equipped %s.": "已将 %s 装备",
-    "Reset": "重置"
+    "Reset": "重置",
+
+    "Auto Quest": "自动任务",
+    "Make sure to start the quest first!": "请确保完成第一个任务",
+    "Completed Quest!": "已完成任务！",
+    "Completing Quest...": "正在完成任务...",
+    "Finished with quest, re-enabling Auto Farm...": "已完成任务，正在重启自动钓鱼",
+    "Auto Farm is enabled, disabling...": "自动钓鱼已开启，正在关闭...",
+
+    "Complete Cloud Quest": "完成摸云任务",
+    "Complete Target Quest": "完成打击目标任务",
+    "Complete Ramp Quest": "完成大坡任务",
+    "Complete Find Me Quest": "完成“找到我”任务",
+    "Complete Thin Ice Quest": "自动完成薄冰任务",
+
+    "Fun": "好玩的:)",
+    "Auto Spin Flashlight": "自动旋转手电筒"
+    
 }
