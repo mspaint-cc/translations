@@ -628,6 +628,9 @@
    "Complete Find Me Quest": "Завершити квест «Знайди мене»",
    "Complete Thin Ice Quest": "Завершити квест «Тонка крига»",
    "Fun": "Розвага",
-   "Auto Spin Flashlight": "Автоматичне обертання ліхтарика"
-
+   "Auto Spin Flashlight": "Автоматичне обертання ліхтарика",
+   "Notification Sound ID": "ID звуку сповіщення",
+   "Reset Sound to Default": "Скинути звук до стандартних",
+   "Notification Sound": "Звук сповіщення",
+   "Sound has been reset to default.": "Звук скинуто до стандартного."
 }
