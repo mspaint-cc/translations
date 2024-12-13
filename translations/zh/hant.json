@@ -735,5 +735,10 @@
     "Complete Thin Ice Quest": "自動完成薄冰任務",
 
     "Fun": "好玩的:)",
-    "Auto Spin Flashlight": "自動旋轉手電筒"
+    "Auto Spin Flashlight": "自動旋轉手電筒",
+
+    "Notification Sound ID": "通知聲音ID",
+    "Reset Sound to Default": "重置聲音",
+    "Notification Sound": "通知聲音",
+    "Sound has been reset to default.": "聲音已調至默認"
 }
