@@ -721,5 +721,9 @@
     "Complete Find Me Quest": "Completar mision de Encuentrame",
     "Complete Thin Ice Quest": "Completar mision de hielo fino",
     "Fun": "Diversion",
-    "Auto Spin Flashlight": "Girar linterna automaticamente"
-}
+    "Auto Spin Flashlight": "Girar linterna automaticamente",
+    "Notification Sound ID": "ID de sonido de notificacion",
+    "Reset Sound to Default": "Resetear sonido a preterminado",
+    "Notification Sound": "Sonido de notificacion",
+    "Sound has been reset to default.": "El sonido ha sido reseteado por preterminado"
+    }
