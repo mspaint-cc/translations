@@ -650,6 +650,32 @@
     "Contributors:": "Kontibutor:",
     "Translators:": "Penerjemah:",
 
+    "Auto Bait": "Umpan Otomatis",
+    "Priority": "Prioritas",
+    "Equipped %s.": "Menggunakan %s.",
+    "Reset": "Reset",
+
+    "Auto Quest": "Quest Otomatis",
+    "Make sure to start the quest first!": "Pastikan untuk memulai quest terlebih dahulu!",
+    "Completed Quest!": "Quest Selesai!",
+    "Completing Quest...": "Menyelesaikan Quest",
+    "Finished with quest, re-enabling Auto Farm...": "Selesai dengan quest, menyalakan ulang Farm Otomatis...",
+    "Auto Farm is enabled, disabling...": "",
+
+    "Complete Cloud Quest": "Quest Awan Selesai",
+    "Complete Target Quest": "Quest Target Selesai",
+    "Complete Ramp Quest": "Quest Ramp Selesai",
+    "Complete Find Me Quest": "Quest Cari Aku Selesai",
+    "Complete Thin Ice Quest": "Quest Es Tipis Selesai",
+
+    "Fun": "Seru",
+    "Auto Spin Flashlight": "Putar Senter Otomatis",
+
+    "Notification Sound ID": "ID Suara Notifikasi",
+    "Reset Sound to Default": "Reset Suara ke Bawaan",
+    "Notification Sound": "Suara Notifikasi",
+    "Sound has been reset to default.": "Suara telah di-reset ke bawaan.",
+
     
     "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] Berhenti memuat. (GALAT: Memuat)",
     "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] Berhenti memuat. (GALAT: Sudah dimuat)",
