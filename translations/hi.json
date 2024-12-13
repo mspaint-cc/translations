@@ -789,5 +789,7 @@
     "Notification Sound ID": "अधिसूचना ध्वनि आईडी",
     "Reset Sound to Default": "ध्वनि को डिफ़ॉल्ट पर रीसेट करें",
     "Notification Sound": "अधिसूचना ध्वनि",
-    "Sound has been reset to default.": "ध्वनि डिफ़ॉल्ट पर रीसेट कर दी गई है।"
+    "Sound has been reset to default.": "ध्वनि डिफ़ॉल्ट पर रीसेट कर दी गई है।", 
+
+    "Discord Rich Presence": "डिस्कॉर्ड रिच प्रेजेंस"
 }
