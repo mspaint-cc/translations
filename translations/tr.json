@@ -619,7 +619,11 @@
 
     "Sell Item in Hand": "Elindeki Eşyayı Sat",
     "Sell Inventory": "Envanteri Sat",
-    
+
+    "Notification Sound ID": "Bildirim Ses ID'si",
+    "Reset Sound to Default": "Sesi Varsayılana Sıfırla",
+    "Notification Sound": "Bildirim Sesi",
+    "Sound has been reset to default.": "Ses varsayılana sıfırlandı.",
     
     "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] Yüklenme Durduruldu. (HTA: Yükeniliyor)",
     "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] Yüklenme Durduruldu. (HATA: Zaten Yüklendi)",
