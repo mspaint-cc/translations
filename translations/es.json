@@ -725,5 +725,6 @@
     "Notification Sound ID": "ID de sonido de notificacion",
     "Reset Sound to Default": "Resetear sonido a preterminado",
     "Notification Sound": "Sonido de notificacion",
-    "Sound has been reset to default.": "El sonido ha sido reseteado por preterminado"
+    "Sound has been reset to default.": "El sonido ha sido reseteado por preterminado",
+    "Discord Rich Presence": "Presencia de discord rica"
     }
