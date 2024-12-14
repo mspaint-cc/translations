@@ -698,7 +698,8 @@
     "Expired": "Окончившийся",
     "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.": "Срок действия вашего ключа истёк, ваш доступ к mspaint будет аннулирован при следующем выполнении, если вы не продлите срок действия ключа или не купите пожизненный ключ.",
     "Restart mspaint to apply language changes.": "Перезапустите mspaint, чтобы применить изменения языка.",
-
+	"Discord Rich Presence": "Показывать статус в дискорде",
+	
     
     "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Ваш чит(инжектор) не поддерживает API файловой системы. Аддоны не будут работать.",
     "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] Папка Addons не существует. Создание...",
