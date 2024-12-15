@@ -772,5 +772,27 @@
 "Complete Target Quest": "انجام ماموریت Target",
 "Complete Ramp Quest": "انجام ماموریت Ramp",
 "Complete Find Me Quest": "انجام ماموریت Find Me",
-"Complete Thin Ice Quest": "انجام ماموریت Thin Ice"
+"Complete Thin Ice Quest": "انجام ماموریت Thin Ice",
+"Anti-Tripwire": "ضد سیم تله",
+"Notification Sound ID": "شماره عددی صدای اگاهسازی",
+"Reset Sound to Default": "بازنشانی صدا به حالت اولیه",
+"Notification Sound": "صدای اگاهسازی",
+"Sound has been reset to default.": "صدا با موفقیت به حالت اولیه بازنشانی شد.",
+"Murderer": "قاتل",
+"Kill All": "کشتن همه",
+"The game has not started yet!": "بازی هنوز شروع نشده است!",
+"You are not the murderer!": "شما قاتل نیستید!",
+"Killed all players!": "همه بازیکن ها کشته شدند!",
+
+"Sheriff": "کلانتر",
+"Kill Murderer": "کشتن قاتل",
+"You are not the sheriff!": "شما کلانتر نیستید!",
+"Failed to find the murder!": "پیدا کردن قاتل شکست خورد!",
+"Killed the murderer!": "قاتل کشته شد!",
+
+"Auto Collect Coins": "جمع کردن خودکار سکه ها",
+"Auto Collect Gun": "برداشتن خودکار تفنگ",
+
+"Dropped Gun": "تفنگ انداخته شد",
+"Discord Rich Presence": "ریچ پرزنس دیسکورد"
 }
