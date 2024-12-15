@@ -632,5 +632,23 @@
    "Notification Sound ID": "ID звуку сповіщення",
    "Reset Sound to Default": "Скинути звук до стандартних",
    "Notification Sound": "Звук сповіщення",
-   "Sound has been reset to default.": "Звук скинуто до стандартного."
+   "Sound has been reset to default.": "Звук скинуто до стандартного.",
+   "Discord Rich Presence": "Стан у Discord",  
+   "Murderer": "Вбивця",  
+   "Kill All": "Убити всіх",  
+   "The game has not started yet!": "Гра ще не розпочалася!",  
+   "You are not the murderer!": "Ви не вбивця!",  
+   "Killed all players!": "Убито всіх гравців!",  
+   
+   "Sheriff": "Шериф",  
+   "Kill Murderer": "Убити вбивцю",  
+   "You are not the sheriff!": "Ви не шериф!",  
+   "Failed to find the murder!": "Не вдалося знайти вбивцю!",  
+   "Killed the murderer!": "Убито вбивцю!",  
+   
+   "Auto Collect Coins": "Автозбирання монет",  
+   "Auto Collect Gun": "Автозбирання зброї",  
+   
+   "Dropped Gun": "Залишена зброя",  
+   "Anti-Tripwire": "Анти-розтяжка"
 }
