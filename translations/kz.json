@@ -372,5 +372,46 @@
   "Teleport to Boat": "Кемеге телепортация жасау",
   "Anchors you during Auto Fishing.": "Автоматты балық аулау кезінде сізді бекітеді.",
   "Contributors:": "Салымшылар",
-  "Translators:": "Аудармашылар "
+  "Translators:": "Аудармашылар ",
+  "Auto Bait": "Авто жем",
+  "Priority": "Маңыздылық",
+  "Equipped %s.": "Жабдықталды %s.",
+  "Reset": "Қалпына келтіру",
+
+  "Auto Quest": "Авто тапсырма",
+  "Make sure to start the quest first!": "Алдымен тапсырманы бастағаныңызға көз жеткізіңіз!",
+  "Completed Quest!": "Тапсырма аяқталды!",
+  "Completing Quest...": "Тапсырма орындалуда...",
+  "Finished with quest, re-enabling Auto Farm...": "Тапсырма аяқталды, авто ферма қайта іске қосылуда...",
+  "Auto Farm is enabled, disabling...": "Авто ферма қосылды, өшірілуде...",
+
+  "Complete Cloud Quest": "Бұлт тапсырмасын аяқтау",
+  "Complete Target Quest": "Мақсат тапсырмасын аяқтау",
+  "Complete Ramp Quest": "Рамп тапсырмасын аяқтау",
+  "Complete Find Me Quest": "Мен тапқан тапсырманы аяқтау",
+  "Complete Thin Ice Quest": "Жұқа мұз тапсырмасын аяқтау",
+
+  "Notification Sound ID": "Хабарлама дыбысы ID",
+  "Reset Sound to Default": "Дыбысты әдепкіге қалпына келтіру",
+  "Notification Sound": "Хабарлама дыбысы",
+  "Sound has been reset to default.": "Дыбыс әдепкіге қалпына келтірілді.",
+
+  "Discord Rich Presence": "Discord кеңейтілген қатысуы",
+
+  "Murderer": "Қылмыскер",
+  "Kill All": "Барлығын өлтіру",
+  "The game has not started yet!": "Ойын әлі басталған жоқ!",
+  "You are not the murderer!": "Сіз қылмыскер емессіз!",
+  "Killed all players!": "Барлық ойыншылар өлтірілді!",
+
+  "Sheriff": "Шериф",
+  "Kill Murderer": "Қылмыскерді өлтіру",
+  "You are not the sheriff!": "Сіз шериф емессіз!",
+  "Failed to find the murder!": "Қылмыскер табылмады!",
+  "Killed the murderer!": "Қылмыскер өлтірілді!",
+
+  "Auto Collect Coins": "Монеталарды авто жинау",
+  "Auto Collect Gun": "Қаруды авто жинау",
+
+  "Dropped Gun": "Тасталған қару"
 }
