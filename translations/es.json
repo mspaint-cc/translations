@@ -726,5 +726,22 @@
     "Reset Sound to Default": "Resetear sonido a preterminado",
     "Notification Sound": "Sonido de notificacion",
     "Sound has been reset to default.": "El sonido ha sido reseteado por preterminado",
-    "Discord Rich Presence": "Presencia de discord rica"
+    "Discord Rich Presence": "Presencia de discord rica",
+    "Murderer": "Asesino",
+    "Kill All": "Matar a todos",
+    "The game has not started yet!": "El juego todavia no empezo!",
+    "You are not the murderer!": "No eres el asesino!",
+    "Killed all players!": "Jugadores matados!",
+
+    "Sheriff": "Sheriff",
+    "Kill Murderer": "Matar asesino",
+    "You are not the sheriff!": "Tu no eres el sheriff!",
+    "Failed to find the murder!": "Fallo en encontrar al asesino",
+    "Killed the murderer!": "Asesino matado!",
+
+    "Auto Collect Coins": "Recoger monedas automaticamente",
+    "Auto Collect Gun": "Recoger pistola automaticamente",
+
+    "Dropped Gun": "Pistola caida",
+    "Anti-Tripwire": "Anti-cable trampa"
     }
