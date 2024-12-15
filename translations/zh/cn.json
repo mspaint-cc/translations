@@ -765,6 +765,19 @@
 
     "Dropped Gun": "已掉落枪",
 
-    "Anti-Tripwire": "防绊线钩"
+    "Anti-Tripwire": "防绊线钩",
+
+    "Your executor doesn't support this feature.": "你的注入器不支持此功能",
+    "General": "基本",
+    "Disable Sensors": "关闭传感器",
+    "Instant Role Notify": "立马通知身份",
+    "Silent Aim": "静默自瞄",
+    "Reach Multiplier": "击杀距离",
+    "Enable Reach": "启用",
+    "Kill Sheriff": "击杀警长",
+    "Please equip the gun.": "请装备枪",
+    "Please equip the knife.": "请装备刀。",
+    "Failed to find the sheriff!": "无法找到警长！",
+    "Killed the sheriff!": "已将警长击杀！"
     
 }
