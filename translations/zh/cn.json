@@ -30,7 +30,7 @@
     "No Fog": "无雾霾",
 
     "Enable Speed Hack": "启用加速挂",
-    "Prompt Clip": "迅速卡墙",
+    "Prompt Clip": "穿墙互动",
     "Auto Library Code": "自动图书馆密码",
     "Addons": "插件",
     "Transparency": "透明度",
@@ -133,7 +133,7 @@
     "Jump Boost": "跳跃增强",
     "Fast Closet Exit": "快速离柜子",
     "Door Reach": "门延伸距离",
-    "Prompt Reach Multiplier": "门延伸距离调整",
+    "Prompt Reach Multiplier": "穿墙延伸距离调整",
 
     "Auto Interact": "自动互动",
     "Auto Interact Ignore": "自动互动黑名单",
@@ -142,7 +142,7 @@
     "Auto Heartbeat Minigame": "自动心跳小游戏",
     "Auto Library Solver": "自动图书馆解锁",
     "Auto Library Code Setting": "自动图书馆密码设置",
-    "Unlock Distance": "解锁距离",
+    "Unlock Distance": "解锁的距离",
 
     "Auto Breaker Solver": "自动断路器",
     "The breaker box has been successfully solved.": "断路器已被自动解锁.",
@@ -412,7 +412,7 @@
 
 
     
-    "Submarine Sniper": "潜艇狙击手",
+    "Submarine Sniper": "狙击潜艇",
     "Don't worry you have godmode enabled!": "别担心，你已启用无敌模式！",
     "Don't worry you have Anti Turrets enabled": "别担心，你已启用反炮塔！",
     "Don't get in their line of sight!": "小心别进入他们的视线！",
