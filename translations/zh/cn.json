@@ -746,6 +746,25 @@
     "Notification Sound ID": "通知声音ID",
     "Reset Sound to Default": "重置声音",
     "Notification Sound": "通知声音",
-    "Sound has been reset to default.": "声音已调至默认"
+    "Sound has been reset to default.": "声音已调至默认",
+
+    "Murderer": "杀手",
+    "Kill All": "干死所有人",
+    "The game has not started yet!": "游戏还未开始",
+    "You are not the murderer!": "你不是杀手",
+    "Killed all players!": "已将所有人干了",
+
+    "Sheriff": "警长",
+    "Kill Murderer": "击杀杀手",
+    "You are not the sheriff!": "你不是警长",
+    "Failed to find the murder!": "无法找到杀手",
+    "Killed the murderer!": "已将杀手击杀",
+
+    "Auto Collect Coins": "自动捡金币",
+    "Auto Collect Gun": "自动捡枪",
+
+    "Dropped Gun": "已掉落枪",
+
+    "Anti-Tripwire": "防绊线钩"
     
 }
