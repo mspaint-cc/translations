@@ -741,7 +741,7 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "Variable 'Game' tidak sah (expected 'string/table' got '",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' tidak dapat dimuat: Variable 'Game' tidak sah (expected 'string/table' got '",
     "[mspaint] Failed to load addon '": "[mspaint] Gagal memuat addon '",
-    "Failed to load this addon:": "Gagal memuat addon ini:"
+    "Failed to load this addon:": "Gagal memuat addon ini:",
 
 "Murderer": "Murder",
 "Kill All": "Bunuh Semua",
