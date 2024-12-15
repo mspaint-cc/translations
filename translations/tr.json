@@ -620,6 +620,23 @@
     "Sell Item in Hand": "Elindeki Eşyayı Sat",
     "Sell Inventory": "Envanteri Sat",
 
+    "Murderer": "Katil",
+    "Kill All": "Herkezi Öldür",
+    "The game has not started yet!": "Oyun şuan başlamadı!",
+    "You are not the murderer!": "Katil değilsin!",
+    "Killed all players!": "Bütün oyuncular öldürüldü!",
+    
+    "Sheriff": "Şerif",
+    "Kill Murderer": "Katili Öldür",
+    "You are not the sheriff!": "Şerif Değilsin!",
+    "Failed to find the murder!": "Katil bulunamadı!",
+    "Killed the murderer!": "Katil Öldürüldü!",
+    
+    "Auto Collect Coins": "Otomatik Paraları Topla",
+    "Auto Collect Gun": "Otomatik Silahı Al",
+    
+    "Dropped Gun": "Düşen Silah",
+
     "Notification Sound ID": "Bildirim Ses ID'si",
     "Reset Sound to Default": "Sesi Varsayılana Sıfırla",
     "Notification Sound": "Bildirim Sesi",
