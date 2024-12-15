@@ -23,7 +23,7 @@
     "Settings": "Pengaturan",
 
 
-    "Fullbright": "",
+    "Fullbright": "Kecerahan Penuh",
     "Brightness": "Kecerahan",
     "No Fog": "Tanpa Kabus",
 
@@ -65,11 +65,11 @@
     "Get Closest From": "Dapatkan Yang Paling Dekat Ke-",
     "Team Check": "Check Team",
     "Alive Check": "Check Hidup",
-    "Wall Check": "Checj Dinding",
+    "Wall Check": "Check Dinding",
 
 
     "Builds": "Bangunan",
-    "Auto Farm": "Farm(Berkebun/Bertani) Automatiik",
+    "Auto Farm": "Farm(Berkebun/Bertani) Automatik",
     "Auto Farm Speed": "Kelajuan Automatik Farm",
     "Auto Farm Priority": "Keutamaan Automatik Farm",
     "Auto Candy": "Gula-Gula Automatik",
@@ -204,7 +204,7 @@
     "No Glitch Effect": "Tanpa Kesan Glitch",
     "No Void Effect": "Tanpa Kesan Void",
     "No Jumpscare": "Tanpa Jumpscare",
-    "No Spider Jumpscare": "Tanpa Jumpscare Laba-Laba",
+    "No Spider Jumpscare": "Tanpa Jumpscare Labah-Labah",
     "No Halloween Effects": "Tanpa Kesan Halloween",
 
     "Knob Cost: ": "Kos Knob: ",
@@ -224,9 +224,9 @@
     "Very risky, you might die/lose the crucifix": "Sangat berisiko, anda mungkin mati/kehilangan salib",
 
     "Fake Revive": "Hidup Semula Palsu",
-    "You have revived, fake revive has stopped working.": "Anda telah hidup semula, hidup semula telah berhenti bekerja.",
-    "Enable it again to start fake revive": "Nyalakan sekali lagi untuk memulai hidup semula yang palsu",
-    "Fake Revive has stopped working, enable it again to start fake revive": "Hidup Semula Palsu telah berhenti bekerja, nyalakan sekali lagi untuk memulai hidup ulang palsu",
+    "You have revived, fake revive has stopped working.": "Anda telah hidup semula, Hidup Semula Yang Palsu Telah Berhenti.",
+    "Enable it again to start fake revive": "Nyalakan sekali lagi untuk memulakan hidup semula yang palsu",
+    "Fake Revive has stopped working, enable it again to start fake revive": "Hidup Semula Palsu telah berhenti bekerja, nyalakan sekali lagi untuk memulakan hidup ulang palsu",
     "Delete Seek (FE)": "Buang Seek (FE)",
 
     "Enable Star Rift": "Nyalakan Retak Bintang",
@@ -711,13 +711,13 @@
     "Developers:": "Pengembang:",
     "upio - Owner": "upio - Pemilik",
     "Thank you for supporting us by doing the key system!": "Terima kasih kerana telah membantu kami dengan melakukan sistem kunci!",
-    "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "Terima kasih kerana telah membeli kunci seumur hidup! Your support helps us continue mspaint :D",
+    "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "Terima kasih kerana telah membeli kunci seumur hidup! Bantuan anda telah membantu kami untuk meneruskan mspaint :D",
     "Time left: ": "Waktu tersisa: ",
-    "Total Executions: ": "Total Executions: ",
+    "Total Executions: ": "Jumlah Executions: ",
     "Not linked": "Tidak tersambung",
-    "Expired": "Expired",
-    "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.": "Kunci anda telah expired, akses anda ke mspaint akan hilang pada execution selanjutnya kecuali anda memperpanjang kunci atau membeli kunci seumur hidup.",
-    "Restart mspaint to apply language changes.": "Restart mspaint semula untuk menerapkan pertukaran bahasa.",
+    "Expired": "Luput",
+    "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.": "Kunci anda telah luput, akses anda ke mspaint akan hilang pada execution selanjutnya kecuali anda memperpanjang kunci atau membeli kunci seumur hidup.",
+    "Restart mspaint to apply language changes.": "Sila mula semula mspaint semula untuk menerapkan pertukaran bahasa.",
 
 
     "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Executor anda tidak mempunyai sokongan API Sistem File. Addon tidak akan bekerja.",
@@ -728,7 +728,7 @@
     "' didn't load: Invalid data.": "' tidak dapat dimuat: Data tidak sah.",
     "' didn't load: Invalid name.": "' tidak dapat dimuat: Nama tidak sah.",
     "' didn't load: Invalid addon name.": "' tidak dapat dimuat: Nama addon tidak sah.",
-    "' didn't load: Invalid element type.": "' tidak dapat dimuat: Tipe elemen tidak sah.",
+    "' didn't load: Invalid element type.": "' tidak dapat dimuat: Jenis elemen tidak sah.",
     "This tab is for UN-OFFICIAL addons made for mspaint. We are not responsible for what addons you will use. You are putting yourself AT RISK since you are executing third-party scripts.": "Tab ini untuk addon TIDAK RASMI dibuat untuk mspaint. Kami tidak akan menolong untuk addon yang anda pakai. Anda bertanggungjawab dan menanggung RISIKO kerana anda execute script pihak-ketiga/community script",
     "WARNING": "PERINGATAN",
     "Your addons FOLDER is empty! (": "FOLDER addons anda kosong! (",
