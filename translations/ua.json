@@ -650,5 +650,20 @@
    "Auto Collect Gun": "Автозбирання зброї",  
    
    "Dropped Gun": "Залишена зброя",  
-   "Anti-Tripwire": "Анти-розтяжка"
+   "Anti-Tripwire": "Анти-розтяжка",
+   "General": "Генеральний",
+   "Your executor doesn't support this feature.": "Ваш виконуючий засіб не підтримує цю функцію.",
+   "Disable Sensors": "Вимкнути сенсори",
+   "Instant Role Notify": "Миттєве повідомлення про роль",
+   "Silent Aim": "Безшумна стрільба",
+   "Reach Multiplier": "Множник досяжності",
+   "Enable Reach": "Увімкнути досяжність",
+   "Kill Sheriff": "Вбити шерифа",
+   "Please equip the gun.": "Будь ласка, візьміть пістолет.",
+   "Please equip the knife.": "Будь ласка, візьміть ніж.",
+   "Failed to find the sheriff!": "Не вдалося знайти шерифа!",
+   "Killed the sheriff!": "Шерифа вбито!",
+   "Anti-Wall Dweller": "Анти-захисник стіни",
+   "Don't worry you have Anti Wall Dweller enabled": "Не хвилюйтесь, у вас увімкнено Анти-захисник стіни.",
+   "Don't get in their line of sight!": "Не потрапляйте у їхню лінію видимості!"
 }
