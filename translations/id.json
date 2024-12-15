@@ -3,7 +3,7 @@
     "mspaint": "mspaint (ID)",
 
     "Main": "Utama",
-    "Exploits": "Exploitasi",
+    "Exploits": "Ekploitasi",
     "Visuals": "Visual",
     "Reach": "Jangkauan",
     "Misc": "Aneka",
@@ -11,14 +11,14 @@
     "Locations": "Lokasi",
     
     "Sniper": "Mencuri",
-    "Other": "Yang lain-lain",
+    "Other": "Lainnya",
     "Player": "Pemain",
-    "Trolling": "Lelucon",
+    "Trolling": "Pengacau",
     "Notifier": "Notifikasi",
     "Automation": "Otomatis",
-    "Ambient": "Linkungan Sekitar",
+    "Ambient": "Suasana",
     "Bypass": "Lewati",
-    "Farm": "Farm(Berkebun/Bertani)",
+    "Farm": "Farm",
 
     "Loading data...": "Memuat data...",
     "Settings": "Pengaturan",
@@ -34,8 +34,8 @@
     "Rainbow ESP": "ESP Warna-Warni",
     "Enable Text": "Nyalakan Teks",
     "Enable Highlight": "Nyalakan Sorot",
-    "Fill Transparency": "Transparansi Isi",
-    "Outline Transparency": "Transparansi Garis Tepi",
+    "Fill Transparency": "Isi Transparansi",
+    "Outline Transparency": "Garis Tepi Transparansi",
     "Show Distance": "Perlihatkan Jarak",
     "Text Size": "Ukuran Teks",
     "Enable Tracer": "Nyalakan Garis Pelacak",
@@ -44,16 +44,16 @@
     "Arrow Center Offset": "Posisi Pusat Panah Pelacak",
 
     
-    "Speed Hack": "Retas Kecepatan",
+    "Speed Hack": "Ubah Kecepatan",
     "Enable Walk Speed": "Nyalakan Kecepatan Jalan",
     "Speed Boost": "Dorongan Kecepatan",
     "Walk Speed": "Kecepatan Jalan",
-    "Jump Power Hack": "Retas Kekuatan Lompat",
+    "Jump Power Hack": "Ubah Kekuatan Lompat",
     "Jump Power": "Kekuatan Lompat",
     "Fly": "Terbang",
     "Fly Speed": "Kecepatan Terbang",
     "Instant Interact": "Interaksi Instan",
-    "Disable Roblox Void": "Matikan Kehampaan Roblox",
+    "Disable Roblox Void": "Matikan Roblox Void",
 
     "No Acceleration": "Tanpa Akselerasi",
 
