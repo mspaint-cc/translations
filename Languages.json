@@ -91,5 +91,10 @@
      "hr": {
         "NativeName": "Hrvatski",
         "EnglishName": "Croatian"
+    },
+     
+     "my": {
+        "NativeName": "Bahasa Melayu",
+        "EnglishName": "Malay"
     }
 }
