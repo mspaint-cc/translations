@@ -743,22 +743,22 @@
     "[mspaint] Failed to load addon '": "[mspaint] Gagal memuat addon '",
     "Failed to load this addon:": "Gagal memuat addon ini:",
 
-"Murderer": "Murder",
-"Kill All": "Bunuh Semua",
-"The game has not started yet!": "Game Ini Belum Bermula Lagi!",
-"You are not the murderer!": "Anda bukanlah Murder!",
-"Killed all players!": "Telah Membunuh Semua Pemain!",
+    "Murderer": "Murder",
+    "Kill All": "Bunuh Semua",
+    "The game has not started yet!": "Game Ini Belum Bermula Lagi!",
+    "You are not the murderer!": "Anda bukanlah Murder!",
+    "Killed all players!": "Telah Membunuh Semua Pemain!",
 
-"Sheriff": "Sheriff",
-"Kill Murderer": "Bunuh Murder",
-"You are not the sheriff!": "Anda bukanlah Sheriff!",
-"Failed to find the murder!": "Gagal Untuk Membunuh Murder!",
-"Killed the murderer!": "Berjaya Membunuh Murder",
+    "Sheriff": "Sheriff",
+    "Kill Murderer": "Bunuh Murder",
+    "You are not the sheriff!": "Anda bukanlah Sheriff!",
+    "Failed to find the murder!": "Gagal Untuk Membunuh Murder!",
+    "Killed the murderer!": "Berjaya Membunuh Murder",
 
-"Auto Collect Coins": "Automatik Mengambil Duit",
-"Auto Collect Gun": "Automatik Mengambil Senjata",
+    "Auto Collect Coins": "Automatik Mengambil Duit",
+    "Auto Collect Gun": "Automatik Mengambil Senjata",
 
-"Dropped Gun": "Senjata Jatuh",
+    "Dropped Gun": "Senjata Jatuh",
 
-"Anti-Tripwire": "Anti-Tripwire"
+    "Anti-Tripwire": "Anti-Tripwire"
 }
