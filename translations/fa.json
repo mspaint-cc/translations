@@ -444,7 +444,6 @@
     "Submarine Sniper": "تلپورت به زیردریایی",
     "Don't worry you have godmode enabled!": "نگران نباشید، شما حالت خدا را فعال کرده اید!",
     "Don't worry you have Anti Turrets enabled": "نگران نباشید، شما ضد برجک سلاح را فعال کرده اید!",
-    "Don't get in their line of sight!": "در میدان دید آنها قرار نگیر!",
     "Don't worry you have Anti Eyefestation enabled": "نگران نباشید، شما Eyefestation را فعال کرده اید!",
     "Look away!": "نگاه نکن!!!",
     "Try and find the wall dweller": " تلاش کنید تا دیوارنشین را پیدا کنید ",
@@ -794,5 +793,22 @@
 "Auto Collect Gun": "برداشتن خودکار تفنگ",
 
 "Dropped Gun": "تفنگ انداخته شد",
-"Discord Rich Presence": "ریچ پرزنس دیسکورد"
+"Discord Rich Presence": "ریچ پرزنس دیسکورد",
+"Your executor doesn't support this feature.": "اجرا کننده(اگزکیوتر) شما از این قابلیت پشتیبانی نمی کند.",
+"General": "کلی",
+"Disable Sensors": "غیرفعال کردن سنسور ها",
+"Instant Role Notify": "نمایش شغل سریع",
+"Silent Aim": "هدفگیری بی صدا",
+"Reach Multiplier": "افزاینده طول تماس گرفتن",
+"Enable Reach": "فعال سازی افزاینده طول تماس گرفتن",
+"Kill Sheriff": "کشتن کلانتر",
+"Please equip the gun.": "لطفا تفنگ را به دست بگیرید.",
+"Please equip the knife.": "لطفا چاقو را به دست بگیرید",
+"Failed to find the sheriff!": "پیدا کردن کلانتر شکست خورد!",
+"Killed the sheriff!": "کلانتر کشته شد",
+"Innocent": "بی گناه",
+
+"Anti-Wall Dweller": "ضد Wall Dweller",
+"Don't worry you have Anti Wall Dweller enabled": "نگران نباشید شما Wall Dweller را فعال کرده اید",
+"Don't get in their line of sight!": "توی میدان دید آنها قرار نگیرید!"
 }
