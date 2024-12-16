@@ -475,7 +475,7 @@
     
     "Anti-Tripwire": "Анти-растяжка",
     
-    "Your executor doesn't support this feature.": "Ваш исполнитель не поддерживает эту функцию.",
+    "Your executor doesn't support this feature.": "Ваш чит не поддерживает эту функцию.",
     "General": "Общее",
     "Disable Sensors": "Отключить датчики",
     "Instant Role Notify": "Мгновенное уведомление о роли",
@@ -494,7 +494,7 @@
     
     "Innocent": "Невиновный",
     
-    "No one": "Никто",
+    "No One": "Никто",
     "Silent Aim Setting": "Настройка скрытого прицела",
     "Fling": "Fling (бросить)",
     "Successfully flinged %s!": "Успешно подброшен %s!",
