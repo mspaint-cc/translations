@@ -777,5 +777,23 @@
     "Anti-Wall Dweller": "Anti Penghuni Dinding",
     "Don't worry you have Anti Wall Dweller enabled": "Jangan risau anda mempunyai anti penghuni dinding aktif",
     "Don't get in their line of sight!": "Jangan berada di garis penglihatan mereka",
-    "Innocent": "Orang Biasa"
+    "Innocent": "Orang Biasa",
+
+    "No One": "Tiada Siapa",
+    "Silent Aim Setting": "Tetapan Aim Dengan Senyap",
+    "Fling": "Fling",
+    "Successfully flinged %s!": "Berjata di fling %s!",
+    "Failed to fling %s.": "Gagal untuk fling %s.",
+    "Auto Play": "Bermain Secara Automatik",
+    "Auto Play is already running.": "",
+    "Waiting for player data...": "Menunggu Data Pemain",
+    "Waiting for the gun...": "Menunggu untuk senjata",
+    "Finding the murderer...": "Mencari Murded",
+    "Completing round...": "Menghabiskan Pusingan",
+    "Round completed!": "Pusing Dihabiskan",
+    "Auto Play stopped.": "Bermain Secara Automatik Dihentikan",
+    "Fling Murderer": "Fling Murder",
+    "You are not innocent!": "Anda bukanlah orang biasa",
+    "Kill Player": "Bunuh Pemain",
+    "Killed %s!": "Dibunuh %s!"
 }
