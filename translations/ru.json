@@ -456,6 +456,63 @@
 	"Disable Dozer": "Анти-Dozer",
 	"Disable Goatman": "Анти-Goatman",
 
+    "Murderer": "Убийца",
+    "Kill All": "Убить всех",
+    "The game has not started yet!": "Игра еще не началась!",
+    "You are not the murderer!": "Вы не убийца!",
+    "Killed all players!": "Все игроки убиты!",
+    
+    "Sheriff": "Шериф",
+    "Kill Murderer": "Убить убийцу",
+    "You are not the sheriff!": "Вы не шериф!",
+    "Failed to find the murder!": "Не удалось найти убийцу!",
+    "Killed the murderer!": "Убийца убит!",
+    
+    "Auto Collect Coins": "Автосбор монет",
+    "Auto Collect Gun": "Автоподбор оружия",
+    
+    "Dropped Gun": "Брошенное оружие",
+    
+    "Anti-Tripwire": "Анти-растяжка",
+    
+    "Your executor doesn't support this feature.": "Ваш исполнитель не поддерживает эту функцию.",
+    "General": "Общее",
+    "Disable Sensors": "Отключить датчики",
+    "Instant Role Notify": "Мгновенное уведомление о роли",
+    "Silent Aim": "Тихий прицел",
+    "Reach Multiplier": "Множитель досягаемости",
+    "Enable Reach": "Включить досягаемость",
+    "Kill Sheriff": "Убить шерифа",
+    "Please equip the gun.": "Пожалуйста, возьмите оружие.",
+    "Please equip the knife.": "Пожалуйста, возьмите нож.",
+    "Failed to find the sheriff!": "Не удалось найти шерифа!",
+    "Killed the sheriff!": "Шериф убит!",
+    
+    "Anti-Wall Dweller": "Анти-обитатель стен",
+    "Don't worry you have Anti Wall Dweller enabled": "Не беспокойтесь, у вас включен Анти-обитатель стен",
+    "Don't get in their line of sight!": "Не попадайте в их поле зрения!",
+    
+    "Innocent": "Невиновный",
+    
+    "No one": "Никто",
+    "Silent Aim Setting": "Настройка скрытого прицела",
+    "Fling": "Fling (бросить)",
+    "Successfully flinged %s!": "Успешно подброшен %s!",
+    "Failed to fling %s.": "Не удалось подбросить %s.",
+    "Auto Play": "Автоигра",
+    "Auto Play is already running.": "Автоигра уже запущена.",
+    "Waiting for player data...": "Ожидание данных игрока...",
+    "Waiting for the gun...": "Ожидание оружия...",
+    "Finding the murderer...": "Поиск убийцы...",
+    "Completing round...": "Завершение раунда...",
+    "Round completed!": "Раунд завершен!",
+    "Auto Play stopped.": "Автоигра остановлена.",
+    "Fling Murderer": "Подбросить убийцу",
+    "You are not innocent!": "Вы не невиновны!",
+    "Kill Player": "Убить игрока",
+    "Killed %s!": "Убит %s!",
+
+
 	
     "Infinite Stamina": "Бесконечная выносливость",
     "Infinite Flashlight": "Бесконечный фонарик",
