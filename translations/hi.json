@@ -846,5 +846,10 @@
     "Killed %s!": "%s को मार डाला!",
     "Anti-Wall Dweller": "एंटी वॉल-ड्वेलर",
     "Don't worry you have Anti Wall Dweller enabled": "चिंता मत करो, आपके पास एंटी वॉल-ड्वेलर सक्षम है",
-    "Don't get in their line of sight!": "उनकी दृष्टि रेखा में न आएं!"
+    "Don't get in their line of sight!": "उनकी दृष्टि रेखा में न आएं!",
+
+    "Using these exploits may cause data loss, please use them at your own risk.": "इन कारनामों का उपयोग करने से डेटा हानि हो सकती है, कृपया इन्हें अपने जोखिम पर ही उपयोग करें।",
+    
+    "Disable Others Fishing": "दूसरों की मछली पकड़ना बंद करें",
+    "Disables other players fishing, credits to sashaa for finding this exploit.": "यह दूसरों को मछली पकड़ना बंद करता है, साशा को यह हैक ढूंढने का श्रेय मिलता है।"
 }
