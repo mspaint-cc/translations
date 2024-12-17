@@ -810,5 +810,41 @@
 
     "Dropped Gun": "गिरी बंदूक", 
 
-    "Anti-Tripwire": "एंटी-ट्रिपवायर"
+    "Anti-Tripwire": "एंटी-ट्रिपवायर", 
+
+    "Innocent": "निर्दोष",
+    
+    "Your executor doesn't support this feature.": "आपका निष्पादक इस सुविधा का समर्थन नहीं करता है।",
+    "General": "जनरल",
+    "Disable Sensors": "सेंसर अक्षम करें",
+    "Instant Role Notify": "तत्काल भूमिका सूचना",
+    "Silent Aim": "शांत निशाना",
+    "Reach Multiplier": "पहुंचाई गुणक",
+    "Enable Reach": "रीच सक्षम करें",
+    "Kill Sheriff": "शेरिफ मारो",
+    "Please equip the gun.": "कृपया बंदूक लें।",
+    "Please equip the knife.": "कृपया चाकू लें।",
+    "Failed to find the sheriff!": "शेरिफ नहीं मिला!",
+    "Killed the sheriff!": "शेरिफ मारा गया!",
+
+    "No One": "कोई नहीं",
+    "Silent Aim Setting": "शांत निशाना सेटिंग",
+    "Fling": "फ़्लिंग",
+    "Successfully flinged %s!": "%s को सफलतापूर्वक फ़्लिंग किया!",
+    "Failed to fling %s.": "%s को फ़्लिंग करने में विफल।",
+    "Auto Play": "ऑटो प्ले",
+    "Auto Play is already running.": "ऑटो प्ले पहले से चल रहा है।",
+    "Waiting for player data...": "खिलाड़ी डेटा का इंतज़ार...",
+    "Waiting for the gun...": "बंदूक का इंतज़ार...",
+    "Finding the murderer...": "हत्यारा ढूंढ रहा है...",
+    "Completing round...": "राउंड जल्द ही खत्म होगा...",
+    "Round completed!": "राउंड पूरा हुआ!",
+    "Auto Play stopped.": "ऑटो प्ले बंद हो गया।",
+    "Fling Murderer": "फ़्लिंग मर्डरर",
+    "You are not innocent!": "आपकी गंदी मानसिकता। ",
+    "Kill Player": "खिलाड़ी मारो",
+    "Killed %s!": "%s को मार डाला!",
+    "Anti-Wall Dweller": "एंटी वॉल-ड्वेलर",
+    "Don't worry you have Anti Wall Dweller enabled": "चिंता मत करो, आपके पास एंटी वॉल-ड्वेलर सक्षम है",
+    "Don't get in their line of sight!": "उनकी दृष्टि रेखा में न आएं!"
 }
