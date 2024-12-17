@@ -795,5 +795,12 @@
     "Fling Murderer": "Fling Murder",
     "You are not innocent!": "Anda bukanlah orang biasa",
     "Kill Player": "Bunuh Pemain",
-    "Killed %s!": "Dibunuh %s!"
-}
+    "Killed %s!": "Dibunuh %s!",
+    
+    "Using these exploits may cause data loss, please use them at your own risk.": "Menggunakan eksploit ini mungkin menyebabkan kehilangan data, gunakan diatas risiko sendiri.",
+
+    
+"Disable Others Fishing": "Disable Orang Lain Memancing",
+"Disables other players fishing, credits to sashaa for finding this exploit.": "Disable orang lain memancing, kredit kepada sashaa kerana menemui eksploit ini."
+    
+} 
