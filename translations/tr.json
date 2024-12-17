@@ -494,6 +494,11 @@
     "Test": "Deneme",
     "Test message.": "Deneme Mesajı.",
     "Perfect Reel Chance": "Mükemmel Makara Şansı (Reel Chance)",
+
+    "Using these exploits may cause data loss, please use them at your own risk.": "Bu exploiti kullanılması veri kaybına neden olabilir, lütfen bunları kullanmak kendi sorumluluğunuzdadır."
+
+    "Disable Others Fishing": "Başkalarının Balık Tutmasını Bırak",
+    "Disables other players fishing, credits to sashaa for finding this exploit.": "Başkasının balık tutmasını engeller, Bu exploiti bulduğu için sashaa'ya teşekkür ederiz."
     
     "Auto Fish": "Otomatik Balık",
     "Mode": "Modu",
