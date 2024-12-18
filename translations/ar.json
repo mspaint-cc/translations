@@ -636,6 +636,7 @@
    "Dropped Gun": "السلاح المرمي",
    "[mspaint] Loading stopped. (ERROR: Loading)":"[mspaint] تقف التحميل. (خطأ: جاري التحميل)",
    "[mspaint] Loading stopped. (ERROR: Already loaded)":"[mspaint] تقف التحميل. (خطأ: تحمل بالفعل)",
+   "Using these exploits may cause data loss, please use them at your own risk.": "أستخدام الهاكات ممكن انت يسبب خسارة الباينات, الرجاء استعمالة على مسوؤليتك.",
    "No message today... 😢":"لا رسالة اليوم... 😢",
    "MOTD: %s":"مو تدي: %s",
    "Lifetime":"مدى الحياة",
