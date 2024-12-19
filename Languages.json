@@ -96,5 +96,9 @@
      "ms": {
         "NativeName": "Bahasa Melayu",
         "EnglishName": "Malay"
+    },
+    "pa": {
+        "NativeName": "ਪੰਜਾਬੀ",
+        "EnglishName": "Punjabi"
     }
 }
