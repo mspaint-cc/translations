@@ -686,5 +686,10 @@
    "Killed %s!": "Убито %s!",
    "Using these exploits may cause data loss, please use them at your own risk.": "Використання цих експлойтів може спричинити втрату даних, будь ласка, використовуйте їх на свій страх і ризик.",
    "Disable Others Fishing": "Відключити риболовлю інших",
-   "Disables other players fishing, credits to sashaa for finding this exploit.": "Відключає риболовлю інших гравців, дякуємо sashaa за знаходження цього експлойту."
+   "Disables other players fishing, credits to sashaa for finding this exploit.": "Відключає риболовлю інших гравців, дякуємо sashaa за знаходження цього експлойту.",
+   "Anti-Landmine": "Авто-Landmine",
+   "Auto Pandemonium Minigame": "Автомінігра Pandemonium",
+   "Document": "Документ",
+   "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "Godmode було відключено через зіткнення з gauntlet, режим буде знову ввімкнено після виходу з кімнати."
+
 }
