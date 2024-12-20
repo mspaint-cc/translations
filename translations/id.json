@@ -3,7 +3,7 @@
     "mspaint": "mspaint (ID)",
 
     "Main": "Utama",
-    "Exploits": "Exploitasi",
+    "Exploits": "Eksploit-eksploit",
     "Visuals": "Visual",
     "Reach": "Jangkauan",
     "Misc": "Aneka",
@@ -58,18 +58,18 @@
     "No Acceleration": "Tanpa Akselerasi",
 
     "Enable Aimbot": "Nyalakan Aimbot",
-    "Enable Aimbot Smoothness": "Nyalakan Kehalusan Aimbot",
+    "Enable Aimbot Smoothness": "Nyalakan Kelancaran Aimbot",
     "Smoothness": "Kehalusan",
     "Minimal Distance": "Jarak Minimal",
     "Maximum Distance": "Jarak Maksimal",
     "Target Part": "Bagian Target",
-    "Get Closest From": "Dapatkan Paling Dekat Ke-",
+    "Get Closest From": "Dapatkan Paling Dekat Dari-",
     "Team Check": "Cek Tim",
     "Alive Check": "Cek Hidup",
     "Wall Check": "Cek Dinding",
 
     "Murderer": "Pembunuh",
-    "Kill All": "Bunuh semuanya",
+    "Kill All": "Bunuh Semuanya",
     "The game has not started yet!": "Permainan belum mulai!",
     "You are not the murderer!": "Anda bukan pembunuhnya!",
     "Killed all players!": "Semua pemain terbunuh!",
@@ -203,7 +203,7 @@
     "Bed": "Kasur",
     "Guidance": "Bimbingan",
     "[Opened]": "[Terbuka]",
-    "[Locked]": "[Sikunci]",
+    "[Locked]": "[Terkunci]",
     "Gate": "Gerbang",
     "Lever": "Tuas",
 
@@ -251,7 +251,7 @@
     "Knob Cost: ": "Biaya Knob: ",
 
     "Anti-Entity": "Anti-Entitas",
-    "Spam Other Tools": "Spam Alat Lain",
+    "Spam Other Tools": "Spam Alat-alat Lain",
     "Upside Down": "Terbalik",
 
     "Speed Bypass": "Bypass Kecepatan",
@@ -259,15 +259,15 @@
 
     "Anticheat Manipulation": "Manipulasi AntiCurang",
     "Godmode": "Mode Tuhan",
-    "Lags you back and is buggy with crouch": "Lag anda kembali dan buggy dengan jongkok",
+    "Lags you back and is buggy with crouch": "Lag anda kembali dan bermasalah dengan jongkok",
     "Infinite Items": "Alat Tak Terbatas",
     "Infinite Crucifix": "Salib Tak Terbatas",
     "Very risky, you might die/lose the crucifix": "Sangat beresiko, anda mungkin mati/kehilangan salib",
 
     "Fake Revive": "Hidup Ulang Palsu",
     "You have revived, fake revive has stopped working.": "Anda hidup ulang, hidup ulang palse telah berhenti bekerja.",
-    "Enable it again to start fake revive": "Nyalakan itu lagi untuk memulai hidup ulang palsu",
-    "Fake Revive has stopped working, enable it again to start fake revive": "Hidup Ulang Palsu telah berhenti bekerja, nyalakan itu lagi untuk memulai hidup ulang palsu",
+    "Enable it again to start fake revive": "Nyalakan kembali untuk memulai hidup ulang palsu",
+    "Fake Revive has stopped working, enable it again to start fake revive": "Hidup Ulang Palsu telah berhenti bekerja, nyalakan kembali untuk memulai hidup ulang palsu",
     "Delete Seek (FE)": "Hapus Seek (FE)",
     
     "Enable Star Rift": "Nyalakan Retak Bintang",
@@ -284,7 +284,7 @@
     "Buy Item(s)": "Beli Alat(-alat)",
     "You are unable to buy items as of right now, are you sure you are in room 0 elevator?": "Tidak dapat membeli alat saat ini, apakah anda ada di elevator ruang 0?",
     "You have not selected any items to buy!": "Anda tidak memilih benda untuk dibeli!",
-    "You do not have enough knobs to buy the items you have selected!": "Anda tidak memiliki Knob yang cukup untuk membeli alat-alay yang anda telah pilih!",
+    "You do not have enough knobs to buy the items you have selected!": "Anda tidak memiliki Knob yang cukup untuk membeli alat-alat yang anda telah pilih!",
     
     "Anti-Seek Obstructions": "Anti-Penghalang Seek",
     "Avoid Rush/Ambush": "Cegah Rush/Ambush",
@@ -294,7 +294,8 @@
     "Loading Death Farm Script": "Memuat Skrip Farm Kematian",
     "Please be patient.": "Harap bersabar.",
     "Knob Farm": "Farm Knob",
-    "Only works in Room 100 and figure is spawned": "Hanya berfungsi di pintu 100 dan figure telah muncu;",
+    "Twerk": "Goyang",
+    "Only works in Room 100 and figure is spawned": "Hanya berfungsi di pintu 100 dan figure telah muncul",
     "Knob Farm Mode": "Mode Farm Knob",
     "Knob Farm Warning": "Peringatan Farm Knob",
     "The <b>I Love Pancakes!!!</b> modifier is required to use the snare method.": "Modifikasi <b>I Love Pancakes!!!</b> diperlukan untuk menggunakan metode Snare.",
@@ -308,12 +309,12 @@
 
     "Anti-Gloom Egg": "Anti-Telur Gloom",
     "Anti-Bridge Fall": "Anti-Jatuh Dari Jembatan",
-    "Anti-Pipe Gap": "Anti-Celah Pi[a",
+    "Anti-Pipe Gap": "Anti-Celah Pipa",
     "Anti-Seek Flood": "Anti-Banjir Seek",
     
     "Beat Door 200": "Lakukan Pintu 200",
     "You haven't reached door 200...": "Anda belum sampai pintu 200...",
-    "Anticheat Bypass": "Bypass AntiCurang",
+    "Anticheat Bypass": "Bypass Anticurang",
 
     "Minecart Teleport": "Teleportasi Minecart",
     "Minecart Teleport debug": "Debug Teleportasi Minecart",
@@ -345,7 +346,7 @@
 
     "Grab Banana / Jeff": "Ambil Pisang / Jeff",
     "Banana/Jeff Throw": "Lempar Jeff/Pisang",
-    "You are no longer holding the item due to network owner change!": "Anda tidak memegang alat saat ini karene perubahan pemilik jaringan!",
+    "You are no longer holding the item due to network owner change!": "Anda tidak memegang alat saat ini karena perubahan pemilik jaringan!",
     "Throw": "Lempar",
     "Throw Strength": "Kekuatan Melempar",
 
@@ -367,7 +368,7 @@
     "Create Preset": "Buat Preset",
     "Preset already exists!": "Preset sudah ada!",
     "Created elevator preset \"%s\" with %s modifiers": "Telah membuat preset elevator\"%s\" dengan %s modifikasi", 
-    "Preset List": "Daftar Preset",
+    "Preset list": "Daftar Preset",
     "Load Preset": "Muat Preset",
     "Override Preset": "Simpan Timpa Preset",
     "Delete Preset": "Hapus Preset",
@@ -612,7 +613,7 @@
     "Auto Fish stopped.": "Pancing Otomatis dihentikan.",
 
     "Info": "Informasi",
-    "Menu Keybind": "Keybind Menu",
+    "Menu keybind": "Keybind Menu",
 
     "Infinite Jetpack Duration": "Durasi Ransel Jet",
     "Motor Modification": "Modifikasi Motor",
@@ -700,7 +701,7 @@
     "Anchor Bobber": "Jangkar Bobber",
     "Anchors the bobber during Auto Fishing.": "Menjangkar bobber ketika Memancing Otomatis.",
 
-    "Contributors:": "Kontibutor:",
+    "Contributors:": "Kontributor:",
     "Translators:": "Penerjemah:",
 
     "Auto Bait": "Umpan Otomatis",
