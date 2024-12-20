@@ -1,5 +1,5 @@
 {
-    "mspaint": "mspaint (MY)",
+    "mspaint": "mspaint (MS)",
 
     "Main": "Utama",
     "Exploits": "Exploitasi",
@@ -17,13 +17,13 @@
     "Automation": "Automatik",
     "Ambient": "Ambien",
     "Bypass": "Pintasan",
-    "Farm": "Farm (Bertani)",
+    "Farm": "Farm (Berkebun/Bertani)",
 
-    "Loading data...": "Memuatkan data...",
+    "Loading data...": "Memuat data...",
     "Settings": "Pengaturan",
 
 
-    "Fullbright": "",
+    "Fullbright": "Kecerahan Penuh",
     "Brightness": "Kecerahan",
     "No Fog": "Tanpa Kabus",
 
@@ -65,11 +65,11 @@
     "Get Closest From": "Dapatkan Yang Paling Dekat Ke-",
     "Team Check": "Check Team",
     "Alive Check": "Check Hidup",
-    "Wall Check": "Checj Dinding",
+    "Wall Check": "Check Dinding",
 
 
     "Builds": "Bangunan",
-    "Auto Farm": "Farm(Berkebun/Bertani) Automatiik",
+    "Auto Farm": "Farm(Berkebun/Bertani) Automatik",
     "Auto Farm Speed": "Kelajuan Automatik Farm",
     "Auto Farm Priority": "Keutamaan Automatik Farm",
     "Auto Candy": "Gula-Gula Automatik",
@@ -94,8 +94,8 @@
     "Linking objects...": "Menghubungkan objek...",
     "You don't have the bind tool. Can't link blocks together.": "Anda tidak memiliki alat penghubung. Tidak dapat menghubungkan blok bersama.",
     "Build was force stopped.": "Membangun dihentikan paksa.",
-    "Failed to load a part of your build! Check Developer Console for more information.": "Gagal memuat bahagian dari bangunan! Cek Console Developer untuk lebih banyak informasi.",
-    "Build loaded successfully!": "Bangunan dimuat secara berjaya!",
+    "Failed to load a part of your build! Check Developer Console for more information.": "Gagal memuat bahagian dari bangunan! Check Console Developer untuk lebih banyak informasi.",
+    "Build loaded successfully!": "Bangunan berjaya dimuat!",
     "Force Stop Load Build": "Henti Paksa Memuat Bangunan",
     "Override Build": "Gantikan Bangunan Sedia Ada",
     "Delete Build": "Hapus Bangunan",
@@ -126,7 +126,7 @@
     "Auto Library Code Setting": "Pengaturan Perpustakaan Automatik",
     "Unlock Distance": "Jarak Membuka",
 
-    "Auto Breaker Solver": "Selesaikan Breaker Automatik",
+    "Auto Breaker Solver": "Selesaikan Breaker Secara Automatik",
     "The breaker box has been successfully solved.": "Kotak breaker telah berhasil diselesaikan.",
     "Auto Breaker Solver Method": "Kaedah Breaker Automatik",
     "Auto Breaker Box": "Selesaikan Kotak Breaker Automatik",
@@ -135,7 +135,7 @@
     "Solved Anchor %s successfully!": "Sauh %s telah selesaikan secara berhasil!",
     "Solved anchor with the code ": "Berhasil menyelesaikan sauh dengan Kod ",
 
-    "Revive": "Hidup Semjla",
+    "Revive": "Hidup Semula",
     "Play Again": "Main Lagi",
     "Lobby": "Pergi ke lobi",
 
@@ -169,12 +169,12 @@
     "Closet": "Almari",
     "Locker": "Almari",
 
-    "Notify Entities": "Notifikasi Entitit",
+    "Notify Entities": "Notifikasi Entiti",
     "Notify Library Code": "Notifikasi Kod Perpustakaan",
     "Notify Oxygen": "Notifikasi Oksigen",
     "Notify Hide Time": "Notifikasi Waktu Sembunyi",
 
-    "Notify Chat": "Notifikasi Chat",
+    "Notify Chat": "Memberitahu Mesej",
     "Entity and Padlock Code": "Entiti dan Kod Kunci",
 
     "has spawned!": "Telah muncul!",
@@ -204,7 +204,7 @@
     "No Glitch Effect": "Tanpa Kesan Glitch",
     "No Void Effect": "Tanpa Kesan Void",
     "No Jumpscare": "Tanpa Jumpscare",
-    "No Spider Jumpscare": "Tanpa Jumpscare Laba-Laba",
+    "No Spider Jumpscare": "Tanpa Jumpscare Labah-Labah",
     "No Halloween Effects": "Tanpa Kesan Halloween",
 
     "Knob Cost: ": "Kos Knob: ",
@@ -224,9 +224,9 @@
     "Very risky, you might die/lose the crucifix": "Sangat berisiko, anda mungkin mati/kehilangan salib",
 
     "Fake Revive": "Hidup Semula Palsu",
-    "You have revived, fake revive has stopped working.": "Anda telah hidup semula, hidup semula telah berhenti bekerja.",
-    "Enable it again to start fake revive": "Nyalakan sekali lagi untuk memulai hidup semula yang palsu",
-    "Fake Revive has stopped working, enable it again to start fake revive": "Hidup Semula Palsu telah berhenti bekerja, nyalakan sekali lagi untuk memulai hidup ulang palsu",
+    "You have revived, fake revive has stopped working.": "Anda telah hidup semula, Hidup Semula Yang Palsu Telah Berhenti.",
+    "Enable it again to start fake revive": "Nyalakan sekali lagi untuk memulakan hidup semula yang palsu",
+    "Fake Revive has stopped working, enable it again to start fake revive": "Hidup Semula Palsu telah berhenti bekerja, nyalakan sekali lagi untuk memulakan hidup ulang palsu",
     "Delete Seek (FE)": "Buang Seek (FE)",
 
     "Enable Star Rift": "Nyalakan Retak Bintang",
@@ -430,8 +430,8 @@
     "Crystal": "Kristal",
 
 
-    "Infinite Stamina": "Stamina Tanpa Terbatas",
-    "Infinite Flashlight": "Torchlight Tanpa Terbatas",
+    "Infinite Stamina": "Stamina Tanpa Batas",
+    "Infinite Flashlight": "Torchlight Tanpa Batas",
     "Table": "Meja",
     "Battery": "Bateri",
     "No Flashlight Shadow": "Tanpa Bayangan Flashlight",
@@ -466,18 +466,18 @@
     "Test message.": "Test mesej.",
 
     "Custom Locations": "Lokasi Custom ",
-    "Custom Location Name": "Nama Lokasi Custom",
-    "Create Custom Location": "Buat Lokasi Custom",
-    "Custom location already exists!": "Lokasi custom sudah ada",
-    "Created custom location ": "Lokasi custom dibuat",
-    "Teleport to Custom Location": "Teleportasi ke Lokasi Custom",
-    "Override Custom Location": "Simpan Sedia ada Lokasi Custom",
-    "Overrided custom location ": "Telah Simpan Sedia ada Lokasi Custom ",
-    "Delete Custom Location": "Buang Lokasi Custom",
-    "Custom location does not exist!": "Lokasi custom tidak ada!",
-    "Deleted custom location ": "Lokasi custom dibuang ",
-    "Failed to delete custom location: ": "Gagal menghapus lokasi kustom: ",
-    "Refresh Custom Locations": "Muat Ulang Lokasi Custom",
+    "Custom Location Name": "Nama Lokasi Tersuai",
+    "Create Custom Location": "Buat Lokasi Tersuai",
+    "Custom location already exists!": "Lokasi tersuai sudah ada",
+    "Created custom location ": "Lokasi tersuai dibuat",
+    "Teleport to Custom Location": "Teleportasi ke Lokasi Tersuai",
+    "Override Custom Location": "Simpan Sedia ada Lokasi Tersuai",
+    "Overrided custom location ": "Telah Simpan Sedia ada Lokasi Tersuai",
+    "Delete Custom Location": "Buang Lokasi Tersuai",
+    "Custom location does not exist!": "Lokasi tersuai tidak wujud!",
+    "Deleted custom location ": "Lokasi tersuai dibuang ",
+    "Failed to delete custom location: ": "Gagal menghapus lokasi tersuai: ",
+    "Refresh Custom Locations": "Muat Ulang Lokasi Tersuai",
     "File System is required for this feature.": "Sistem File diperlukan untuk ciri ini.",
     "Failed to load location: ": "Gagal memuat lokasi: ",
 
@@ -543,7 +543,7 @@
     "You will not drown in the water.": "Anda tidak akan lemas di dalam air.",
     "Disable being afk.": "Tidak menjadi afk.",
     "Jesus": "Berjalan Atas Air",
-    "You can walk on water.": "Anda bisa berjalan di air.",
+    "You can walk on water.": "Anda boleh berjalan di air.",
     "Boats": "Kapal-Kapal",
     "Spawn and Teleport to Boat": "Munculkan dan Teleportasi ke Kapal",
     "Spawn Boat": "Munculkan Kapal",
@@ -689,10 +689,10 @@
     "Lifetime": "Seumur Hidup",
     "Language": "Bahasa",
     "%d day%s": "%d hari%s",
-    "%d hour%s %d minute%s": "%d jam%s %d menit%s",
-    "%d hour%s": "%d jam%s",
-    "%d minute%s": "%d minit%s",
-    "%d second%s": "%d saat%s",
+    "%d hour%s %d minute%s": "jam minit",
+    "%d hour%s": "%d jam",
+    "%d minute%s": "%d minit",
+    "%d second%s": "%d saat",
     "Unloading ": "Membatalkan muat ",
     "Unloading...": "Membatalkan muat...",
     "Unloaded!": "Muat dibatalkan!",
@@ -711,13 +711,13 @@
     "Developers:": "Pengembang:",
     "upio - Owner": "upio - Pemilik",
     "Thank you for supporting us by doing the key system!": "Terima kasih kerana telah membantu kami dengan melakukan sistem kunci!",
-    "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "Terima kasih kerana telah membeli kunci seumur hidup! Your support helps us continue mspaint :D",
+    "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "Terima kasih kerana telah membeli kunci seumur hidup! Bantuan anda telah membantu kami untuk meneruskan mspaint :D",
     "Time left: ": "Waktu tersisa: ",
-    "Total Executions: ": "Total Executions: ",
+    "Total Executions: ": "Jumlah Executions: ",
     "Not linked": "Tidak tersambung",
-    "Expired": "Expired",
-    "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.": "Kunci anda telah expired, akses anda ke mspaint akan hilang pada execution selanjutnya kecuali anda memperpanjang kunci atau membeli kunci seumur hidup.",
-    "Restart mspaint to apply language changes.": "Restart mspaint semula untuk menerapkan pertukaran bahasa.",
+    "Expired": "Luput",
+    "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.": "Kunci anda telah luput, akses anda ke mspaint akan hilang pada execution selanjutnya kecuali anda memperpanjang kunci atau membeli kunci seumur hidup.",
+    "Restart mspaint to apply language changes.": "Sila mula semula mspaint semula untuk menerapkan pertukaran bahasa.",
 
 
     "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Executor anda tidak mempunyai sokongan API Sistem File. Addon tidak akan bekerja.",
@@ -728,7 +728,7 @@
     "' didn't load: Invalid data.": "' tidak dapat dimuat: Data tidak sah.",
     "' didn't load: Invalid name.": "' tidak dapat dimuat: Nama tidak sah.",
     "' didn't load: Invalid addon name.": "' tidak dapat dimuat: Nama addon tidak sah.",
-    "' didn't load: Invalid element type.": "' tidak dapat dimuat: Tipe elemen tidak sah.",
+    "' didn't load: Invalid element type.": "' tidak dapat dimuat: Jenis elemen tidak sah.",
     "This tab is for UN-OFFICIAL addons made for mspaint. We are not responsible for what addons you will use. You are putting yourself AT RISK since you are executing third-party scripts.": "Tab ini untuk addon TIDAK RASMI dibuat untuk mspaint. Kami tidak akan menolong untuk addon yang anda pakai. Anda bertanggungjawab dan menanggung RISIKO kerana anda execute script pihak-ketiga/community script",
     "WARNING": "PERINGATAN",
     "Your addons FOLDER is empty! (": "FOLDER addons anda kosong! (",
@@ -741,5 +741,71 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "Variable 'Game' tidak sah (expected 'string/table' got '",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' tidak dapat dimuat: Variable 'Game' tidak sah (expected 'string/table' got '",
     "[mspaint] Failed to load addon '": "[mspaint] Gagal memuat addon '",
-    "Failed to load this addon:": "Gagal memuat addon ini:"
-}
+    "Failed to load this addon:": "Gagal memuat addon ini:",
+
+    "Murderer": "Murder",
+    "Kill All": "Bunuh Semua",
+    "The game has not started yet!": "Game Ini Belum Bermula Lagi!",
+    "You are not the murderer!": "Anda bukanlah Murder!",
+    "Killed all players!": "Telah Membunuh Semua Pemain!",
+
+    "Sheriff": "Sheriff",
+    "Kill Murderer": "Bunuh Murder",
+    "You are not the sheriff!": "Anda bukanlah Sheriff!",
+    "Failed to find the murder!": "Gagal untuk menemukan murder!",
+    "Killed the murderer!": "Berjaya Membunuh Murder",
+
+    "Auto Collect Coins": "Automatik Mengambil Duit",
+    "Auto Collect Gun": "Automatik Mengambil Senjata",
+
+    "Dropped Gun": "Senjata Jatuh",
+
+    "Anti-Tripwire": "Anti-Tripwire",
+
+    "Your executor doesn't support this feature.": "Executer anda tidak menyokong feature ini.",
+    "General": "Umum",
+    "Disable Sensors": "Disable Sensor",
+    "Instant Role Notify": "Pemberitahuan Role Segera",
+    "Silent Aim": "Aim Dengan Senyap",
+    "Reach Multiplier": "Penggandaan Mencapai",
+    "Enable Reach": "Aktifkan Mencapai",
+    "Kill Sheriff": "Bunuh Sheriff",
+    "Please equip the gun.": "Sila Pegang Senjata",
+    "Please equip the knife.": "Sila Pegang Pisau",
+    "Failed to find the sheriff!": "Gagal untuk menjumpai sheriff!",
+    "Killed the sheriff!": "Sheriff telah dibunuh!",
+    "Anti-Wall Dweller": "Anti Penghuni Dinding",
+    "Don't worry you have Anti Wall Dweller enabled": "Jangan risau anda mempunyai anti penghuni dinding aktif",
+    "Don't get in their line of sight!": "Jangan berada di garis penglihatan mereka",
+    "Innocent": "Orang Biasa",
+
+    "No One": "Tiada Siapa",
+    "Silent Aim Setting": "Tetapan Aim Dengan Senyap",
+    "Fling": "Fling",
+    "Successfully flinged %s!": "Berjata di fling %s!",
+    "Failed to fling %s.": "Gagal untuk fling %s.",
+    "Auto Play": "Bermain Secara Automatik",
+    "Auto Play is already running.": "",
+    "Waiting for player data...": "Menunggu Data Pemain",
+    "Waiting for the gun...": "Menunggu untuk senjata",
+    "Finding the murderer...": "Mencari Murded",
+    "Completing round...": "Menghabiskan Pusingan",
+    "Round completed!": "Pusing Dihabiskan",
+    "Auto Play stopped.": "Bermain Secara Automatik Dihentikan",
+    "Fling Murderer": "Fling Murder",
+    "You are not innocent!": "Anda bukanlah orang biasa",
+    "Kill Player": "Bunuh Pemain",
+    "Killed %s!": "Dibunuh %s!",
+    
+    "Using these exploits may cause data loss, please use them at your own risk.": "Menggunakan eksploit ini mungkin menyebabkan kehilangan data, gunakan diatas risiko sendiri.",
+
+    
+    "Disable Others Fishing": "Disable Orang Lain Memancing",
+    "Disables other players fishing, credits to sashaa for finding this exploit.": "Disable orang lain memancing, kredit kepada sashaa kerana menemui eksploit ini.",
+
+    "Anti-Landmine": "Anti-Periuk Api",
+    "Auto Pandemonium Minigame": "Anti Permainan Mini KrPermainan Mini Kekacauan",
+    "Document": "Dokumen",
+    "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "Kekuatan Tanpa Batas telah rosak kerana menghadapi gauntlet, Kekuatan Tanpa Batas akan muncul setelah keluar dari bilik."
+    
+} 

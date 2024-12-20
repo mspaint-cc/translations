@@ -759,6 +759,23 @@
 
     "Dropped Gun": "已掉落槍",
 
-    "Anti-Tripwire": "防絆線鈎"
+    "Anti-Tripwire": "防絆線鈎",
+
+    "Your executor doesn't support this feature.": "妳的注入器不支持此功能",
+    "General": "基本",
+    "Disable Sensors": "關閉傳感器",
+    "Instant Role Notify": "立馬通知身份",
+    "Silent Aim": "靜默自瞄",
+    "Reach Multiplier": "擊殺距離",
+    "Enable Reach": "啓用",
+    "Kill Sheriff": "擊殺警長",
+    "Please equip the gun.": "請裝備槍",
+    "Please equip the knife.": "請裝備刀。",
+    "Failed to find the sheriff!": "無法找到警長！",
+    "Killed the sheriff!": "已將警長擊殺！",
+
+    "Anti-Wall Dweller": "防 Wall Dweller",
+    "Don't worry you have Anti Wall Dweller enabled": "不用急妳有挂妳隨便看",
+    "Don't get in their line of sight!": "離開他的視線不然妳是蓋！"
 
 }

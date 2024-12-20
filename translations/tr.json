@@ -421,6 +421,9 @@
     "Death Waypoint": "Ölüm Yol Noktası (Waypoint)",
     "Max Waypoints": "Maks Yol Noktası (Waypoint)",
 
+    "Anti-Wall Dweller": "Anti-wall dweller",
+    "Don't worry you have Anti Wall Dweller enabled": "Endişelenmeyin Anti Wall Dwelleriniz Açık.",
+    "Don't get in their line of sight!": "Onların görüş alanına girmeyin!",
     
     "Submarine Sniper": "Submarine Sniper",
     "Don't worry you have godmode enabled!": "Endişelenmeyin, Ölümsüzlüğünü Etkinleştirdiniz!",
@@ -441,6 +444,7 @@
     "Anti-Pandemonium": "Anti-Pandemonium",
     "Anti-Bouncers": "Anti-Bouncers",
     "Anti-Skelepede": "Anti-Skelepede",
+    "Anti-Tripwire": "Anti-tripwire",
     "Anti-Statue": "Anti-Statue",
     "Anti-Skeleton Dancers": "Anti-Skeleton Dansı",
     "Please get close to a locker to enable godmode (DO NOT ENTER THE LOCKER)": "Ölümsüzlüğünü etkinleştirmek için lütfen bir dolaba yaklaşın (DOLABA'A GİRMEYİN)",
@@ -490,6 +494,11 @@
     "Test": "Deneme",
     "Test message.": "Deneme Mesajı.",
     "Perfect Reel Chance": "Mükemmel Makara Şansı (Reel Chance)",
+
+    "Using these exploits may cause data loss, please use them at your own risk.": "Bu exploiti kullanılması veri kaybına neden olabilir, lütfen bunları kullanmak kendi sorumluluğunuzdadır.",
+
+    "Disable Others Fishing": "Başkalarının Balık Tutmasını Bırak",
+    "Disables other players fishing, credits to sashaa for finding this exploit.": "Başkasının balık tutmasını engeller, Bu exploiti bulduğu için sashaa'ya teşekkür ederiz.",
     
     "Auto Fish": "Otomatik Balık",
     "Mode": "Modu",
@@ -636,6 +645,25 @@
     "Auto Collect Gun": "Otomatik Silahı Al",
     
     "Dropped Gun": "Düşen Silah",
+    
+    "Innocent": "Masum",
+    "No One": "",
+    "Silent Aim Setting": "Sessiz Aim Ayarı",
+    "Fling": "Uçur",
+    "Successfully flinged %s!": "Başarıyla %s'yi uçuruldu!",
+    "Failed to fling %s.": "%s'yi Uçurulamadı",
+    "Auto Play": "Otomatik Oyna",
+    "Auto Play is already running.": "Otomatik Oynama zaten etkinleştirilmiş",
+    "Waiting for player data...": "Oyuncu verileri bekleniliyor...",
+    "Waiting for the gun...": "Silah'ı bekleniliyor...",
+    "Finding the murderer...": "Katili bulunuyor..",
+    "Completing round...": "Maçı tamamlıyor...",
+    "Round completed!": "Maç Tamamlandı!",
+    "Auto Play stopped.": "Otomatik oynama durduruldu.",
+    "Fling Murderer": "Katili Uçur",
+    "You are not innocent!": "Masum değilsin",
+    "Kill Player": "Oyuncuyu öldür",
+    "Killed %s!": "%s Öldürüldü",
 
     "Notification Sound ID": "Bildirim Ses ID'si",
     "Reset Sound to Default": "Sesi Varsayılana Sıfırla",

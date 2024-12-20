@@ -406,7 +406,11 @@
    "Anti-Bouncers":"مضاد-الحراس",
    "Anti-Skelepede":"مضاد-سكيليبيد",
    "Anti-Statue":"مضاد-التمثال",
+   "Anti-Tripwire": "مضاد-سلك التعثر",
    "Anti-Skeleton Dancers":"مضاد-الهياكل الراقصة",
+   "Anti-Wall Dweller": "مضاد-ساكن الجدران",
+   "Don't worry you have Anti Wall Dweller enabled": "لا تقلق لديك مضاد ساكن الجدران مفعل",
+   "Don't get in their line of sight!": "لا تدخل في خط بصرهم!",
    "Please get close to a locker to enable godmode (DO NOT ENTER THE LOCKER)":"ارجوك اقترب من الخزانة لتفعيل عدم الموت (لا تدخل الخزانة)",
    "This will break interactions with lockers.":"هذا سوف يخرب التفاعل مع الخزائن.",
    "Godmode enabled successfully! This will break after cutscenes.":"عدم الموت تفعل بنجاح! هاذا سوف يخرب المشاهد السنمائية.",
@@ -604,8 +608,35 @@
    "Auto Pickup":"التقاط التلقائي",
    "Sell Item in Hand":"بيع الشيء الذي في يدك",
    "Sell Inventory":"بيع الانفينتوري",
+   "Murderer": "القاتل",
+   "Innocent": "بريء",
+   "Kill All": "قتل الجميع",
+   "The game has not started yet!": "لم تبدأ الجولة!",
+   "You are not the murderer!": "انت لست القاتل!",
+   "Killed all players!": "تم قتل الجميع!",
+   "Sheriff": "المحقق",
+   "Kill Murderer": "قتل القاتل",
+   "You are not the sheriff!": "انت لست المحقق!",
+   "Failed to find the murder!": "لم يتم العثور على القاتل!",
+   "Killed the murderer!": "تم قتل القاتل!",
+   "Auto Collect Coins": "الحصول التلقائي على العملات",
+   "Auto Collect Gun": "الحصول التقائي على السلاح",
+   "Your executor doesn't support this feature.": "",
+   "General": "العام",
+   "Disable Sensors": "تقفيل الحساسات",
+   "Instant Role Notify": "كشف الرتب الفوري",
+   "Silent Aim": "الايم الصامت",
+   "Reach Multiplier": "مضاعفات الوصول",
+   "Enable Reach": "تفعيل الوصول",
+   "Kill Sheriff": "قتل المحقق",
+   "Please equip the gun.": "الرجاء تجهيز السلاح.",
+   "Please equip the knife.": "الرجاء تجهيز السكينة.",
+   "Failed to find the sheriff!": "فشل العثور على المحقق!",
+   "Killed the sheriff!": "تم قتل المحقق!",
+   "Dropped Gun": "السلاح المرمي",
    "[mspaint] Loading stopped. (ERROR: Loading)":"[mspaint] تقف التحميل. (خطأ: جاري التحميل)",
    "[mspaint] Loading stopped. (ERROR: Already loaded)":"[mspaint] تقف التحميل. (خطأ: تحمل بالفعل)",
+   "Using these exploits may cause data loss, please use them at your own risk.": "أستخدام الهاكات ممكن انت يسبب خسارة الباينات, الرجاء استعمالة على مسوؤليتك.",
    "No message today... 😢":"لا رسالة اليوم... 😢",
    "MOTD: %s":"مو تدي: %s",
    "Lifetime":"مدى الحياة",
