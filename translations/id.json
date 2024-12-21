@@ -18,6 +18,7 @@
   "Fly": "Terbang",
   "Fly Speed": "Kecepatan Terbang",
   "Inf Jump": "Lompat tak terbatas",
+  
   "Exploits": "Eksploit",
   "Aimbot": "Aimbot",
   "Enable Aimbot": "Nyalakan Aimbot",
@@ -32,7 +33,8 @@
   "Wall Check": "Cek Tembok",
   "Trolling": "Gurauan",
   "Twerk": "Berdansa",
-  "Visuals": "Visual",  
+  
+  "Visuals": "Visual",
   "ESP": "ESP",
   "Settings": "Pengaturan",
   "ESP Type": "Tipe ESP",
@@ -56,6 +58,7 @@
   "Fullbright": "Terang Penuh",
   "No Fog": "Tanpa Kabut",
   "Anti-Lag": "Anti-Lag",
+  
   "UI Settings": "Pengaturan UI",  
   "Execute On Teleport": "Eksekusi Saat Teleport",
   "Discord Rich Presence": "Discord Rich Presence",
@@ -97,6 +100,7 @@
   "Load config": "Muat konfigurasi",
   "Overwrite config": "Timpa konfigurasi",
   "Set as autoload": "Atur muat otomatis",
-  "Reset autoload": "Atur ulang muat otomatis"
+  "Reset autoload": "Atur ulang muat otomatis",
+  
   "Addons": "Pengaya",
 }
