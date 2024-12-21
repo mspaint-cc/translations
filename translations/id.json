@@ -60,15 +60,61 @@
     "No Acceleration": "Tanpa Akselerasi",
 
     "Enable Aimbot": "Nyalakan Aimbot",
-    "Enable Aimbot Smoothness": "Nyalakan Kehalusan Aimbot",
+    "Enable Aimbot Smoothness": "Nyalakan Kelancaran Aimbot",
     "Smoothness": "Kehalusan",
     "Minimal Distance": "Jarak Minimal",
     "Maximum Distance": "Jarak Maksimal",
     "Target Part": "Bagian Target",
-    "Get Closest From": "Dapatkan Paling Dekat Ke-",
+    "Get Closest From": "Dapatkan Paling Dekat Dari-",
     "Team Check": "Cek Tim",
     "Alive Check": "Cek Hidup",
     "Wall Check": "Cek Dinding",
+
+
+    "Murderer": "Pembunuh",
+    "Kill All": "Bunuh Semuanya",
+    "The game has not started yet!": "Permainan belum mulai!",
+    "You are not the murderer!": "Anda bukan pembunuhnya!",
+    "Killed all players!": "Semua pemain terbunuh!",
+    "Sheriff": "Sheriff",
+    "Kill Murderer": "Bunuh Pembunuh",
+    "You are not the sheriff!": "Anda bukan sheriffnya!",
+    "Failed to find the murder!": "Gagal mencari pembunuh!",
+    "Killed the murderer!": "Pembunuh terbunuh!",
+    "Auto Collect Coins": "Kumpulkan Koin Otomatis",
+    "Auto Collect Gun": "Dapatkan Senjata Otomatis",
+    "Dropped Gun": "Senjata Jatuh",
+    "Instant Role Notify": "Notifikasi Peran Instan",
+    "Silent Aim": "Aim diam",
+    "Reach Multiplier": "Pengali Jarak",
+    "Enable Reach": "Aktifkan Jarak",
+    "Kill Sheriff": "Bunuh Sheriff",
+    "Please equip the gun.": "Mohon pegang senjatanya.",
+    "Please equip the knife.": "Mohon pegang pisaunya.",
+    "Failed to find the sheriff!": "Gagal mencari sheriffnya!",
+    "Killed the sheriff!": "Sheriff terbunuh!",
+    "Innocent": "Tak bersalah",
+    "No One": "Tak Seorang Pun",
+    "Silent Aim Setting": "Pengaturan Aim Diam",
+    "Fling": "Lemparkan",
+    "Successfully flinged %s!": "Berhasil melemparkan %s!",
+    "Failed to fling %s.": "Gagal melemparkan %s.",
+    "Auto Play": "Main Otomatis",
+    "Auto Play is already running.": "Main otomatis sudah berjalan.",
+    "Waiting for player data...": "Menunggu data pemain...",
+    "Waiting for the gun...": "Menunggu senjata...",
+    "Finding the murderer...": "Mencari pembunuh...",
+    "Completing round...": "Menyelesaikan ronde...",
+    "Round completed!": "Ronde selesai!",
+    "Auto Play stopped.": "Main Otomatis terhentikan.",
+    "Fling Murderer": "Lemparkan Pembunuh",
+    "You are not innocent!": "Anda tidak polos!",
+    "Kill Player": "Bunuh Pemain",
+    "Killed %s!": "%s Terbunuh!",
+    "Using these exploits may cause data loss, please use them at your own risk.": "Menggunakan eksploit tersebut memungkinkan hilangnya data, mohon gunakan eksploit tersebut dalam resiko anda sendiri.",
+
+
+
     
     "Builds": "Bangunan",
     "Auto Farm": "Farm(Berkebun/Bertani) Otomatis",
@@ -162,7 +208,7 @@
     "Bed": "Kasur",
     "Guidance": "Bimbingan",
     "[Opened]": "[Terbuka]",
-    "[Locked]": "[Sikunci]",
+    "[Locked]": "[Terkunci]",
     "Gate": "Gerbang",
     "Lever": "Tuas",
 
@@ -210,7 +256,7 @@
     "Knob Cost: ": "Biaya Knob: ",
 
     "Anti-Entity": "Anti-Entitas",
-    "Spam Other Tools": "Spam Alat Lain",
+    "Spam Other Tools": "Spam Peralatan Lain",
     "Upside Down": "Terbalik",
 
     "Speed Bypass": "Bypass Kecepatan",
@@ -218,15 +264,18 @@
 
     "Anticheat Manipulation": "Manipulasi AntiCurang",
     "Godmode": "Mode Tuhan",
-    "Lags you back and is buggy with crouch": "Lag anda kembali dan buggy dengan jongkok",
+    "Lags you back and is buggy with crouch": "Lag anda kembali dan bermasalah dengan jongkok",
     "Infinite Items": "Alat Tak Terbatas",
     "Infinite Crucifix": "Salib Tak Terbatas",
     "Very risky, you might die/lose the crucifix": "Sangat beresiko, anda mungkin mati/kehilangan salib",
 
     "Fake Revive": "Hidup Ulang Palsu",
     "You have revived, fake revive has stopped working.": "Anda hidup ulang, hidup ulang palse telah berhenti bekerja.",
+
+
     "Enable it again to start fake revive": "Nyalakan kembali untuk memulai revive palsu",
     "Fake Revive has stopped working, enable it again to start fake revive": "Hidup Ulang Palsu telah berhenti bekerja, nyalakan kembali untuk memulai revive palsu",
+
     "Delete Seek (FE)": "Hapus Seek (FE)",
     
     "Enable Star Rift": "Nyalakan Retak Bintang",
@@ -243,7 +292,7 @@
     "Buy Item(s)": "Beli Alat(-alat)",
     "You are unable to buy items as of right now, are you sure you are in room 0 elevator?": "Tidak dapat membeli alat saat ini, apakah anda ada di elevator ruang 0?",
     "You have not selected any items to buy!": "Anda tidak memilih benda untuk dibeli!",
-    "You do not have enough knobs to buy the items you have selected!": "Anda tidak memiliki Knob yang cukup untuk membeli alat-alay yang anda telah pilih!",
+    "You do not have enough knobs to buy the items you have selected!": "Anda tidak memiliki Knob yang cukup untuk membeli peralatan yang anda telah pilih!",
     
     "Anti-Seek Obstructions": "Anti-Penghalang Seek",
     "Avoid Rush/Ambush": "Cegah Rush/Ambush",
@@ -253,7 +302,8 @@
     "Loading Death Farm Script": "Memuat Skrip Farm Kematian",
     "Please be patient.": "Harap bersabar.",
     "Knob Farm": "Farm Knob",
-    "Only works in Room 100 and figure is spawned": "Hanya berfungsi di pintu 100 dan figure telah muncu;",
+    "Twerk": "Goyang",
+    "Only works in Room 100 and figure is spawned": "Hanya berfungsi di pintu 100 dan figure telah muncul",
     "Knob Farm Mode": "Mode Farm Knob",
     "Knob Farm Warning": "Peringatan Farm Knob",
     "The <b>I Love Pancakes!!!</b> modifier is required to use the snare method.": "Modifikasi <b>I Love Pancakes!!!</b> diperlukan untuk menggunakan metode Snare.",
@@ -267,12 +317,12 @@
 
     "Anti-Gloom Egg": "Anti-Telur Gloom",
     "Anti-Bridge Fall": "Anti-Jatuh Dari Jembatan",
-    "Anti-Pipe Gap": "Anti-Celah Pi[a",
+    "Anti-Pipe Gap": "Anti-Celah Pipa",
     "Anti-Seek Flood": "Anti-Banjir Seek",
     
     "Beat Door 200": "Lakukan Pintu 200",
     "You haven't reached door 200...": "Anda belum sampai pintu 200...",
-    "Anticheat Bypass": "Bypass AntiCurang",
+    "Anticheat Bypass": "Bypass Anticurang",
 
     "Minecart Teleport": "Teleport Minecart",
     "Minecart Teleport debug": "Debug Teleport Minecart",
@@ -304,7 +354,7 @@
 
     "Grab Banana / Jeff": "Ambil Pisang / Jeff",
     "Banana/Jeff Throw": "Lempar Jeff/Pisang",
-    "You are no longer holding the item due to network owner change!": "Anda tidak memegang alat saat ini karene perubahan pemilik jaringan!",
+    "You are no longer holding the item due to network owner change!": "Anda tidak memegang alat saat ini karena perubahan pemilik jaringan!",
     "Throw": "Lempar",
     "Throw Strength": "Kekuatan Melempar",
 
@@ -316,8 +366,8 @@
     "Target": "Target",
     "Loop Achievements": "Ulang Pencapaian",
     "Speed": "Kecepatan",
-    "Create Retro Elevator": "Buat Elevator Retrp",
-    "Join DOORS before Hotel+": "Join DOORS sebelum Hotel+",
+    "Create Retro Elevator": "Buat Elevator Retro",
+    "Join DOORS before Hotel+ lobby": "Join DOORS sebelum lobi Hotel+",
     "DOORS before Hotel+": "DOORS sebelum Hotel+",
     "Joining DOORS before Hotel+...": "Joining DOORS sebelum Hotel+...",
 
@@ -326,7 +376,7 @@
     "Create Preset": "Buat Preset",
     "Preset already exists!": "Preset sudah ada!",
     "Created elevator preset \"%s\" with %s modifiers": "Telah membuat preset elevator\"%s\" dengan %s modifikasi", 
-    "Preset List": "Daftar Preset",
+    "Preset list": "Daftar Preset",
     "Load Preset": "Muat Preset",
     "Override Preset": "Simpan Timpa Preset",
     "Delete Preset": "Hapus Preset",
@@ -404,6 +454,12 @@
     "Look away!": "Lihat sana!",
     "Try and find the wall dweller": "Coba dan cari wall dweller",
     "Try and find the ridge ": "Coba dan cari ridge ",
+    "Anti-Tripwire": "Anti-Tripwire",
+    "General": "Umum",
+    "Your executor doesn't support this feature.": "Executor anda tidak mendukung fitur ini.",
+    "Disable Sensors": "Matikan Sensor",
+    "Anti-Wall Dweller": "Anti-Wall Dweller",
+    "Don't worry you have Anti Wall Dweller enabled": "Jangan khawatir, anda telah mengaktifkan Anti-Wall Dweller",
     "Anti-Void": "Аnti-Void",
     "Anti-Trickster": "Аnti-Trickster",
     "Anti-Eyefestation": "Аnti-Eyefestation",
@@ -565,7 +621,7 @@
     "Auto Fish stopped.": "Pancing Otomatis dihentikan.",
 
     "Info": "Informasi",
-    "Menu Keybind": "Keybind Menu",
+    "Menu keybind": "Keybind Menu",
 
     "Infinite Jetpack Duration": "Durasi Ransel Jet",
     "Motor Modification": "Modifikasi Motor",
@@ -620,6 +676,11 @@
 
     "One crab cage costs 45C$.": "Harga satu sangkar adalah 45C$.",
 
+    "Anti-Landmine": "Anti-Ranjau",
+   "Auto Pandemonium Minigame": "Minigame Pandemonium Otomatis",
+   "Document": "Dokumen",
+   "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "Mode Kebal telah dirusak dikarenakan pertemuan gauntlet, akan dinyalakan kembali mode kebal setelah meninggalkan ruangan",
+
     "Failed to fetch %s, please make a bug report!": "Gagal mendapatkan %s, mohon membuat laporan bug",
 
     "Buy Item": "Beli Alat",
@@ -648,7 +709,7 @@
     "Anchor Bobber": "Jangkar Bobber",
     "Anchors the bobber during Auto Fishing.": "Menjangkar bobber ketika Memancing Otomatis.",
 
-    "Contributors:": "Kontibutor:",
+    "Contributors:": "Kontributor:",
     "Translators:": "Penerjemah:",
 
     "Auto Bait": "Umpan Otomatis",
@@ -720,9 +781,11 @@
     "Restart mspaint to apply language changes.": "Mulai ulang mspaint untuk menerapkan perubahan bahasa.",
 
     
-    "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Executor anda tidak medukung API Sistem File. Pengaya tidak akan bekerja.",
+
+    "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Executor anda tidak mendukung Sistem API File. Pengaya tidak akan bekerja.",
     "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] Folder pengaya tidak ada. Membuat folder...",
     "[mspaint] Loading addons...": "[mspaint] Memuat pengaya...",
+
     "[mspaint] Element '": "[mspaint] Elemen '",
     "' didn't load: Invalid Linoria element.": "' tidak dapat dimuat: Elemen Linoria tidak sah.",
     "' didn't load: Invalid data.": "' tidak dapat dimuat: Data tidak sah.",
@@ -743,3 +806,4 @@
     "[mspaint] Failed to load addon '": "[mspaint] Gagal memuat pengaya '",
     "Failed to load this addon:": "Gagal memuat pengaya ini:"
 }
+
