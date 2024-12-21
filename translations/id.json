@@ -3,7 +3,7 @@
     "mspaint": "mspaint (ID)",
 
     "Main": "Utama",
-    "Exploits": "Eksploit-eksploit",
+    "Exploits": "Eksploit",
     "Visuals": "Visual",
     "Reach": "Jangkauan",
     "Misc": "Aneka",
@@ -18,7 +18,7 @@
     "Automation": "Otomatis",
     "Ambient": "Linkungan Sekitar",
     "Bypass": "Lewati",
-    "Farm": "Farm(Berkebun/Bertani)",
+    "Farm": "Farm",
 
     "Loading data...": "Memuat data...",
     "Settings": "Pengaturan",
@@ -251,7 +251,7 @@
     "Knob Cost: ": "Biaya Knob: ",
 
     "Anti-Entity": "Anti-Entitas",
-    "Spam Other Tools": "Spam Alat-alat Lain",
+    "Spam Other Tools": "Spam Peralatan Lain",
     "Upside Down": "Terbalik",
 
     "Speed Bypass": "Bypass Kecepatan",
@@ -451,7 +451,7 @@
     "Your executor doesn't support this feature.": "Executor anda tidak mendukung fitur ini.",
     "Disable Sensors": "Matikan Sensor",
     "Anti-Wall Dweller": "Anti-Wall Dweller",
-    "Don't worry you have Anti Wall Dweller enabled": "Jangan khawatir, anda punya Anti-Wall Dweller aktif",
+    "Don't worry you have Anti Wall Dweller enabled": "Jangan khawatir, anda telah mengaktifkan Anti-Wall Dweller",
     "Anti-Void": "Аnti-Void",
     "Anti-Trickster": "Аnti-Trickster",
     "Anti-Eyefestation": "Аnti-Eyefestation",
@@ -671,7 +671,7 @@
     "Anti-Landmine": "Anti-Ranjau",
    "Auto Pandemonium Minigame": "Minigame Pandemonium Otomatis",
    "Document": "Dokumen",
-   "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "Mode Tuhan telah dirusak dikarenakan pertemuan gauntlet, akan menyalakan godmode kembali setelah meninggalkan ruangan",
+   "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "Mode Kebal telah dirusak dikarenakan pertemuan gauntlet, akan dinyalakan kembali mode kebal setelah meninggalkan ruangan",
 
     "Failed to fetch %s, please make a bug report!": "Gagal mendapatkan %s, mohon membuat laporan bug",
 
