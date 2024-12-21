@@ -773,7 +773,7 @@
     "Restart mspaint to apply language changes.": "Mulai ulang mspaint untuk menerapkan perubahan bahasa.",
 
     
-    "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Executor anda tidak mendukung API Sistem File. Addon tidak akan bekerja.",
+    "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Executor anda tidak mendukung Sistem API File. Addon tidak akan bekerja.",
     "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] Folder addons tidak ada. Membuat...",
     "[mspaint] Loading addons...": "[mspaint] Memuat addons...",
     "[mspaint] Element '": "[mspaint] Elemen '",
