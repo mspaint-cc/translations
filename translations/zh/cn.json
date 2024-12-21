@@ -782,6 +782,14 @@
 
     "Anti-Wall Dweller": "防 Wall Dweller",
     "Don't worry you have Anti Wall Dweller enabled": "不用急你有挂你随便看",
-    "Don't get in their line of sight!": "离开他的视线不然你是盖！"
+    "Don't get in their line of sight!": "离开他的视线不然你是盖！",
+
+    "Anti-Landmine": "自动地雷",
+    "Auto Pandemonium Minigame": "自动混乱小游戏",
+    "Document": "文件",
+
+    "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "无敌模式因严峻模式，将在离开房间后重新启用。"
+
+
     
 }
