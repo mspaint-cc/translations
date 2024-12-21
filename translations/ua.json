@@ -690,6 +690,15 @@
    "Anti-Landmine": "Авто-Landmine",
    "Auto Pandemonium Minigame": "Автомінігра Pandemonium",
    "Document": "Документ",
-   "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "Godmode було відключено через зіткнення з gauntlet, режим буде знову ввімкнено після виходу з кімнати."
+   "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "Godmode було відключено через зіткнення з gauntlet, режим буде знову ввімкнено після виходу з кімнати.",
+   "This feature doesn't work on this floor.": "Ця функція не працює на цьому поверсі.",
+   "This feature isn't implemented on this floor.": "Ця функція не реалізована на цьому поверсі.",
+   "Anti-Obstruction": "Анти-непрохідність",
+   "No Gates": "Без воріт",
+   "No Puzzle Door": "Без дверей-головоломок",
+   "No Skeleton Door": "Без дверей-скелетів",
+   "Event Prediction": "Прогноз подій",
+   "There may be an event in/after the room %s.": "Можлива подія в/після кімнати %s."
+
 
 }
