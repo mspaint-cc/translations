@@ -778,5 +778,17 @@
     "Killed %s!": "%s matado!",
     "Using these exploits may cause data loss, please use them at your own risk.": "Usando esos exploits puede causar perdida de datos, porfavor usalos a tu propio riesgo",
     "Disable Others Fishing": "Desactivar la pesca a otros",
-    "Disables other players fishing, credits to sashaa for finding this exploit.": "Desactiva la pesca a otros, creditos a sashaa por encontrar este exploit."
+    "Disables other players fishing, credits to sashaa for finding this exploit.": "Desactiva la pesca a otros, creditos a sashaa por encontrar este exploit.",
+    "Anti-Landmine": "Anti-Mina",
+    "Auto Pandemonium Minigame": "Minijuego de Pandemonium automatico",
+    "Document": "Documento",
+    "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "El modo Dios se ha roto debido al encuentro con el guantelete, se volverá a habilitar después de salir de la sala.",
+    "This feature doesn't work on this floor.": "Esta funcion no funciona en este piso",
+    "This feature isn't implemented on this floor.": "Esta funcion no esta implementada en este piso",
+    "Anti-Obstruction": "Anti-Obstrucciones",
+    "No Gates": "Quitar Compuerta",
+    "No Puzzle Door": "Quitar puertas de puzzle",
+    "No Skeleton Door": "Quitar Puerta esqueleto",
+    "Event Prediction": "Prediccion de evento",
+    "There may be an event in/after the room %s.": "Puede haber un evento en/despues de la habitacion %s."
     }

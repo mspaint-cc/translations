@@ -806,6 +806,32 @@
     "Anti-Landmine": "Anti-Periuk Api",
     "Auto Pandemonium Minigame": "Anti Permainan Mini KrPermainan Mini Kekacauan",
     "Document": "Dokumen",
-    "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "Kekuatan Tanpa Batas telah rosak kerana menghadapi gauntlet, Kekuatan Tanpa Batas akan muncul setelah keluar dari bilik."
+    "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "Kekuatan Tanpa Batas telah rosak kerana menghadapi gauntlet, Kekuatan Tanpa Batas akan muncul setelah keluar dari bilik.",
+
+    "This feature doesn't work on this floor.": "Ciri ini tidak bekerja di tingkat ini",
+    "This feature isn't implemented on this floor.": "Ciri ini tidak dilaksanakan di tingkat ini ",
+    "Anti-Obstruction": "Tanpa Halangan",
+    "No Gates": "Tanpa Pagar",
+    "No Puzzle Door": "Tanpa Bilik Puzzle",
+    "No Skeleton Door": "Tanpa Bilik Skelton",
+    "Event Prediction": "Ramalan Acara",
+    "There may be an event in/after the room %s.": "Mungkin akan ada acara selepas bilik ini",
+
+    "Totem Cycle": "Kitaran Totem",
+    "Day Totem": "Totem Pagi",
+    "Night Totem": "Totem Malam",
+    "Stop At Event": "Berhenti Waktu Acara",
+    "An Ancient Megalodon has spawned!": "Sebuah Megaladon Purba telah muncul!",
+    "A Megalodon has spawned!": "Sebuah Megaladon Telah Muncul!",
+    "Purchase Totem": "Beli Totem",
+    "Amount of Totems": "Jumlah Totem",
+    "Buy Totem": "Beli Totem",
+    "Auto Enchant": "Automatik Enchant",
+    "Enchant List": "Senarai Enchant",
+    "Successfully enchanted the rod with %s.": "Berjaya enchant pancing dengan %s.",
+    "Retry Delay": "Mencuba delay",
+    "Auto Collect Meteor": "Automatik Mengambil Meteor",
+    "Fish Radar": "Radar Ikan",
+    "Enable fish radar without having to buy it.": "Mengaktifkan radar ikan tanpa membelinya."
     
 } 

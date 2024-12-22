@@ -851,5 +851,21 @@
     "Using these exploits may cause data loss, please use them at your own risk.": "इन कारनामों का उपयोग करने से डेटा हानि हो सकती है, कृपया इन्हें अपने जोखिम पर ही उपयोग करें।",
     
     "Disable Others Fishing": "दूसरों की मछली पकड़ना बंद करें",
-    "Disables other players fishing, credits to sashaa for finding this exploit.": "यह दूसरों को मछली पकड़ना बंद करता है, साशा को यह हैक ढूंढने का श्रेय मिलता है।"
+    "Disables other players fishing, credits to sashaa for finding this exploit.": "यह दूसरों को मछली पकड़ना बंद करता है, साशा को यह हैक ढूंढने का श्रेय मिलता है।", 
+    
+    "Anti-Landmine": "एंटी-लैंडमाइन",
+    "Auto Pandemonium Minigame": "ऑटो पेंडेमोनियम मिनीगेम",
+    "Document": "दस्तावेज़",
+
+    "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "गॉडमॉड गौंटलेट एनकाउंटर के कारण टूट गया है, कमरे से निकलने के बाद गॉडमॉड को फिर से सक्रिय कर दिया जाएगा।",
+
+    
+    "This feature doesn't work on this floor.": "यह सुविधा इस मंजिल पर काम नहीं करती है।",
+    "This feature isn't implemented on this floor.": "यह विशेषता इस तल पर लागू नहीं की गई है।",
+    "Anti-Obstruction": "एंटी-ऑब्स्ट्रक्शन",
+    "No Gates": "गेट हटाएँ",
+    "No Puzzle Door": "पहेली दरवाजा हटाएँ",
+    "No Skeleton Door": "कंकाल दरवाजा हटाएँ",
+    "Event Prediction": "इवेंट प्रेडिक्शन",
+    "There may be an event in/after the room %s.": "कमरे %s में/के बाद एक इवेंट हो सकता है।"
 }
