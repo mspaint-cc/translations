@@ -363,6 +363,38 @@
     "Failed to delete preset: ": "Ön Ayar Silinemedi: ",
     "Preset does not exist!": "Ön ayar mevcut değil!",
 
+    "Fish Radar": "Balık Radarı",
+    "Enable fish radar without having to buy it.": "Satın almanıza gerek kalmadan balık radarını etkinleştirin.",
+
+    "Totem Cycle": "Totem Döngüsü",
+    "Day Totem": "Gün totemi",
+    "Night Totem": "Gece Totemi",
+    "Stop At Event": "Etkinlikte Durdur",
+    "An Ancient Megalodon has spawned!": "Antik bir Megalodon ortaya çıktı!",
+    "A Megalodon has spawned!": "Bir Megalodon Doğdu!",
+    "Purchase Totem": "Totem satın al",
+    "Amount of Totems": "Totem miktarı",
+    "Buy Totem": "Totemi Satın al",
+    "Auto Enchant": "Otomatik Büyü",
+    "Enchant List": "Büyü listesi",
+    "Successfully enchanted the rod with %s.": "Çubuğu %s ile başarıyla büyüledi.",
+    "Retry Delay": "Tekrar deneme gecikmesi",
+    "Auto Collect Meteor": "Metorları topla",
+        
+    "This feature doesn't work on this floor.": "Bu özellik bu katda çalışmıyor.",
+    "This feature isn't implemented on this floor.": "Bu özellik bu katta uygulanmamaktadır.",
+    "Anti-Obstruction": "Anti-Obstruction",
+    "No Gates": "Kapıları Kaldır",
+    "No Puzzle Door": "Bulmaca kapısını kaldır",
+    "No Skeleton Door": "İskelet kapısını kaldır",
+    "Event Prediction": "Etkinlik Tahmini",
+    "There may be an event in/after the room %s.": "%s odasında/sonrasında bir etkinlik olabilir.",
+
+    "Anti-Landmine": "Anti-Landmine",
+    "Auto Pandemonium Minigame": "Otomatik Pandemonium Mini Oyunu",
+    "Document": "Belge",
+
+    "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "Eldivenle karşılaşma nedeniyle Ölümsüzlük bozuldu, odadan çıktıktan sonra Ölümsüzlük yeniden etkinleştirilecek."
 
     "Void/Glitch is coming once the next door is opened.": "Sonraki Kapı Açıldığında Void/Glitch Gelecektir.",
     "Void/Glitch is coming %s.": "Void/Glitch %s Geliyor.",
