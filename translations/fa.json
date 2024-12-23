@@ -629,7 +629,7 @@
     "Save Error Logs": "ذخیره کردن خطا ها",
     "Your executor doesn't support the FileSystem API.": "اجرا کننده(اگزکیوتر) شما از این پشتیبانی نمیکند (FileSystem-API). ",
     "[GameId: %s, JobID: %s] %s": "[ایدی بازی: %s, ایدی سرور: %s] %s",
-    "Developers:": "سازندگان:",
+    "Developers": "سازندگان ",
     "upio - Owner": "upio - مالک",
     "Thank you for supporting us by doing the key system!": "تشکر بابت انجام کلید و حمایت از ما!",
     "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "تشکر ویژه بابت خرید کلید مادام العمر و حمایت از ما  D:",
