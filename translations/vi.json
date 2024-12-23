@@ -1,9 +1,9 @@
 {
     
-    "mspaint": "mspaint (VN)",
+    "mspaint": "mspaint (VI)",
 
     "Main": "Chính",
-    "Exploits": "Tính năng hack",
+    "Exploits": "Hacks",
     "Visuals": "Nhìn",
     "Reach": "Với",
     "Misc": "Linh tinh",
@@ -205,7 +205,7 @@
     "No Spider Jumpscare": "Không có jumpscare con nhện",
     "No Halloween Effects": "Không có hiệu ứng Halloween",
 
-    "Knob Cost: ": "Chi phí núm vặn: ",
+    "Knob Cost: ": "Chi phí knobs: ",
 
     "Anti-Entity": "Chống thực thể",
     "Spam Other Tools": "Spam các công cụ khác",
@@ -235,7 +235,7 @@
     "Are you sure the rift even exists?": "Bạn có chắc Rift tồn tại không?",
     "Was not able to find the rift. Are you sure the rift even exists?": "Không thể tìm thấy Rift. Bạn có chắc Rift tồn tại không?",
 
-    "Pre-Run Shop": "Cửa hàng trước trận đấu",
+    "Pre-Run Shop": "Cửa hàng trước game",
     "Item Selection": "Chọn vật phẩm",
     "Amount of items": "Số lượng vật phẩm",
     "Buy Item(s)": "Mua vật phẩm",
@@ -247,16 +247,16 @@
     "Avoid Rush/Ambush": "Tránh Rush và Ambush",
     "Doesn't work for greenhouse :(": "Không hoạt động cho greenhouse :(",
 
-    "Death Farm": "Trang trại chết",
-    "Loading Death Farm Script": "Đang tải script trang trại chết",
+    "Death Farm": "cày chết",
+    "Loading Death Farm Script": "Đang tải script cày chết",
     "Please be patient.": "Vui lòng kiên nhẫn.",
-    "Knob Farm": "Trang trại núm vặn",
+    "Knob Farm": "cày knob",
     "Only works in Room 100 and figure is spawned": "Chỉ hoạt động ở phòng 100 và nếu Figure đã xuất hiện.",
-    "Knob Farm Mode": "Chế độ trang trại núm vặn",
-    "Knob Farm Warning": "Cảnh báo trang trại núm vặn",
+    "Knob Farm Mode": "Chế độ farm knob",
+    "Knob Farm Warning": "Cảnh báo farm knob",
     "The <b>I Love Pancakes!!!</b> modifier is required to use the snare method.": "Cần có modifier <b>I Love Pancakes!!!</b> để sử dụng phương pháp bẫy.",
-    "The <b>Last Breath</b> modifier should be used for a quicker knob farming experience": "Modifier <b>Last Breath</b> cần được sử dụng để có trải nghiệm trang trại núm vặn nhanh hơn.",
-    "Modifiers": "Điều chỉnh",
+    "The <b>Last Breath</b> modifier should be used for a quicker knob farming experience": "Modifier <b>Last Breath</b> cần được sử dụng để có trải nghiệm farm knobs nhanh hơn.",
+    "Modifiers": "Modifier",
     "No Voice Acting": "Không có lồng tiếng",
     "No Jammin": "Không có Jammin",
     "No Bats Decoration": "Không có trang trí dơi",
@@ -276,8 +276,8 @@
     "Minecart Teleport debug": "Gỡ lỗi di chuyển xe mỏ",
     "Visualize Correct Seek Path": "Hiển thị đường đi đúng của Seek",
     "Path Type": "Loại đường đi",
-    "Minecart teleport is ready! Waiting for the minecart...": "Di chuyển xe mỏ đã sẵn sàng! Đang chờ xe mỏ...",
-    "Minecart teleport started. Enjoy the ride!": "Di chuyển xe mỏ đã bắt đầu. Thưởng thức chuyến đi!",
+    "Minecart teleport is ready! Waiting for the minecart...": "Dịch chuyển xe mỏ đã sẵn sàng! Đang chờ xe mỏ...",
+    "Minecart teleport started. Enjoy the ride!": "Dịch chuyển xe mỏ đã bắt đầu. Thưởng thức chuyến đi!",
 
     "Anti Haste Jumpscare": "Chống jumpscare Haste",
     "Haste Clock": "Đồng hồ Haste",
