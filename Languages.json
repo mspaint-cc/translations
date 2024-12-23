@@ -96,6 +96,11 @@
      "ms": {
         "NativeName": "Bahasa Melayu",
         "EnglishName": "Malay"
+    },
+    
+    "vn": {
+        "NativeName": "việt nam",
+        "EnglishName": "Vietnamese"
     }
     
 }
