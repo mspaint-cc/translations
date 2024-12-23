@@ -648,10 +648,10 @@
     "Anchor Bobber": "Jangkar Bobber",
     "Anchors the bobber during Auto Fishing.": "Menjangkar bobber ketika Memancing Automatik.",
 
-    "Contributors:": "Kontibutor:",
-    "Translators:": "Penterjemah:",
+    "Contributors": "Kontibutor",
+    "Translators": "Penterjemah",
 
-    "Auto Bait": "Umpan Automatij",
+    "Auto Bait": "Umpan Automatik",
     "Priority": "Keutamaan",
     "Equipped %s.": "Menggunakan %s.",
     "Reset": "Reset",
@@ -660,7 +660,7 @@
     "Make sure to start the quest first!": "Pastikan untuk memulakan quest terlebih dahulu!",
     "Completed Quest!": "Quest Selesai!",
     "Completing Quest...": "Menyelesaikan Quest",
-    "Finished with quest, re-enabling Auto Farm...": "Selesai dengan quest, menyalakan ulang Farm Automatik...",
+    "Finished with quest, re-enabling Auto Farm...": "Selesai dengan quest, menyalakan semula Farm Automatik...",
     "Auto Farm is enabled, disabling...": "",
 
     "Complete Cloud Quest": "Quest Awan Selesai",
@@ -708,7 +708,7 @@
     "Save Error Logs": "Simpan Log Error",
     "Your executor doesn't support the FileSystem API.": "Executor anda tidak menyokong API Sistem File.",
     "[GameId: %s, JobID: %s] %s": "[GameId: %s, JobID: %s] %s",
-    "Developers:": "Pengembang:",
+    "Developers": "Pengembang",
     "upio - Owner": "upio - Pemilik",
     "Thank you for supporting us by doing the key system!": "Terima kasih kerana telah membantu kami dengan melakukan sistem kunci!",
     "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "Terima kasih kerana telah membeli kunci seumur hidup! Bantuan anda telah membantu kami untuk meneruskan mspaint :D",
