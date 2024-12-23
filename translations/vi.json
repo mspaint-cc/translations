@@ -784,4 +784,20 @@
     "No Skeleton Door": "Không có cửa bộ xương",
     "Event Prediction": "Dự đoán sự kiện",
     "There may be an event in/after the room %s.": "Có thể có một sự kiện trong/sau phòng %s."
+    "Totem Cycle": "chu kỳ totem",
+    "Day Totem": "totem sáng",
+    "Night Totem": "totem tối",
+    "Stop At Event": "dừng ở sự kiện",
+    "An Ancient Megalodon has spawned!": "Một con ancient megalodon đã xuất hiện!",
+    "A Megalodon has spawned!": "Một con megalodon đã xuất hiện!",
+    "Purchase Totem": "mua sắm Totem",
+    "Amount of Totems": "số lượng Totem",
+    "Buy Totem": "mua Totem",
+    "Auto Enchant": "Tự động enchant",
+    "Enchant List": "Danh sách enchant",
+    "Successfully enchanted the rod with %s.": "Thành công enchant cần câu với %s",
+    "Retry Delay": "trì hoãn thử lại",
+    "Auto Collect Meteor": "tự động nhặt thiên thạch",
+    "Fish Radar": "Ra-Đa cá",
+    "Enable fish radar without having to buy it.": "Bật Ra-Đa cá nhưng không cần mua nó"
 }
