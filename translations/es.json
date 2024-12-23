@@ -70,9 +70,9 @@
 
     
     "Builds": "Construcciones",
-    "Auto Farm": "Granja Automatica",
-    "Auto Farm Speed": "Velocidad de la Granja Automatica",
-    "Auto Farm Priority": "Prioridad de la Granja Automatica",
+    "Auto Farm": "Farmear Automaticamente",
+    "Auto Farm Speed": "Velocidad de Farmeo Automatico",
+    "Auto Farm Priority": "Prioridad de Farmeo Automatica",
     "Auto Candy": "Caramelo Automatico",
     "Auto Build": "Construccion Automatica",
     "Saving %s's build into '%s'...": "Guardando la construccion de %s en '%s'...",
@@ -712,8 +712,8 @@
     "Make sure to start the quest first!": "Asegurate de empezar la mision primero!",
     "Completed Quest!": "Mision completada!",
     "Completing Quest...": "Completando mision...",
-    "Finished with quest, re-enabling Auto Farm...": "Mision terminada, re-activando Auto Granja",
-    "Auto Farm is enabled, disabling...": "Auto Granja esta activado, desactivando...",
+    "Finished with quest, re-enabling Auto Farm...": "Mision terminada, re-activando Auto Farmeo",
+    "Auto Farm is enabled, disabling...": "Auto Farmeo esta activado, desactivando...",
 
     "Complete Cloud Quest": "Completar mision de Nube",
     "Complete Target Quest": "Completar mision de objetivo",
