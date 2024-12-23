@@ -784,6 +784,7 @@
     "No Skeleton Door": "Không có cửa bộ xương",
     "Event Prediction": "Dự đoán sự kiện",
     "There may be an event in/after the room %s.": "Có thể có một sự kiện trong/sau phòng %s."
+    
     "Totem Cycle": "chu kỳ totem",
     "Day Totem": "totem sáng",
     "Night Totem": "totem tối",
@@ -798,6 +799,7 @@
     "Successfully enchanted the rod with %s.": "Thành công enchant cần câu với %s",
     "Retry Delay": "trì hoãn thử lại",
     "Auto Collect Meteor": "tự động nhặt thiên thạch",
+    
     "Fish Radar": "Ra-Đa cá",
     "Enable fish radar without having to buy it.": "Bật Ra-Đa cá nhưng không cần mua nó"
 }
