@@ -832,6 +832,10 @@
     "Retry Delay": "Mencuba delay",
     "Auto Collect Meteor": "Automatik Mengambil Meteor",
     "Fish Radar": "Radar Ikan",
-    "Enable fish radar without having to buy it.": "Mengaktifkan radar ikan tanpa membelinya."
-    
+    "Enable fish radar without having to buy it.": "Mengaktifkan radar ikan tanpa membelinya.",
+
+    "Resuming...": "Menyambung semula",
+    "Stopped": "Berhenti",
+    "Appraise Fish": "Nilaikan Ikan",
+    "Despawn Boat": "Hilangkan Bot".
 } 
