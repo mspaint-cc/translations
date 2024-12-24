@@ -806,5 +806,9 @@
     "Retry Delay": "Retraso de reintento",
     "Auto Collect Meteor": "Recolectar Meteoros Automaticamente",
     "Fish Radar": "Radar de pez",
-    "Enable fish radar without having to buy it.": "Activar el radar de pez sin tener que comprarlo."
+    "Enable fish radar without having to buy it.": "Activar el radar de pez sin tener que comprarlo.",
+    "Resuming...": "Reanundando...",
+    "Stopped": "Parado",
+    "Appraise Fish": "Evaluar Pez",
+    "Despawn Boat": "Desaparecer Bote",
     }
