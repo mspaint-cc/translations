@@ -778,4 +778,37 @@
     "Don't worry you have Anti Wall Dweller enabled": "不用急妳有挂妳隨便看",
     "Don't get in their line of sight!": "離開他的視線不然妳是蓋！"
 
+    "This feature doesn't work on this floor.": "這個功能沒辦法在此層使用。",
+    "This feature isn't implemented on this floor.": "這個功能還沒被加入此樓層",
+    "Anti-Obstruction": "防障礙物",
+    "No Gates": "刪除大門",
+    "No Puzzle Door": "刪除謎題們",
+    "No Skeleton Door": "刪除骷髅鑰匙門",
+    "Event Prediction": "活動預測",
+    "There may be an event in/after the room %s.": "預計會有活動在 %s 門後發生。",
+
+    "Totem Cycle": "圖騰循環",
+    "Day Totem": "白天圖騰",
+    "Night Totem": "夜晚圖騰",
+    "Stop At Event": "在活動發生時停止",
+    "An Ancient Megalodon has spawned!": "壹個遠古巨齒鲨生成啦！",
+    "A Megalodon has spawned!": "壹個巨齒鲨生成了！",
+    "Purchase Totem": "購買圖騰",
+    "Amount of Totems": "圖騰數量",
+    "Buy Totem": "購買",
+    "Auto Enchant": "購買附魔石",
+    "Enchant List": "附魔列表",
+    "Successfully enchanted the rod with %s.": "成功將此魚竿加上 %s 附魔。",
+    "Retry Delay": "重新附魔延遲",
+    "Auto Collect Meteor": "自動收集隕石",
+
+    "Fish Radar": "魚雷達",
+    "Enable fish radar without having to buy it.": "不用買就能用，簡直就是雙贏。",
+
+    "Resuming...": "繼續中",
+    "Stopped": "已停止",
+    "Appraise Fish": "估價此魚",
+    "Despawn Boat": "刪除船"
+    
+
 }
