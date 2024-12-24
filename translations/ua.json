@@ -714,5 +714,9 @@
    "Retry Delay": "Затримка повтору",
    "Auto Collect Meteor": "Авто-збір метеорита",
    "Fish Radar": "Радар риб",
-   "Enable fish radar without having to buy it.": "Увімкніть радар риб без необхідності купувати його."
+   "Enable fish radar without having to buy it.": "Увімкніть радар риб без необхідності купувати його.",
+   "Resuming...": "Продовження...",
+   "Stopped": "Зупинено",
+   "Appraise Fish": "Оцінити рибу",
+   "Despawn Boat": "Видалити човен"
 }
