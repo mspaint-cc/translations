@@ -718,5 +718,7 @@
    "Resuming...": "Продовження...",
    "Stopped": "Зупинено",
    "Appraise Fish": "Оцінити рибу",
-   "Despawn Boat": "Видалити човен"
+   "Despawn Boat": "Видалити човен",
+   "Disable Property Tool Limits": "Вимкнути обмеження інструмента властивостей",
+   "Tool Modifications": "Модифікації інструментів"
 }
