@@ -108,21 +108,21 @@
     "Failed to buy chest(s).": "Thất bại thể mua rương",
     "Build Saving [BETA]": "Lưu công trình [BETA]",
     
-    "Ladder Speed": "Tốc độ thang",
+    "Ladder Speed": "Tốc độ leo thang",
     "Enable Jump": "Bật nhảy",
     "Jump Boost": "Lực nhảy",
     "Fast Closet Exit": "Thoát tủ nhanh",
-    "Door Reach": "Với cửa",
+    "Door Reach": "Với tới cửa",
     "Prompt Reach Multiplier": "Nhân độ với prompt",
 
     "Auto Interact": "Tự động tương tác",
     "Auto Interact Ignore": "Tự động tương tác bỏ",
     "Interact Mode": "Chế độ tương tác",
 
-    "Auto Heartbeat Minigame": "Tự động chơi nhịp tim",
+    "Auto Heartbeat Minigame": "Tự động chơi minigame nhịp tim",
     "Auto Library Solver": "Tự động giải thư viện",
-    "Auto Library Code Setting": "Cài đặt tự động giải thư viện",
-    "Unlock Distance": "Độ xa tự giải",
+    "Auto Library Code Setting": "Cài đặt tự động giải code thư viện",
+    "Unlock Distance": "Mở khóa tầm xa",
 
     "Auto Breaker Solver": "Tự giải hộp cầu giao",
     "The breaker box has been successfully solved.": "Hộp cầu giao đã được giải.",
