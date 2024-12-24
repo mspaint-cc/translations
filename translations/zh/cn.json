@@ -719,8 +719,8 @@
     "Anchor Bobber": "锚住浮标",
     "Anchors the bobber during Auto Fishing.": "将浮标稳稳锚定住",
 
-    "Contributors:": "开发者",
-    "Translators:": "翻译员",
+    "Contributors": "开发者",
+    "Translators": "翻译员",
 
     "Auto Bait": "自动诱饵",
     "Priority": "优先级",
@@ -782,14 +782,43 @@
 
     "Anti-Wall Dweller": "防 Wall Dweller",
     "Don't worry you have Anti Wall Dweller enabled": "不用急你有挂你随便看",
-    "Don't get in their line of sight!": "离开他的视线不然你是盖！",
 
     "Anti-Landmine": "自动地雷",
     "Auto Pandemonium Minigame": "自动混乱小游戏",
     "Document": "文件",
 
-    "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "无敌模式因严峻模式，将在离开房间后重新启用。"
+    "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "无敌模式因严峻模式，将在离开房间后重新启用。",
 
+    "This feature doesn't work on this floor.": "这个功能没办法在此层使用。",
+    "This feature isn't implemented on this floor.": "这个功能还没被加入此楼层",
+    "Anti-Obstruction": "防障碍物",
+    "No Gates": "删除大门",
+    "No Puzzle Door": "删除谜题们",
+    "No Skeleton Door": "删除骷髅钥匙门",
+    "Event Prediction": "活动预测",
+    "There may be an event in/after the room %s.": "预计会有活动在 %s 门后发生。",
 
+    "Totem Cycle": "图腾循环",
+    "Day Totem": "白天图腾",
+    "Night Totem": "夜晚图腾",
+    "Stop At Event": "在活动发生时停止",
+    "An Ancient Megalodon has spawned!": "一个远古巨齿鲨生成啦！",
+    "A Megalodon has spawned!": "一个巨齿鲨生成了！",
+    "Purchase Totem": "购买图腾",
+    "Amount of Totems": "图腾数量",
+    "Buy Totem": "购买",
+    "Auto Enchant": "购买附魔石",
+    "Enchant List": "附魔列表",
+    "Successfully enchanted the rod with %s.": "成功将此鱼竿加上 %s 附魔。",
+    "Retry Delay": "重新附魔延迟",
+    "Auto Collect Meteor": "自动收集陨石",
+
+    "Fish Radar": "鱼雷达",
+    "Enable fish radar without having to buy it.": "不用买就能用，简直就是双赢。",
+
+    "Resuming...": "继续中",
+    "Stopped": "已停止",
+    "Appraise Fish": "估价此鱼",
+    "Despawn Boat": "删除船",
     
 }
