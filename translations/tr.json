@@ -401,6 +401,13 @@
     "once the next door is opened.": "Sonraki kapı açıldığında.",
     "in %s rooms": "%s odalarda",
 
+    "Resuming...": "Devam ediliyor...",
+    "Stopped": "Durduruldu",
+    "Appraise Fish": "Balıkları Değerlendirin",
+    "Despawn Boat": "Tekneleri Kaldır",
+    "Disable Property Tool Limits": "Özellik Aracı Sınırlarını Kapat",
+    "Tool Modifications": "Araç Değişiklikleri",
+
     "ENTITIES": "VARLIKLAR",
     "Go to the next room to avoid it.": "Bunu önlemek için sonraki odaya gidin.",
     "Floor": "Kat",
