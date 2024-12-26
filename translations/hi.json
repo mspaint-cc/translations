@@ -1785,5 +1785,15 @@
     "Resuming...": "फिर से शुरू हो रहा है...",
     "Stopped": "रुकगया",
     "Appraise Fish": "मछली का मूल्यांकन करें",
-    "Despawn Boat": "अपनी नाव हटाएं"
+    "Despawn Boat": "अपनी नाव हटाएं", 
+    
+    "Disable Property Tool Limits": "संपत्ति औज़ार सीमाएँ निष्क्रिय करें",
+    "Tool Modifications": "औज़ार संशोधन",
+
+    "Complete Dragon Quest": "ड्रैगन क्वेस्ट पूरी करें",
+    "You need to buy a sword mount first!": "आपको पहले एक तलवार माउंट खरीदने की जरूरत है!",
+    "Complete Soccer Quest": "सॉकर क्वेस्ट पूरी करें",
+    "You need to buy a Harpoon first!": "पहले हार्पून खरीदें!",
+
+    "Complete The Box Quest": "बॉक्स क्वेस्ट पूरी करें"
 }
