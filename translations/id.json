@@ -810,5 +810,13 @@
     "Overwrite config":"Timpa konfigurasi",
     "Set as autoload":"Atur muat otomatis",
     "Reset autoload":"Atur ulang muat otomatis",
-    "Contributor":"Kontributor"
+    "Contributor":"Kontributor",
+    "Failed to equip the fishing rod, retrying...":"Gagal menggunakan alat pancing, mencoba kembali...",
+    "Faster Fishing":"Percepat Mancing",
+    "This feature only works with the 'Exploit' mode.":"Fitur ini hanya bekerja dengan mode 'Eksploit'.",
+    "Disable Temperature":"Matikan Temperatur",
+    "Go To Event":"Pergi ke Event",
+    "Enabled Event(s)":"Event yang Aktif",
+    "Event '%s' has been found!":"Event '%s' telah ditemukan!",
+    "Disable UI":"Matikan UI"
 }
