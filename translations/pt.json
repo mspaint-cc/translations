@@ -44,7 +44,9 @@
     "Tracer Start Position": "Posição Inicial do Traçador",
     "Enable Arrow": "Ativar Seta",
     "Arrow Center Offset": "Deslocamento Central da Seta",
-
+    "Bottom": "Embaixo",
+    "Top": "Topo",
+    "Center": "Centro",
     
     "Speed Hack": "Hack de Velocidade",
     "Enable Speed Hack": "Ativar Hack de Velocidade",
@@ -57,6 +59,10 @@
     "Instant Interact": "Interação Instântanea",
     "Disable Roblox Void": "Desativar Void do Roblox",
     "Inf Jump": "Pulos Infinitos",
+    
+    "Hold": "Segure",
+    "Toggle": "Alterne",
+    "Always": "Sempre",
 
     "No Acceleration": "Sem Aceleração",
 
@@ -123,6 +129,7 @@
     "Fast Closet Exit": "Saída Rápida do Armário",
     "Door Reach": "Alcance da Porta",
     "Prompt Reach Multiplier": "Multiplicador de Alcance do Prompt",
+    "Prompt Clip": "Clipe de prompt",
 
     "Auto Interact": "Interação Automática",
     "Auto Interact Ignore": "Ignorar Objetos na Interação",
@@ -172,7 +179,13 @@
     "[Locked]": "[Trancado(a)]",
     "Gate": "Portão",
     "Lever": "Alavanca",
+    "Ladder": "Escada",
+    "Lighter": "Isqueiro",
+    "Bandage": "Curativo",
+    "Glowstick": "Bãstao de Luz",
 
+    "Anti-Figure Hearing": "Anti-Audição da Figure"
+    
     "Closet": "Armário",
     "Locker": "Armário",
 
@@ -180,6 +193,8 @@
     "Notify Library Code": "Notificar Código da Biblioteca",
     "Notify Oxygen": "Notificar Oxigênio",
     "Notify Hide Time": "Notificar Tempo do Hide",
+    "Glitch Fragment": "Fragmento de Glitch"
+    "Unknown Entities": "Entidades Desconhecidas",
 
     "Notify Chat": "Notificar no Chat",
     "Entity and Padlock Code": "Entidade e Código da Biblioteca",
@@ -196,7 +211,7 @@
     "Notification Style": "Estilo da Notificação",
     "Caption Style": "Estilo da Legenda",
 
-    "Self": "Pessoal",
+    "Self": "Si mesmo",
 
     "Third Person": "Terceira Pessoa",
     "Field of View": "Campo de Visão",
@@ -267,7 +282,7 @@
     
     "Anti-Seek Obstructions": "Evitar Obstruções do Seek",
     "Avoid Rush/Ambush": "Evitar Rush/Ambush",
-    "Doesn't work for greenhouse :(": "Não funciona na estufa :(",
+    "Doesn't work for greenhouse :(": "Não funciona na greenhouse :(",
 
     "Death Farm": "Farm de Morte",
     "Loading Death Farm Script": "Carregando o Script da Farm de Morte",
@@ -642,8 +657,8 @@
     "Disable Goatman": "Desativar Goatman",
     
     
-    "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] Carregamento interrompido. (ERREUR: Carregando)",
-    "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] Carregamento interrompido. (ERREUR: Já carregado)",
+    "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] Carregamento interrompido. (ERRRO: Carregando)",
+    "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] Carregamento interrompido. (ERRO: Já carregado)",
     "No message today... 😢": "Sem mensagem hoje... 😢",
     "MOTD: %s": "MOTD: %s",
     "Failed to fetch %s, please make a bug report!": "Falha para obter %s, por favor faça um relatório do erro!",
