@@ -41,6 +41,15 @@
     "Brightness": "Parlaklık",
     "No Fog": "Sisleri Kaldır",
 
+    "Failed to equip the fishing rod, retrying...": "Olta Takılamadı, yeniden deneniyor..."
+    "Waiting for Auto Treasure Map to finish...": "Otomatik Hazine Haritasının tamamlanması bekleniyor...",
+    "Faster Fishing": "Hızlı Balık tutma",
+    "This feature only works with the 'Exploit' mode.": "Sadece 'Exploit' Modunda çalışır.",
+    "Disable Temperature": "Sıcaklığı Devre Dışı Bırak",
+    "Go To Event": "Evente Git",
+    "Enabled Event(s)": "Event(ler) Açıldı",
+    "Event '%s' has been found!": "Event '%s' Bulundu",
+    "Disable UI": "UI'yi Kapat",
     
     "ESP": "ESP",
     "ESP Type": "ESP Çeşidi",
