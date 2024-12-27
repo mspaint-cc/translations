@@ -424,7 +424,6 @@
    "Teleport to Interactable":"Телепортуватися до об'єкта для взаємодії",
    "Failed to find Boat's Base.":"Не вдалося знайти базу човна.",
    "Anchor Player":"Закріпити гравця",
-   "Anchors you during Auto Fishing.":"Закріплює вас під час авто риболовлі.",
    "Auto Reel":"Автоматична котушка",
    "Auto Cast":"Автоматичний закид",
    "Auto Cast is already running...":"Автоматичний закид вже активний...",
@@ -665,7 +664,7 @@
    "Killed the sheriff!": "Шерифа вбито!",
    "Anti-Wall Dweller": "Анти-захисник стіни",
    "Don't worry you have Anti Wall Dweller enabled": "Не хвилюйтесь, у вас увімкнено Анти-захисник стіни.",
-   "Don't get in their line of sight!": "Не потрапляйте у їхню лінію видимості!",
+
    "Innocent": "Невинний",
    "No One": "Ніхто",
    "Silent Aim Setting": "Налаштування тихого прицілу",
