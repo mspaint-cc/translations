@@ -121,7 +121,17 @@
     "Enable Motor Modifications": "Ativar Modificações do Motor",
     "Motor Speed": "Velocidade do Motor",
     "Motor Turning Speed": "Velocidade de Curva do Motor",
-    
+    "Tool Modifications": "Modificação de Ferramenta",
+    "Disable Property Tool Limits": "Desativar Limites da Ferramenta de Propiedade",
+    "Auto Quest": "Missão Automática",
+    "Complete Cloud Quest": "Completar Missão Nuvem",
+    "Complete Target Quest": "Completar Missão Alvo",
+    "Complete Ramp Quest": "Completar Missão Rampa",
+    "Complete Find Me Quest": "Completar Missão Encontre Me",
+    "Complete Dragon Quest": "Completar Missão Dragão",
+    "Complete Soccer Quest": "Complete Missão Futebol",
+    "Complete Thin Ice Quest": "Complete Missão Gelo Fino",
+    "Complete The Box Quest": "Complete Missão A Caixa",
     
     "Ladder Speed": "Velocidade na Escada",
     "Enable Jump": "Ativar Pulo",
@@ -129,7 +139,7 @@
     "Fast Closet Exit": "Saída Rápida do Armário",
     "Door Reach": "Alcance da Porta",
     "Prompt Reach Multiplier": "Multiplicador de Alcance do Prompt",
-    "Prompt Clip": "Clipe de prompt",
+    "Prompt Clip": "Clipe de commando",
 
     "Auto Interact": "Interação Automática",
     "Auto Interact Ignore": "Ignorar Objetos na Interação",
@@ -182,9 +192,9 @@
     "Ladder": "Escada",
     "Lighter": "Isqueiro",
     "Bandage": "Curativo",
-    "Glowstick": "Bãstao de Luz",
+    "Glowstick": "Bastão de Luz",
 
-    "Anti-Figure Hearing": "Anti-Audição de Figure",
+    "Anti-Figure Hearing": "Anti-Audição de Figura",
     
     "Closet": "Armário",
     "Locker": "Armário",
@@ -211,7 +221,7 @@
     "Notification Style": "Estilo da Notificação",
     "Caption Style": "Estilo da Legenda",
 
-    "Self": "Si mesmo",
+    "Self": "A Si mesmo",
 
     "Third Person": "Terceira Pessoa",
     "Field of View": "Campo de Visão",
@@ -282,7 +292,15 @@
     
     "Anti-Seek Obstructions": "Evitar Obstruções do Seek",
     "Avoid Rush/Ambush": "Evitar Rush/Ambush",
-    "Doesn't work for greenhouse :(": "Não funciona na greenhouse :(",
+    "Doesn't work for greenhouse :(": "Não funciona na estufa :(",
+
+    "No Gates": "Sem portões",
+    "No Puzzle Door": "Sem Porta do Quebra-Cabeça",
+    "No Skeleton Door": "Sem Porta do Esqueleto",
+
+    "Event Prediction": "Prever Eventos",
+
+    "Notification Sound ID": "ID do Som de Notificação"
 
     "Death Farm": "Farm de Morte",
     "Loading Death Farm Script": "Carregando o Script da Farm de Morte",
@@ -462,6 +480,7 @@
     "[Fixed]": "[Consertado]",
     "Wire": "Cabo",
     "Crystal": "Cristal",
+    "Turrets": "Torretas",
 
     
     "Infinite Stamina": "Energia Infinita",
@@ -655,9 +674,11 @@
     "Disable Sarrow": "Desativar Sarrow",
     "Disable Dozer": "Desativar Dozer",
     "Disable Goatman": "Desativar Goatman",
+    "Fun": "Divertido",
+    "Auto Spin Flashlight": "Automaticamente Girar Lanterna"
     
     
-    "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] Carregamento interrompido. (ERRRO: Carregando)",
+    "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] Carregamento interrompido. (ERRO: Carregando)",
     "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] Carregamento interrompido. (ERRO: Já carregado)",
     "No message today... 😢": "Sem mensagem hoje... 😢",
     "MOTD: %s": "MOTD: %s",
@@ -701,6 +722,27 @@
     "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.": "Votre clé a expiré, votre accès à mspaint sera révoqué lors de la prochaine exécution, sauf si vous prolongez votre durée de clé ou achetez une clé de vie.",
     "Restart mspaint to apply language changes.": "Reinicie o mspaint para aplicar a mudança de linguagem.",
 
+    "Sheriff": "Xerife",
+    "Murderer": "Assasino",
+    "No one": "Ninguém"
+    "Disable Sensors": "Desativar Sensores",
+    "Innocent": "Inocente"
+    "Instant Role Notify": "instantâneamente Notificar Funções",
+    "Auto Collect Gun": "Automaticamente Coletar Arma",
+    "Fling Murder": "Arremessar Assasino",
+    "Silent Aim Setting": "Configurações da Mira Silenciosa",
+    "Ignore Walls": "Ignorar Paredes",
+    "Check Walls": "Checar Paredes",
+    "Silent Aim": "Mira Silenciosa",
+    "Enable Reach": "Ligar Alcance",
+    "Reach Multiplier": "Multiplicador de Alcance",
+    "Kill Player": "Matar Jogador",
+    "Kill Sheriff": "Matar Xerife",
+    "Kill All": "Matar Todos",
+    "Map": "Mapa"
+    "Gun": "Arma"
+    
+
     
     "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Seu executor não suporta a API de Arquivos. Os addons não funcionarão.",
     "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] A pasta de addons não existe. Criando-a...",
@@ -723,5 +765,57 @@
     "Invalid 'Game' variable (expected 'string/table' got '": "Variável 'Game' inválida (esperado 'string/table' obtido '",
     "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' não carregou: Variável 'Game' inválida (esperado 'string/table' obtido '",
     "[mspaint] Failed to load addon '": "[mspaint] Falha ao carregar o addon '",
-    "Failed to load this addon:": "Falha ao carregar o addon:"
+    "Failed to load this addon:": "Falha ao carregar o addon:",
+    "Themes": "Temas",
+    "Background color": "Cores de fundo",
+    "Main color": "Cor principal",
+    "Accent color": "Cor de destaque",
+    "Outline color": "Cor de contorno",
+    "Font color": "Cor da fonte",
+    "Configuration": "Configurações",
+    "Config name": "Nome da Configuração",
+    "Load config": "Carregar configuração",
+    "Overwrite config": "Sobrescrever configuração",
+    "Delete config": "Deletar configuração",
+    "Refresh list": "Atualizar a lista",
+    "Set as autoload": "Definir como carregar automaticamente",
+    "Reset autoload": "Resetar carregamento automatico",
+    
+    "No exploits available as of right now, if you have any and would like to share, please make a ticket in the mspaint support server.": "Nenhum exploit está disponível agora, se você tem algum e queira compartilhar, por favor faça um ticket no servidor de suporte do mspaint",
+    "Using these exploits may cause data loss, please use them at your own risk.": "Usando esses exploits pode causar perca de dados, por favor utilize-os por sua conta e risco",
+    "Disable Temperature": "Desativar Temperatura",
+    "Auto Accept Offers": "Automaticamente Aceitar Ofertas",
+    "Disable 3D Rendering": "Desativar Renderização 3D",
+    "Disable UI": "Desativar UI"
+    "Amount": "Quantidade",
+    "Luck": "Sorte",
+    "Buy Luck": "Comprar Sorte",
+    "Developers": "Desenvolvedores",
+    "[upio] Owner": "[upio] Dono",
+    "[bacalhauz] Developer": "[bacalhauz] Desenvolvedor",
+    "[mstudio45] Developer": "[mstudio45] Desenvolvedor",
+    "Contributors": "Contribuidores",
+    "[deividcomsono] Retired Developer": "[deividcomsono] Desenvolvedor Retirado",
+    "[realmasteroogway] Helped with ESP": "[realmasteroogway] Ajudou com o ESP",
+    "[desty] Helped with Fisch": "[desty] Ajudou com o jogo Peixe",
+    "[lythicals] Helped with Fisch": "[lythicals] Ajudou com o jogo Peixe",
+    "[daniel188323] Helped with BABFT": "[daniel188323] Ajudou com o jogo CUBPT"
+    "Translators": "Tradutores",
+    "[upio] French": "[upio] Francês",
+    "[haoni1028] Chinese Simplified + Traditional": "[haoni1028] Chinês Simplificado + Tradicional",
+    "[arti4ikmin] Russian": "[arti4ikmin] Russo",
+    "[PerebeyTimka, potoo] Ucraniano",
+    "[Dax1w] Kazakh": "[Dax1w] Cazaque",
+    "[deividcomsono] Portuguese": "[deividcomsono] Português",
+    "[javiviso56_87172] Spanish": "[javiviso56_87172] Espanhol",
+    "[notorious_popcat] Persian": "[notorious_popcat] Persa",
+    "[runsim5] Arabic": "[runsim5] Árabe",
+    "[EnusSoul] Hindi": "[EnusSoul] Hindi",
+    "[your_average_water] Urdu": "[your_average_water] Urdu",
+    "[Irfan] Malay": "[Irfan] Malaia",
+    "[mstudio45] Czech": "[mstudio45] Tcheco",
+    "[realmasteroogway] German": "[realmasteroogway] Alemão",
+    "[ilyax] Turkish": "[ilyax] Turco",
+    "[quio12] Vietnamese": "[quio12] Vietnamita",
+    "[wala_bingung] Indonesian": "[wala_bingung] Indonésio"
 }
