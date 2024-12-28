@@ -3,7 +3,7 @@
     "mspaint": "mspaint (ID)",
 
     "Main": "Utama",
-    "Exploits": "Exploitasi",
+    "Exploits": "Eksploit",
     "Visuals": "Visual",
     "Reach": "Jangkauan",
     "Misc": "Aneka",
@@ -18,7 +18,7 @@
     "Automation": "Otomatis",
     "Ambient": "Linkungan Sekitar",
     "Bypass": "Lewati",
-    "Farm": "Farm(Berkebun/Bertani)",
+    "Farm": "Farm",
 
     "Loading data...": "Memuat data...",
     "Settings": "Pengaturan",
