@@ -724,9 +724,9 @@
 
     "Sheriff": "Xerife",
     "Murderer": "Assasino",
-    "No one": "Ninguém"
+    "No one": "Ninguém",
     "Disable Sensors": "Desativar Sensores",
-    "Innocent": "Inocente"
+    "Innocent": "Inocente",
     "Instant Role Notify": "instantâneamente Notificar Funções",
     "Auto Collect Gun": "Automaticamente Coletar Arma",
     "Fling Murder": "Arremessar Assasino",
@@ -739,8 +739,8 @@
     "Kill Player": "Matar Jogador",
     "Kill Sheriff": "Matar Xerife",
     "Kill All": "Matar Todos",
-    "Map": "Mapa"
-    "Gun": "Arma"
+    "Map": "Mapa",
+    "Gun": "Arma",
     
 
     
@@ -799,7 +799,7 @@
     "[realmasteroogway] Helped with ESP": "[realmasteroogway] Ajudou com o ESP",
     "[desty] Helped with Fisch": "[desty] Ajudou com o jogo Peixe",
     "[lythicals] Helped with Fisch": "[lythicals] Ajudou com o jogo Peixe",
-    "[daniel188323] Helped with BABFT": "[daniel188323] Ajudou com o jogo CUBPT"
+    "[daniel188323] Helped with BABFT": "[daniel188323] Ajudou com o jogo CUBPT",
     "Translators": "Tradutores",
     "[upio] French": "[upio] Francês",
     "[haoni1028] Chinese Simplified + Traditional": "[haoni1028] Chinês Simplificado + Tradicional",
