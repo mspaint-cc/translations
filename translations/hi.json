@@ -899,5 +899,15 @@
     "Complete Soccer Quest": "सॉकर क्वेस्ट पूरी करें",
     "You need to buy a Harpoon first!": "पहले हार्पून खरीदें!",
 
-    "Complete The Box Quest": "बॉक्स क्वेस्ट पूरी करें"
+    "Complete The Box Quest": "बॉक्स क्वेस्ट पूरी करें", 
+    
+    "Failed to equip the fishing rod, retrying...": "मछली पकड़ने की छड़ी लेने में विफल, पुनः प्रयास कर रहा हूँ...",
+    "Waiting for Auto Treasure Map to finish...": "ऑटो ट्रेज़र मैप के खत्म होने का इंतज़ार कर रहा हूँ...",
+    "Faster Fishing": "तेज़ मछली पकड़ना",
+    "This feature only works with the 'Exploit' mode.": "यह सुविधा केवल 'एक्सप्लॉइट' मोड में काम करती है।",
+    "Disable Temperature": "तापमान अक्षम करें",
+    "Go To Event": "इवेंट पर जाएँ",
+    "Enabled Event(s)": "सक्षम घटना(ओं)",
+    "Event '%s' has been found!": "इवेंट '%s' मिल गया है!",
+    "Disable UI": "यूआई अक्षम करें"
 }
