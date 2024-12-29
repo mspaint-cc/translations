@@ -817,4 +817,14 @@
     "Complete Soccer Quest": "Completar la misión de fútbol",
     "You need to buy a Harpoon first!": "Primero debes comprar un arpón!",
     "Complete The Box Quest": "Completar mision de la caja"
+    "Failed to equip the fishing rod, retrying...": "Fallo en equipar la caña de pescar, reintentando",
+    "Waiting for Auto Treasure Map to finish...": "Esperando a mapa de tesoro automatico que termine...",
+    "Faster Fishing": "Pesca mas rapida",
+    "This feature only works with the 'Exploit' mode.": "Esta funcion solo funciona con el modo 'Exploit'.",
+    "Disable Temperature": "Desactivar Temperatura",
+    "Go To Event": "Ir a evento",
+    "Enabled Event(s)": "Evento(s) activados",
+    "Event '%s' has been found!": "Evento '%s' ha sido encontrado",
+    "Disable UI": "Desactivar IU",
+    "Failed to repair a new Treasure Map! Not enough money.": "Fallo en reparar un mapa de tesoro nuevo! Dinero no suficiente"
     }
