@@ -909,5 +909,7 @@
     "Go To Event": "इवेंट पर जाएँ",
     "Enabled Event(s)": "सक्षम घटना(ओं)",
     "Event '%s' has been found!": "इवेंट '%s' मिल गया है!",
-    "Disable UI": "यूआई अक्षम करें"
+    "Disable UI": "यूआई अक्षम करें", 
+
+    "Failed to repair a new Treasure Map! Not enough money.": "एक नए खजाने के नक्शे की मरम्मत करने में विफल! पर्याप्त पैसा नहीं है।"
 }
