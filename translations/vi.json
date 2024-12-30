@@ -819,5 +819,6 @@
     "Go To Event": "Đi tới sự kiện",
     "Enabled Event(s)": "Sự kiện hiện tại",
     "Event '%s' has been found!": "Sự kiện '%s' đã được tìm!",
-    "Disable UI": "Tắt UI"
+    "Disable UI": "Tắt UI",
+    "Failed to repair a new Treasure Map! Not enough money.": "Không thể sửa chữa Bản đồ kho báu! Không đủ tiền."
 }
