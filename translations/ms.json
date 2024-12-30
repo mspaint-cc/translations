@@ -856,5 +856,7 @@
     "Go To Event": "Pergi Ke Event",
     "Enabled Event(s)": "Dayakan Acara-Acara",
     "Event '%s' has been found!": "Acara '%s' telah dijumpai!",
-    "Disable UI": "Tutup UI"
+    "Disable UI": "Tutup UI",
+
+    "Failed to repair a new Treasure Map! Not enough money.": "Gagal untuk membaiki Harta Karun yang baharu! Duit tidak mencukupi."
 } 
