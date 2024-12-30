@@ -589,6 +589,7 @@
    "Please interact with the NPC.":"الرجاء التفاعل مع الانبيسي.",
    "Failed to find the NPC, retrying with teleport...":"فشل العثور على الانبيسي, المحاولة مرة اخرى بلانتقال.",
    "Failed to find the the NPC.":"فشل العثور على الانبيسي.",
+   "Failed to repair a new Treasure Map! Not enough money.": "فشل اصلاح خريطة كنز جديدة! لا يوجد مال كافي.",
    "Interacting with the NPC...":"التفاعل مع الانبيسي...",
    "You don't have the Treasure Map equipped.":"ليس بيديك خريطة الكنز.",
    "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.":"تحذير! الاكسكيوتر حقك لا يدعم 'require'. بعض البيانات قد تكون قديمة",
