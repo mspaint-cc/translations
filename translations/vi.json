@@ -810,5 +810,15 @@
     "You need to buy a sword mount first!": "Bạn cần mua một cái sword mount trước!",
     "Complete Soccer Quest": "Hoàn thành Soccer Quest",
     "You need to buy a Harpoon first!": "Bạn cần mua một cái Harpoon Trước!",
-    "Complete The Box Quest": "Hoàn thành Box Quest"
+    "Complete The Box Quest": "Hoàn thành Box Quest",
+    "Failed to equip the fishing rod, retrying...": "Không thể dùng được cần câu , đang thử lại",
+    "Waiting for Auto Treasure Map to finish...": "Đang đợi tự động kho báu bản đồ để hoàn thành",
+    "Faster Fishing": "Câu cá nhanh hơn",
+    "This feature only works with the 'Exploit' mode.": "Tính năng này chỉ hoạt động với chế độ 'exploit'!",
+    "Disable Temperature": "Tắt nhiệt độ",
+    "Go To Event": "Đi tới sự kiện",
+    "Enabled Event(s)": "Sự kiện hiện tại",
+    "Event '%s' has been found!": "Sự kiện '%s' đã được tìm!",
+    "Disable UI": "Tắt UI",
+    "Failed to repair a new Treasure Map! Not enough money.": "Không thể sửa chữa Bản đồ kho báu! Không đủ tiền."
 }

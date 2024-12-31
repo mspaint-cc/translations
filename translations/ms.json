@@ -846,5 +846,17 @@
     "You need to buy a sword mount first!": "Anda perlu mrmbrli pedang mount dahulu!",
     "Complete Soccer Quest": "Selesaikan Quest Soccer",
     "You need to buy a Harpoon first!": "Anda perlu membeli Harpoon dahalu!",
-    "Complete The Box Quest": "Selesaikan Quest The Box"
+    "Complete The Box Quest": "Selesaikan Quest The Box",
+
+    "Failed to equip the fishing rod, retrying...": "Gagal untuk memegang alat pancing...",
+    "Waiting for Auto Treasure Map to finish...": "Menunggu untuk Automatik Harta Karun untuk selesai...",
+    "Faster Fishing": "Memancing Lebih Laju",
+    "This feature only works with the 'Exploit' mode.": "Fitur ini hanya bekerja dengan mod 'Eksploit'.",
+    "Disable Temperature": "Tutup Suhu",
+    "Go To Event": "Pergi Ke Event",
+    "Enabled Event(s)": "Dayakan Acara-Acara",
+    "Event '%s' has been found!": "Acara '%s' telah dijumpai!",
+    "Disable UI": "Tutup UI",
+
+    "Failed to repair a new Treasure Map! Not enough money.": "Gagal untuk membaiki Harta Karun yang baharu! Duit tidak mencukupi."
 } 

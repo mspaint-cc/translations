@@ -719,7 +719,6 @@
     "Auto Repair": "ऑटो मरम्मत",
     "Repair Current Maps": "वर्तमान नक्शे सुधारें",
     "Done.": "हो गया।",
-    "Waiting for Auto Treasure Map to finish...": "ऑटो खजाना नक्शा समाप्त होने की प्रतीक्षा में...",
     "Paused due to Auto Treasure Map.": "ऑटो खजाना नक्शा के कारण रुका हुआ।",
     "[Fisch] Auto Treasure Map - Repair.": "[Fisch] ऑटो खजाना नक्शा - मरम्मत",
     "Successfully repaired a new Treasure Map!": "एक नया खजाना नक्शा सफलतापूर्वक सुधारा गया!",
@@ -899,5 +898,17 @@
     "Complete Soccer Quest": "सॉकर क्वेस्ट पूरी करें",
     "You need to buy a Harpoon first!": "पहले हार्पून खरीदें!",
 
-    "Complete The Box Quest": "बॉक्स क्वेस्ट पूरी करें"
+    "Complete The Box Quest": "बॉक्स क्वेस्ट पूरी करें", 
+    
+    "Failed to equip the fishing rod, retrying...": "मछली पकड़ने की छड़ी लेने में विफल, पुनः प्रयास कर रहा हूँ...",
+    "Waiting for Auto Treasure Map to finish...": "ऑटो ट्रेज़र मैप के खत्म होने का इंतज़ार कर रहा हूँ...",
+    "Faster Fishing": "तेज़ मछली पकड़ना",
+    "This feature only works with the 'Exploit' mode.": "यह सुविधा केवल 'एक्सप्लॉइट' मोड में काम करती है।",
+    "Disable Temperature": "तापमान अक्षम करें",
+    "Go To Event": "इवेंट पर जाएँ",
+    "Enabled Event(s)": "सक्षम घटना(ओं)",
+    "Event '%s' has been found!": "इवेंट '%s' मिल गया है!",
+    "Disable UI": "यूआई अक्षम करें", 
+
+    "Failed to repair a new Treasure Map! Not enough money.": "एक नए खजाने के नक्शे की मरम्मत करने में विफल! पर्याप्त पैसा नहीं है।"
 }
