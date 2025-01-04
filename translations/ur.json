@@ -581,6 +581,22 @@
   "[mspaint] Invalid file extension for '": "[mspaint] ' کے لیے غلط فائل ایکسٹینشن",
   "[mspaint] Loading addon '": "[mspaint] ایڈون لوڈ ہو رہا ہے '",
   "Failed to load this addon (": "یہ ایڈون لوڈ کرنے میں ناکام (",
+    "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "خبردار! آپ کا ایگزیکیوٹر 'require' فنکشن کی حمایت نہیں کرتا۔ کچھ ڈیٹا پرانا ہو سکتا ہے۔",
+    "Loading location data...": "مقام کا ڈیٹا لوڈ ہو رہا ہے...",
+    "Searching for a fishing rod...": "ماہی گیری کی چھڑی تلاش کر رہا ہے...",
+    "Casting the fishing rod...": "ماہی گیری کی چھڑی پھینک رہا ہے...",
+    "Failed to cast the fishing rod, retrying...": "ماہی گیری کی چھڑی پھینکنے میں ناکام، دوبارہ کوشش کر رہا ہے...",
+    "Resuming Auto Fish...": "خودکار ماہی گیری دوبارہ شروع ہو رہی ہے...",
+    "Auto Fish stopped.": "خودکار ماہی گیری روک دی گئی۔",
+    "Fix stuck on Already running.": "پہلے سے چل رہا ہے پر پھنسنے کو ٹھیک کریں۔",
+    "Inventory": "فہرست",
+    "Center Button": "مرکزی بٹن بنائیں",
+    "One map repair costs 250C$.": "ایک نقشہ کی مرمت کی قیمت 250C$ ہے",
+    "Auto Claim": "خودکار دعویٰ",
+    "Claim Current Maps": "موجودہ نقشے کا دعویٰ کریں",
+    "Discord Settings": "ڈسکارڈ سیٹنگز",
+    "Anchor Bobber": "اینکر بوببر",
+    "Anchors the bobber during Auto Fishing.": "خودکار ماہی گیری کے دوران بوببر کو اینکر کرتا ہے۔"
   "Invalid 'Elements' variable (expected 'table' got '": "غلط 'عناصر' متغیر (متوقع 'table' پایا '",
   "' didn't load: Invalid 'Elements' variable (expected 'table' got '": "' لوڈ نہیں ہوا: غلط 'عناصر' متغیر (متوقع 'table' پایا '",
   "' didn't load: Wrong game.": "' لوڈ نہیں ہوا: غلط کھیل۔",
@@ -637,4 +653,4 @@
   "Failed to fetch %s, please make a bug report!": "%s حاصل کرنے میں ناکام، براہ کرم بگ رپورٹ بنائیں!",
   "Buy Item": "آئٹم خریدیں",
   "Cost: %s": "قیمت: %s"
-}
+
