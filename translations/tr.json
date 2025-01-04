@@ -1,6 +1,15 @@
 {
-    "Failed to repair a new Treasure Map! Not enough money.": "Sandık Haritası Tamir edilemedi! Yetersiz para.",
     "mspaint": "mspaint (TR)",
+
+    "Failed to repair a new Treasure Map! Not enough money.": "Sandık Haritası Tamir edilemedi! Yetersiz para.",
+    "Simulate Lag": "Lag Sümilasyon",
+    "Tick(s) simulation": "Tick(s) Sümilasyon",
+
+    "Mod Detector": "Moderatör Algılayıcı",
+    "On Mod Join": "Möderatör katıldığında",
+    "Looking for a server...": "Sunucu bulunuyor...",
+    "Server found!": "Sunucu bulundu",
+    "Player '%s' is a moderator! (%s)": "Oyuncu '%s' moderatördür! (%s)",
 
     "Main": "Menü",
     "Exploits": "Hileler",
@@ -516,9 +525,15 @@
     "No Blur": "Bulanıklığı Kaldır",
 
     
-    "[Fisch] New Catch!": "[Fisch] Yeni Yakalama!",
-    "[Fisch] Auto Sell Result": "[Fisch] Otomatik Satış Sonucu",
-    "[Fisch] Test.": "[Fisch] Deneme.",
+    "Name": "İsim",
+    "Sold For": "Satıldı",
+    "Failed to sell item.": "Öğe satılamadı.",
+    "Auto Treasure Map - Repair": "Otomatik Hazine Haritası - Tamir",
+    "Auto Treasure Map - Claim": "Otomatik hazine Haritası - idda",
+    "New Catch!": "Yeni Yakalama!",
+    "New Bait!": "Yeni Yem!",
+    "Auto Sell Result": "Otomatik Satış Sonucu",
+    "New Event!": "Yeni Etkinlik",
     "This is a test message.": "Bu bir deneme mesajı.",
     "[Sold For]": "[Satıldı]",
     "[Name]": "[İsim]",
