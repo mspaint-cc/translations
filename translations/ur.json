@@ -596,7 +596,7 @@
     "Claim Current Maps": "موجودہ نقشے کا دعویٰ کریں",
     "Discord Settings": "ڈسکارڈ سیٹنگز",
     "Anchor Bobber": "اینکر بوببر",
-    "Anchors the bobber during Auto Fishing.": "خودکار ماہی گیری کے دوران بوببر کو اینکر کرتا ہے۔"
+    "Anchors the bobber during Auto Fishing.": "خودکار ماہی گیری کے دوران بوببر کو اینکر کرتا ہے۔",
   "Invalid 'Elements' variable (expected 'table' got '": "غلط 'عناصر' متغیر (متوقع 'table' پایا '",
   "' didn't load: Invalid 'Elements' variable (expected 'table' got '": "' لوڈ نہیں ہوا: غلط 'عناصر' متغیر (متوقع 'table' پایا '",
   "' didn't load: Wrong game.": "' لوڈ نہیں ہوا: غلط کھیل۔",
@@ -653,4 +653,4 @@
   "Failed to fetch %s, please make a bug report!": "%s حاصل کرنے میں ناکام، براہ کرم بگ رپورٹ بنائیں!",
   "Buy Item": "آئٹم خریدیں",
   "Cost: %s": "قیمت: %s"
-
+}
