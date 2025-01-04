@@ -820,5 +820,7 @@
     "Enabled Event(s)": "Sự kiện hiện tại",
     "Event '%s' has been found!": "Sự kiện '%s' đã được tìm!",
     "Disable UI": "Tắt UI",
-    "Failed to repair a new Treasure Map! Not enough money.": "Không thể sửa chữa Bản đồ kho báu! Không đủ tiền."
+    "Failed to repair a new Treasure Map! Not enough money.": "Không thể sửa chữa Bản đồ kho báu! Không đủ tiền.",
+    "Simulate Lag": "Mô phỏng Lag",
+    "Tick(s) simulation": "Độ tick mô phỏng"
 }
