@@ -732,5 +732,22 @@
    "Go To Event": "Перейти до події",
    "Enabled Event(s)": "Увімкнені події",
    "Event '%s' has been found!": "Подію '%s' знайдено!",
-   "Disable UI": "Вимкнути інтерфейс"
+   "Disable UI": "Вимкнути інтерфейс",
+   "Failed to repair a new Treasure Map! Not enough money.": "Не вдалося відновити нову Карту скарбів! Недостатньо грошей.",
+   "Simulate Lag": "Імітація затримки",
+   "Tick(s) simulation": "Симуляція тактів",
+   "Mod Detector": "Детектор модераторів",
+   "On Mod Join": "Приєднання модератора",
+   "Looking for a server...": "Пошук сервера...",
+   "Server found!": "Сервер знайдено!",
+   "Player '%s' is a moderator! (%s)": "Гравець '%s' є модератором! (%s)",
+   "Name": "Назва",
+   "Sold For": "Продано за",
+   "Failed to sell item.": "Не вдалося продати предмет.",
+   "Auto Treasure Map - Repair": "Автокарта скарбів - Ремонт",
+   "Auto Treasure Map - Claim": "Автокарта скарбів - Отримання",
+   "New Catch!": "Новий улов!",
+   "New Bait!": "Нова наживка!",
+   "Auto Sell Result": "Результат автопродажу",
+   "New Event!": "Нова подія!"
 }
