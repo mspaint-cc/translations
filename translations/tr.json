@@ -13,7 +13,8 @@
 
     "Players": "Oyuncular",
     "Teleport to Player": "Oyuncu'ya ışınlan",
-    "Catch Mentions": "Bahsetmeleri Yakala",
+    "Catch Mentions": "Bahisleri Yakala",
+    "Bait  Mentions": "Yem Bahisleri",
     "Mentions you when you catch a ... fish.": "... balığı yakaladığınızda sizden bahseder",
     "Mentions you when you catch a ... bait.": "... yemi yakaladığınızda sizden bahseder",
     "[General]": "[Genel]",
