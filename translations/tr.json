@@ -11,6 +11,17 @@
     "Server found!": "Sunucu bulundu",
     "Player '%s' is a moderator! (%s)": "Oyuncu '%s' moderatördür! (%s)",
 
+    "Players": "Oyuncular",
+    "Teleport to Player": "Oyuncu'ya ışınlan",
+    "Catch Mentions": "Bahsetmeleri Yakala",
+    "Mentions you when you catch a ... fish.": "... balığı yakaladığınızda sizden bahseder",
+    "Mentions you when you catch a ... bait.": "... yemi yakaladığınızda sizden bahseder",
+    "[General]": "[Genel]",
+    "Auto Claim Fillionaire": "Otomatik Fillionarie Talebi",
+    "Waiting for Auto Claim Fillionaire to finish...": "Otomatik Fillionaire Taleb'in tamamlanması bekleniyor...",
+    "Enable Location (Zone Cast)": "Konumu Etkinleştir (Bölge Yayını)",
+    "Auto Crab Cage": "Otomatik Yengeç Kafesi",
+
     "Main": "Menü",
     "Exploits": "Hileler",
     "Visuals": "Görünüm",
