@@ -821,5 +821,19 @@
     "Disable UI": "Tắt UI",
     "Failed to repair a new Treasure Map! Not enough money.": "Không thể sửa chữa Bản đồ kho báu! Không đủ tiền.",
     "Simulate Lag": "Mô phỏng Lag",
-    "Tick(s) simulation": "Độ tick mô phỏng"
+    "Tick(s) simulation": "Độ tick mô phỏng",
+    "Mod Detector": "Phát hiện mod",
+    "On Mod Join": "Khi mod tham gia",
+    "Looking for a server...": "Đang tìm server...",
+    "Server found!": "Đã tìm thấy server!",
+    "Player '%s' is a moderator! (%s)": "Người chơi '%s' là mod! (%s)",
+    "Name": "Tên",
+    "Sold For": "Bán với giá",
+    "Failed to sell item.": "Không bán được thành công",
+    "Auto Treasure Map - Repair": "Tự động bản đồ kho báu - Sửa chữa",
+    "Auto Treasure Map - Claim": "Tự động bản đồ kho báu - Lấy",
+    "New Catch!": "Cá mới!",
+    "New Bait!": "Mồi mới!",
+    "Auto Sell Result": "Kết quả tự động bán",
+    "New Event!": "Sự kiện mới!"
 }
