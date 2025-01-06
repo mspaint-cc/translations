@@ -866,5 +866,17 @@
     "On Mod Join": "On Menyertai Mod",
     "Looking for a server...": "Mencari Server",
     "Server found!": "Server Dijumpai!",
-    "Player '%s' is a moderator! (%s)": "Pemain '%s' adalah moderator!"
+    "Player '%s' is a moderator! (%s)": "Pemain '%s' adalah moderator!",
+
+    "Players": "Pemain",
+    "Teleport to Player": "Teleport ke Pemain",
+    "Catch Mentions": "Pemberitahuan Tangkap",
+    "Bait Mentions": "Pemberitahuan Umpan",
+    "Mentions you when you catch a ... fish.": "Memberitahu bila anda menangkap ... ikan.",
+    "Mentions you when you catch a ... bait.": "Memberitahu apabila anda menangkap ... umpan.",
+    "[General]": "[Umum]",
+    "Auto Claim Fillionaire": "Fillionaire Tuntutan Automatik",
+    "Waiting for Auto Claim Fillionaire to finish...": "Menunggu untuk Tuntutan Fillionaire Automatik untuk tamat...",
+    "Enable Location (Zone Cast)": "Mengaktifkan lokasi (Zon Pancing)",
+    "Auto Crab Cage": "Sangkar Ketam Automatik"
 } 
