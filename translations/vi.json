@@ -835,5 +835,16 @@
     "New Catch!": "Cá mới!",
     "New Bait!": "Mồi mới!",
     "Auto Sell Result": "Kết quả tự động bán",
-    "New Event!": "Sự kiện mới!"
+    "New Event!": "Sự kiện mới!",
+    "Players": "Người chơi",
+    "Teleport to Player": "Dịch chuyển tới người chơi",
+    "Catch Mentions": "Đề cập bắt",
+    "Bait Mentions": "Đề cập mồi",
+    "Mentions you when you catch a ... fish.": "Đề cập khi bạn bắt một con cá ...",
+    "Mentions you when you catch a ... bait.": "Đề cập khi bạn bắt được mồi ...",
+    "[General]": "[Tổng quan]",
+    "Auto Claim Fillionaire": "Tự động lấy Fillionaire",
+    "Waiting for Auto Claim Fillionaire to finish...": "Đang đợi Tự động lấy Fillionaire để hoàn thành",
+    "Enable Location (Zone Cast)": "Bật Vị trí (Khu vực Cast)",
+    "Auto Crab Cage": "Tự động lồng cua"
 }
