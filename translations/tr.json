@@ -1,6 +1,14 @@
 {
     "mspaint": "mspaint (TR)",
 
+    "Smooth Look": "Pürüsüz bakış",
+
+    "Disable Litany": "Litany'i kapat",
+    "Disable Doppelgangers": "Doppelgangers'i kapat",
+    "This feature is only available on the test branch of the game.": "Bu özellik yalnızca oyunun test şubesinde mevcuttur.",
+
+    "DPI Scale": "Nokta Ölçeği",
+
     "Failed to repair a new Treasure Map! Not enough money.": "Sandık Haritası Tamir edilemedi! Yetersiz para.",
     "Simulate Lag": "Lag Sümilasyon",
     "Tick(s) simulation": "Tick(s) Sümilasyon",
