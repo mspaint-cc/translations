@@ -863,5 +863,7 @@
     "Smooth Look":"Gerakan Halus", 
     "Disable Litany":"Matikan Litany",
     "Disable Doppelgangers":"Matikan Doppelganger",
-    "This feature is only available on the test branch of the game.":"Fitur ini hanya tersedia pada cabang pengujian game."
+    "This feature is only available on the test branch of the game.":"Fitur ini hanya tersedia pada cabang pengujian game.", 
+    "DPI Scale": "Skala DPI", 
+    "Restart mspaint to apply DPI changes.": "Mulai ulang mspaint untuk menerapkan perubahan DPI."
 }
