@@ -859,5 +859,6 @@
     "Player '%s' is a moderator! (%s)":"Pemain '%s' adalah moderator! (%s)",
     "Auto Claim Fillionaire":"Klaim Fillionaire Otomatis",
     "Waiting for Auto Claim Fillionaire to finish...":"Menunggu menyelesaikan Klaim Fillionaire Otomatis...",
-    "Enable Location (Zone Cast)":"Nyalakan Lokasi (Zona Cast)"
+    "Enable Location (Zone Cast)":"Nyalakan Lokasi (Zona Cast)", 
+    "Smooth Look": "Gerakan Halus"
 }
