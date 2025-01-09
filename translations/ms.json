@@ -878,5 +878,27 @@
     "Auto Claim Fillionaire": "Fillionaire Tuntutan Automatik",
     "Waiting for Auto Claim Fillionaire to finish...": "Menunggu untuk Tuntutan Fillionaire Automatik untuk tamat...",
     "Enable Location (Zone Cast)": "Mengaktifkan lokasi (Zon Pancing)",
-    "Auto Crab Cage": "Sangkar Ketam Automatik"
+    "Auto Crab Cage": "Sangkar Ketam Automatik",
+
+    "Smooth Look": "Pergerakan Lancar",
+
+    "Disable Litany": "Menyahdayakan Litany",
+    "Disable Doppelgangers": "Menyahdayakan Dopplegangers",
+    "This feature is only available on the test branch of the game.": "Fitur ini hanya tersedia di bahagian percubaan game",
+
+    "DPI Scale": "Skala DPI",
+    "Restart mspaint to apply DPI changes.": "Mula semula mspaint untuk melihat perubahan DPI.",
+
+    "Boat Max Speed": "Had Laju Bot",
+    "Max Speed": "Kelajuan Maksima",
+    "Boat Acceleration": "Pecutan Boat",
+    "Acceleration Speed": "Kelajuan Pecutan",
+    "Player to Fling": "Pemain untuk di fling",
+    "Boat Player Fling (FE)": "Fling Pemain Menggunakan Bot (FE)",
+    "Flings a player using a boat. Will despawn all boats after use": "Fling pemain menggunakan Bot. Bot akan hilanh selepas digunakan",
+    "You haven't selected a player to fling.": "Anda belum memilih pemain untuk di fling",
+    "The player's character is not loaded yet.": "Karakter pemain masih belum memuat.",
+    "You don't have any boats spawned.": "Anda tidak mempunyai bot muncul",
+    "The player is not loaded yet.": "Pemain masih belum memuat",
+    "Flinging %s...": "Flinging %s..."
 } 
