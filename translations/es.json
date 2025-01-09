@@ -852,5 +852,23 @@
     "Auto Claim Fillionaire": "Automaticamente Recoger Fillionario",
     "Waiting for Auto Claim Fillionaire to finish...": "Esperando por automaticamente recoger fillionario a terminar...",
     "Enable Location (Zone Cast)": "Activar Localizacion (Zona de Cast)",
-    "Auto Crab Cage": "Jaula de cangrejo automatica"
-    }
+    "Auto Crab Cage": "Jaula de cangrejo automatica",
+    "Smooth Look": "Aspecto Suave",
+    "Disable Litany": "Desactivar Litany",
+    "Disable Doppelgangers": "Desactivar Doppelgangers",
+    "This feature is only available on the test branch of the game.": "Esta funcion solo esta disponible en la versiona de prueba del juego",
+    "DPI Scale": "Escala de DPI",
+    "Restart mspaint to apply DPI changes.": "Reinicia mspaint para guardar cambios del DPI",
+    "Boat Max Speed": "Velocidad Maxima del Bote",
+    "Max Speed": "Velocidad Maxima",
+    "Boat Acceleration": "Aceleraccion del Bote",
+    "Acceleration Speed": "Velocidad de Aceleraccion",
+    "Player to Fling": "Jugador para Fling",
+    "Boat Player Fling (FE)": "Fling de jugador con bote (FE)",
+    "Flings a player using a boat. Will despawn all boats after use": "Arroja a un jugador usando un bote. Va a desgenerar todos los botes despues de usar",
+    "You haven't selected a player to fling.": "No has selecionado a un jugador para arrojar",
+    "The player's character is not loaded yet.": "El personaje del jugador no se ha cargado aun",
+    "You don't have any boats spawned.": "No tienes ningun bote generado",
+    "The player is not loaded yet.": "El jugador no esta cargado todavia",
+    "Flinging %s...": "Arrojando %s..."
+    } 
