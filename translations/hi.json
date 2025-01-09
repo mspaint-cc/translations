@@ -910,5 +910,45 @@
     "Event '%s' has been found!": "इवेंट '%s' मिल गया है!",
     "Disable UI": "यूआई अक्षम करें", 
 
-    "Failed to repair a new Treasure Map! Not enough money.": "एक नए खजाने के नक्शे की मरम्मत करने में विफल! पर्याप्त पैसा नहीं है।"
+    "Failed to repair a new Treasure Map! Not enough money.": "एक नए खजाने के नक्शे की मरम्मत करने में विफल! पर्याप्त पैसा नहीं है।", 
+
+    
+    "Simulate Lag": "अंतराल का अनुकरण करें",          "Tick(s) simulation": "टिक(स्) अनुकरण",
+
+    "Mod Detector": "मॉड डिटेक्टर",
+    "On Mod Join": "मॉड जॉइन पर",
+    "Looking for a server...": "सर्वर की तलाश में...",
+    "Server found!": "सर्वर मिला!",
+    "Player '%s' is a moderator! (%s)": "खिलाड़ी '%s' एक मॉडरेटर है! (%s)",
+
+    "Name": "नाम",
+    "Sold For": "बिका के लिए",
+    "Failed to sell item.": "आइटम बेचने में विफल।",
+    "Auto Treasure Map - Repair": "ऑटो खजाना नक्शा - मरम्मत",
+    "Auto Treasure Map - Claim": "ऑटो खजाना नक्शा - दावा",
+    "New Catch!": "नई पकड़!",
+    "New Bait!": "नया चारा!",
+    "Auto Sell Result": "ऑटो बेच परिणाम",
+    "New Event!": "नया इवेंट!",
+
+    "Smooth Look": "चिकना आंदोलन",
+
+    "Disable Litany": "लिटानी निष्क्रिय करें",
+    "Disable Doppelgangers": "डोपेलगैंगर्स निष्क्रिय करें",
+    "This feature is only available on the test branch of the game.": "यह सुविधा खेल की परीक्षण शाखा पर ही उपलब्ध है।",
+ 
+    "DPI Scale": "डीपीआई स्केल",
+    "Restart mspaint to apply DPI changes.": "डीपीआई परिवर्तन लागू करने के लिए mspaint को पुनरारंभ करें।",
+
+    "Boat Max Speed": "नाव अधिकतम गति",
+    "Max Speed": "अधिकतम गति",
+    "Boat Acceleration": "नाव त्वरण",
+    "Acceleration Speed": "त्वरण गति",                    "Player to Fling": "प्लेयर टू फ़्लिंग",
+    "Boat Player Fling (FE)": "नाव खिलाड़ी फ़्लिंग (FE)",
+    "Flings a player using a boat. Will despawn all boats after use": "नाव का उपयोग करके एक खिलाड़ी को फ़्लिंग करता है। उपयोग के बाद सभी नावों को हटा देगा",
+    "You haven't selected a player to fling.": "आपने फ़्लिंग करने के लिए खिलाड़ी नहीं चुना है।",
+    "The player's character is not loaded yet.": "खिलाड़ी का चरित्र अभी तक लोड नहीं हुआ है।",
+    "You don't have any boats spawned.": "आपके पास कोई भी नाव उत्पन्न नहीं हुई स्पॉन।",
+    "The player is not loaded yet.": "खिलाड़ी अभी तक लोड नहीं हुआ है।",
+    "Flinging %s...": "%s को फ़्लिंग कर रहे हैं..."
 }
