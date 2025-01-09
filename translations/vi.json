@@ -850,6 +850,20 @@
     "Smooth Look": "Nhìn mượt",
     "Disable Litany": "Tắt Litany",
     "Disable Doppelgangers": "Tắt Doppelgangers",
-    "This feature is only available on the test branch of the game.": "Tính năng này chỉ hoạt động trong bản test của game."
+    "This feature is only available on the test branch of the game.": "Tính năng này chỉ hoạt động trong bản test của game.",
+    "DPI Scale": "Thang đo DPI",
+    "Restart mspaint to apply DPI changes.": "Khởi động lại mspaint để áp dụng Thang đo DPI",
+    "Boat Max Speed": "Tốc độ tối đa của thuyền",
+    "Max Speed": "Tốc độ tối đa",
+    "Boat Acceleration": "Gia tốc của thuyền",
+    "Acceleration Speed": "Tốc độ gia tốc",
+    "Player to Fling": "Người chơi để ném",
+    "Boat Player Fling (FE)": "Ném người chơi bằng thuyền (FE)",
+    "Flings a player using a boat. Will despawn all boats after use": "Ném một người chơi bằng thuyền. Sẽ xóa tất cả thuyền sau khi sử dụng",
+    "You haven't selected a player to fling.": "Bạn chưa chọn người chơi để ném.",
+    "The player's character is not loaded yet.": "Nhân vật của người chơi chưa được tải.",
+    "You don't have any boats spawned.": "Bạn không có thuyền nào được tạo ra.",
+    "The player is not loaded yet.": "Người chơi chưa được tải.",
+    "Flinging %s...": "Đang ném %s..."
     
 }
