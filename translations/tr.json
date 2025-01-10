@@ -1,6 +1,24 @@
 {
     "mspaint": "mspaint (TR)",
 
+    "Boat Max Speed": "Max Tekne hızı",
+    "Max Speed": "Max hız",
+    "Boat Acceleration": "Tekne Hızlandırma (Acceleration)",
+    "Acceleration Speed": "Hızlanma Hızı (Acceleration)",
+    "Player to Fling": "Flinglenecek Oyuncu",
+    "Boat Player Fling (FE)": "Tekne oyuncu fling (FE)",
+    "Flings a player using a boat. Will despawn all boats after use": "Tekne kullanan oyuncuyu flingler, Kullanımdan sonra tüm tekneler umutsuzluğa kapılacak",
+    "You haven't selected a player to fling.": "Flinglenecek oyuncu seçmedin.",
+    "The player's character is not loaded yet.": "Oyuncu karakteri yüklenmedi.",
+    "You don't have any boats spawned.": "Henüz tekne çağırmadın",
+    "The player is not loaded yet.": "Oyuncu yüklenmedi",
+    "Flinging %s...": "%s Flingleniyor...",
+
+    "Enchant Relic": "Kalıntı Büyüsü (Relic)",
+    "Buy Enchant Relic(s)": "Büyülü Kalıntıları (Relic(ler)i) Satın Alın",
+    "Buying enchantment relics...": "Büyülü Kalıntıları (Relic) satın alınıyor...",
+    "Bought %s enchantment relics from merlin.": "Merlin'den %s büyü kalıntısı (Relic) satın aldındı.",
+
     "Smooth Look": "Pürüsüz bakış",
 
     "Disable Litany": "Litany'i kapat",
