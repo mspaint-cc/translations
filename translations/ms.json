@@ -900,5 +900,10 @@
     "The player's character is not loaded yet.": "Karakter pemain masih belum memuat.",
     "You don't have any boats spawned.": "Anda tidak mempunyai bot muncul",
     "The player is not loaded yet.": "Pemain masih belum memuat",
-    "Flinging %s...": "Flinging %s..."
+    "Flinging %s...": "Flinging %s...",
+
+    "Enchant Relic": "Enchant Relic",
+    "Buy Enchant Relic(s)": "Beli Enchant Relic",
+    "Buying enchantment relics...": "Membeli enchantment relic",
+    "Bought %s enchantment relics from merlin.": "Telah membeli %s enchantment relic dari merlin"
 } 
