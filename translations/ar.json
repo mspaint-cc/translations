@@ -1,771 +1,795 @@
 {
-   "mspaint":"mspaint (AR)",
-   "Main":"رئيسي",
-   "Exploits":"الهاكات",
-   "Visuals":"مرئيات",
-   "Reach":"لإيصال",
-   "Misc":"أخرى",
-   "Movement":"التحركات",
-   "Locations":"الأماكن",
-   "Enable Speed Hack":"تفعيل هاك السرعة",
-   "Prompt Clip":"قصاصة الباب",
-   "Auto Library Code":"كود المكتبة التلقائي",
-   "Addons":"اضافات",
-   "Guiding Light":"ضوء الارشاد",
-   "Anti-Lag":"مضاد-الاق",
-   "Anti AFK":"مضاد الطرد لعدم الحركة",
-   "Noclip":"نو كليب",
-   "Build: ":"نسخة: ",
-   "Discord: ":"ديسكورد: ",
-   "Refresh Presets":"اعادة اضهار الاعدادات المسبقة",
-   "Preset list":"قائمة الاعدادات المسبقة",
-   "Sniper":"الصيد",
-   "Other":"أخرى",
-   "[General]": "عام",
-   "Player":"اللاعب",
-   "Trolling":"طقطقة",
-   "Notifier":"المنبة",
-   "Automation":"تلقائي",
-   "Ambient":"أجواء",
-   "Bypass":"تجاوز",
-   "Farm":"تجميع",
-   "Boats":"قوارب",
-   "Loading data...":"جاري تحميل البيانات...",
-   "Settings":"الإعدادات",
-   "Fullbright":"السطوع الكامل",
-   "Brightness":"السطوع",
-   "No Fog":"أحذف الضباب",
-   "Disable Property Tool Limits": "أطفاء ميزة الحد الاقصى للاداة",
-   "Tool Modifications": "",
-   "Twerk":"هز",
-   "ESP":"تسليط",
-   "ESP Type":"نوع التسليط",
-   "Team Color":"لون الفريق",
-   "Rainbow ESP":"تسليط ملون",
-   "Enable Text":"فعل الكتابة",
-   "Enable Highlight":"تفعيل التسليط",
-   "Transparency":"الشفافية",
-   "Fill Transparency":"شفافية كاملة",
-   "Outline Transparency":"شفايفة الخطوط العريضة",
-   "Show Distance":"عرض المسافة",
-   "Text Size":"حجم الكتابة",
-   "Enable Tracer":"تفعيل التعقب",
-   "Tracer Start Position":"تتبع بداية موقع التعقب",
-   "Enable Arrow":"تفعيل الاسهم",
-   "Arrow Center Offset":"إزاحة مركز السهم",
-   "Speed Hack":"هاك السرعة",
-   "Enable Walk Speed":"تفعيل سرعة المشي",
-   "Speed Boost":"تعزيز السرعة",
-   "Walk Speed":"سرعة المشي",
-   "Jump Power Hack":"هاك القفزة",
-   "Jump Power":"قوة القفزة",
-   "Fly":"الطيران",
-   "Fly Speed":"سرعة الطيران",
-   "Instant Interact":"التفاعل الفوري",
-   "Disable Roblox Void":"طفي فراغ العالم",
-   "Inf Jump":"قفز لا نهائي",
-   "No Acceleration":"بلا تسارع",
-   "Enable Aimbot":"ايم بوت",
-   "Enable Aimbot Smoothness":"سلاسة الايم بوت",
-   "Smoothness":"السلاسة",
-   "Minimal Distance":"الحد الأدنى للمسافة",
-   "Maximum Distance":"الحد الأدنى للمسافة",
-   "Target Part":"الجزء الستهدف",
-   "Get Closest From":"أحصل على الأقرب من",
-   "Team Check":"تحقق من الفريق",
-   "Alive Check":"تحقق من الحياة",
-   "Wall Check":"التحقق من الجدران",
-   "Builds":"البنايات",
-   "Auto Farm":"تجميع تلقائي",
-   "Auto Farm Speed":"سرعة التجميع التلقائي",
-   "Auto Farm Priority":"أولوية التجميع",
-   "Auto Candy":"تجميع الكاندي",
-   "Auto Build":"البناء التلقائي",
-   "Saving %s's build into '%s'...":"البناء داخل %s في '%s'...",
-   "Successfully saved %s's build into '%s'!":"البناء في de %s تم الحفظ بنجاح '%s'!",
-   "Auto Build [BETA]":"بناء تلقائي [تجريبي]",
-   "Save Player Build":"حفظ بنايةاللاعب",
-   "Build name":"أسم البناية",
-   "Save Player's Build":"أحفظ بناية لاعب أخر",
-   "Build with that name already exists!":"بناية بنفس الاسم توجد بالفعل",
-   "Build list":"قائمة البنايات",
-   "Complete Dragon Quest": "اكمال مهمة التنين",
-   "You need to buy a sword mount first!": "يجب أن تشتري غمد السيف اولا!",
-   "Complete Soccer Quest": "اكمال مهمة كرة القدم",
-   "You need to buy a Harpoon first!": "يجب ان تشتري الحربة اولا!",
-   "Complete The Box Quest": "اكمال مهمة الصندوق",
-   "Outdated version! (Data Version: %s | Current Version: %s)":"نسخة قديمة! (بيانات النسخة: %s | الإصدار الحالي: %s)",
-   "Build data loaded, building...\n  Version: %s\nBlocks: %s":"تم تحميل بيانات البناية! جاري البناء...\n  Version: %s\nBlocks: %s",
-   "Invalid color for '%s'":"لون غير صالح '%s'",
-   "Setting %s colors...":"الإعدادات %s الأوان...",
-   "You don't have the painting tool. Can't set the block's color.":"ليس لديك أداة التلوين. لا يمكن تلوين البلوكة.",
-   "Setting '%s' property.":"الإعدادات و الملكية '%s'.",
-   "You don't have the properties tool. Can't set the block's properties.":"ليس لديك خصائص الأداة. لا يمكن تخصيص البلوكة.",
-   "Linking objects...":"ربط الأشياء...",
-   "You don't have the bind tool. Can't link blocks together.":"ليس لديك أداة الربط. لا يمكن ربط البلوكات مع بعضها.",
-   "Auto Buy":"شراء تلقائي",
-   "Chest Type":"نوع الصندوق",
-   "Bought %s chest(s).":"تم شراء %s صناديق",
-   "Failed to buy chest(s).":"فشل شراء الصناديق",
-   "Build Saving [BETA]":"حفظ البناية [تجريبي]",
-   "Build was force stopped.":"تم إيقاف البناء بالقوة.",
-   "Failed to load a part of your build! Check Developer Console for more information.":"فشل تحميل جزء من بنايتك! تحقق من كونسل الديفيلوبر للمزيد من المعلومات.",
-   "Build loaded successfully!":"تم تحميل البناية بنجاح!",
-   "Force Stop Load Build":"ايقاف تحميل البناية بالقوة",
-   "Load Build":"تحميل البناية",
-   "Override Build":"تجاوز البناية",
-   "Delete Build":"حذف البناية",
-   "Failed to delete build: ":"فشل حذف البناية:",
-   "Deleted build: ":"البناية المحذوفة:",
-   "Refresh Builds":"أعادة تعيين البنايات",
-   "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord":"البناء التلائي في المرحلة التجريبية! الرجاء تبليغ البلوكات المنسية في سيرفرنا ديسكورد",
-   "Ladder Speed":"سرعة سُلُّم",
-   "Enable Jump":"تفعيل القفزة",
-   "Jump Boost":"تعزيز القفزة",
-   "Fast Closet Exit":"خروج سريع من الخزانة",
-   "Door Reach":"الوصول للباب",
-   "Prompt Reach Multiplier":"مضاعف الوصول الفوري",
-   "Auto Interact":"التفاعل التلقائي",
-   "Auto Interact Ignore":"التجاهل في التفاعل التلقائي",
-   "Interact Mode":"وضع التفاعل",
-   "Auto Heartbeat Minigame":"لعبة نبضات القلب التلقائية",
-   "Auto Library Solver":"حل المكتبة التلقائي",
-   "Auto Library Code Setting":"إعدادات حل المكتبة التلقائي",
-   "Unlock Distance":"مسافة الفتح",
-   "Auto Breaker Solver":"حل الكسارة التلقائي",
-   "The breaker box has been successfully solved.":"تم حل الكسارة بنجاح.",
-   "Auto Breaker Solver Method":"طريقة حل الكسارة التلقائية",
-   "Auto Breaker Box":"صندووق الكسارة تلقائيا",
-   "Auto Anchor Solver":"حل المرساة التلقائي",
-   "Solved Anchor %s successfully!":"تم حل المرساة %s تمت بنجاح!",
-   "Solved anchor with the code ":"حل المرساة مع كود",
-   "Revive":"إحياء",
-   "Play Again":"اللعب مرة اخرى",
-   "Lobby":"اللوبي",
-   "Door":"الباب",
-   "Objective":"المهمة",
-   "Entity":"الكيان",
-   "Item":"غرض",
-   "Items":"أغراض",
-   "Chest":"الصندوق",
-   "Toolshed":"سقيفة الأدوات",
-   "Gold":"الذهب",
-   "Timer Lever":"رافعة الوقت",
-   "Key":"المفتاح",
-   "Keycard":"بطاقة المفتاح",
-   "Electrical Key":"المفتاح الكهربائي",
-   "Gate Lever":"رافعة البوابة",
-   "Book":"الكتاب",
-   "Breaker":"الكسارة",
-   "Generator":"مولد الطاقة",
-   "Gate Power Button":"زر طاقة البوابة",
-   "Fuse":"فيوز",
-   "Anchor":"مِرسَاة",
-   "Water Pump":"مضخة مياه",
-   "Bed":"السرير",
-   "Guidance":"إرشاد",
-   "[Opened]":"[مفتوح]",
-   "[Locked]":"[مقفول]",
-   "Gate":"بوابة",
-   "Lever":"رافعة",
-   "Closet":"خزانة",
-   "Locker":"خزانة",
-   "Notify Entities":"أبلغ عن الكيانات",
-   "Notify Library Code":"أبلغ عن كود المكتبة",
-   "Notify Oxygen":"أبلغ الاكسجين",
-   "Notify Hide Time":"أبلغ عن وقت الاختباء",
-   "Notify Chat":"أبلغ الشات",
-   "Entity and Padlock Code":"الكيانات و رمز القفل",
-   "has spawned!":"رسبن!",
-   "Anti-Dread":"مضاد-دريد",
-   "Anti-Halt":"مضاد-هالت",
-   "Anti-%s":"مضاد - %s",
-   "Dupe":"النسخ",
-   "Entity Notifier Message":"رسالة أبلغ الكيانات",
-   "Play Alert Sound":"اخراج صوت الإبلاغ",
-   "Notify Volume":"صوت الإبلاغ",
-   "Notification":"تحذير",
-   "Notifications":"الأشعارات",
-   "Notification Side":"جانب الأشعارات",
-   "Notification Style":"أسلوب الاشعارات",
-   "Caption Style":"أسلوب التسمية التوضيحية",
-   "Self":"النفس",
-   "Third Person":"المنضور الثالث",
-   "Field of View":"مجال الرؤية",
-   "No Camera Bobbing":"لا تمايل للكاميرا",
-   "No Camera Shake":"لا اهتزاز للكاميرا",
-   "No Cutscenes":"لا مشاهد سينمائية",
-   "Translucent %s":"%s شفافية",
-   "Hiding Transparency":"شفافية الاختباء",
-   "Viewmodel Offset":"عرض إزاحة النموذج",
-   "Effects":"الأفكتات",
-   "No Glitch Effect":"لا قلتش افيكت",
-   "No Void Effect":"لا ايفكت فراغ",
-   "No Jumpscare":"لا قفزة تخويف",
-   "No Spider Jumpscare":"لا قفزة تخويف العنكبوت",
-   "No Halloween Effects":"لا افكتات هالوين",
-   "Knob Cost: ":"تكلفة المقبض:",
-   "Anti-Entity":"مضاد الكيانات",
-   "Spam Other Tools":"سبام الأدوات الاخرى",
-   "Upside Down":"رأسا على عقب",
-   "Speed Bypass":"بايباس السرعة",
-   "Anti-A90":"مضاد-اي 90",
-   "Anti-Screech":"مضاد-سكريش",
-   "Anti-Snare":"مضاد-الافخاخ",
-   "Anti-Figure Hearing":"مضاد-سماع فيقر",
-   "Eyes":"العيون",
-   "Anti-":"مضاد-",
-   "Speed Bypass Delay":"تأخير بايباس السرعة",
-   "Anticheat Manipulation":"تلاعب بمضاد الغش",
-   "Godmode":"عدم الموت",
-   "Lags you back and is buggy with crouch":"يرجعك مكانك و يقلتش الكراوش",
-   "Infinite Items":"أغراض لا نهائية",
-   "Infinite Crucifix":"كروفيكس لا نهائي",
-   "Very risky, you might die/lose the crucifix":"مخاطرة, ممكن تموت/تخسر الكروفيكس",
-   "Fake Revive":"إحياء غير حقيقي",
-   "Selected Player":"الاعب المختار",
-   "Kill Player with Figure":"أقتل الاعب بفيقر",
-   "Figure has not spawned in your room.":"فيقر ما رسبن في غرفتك",
-   "Please use an alarm clock and wait until Figure destroys the clock...":"الرجاء استعمال المنبة و الانتظار الى أن يقوم فيقر بتدميرة",
-   "You have to select a player to kill.":"يجب أن تختار لاعب لقتلة",
-   "You can't kill yourself.":"لا يمكنك قتل نفسك.",
-   "Killed %s successfully!":"تم قتل %s بنجاح!",
-   "Had an error while trying to kill the player.":"حصل خطأ اثناء قتل الاعب",
-   "Delete Figure (FE)":"أحذف فيقر (ناحية السيرفر)",
-   "Delete Figure":"أحذف فيقر",
-   "Deleting Figure...":"جاري حذف فيقر",
-   "Deleted Figure Successfully!":"تم حذف فيقر بنجاح!",
-   "You have revived, fake revive has stopped working.":"لقد تم إحيائك, إحياء الوهمي توقع عن العمل.",
-   "Enable it again to start fake revive":"فعلة مرة ثانية عشان الأحياء الوهمي",
-   "Fake Revive has stopped working, enable it again to start fake revive":"لقد تم إحيائك , إحياء الوهمي توقع عن العمل, فعلة مرة ثانية عشان تبدأ الاحياء الوهمي",
-   "Delete Seek (FE)":"حذف سييك (ناحية السيرفر)",
-   "Enable Star Rift":"تفعيل صدع النجم",
-   "Star Rift":"صدع النجم",
-   "You already have the rift enabled.":"اتن فعل صدع النجم بالفعل.",
-   "Enabled successfully!":"تم التفعيل!",
-   "Was not able to find the rift.":"لم يتم العثور على صدع النجم.",
-   "Are you sure the rift even exists?":"هل انت متأكد ان الرفت موجود?",
-   "Was not able to find the rift. Are you sure the rift even exists?":"لم يتم العثور على الرفت. هل انت متأكد أن الرفت موجود?",
-   "Pre-Run Shop":"بري رن شوب",
-   "Item Selection":"اختيار الاغراض",
-   "Amount of items":"عدد الاغراض",
-   "Buy Item(s)":"شراء الاغراض",
-   "This feature doesn't work on this floor.": "هذه الخاصية لا تعمل في هذا الطابق",
-   "This feature isn't implemented on this floor.": "هذه الخاصية ليست منفذة في هذا الطابق",
-   "Anti-Obstruction": "مضاد-العرقلة",
-   "No Gates": "لا بوابات",
-   "No Puzzle Door": "لا ابواب الغاز",
-   "No Skeleton Door": "لا ابواب عضمية",
-   "Event Prediction": "توقع الحدث",
-   "There may be an event in/after the room %s.": "من المحتمل أن هناك حدث في/بعد الغرفة %s.",
-   "You are unable to buy items as of right now, are you sure you are in room 0 elevator?":"انت ما تقدر تشتري الاغراض الحين, هل انت متأكد انك في غرفة رقم 0 المصعد?",
-   "You have not selected any items to buy!":"انت ما حطيت اي اغراض عشان تشتري!",
-   "You do not have enough knobs to buy the items you have selected!":"انت ما عندك مقابض نكفي عشان تشتري الاغراض الي حطيتها!",
-   "Anti-Seek Obstructions":"مضاد عوائق سييك",
-   "Avoid Rush/Ambush":"تجنب امبوش/راش",
-   "Doesn't work for greenhouse :(":"ما يشتغل للدفيئة :(",
-   "Death Farm":"تجميع الموت",
-   "Loading Death Farm Script":"جاري تشغيل سكربت تجميع الموت",
-   "Please be patient.":"أرجوك خليك صبور.",
-   "Knob Farm":"تجميع المقابض",
-   "Only works in Room 100 and figure is spawned":"يشتغل فقط في غرفة 100 و فيقور يكون مرسبن",
-   "Knob Farm Mode":"وضع تجميع المقابض",
-   "Knob Farm Warning":"تحذير تجميع المقابض",
-   "The <b>I Love Pancakes!!!</b> modifier is required to use the snare method.":"المعدل <b>I Love Pancakes!!!</b> مطلوب استخدام طريقة الفخ.",
-   "The <b>Last Breath</b> modifier should be used for a quicker knob farming experience":"المعدل <b>Last Breath</b> ينبغي استخدامها للحصول على تجربة أفضل للمقابض التلقائية",
-   "Modifiers":"المعدلات",
-   "No Voice Acting":"لا تمثيل صوتي",
-   "No Jammin":"لا تشويش",
-   "No Bats Decoration":"لا زخرفة الخفافيش",
-   "Max Floor Angle":"اتجاة الطابق الاقصى",
-   "Anti-Gloom Egg":"مضاد-البيض القاتم",
-   "Anti-Giggle":"مضاد-الضاحك",
-   "Anti-Bridge Fall":"مضاد-سقوط الجسر",
-   "Anti-Pipe Gap":"مضاد-فجوة النقطة",
-   "Anti-Seek Flood":"مضاد-فيضان سييك",
-   "Beat Door 200":"هزيمة باب 200",
-   "You haven't reached door 200...":"انت ما وصلت لباب 200...",
-   "Get All Badges":"الحصول على جميع الشارات",
-   "Open Door":"فتح الباب",
-   "Open Slide Door":"فتح انزلاق الباب",
-   "Open Lever Door":"فتح رافعة الباب",
-   "Open Vault":"فتح القبو",
-   "Open Distance":"فتح المسافة",
-   "Anticheat Bypass":"بايباس مضاد الغش",
-   "Anti-Dupe":"مضاد-",
-   "Anti-Eyes":"العيون",
-   "Notification Sound ID": "رقم تعريف صوت للاشعار",
-   "Reset Sound to Default": "إعادة ضبط الى الطبيعي",
-   "Notification Sound": "صوت الاشعارات",
-   "Sound has been reset to default.": "تم إعادة ضبط الصوت.",
-   "Minecart Teleport":"تيليبرت العربة صغيرة",
-   "Minecart Teleport debug":"ديباق الانتقال عربة صغيرة",
-   "Visualize Correct Seek Path":"تصور المكان الصحيح لسييك",
-   "Minecart teleport is ready! Waiting for the minecart...":"الانتقال العربة صغيرة جاهز جاري انتظار العربة الصغيرة...",
-   "Minecart teleport started. Enjoy the ride!":"الانتقال العربة صغيرة بدأ. استمتع بالرحلة!",
-   "Anti Haste Jumpscare":"مضاد-قفزة تخويف هيست",
-   "Haste Clock":"ساعة هيست",
-   "Auto Rooms":"الغرف التلقائية",
-   "Auto Rooms Stuck Delay":"تأخير العلق للغرق التلقائية",
-   "Recommended Settings:\nSpeed Bypass and Noclip disabled":"الاعدادات الموصى بها:\nطفي السرعة و نو كليب",
-   "Show Debug Info":"أضهار معلومات الديباق",
-   "Show Pathfinding Nodes":"اضهار معلومات اكتشاف المسار",
-   "Anti A-90 is required for Auto Rooms to work!":"مضاد-اي 90 مطلوب للغرف التلقائية عشان يشتغل!",
-   "Anti A-90 has been enabled":"مضاد-اي 90 تفعل",
-   "Calculated Objective Successfully!\nObjective: %s\nCreating path...":"تم حساب المهمة بنجاح!\nالمهمة: %s\nجاري انشاء المسار...",
-   "Computing Path to %s...":"جاري حوسبة المسار الى %s...",
-   "Computed path successfully with %s waypoints!":"تم حوسبة المسار بنجاح مع %s نقطة الطريقة!",
-   "Seems like you are stuck, trying to recalculate path...":"شكلك عالق, محاولة حساب المسار مرة اخرى...",
-   "Failed to move to waypoint":"فشل الحركة الى نقطة الطريق",
-   "Pathfinding failed with status %s":"اكتشاف المسار فشل مع حالة %s",
-   "You have reached A-1000":"انت وصلت ل A-1000",
-   "A-1000 reached by mspaint autorooms":"وصلت ل A-1000 بواسطة mspaint الغرب التلقائية",
-   "Grab Banana / Jeff":"مسك الموز \\ جيف",
-   "Banana/Jeff Throw":"رمي الموزة / جيف",
-   "You are no longer holding the item due to network owner change!":"انت ما تحمل هاذا الغرض لان اونر النيتورك تغير!",
-   "Throw":"رمي",
-   "Throw Strength":"قوة الرمي",
-   "Anti-Banana":"رمي الموز",
-   "Infinite Revives":"احياء لانهائي",
-   "Figure Godmode":"قود مود للفيقر",
-   "Elevator Sniper":"صيد المصعد",
-   "Target":"الهدف",
-   "Loop Achievements":"لوب اشيفمنت",
-   "Speed":"سرعة",
-   "Create Retro Elevator":"اصنع مصعد ريترو",
-   "Join DOORS before Hotel+ lobby":"دخول دورز قبل دورز بلس",
-   "DOORS before Hotel+":"دورز قبل هوتيل بلس",
-   "Joining DOORS before Hotel+...":"جاري دخول دورز قبل هوتيل بلس...",
-   "Presets":"المحددات المسبقة",
-   "Preset name":"اسم المحدد المسبق",
-   "Create Preset":"انشاء محدد مسبق",
-   "Preset already exists!":"المحدد المسبق موجود بالفعل!",
-   "Created elevator preset \"%s\" with %s modifiers":"تم انشاء اعداد مسبق للمصعد \"%s\" مع %s المعدلات",
-   "Preset List":"قائمة محددات المسبقة",
-   "Load Preset":"تحميل محدد مسبق",
-   "Override Preset":"تجاوز محدد مسبق",
-   "Delete Preset":"حذف محدد مسبق",
-   "Overrided preset: ":"المحدد المسبق المتجاوز:",
-   "Deleted preset: ":"المحدد المسبق المحذوف:",
-   "Failed to delete preset: ":"فشل حذف المحدد المسبق:",
-   "Preset does not exist!":"المحدد المسبق غير موجود!",
-   "Void/Glitch is coming once the next door is opened.":"فويد/قلتش جاي بس الباب الي بعدة ينفتح.",
-   "Void/Glitch is coming %s.":"فويد/قلتش جاي %s.",
-   "once the next door is opened.":"بس ينفتح الباب الي بعدة.",
-   "in %s rooms":"في %s غرف",
-   "ENTITIES":"الكيانات",
-   "Go to the next room to avoid it.":"اذهب للغرف الجاية لتخطية.",
-   "Floor":"الطابق",
-   "Simulate Lag": "محاكاة اللاق",
-   "Tick(s) simulation": "محاكاة العلامات",
-   "Go find a hiding place!":"اذهب و اعثر على مكان للاختباء!",
-   "Halt will spawn in next room!":"هالت بيرسبن في الغرفة الي بعدها!",
-   "Halt has broken anticheat bypass.":"هالت خرب بايباس مضاد الغش.",
-   "Bypassed the anticheat successfully!":"تم بايباس مضاد الغش!",
-   "This will only last until the next cutscene!":"بيبقى ليين الكت سين الجاي!",
-   "Bypassed the anticheat successfully! This will only last until the next cutscene":"تم بايباس مضاد الغش! بيبقى ليين الكت سين الجاي",
-   "Please go on a ladder again to fix it.":"ارجوك روح للسلم عشان يتصلح.",
-   "Halt has broken anticheat bypass, please go on a ladder again to fix it.":"هالت خرب بايباس مضاد الغش, ارجوك روح للسلم عشان يتصلح.",
-   "Padlock Code":"كود القفل",
-   "Solved the library padlock code":"تم حل كود المكتبة",
-   "The library code will be automatically solved when you pick up the missing books.":"المكتبة بتنحل بس تجيب الكتب المفقودة.",
-   "Automatic Library Solver":"حل المكتبة التلقائي",
-   "You are still missing some books":"انت للحين عندك كتب مفقودة",
-   "Library Code: %s":"كود المكتبة: %s",
-   "Oxygen: %.1f":"االاكسجين: %.1f",
-   "Delete Seek FE":"احذف سييك (ناحية السيرفر)",
-   "Deleting Seek trigger...":"جاري حذف مفعل سييك...",
-   "Failed to delete Seek trigger!":"فشل حذف مفعل سييك!",
-   "Deleted Seek trigger successfully!":"تم حذف مفعل سييك!",
-   "Failed to load preset: ":"فشل تحميل المحدد المسبق:",
-   "Loaded elevator preset: ":"تم تحميل محدد المسبق للمصعد:",
-   "Throw Power Boost":"تعزيز قوة الرمي",
-   "Throw Power":"قوة الرمي",
-   "FE Delete Object":"حذف شيء (ناحية السيرفر)",
-   "FE Delete Aura":"حذف الاورى (ناحية السيرفر)",
-   "Respawn":"اعادة الانتشار",
-   "Delete objects within a certain range of your character, this can kick you from the game and i'm too lazy to fix it.":"حذف شيء معين في مدى شخصيتك, هاذا ممكن يطرد من للعبة نحن ملنا خلق نصلحة.",
-   "Delete Aura Range":"احذف مدى الاورى",
-   "Disable Hunger":"طفي الجوع",
-   "Infinite Hunger":"جوع لانهائي",
-   "Infinite Energy":"طاقة لانهائية",
-   "Infinite Inventory":"انفينتوري لا نهائي",
-   "No Fall":"لا سقوط",
-   "Auto Respawn":"اعادة انتشار تلقائي",
-   "Auto Push Employees":"دفع الموظفين التلقائي",
-   "Enable player whistle teleport":"تفعيل الانتقال الى تصفير اللاعب",
-   "Go to player(s)'s whistle.":"اذهب الى صفارة لاعب.",
-   "Rejoin":"اعادة الدخول",
-   "Instant Leave":"خروج فوري",
-   "Employee":"موظف",
-   "Personal Watch":"ساعة شخصية",
-   "Death Waypoint":"نقطة الطريق الموت",
-   "Max Waypoints":"اقصى نقطة طريق",
-   "Submarine Sniper":"صائد الغواصات",
-   "Auto Fix Wires":"تصليح الكيبلات التلقائي",
-   "Auto Generator":"المولد التلقائي",
-   "Ignore List":"قائمة التجاهل",
-   "Don't worry you have godmode enabled!":"لا تقلق عدم الموت مفعل!",
-   "Don't worry you have Anti Turrets enabled":"لا تقلق مضاد الابراج مفعل!",
-   "Don't worry you have Anti Eyefestation enabled":"لا تقلق مضاد-احتفال العين نفعل!",
-   "Look away!":"انضر بعيدا!",
-   "Try and find the wall dweller":"حاول البحث عن ساكن الجدار",
-   "Try and find the ridge ":"حاول البحث عن الحافة",
-   "Anti-Void":"مضاد-الفراغ",
-   "Anti-Trickster":"مضاد-المحتال",
-   "Anti-Landmine": "مضاد-لغم أرضي",
-   "Anti-Eyefestation":"مضاد-احتفال عيد",
-   "Anti-Searchlights":"مضاد-الكشاف",
-   "Anti-Turrets":"مضاد-الابراج",
-   "Anti-Squiddle":"مضاد-سكودل",
-   "Anti-Parasites":"مضاد الطفيليات",
-   "Anti-Damage Parts":"مضاد-اجزاء الضرر",
-   "Anti-Pandemonium":"مضاد-الهرج والمرج",
-   "Anti-Bouncers":"مضاد-الحراس",
-   "Anti-Skelepede":"مضاد-سكيليبيد",
-   "Anti-Statue":"مضاد-التمثال",
-   "Anti-Tripwire": "مضاد-سلك التعثر",
-   "Anti-Skeleton Dancers":"مضاد-الهياكل الراقصة",
-   "Anti-Wall Dweller": "مضاد-ساكن الجدران",
-   "Auto Pandemonium Minigame": "لعبة الهرج والمرج تلقائيا",
-   "Document": "وثيقة",
-   "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "عدم الموت لن يعمل بسبب قونتلنت, سوف يعمل من جديد بعد ان تغادر الغرفة.",
-   "Don't worry you have Anti Wall Dweller enabled": "لا تقلق لديك مضاد ساكن الجدران مفعل",
-   "Don't get in their line of sight!": "لا تدخل في خط بصرهم!",
-   "Please get close to a locker to enable godmode (DO NOT ENTER THE LOCKER)":"ارجوك اقترب من الخزانة لتفعيل عدم الموت (لا تدخل الخزانة)",
-   "This will break interactions with lockers.":"هذا سوف يخرب التفاعل مع الخزائن.",
-   "Godmode enabled successfully! This will break after cutscenes.":"عدم الموت تفعل بنجاح! هاذا سوف يخرب المشاهد السنمائية.",
-   "Door Reach Multiplier":"تضاعفات الوصول للباب",
-   "Get Local Badges":"احصل على الشارات الداخلية",
-   "Currency":"العملة",
-   "No Underwater Effect":"لا افكت تحت الماء",
-   "Turret Controls":"تحكم الابراج",
-   "[Fixed]":"[مصلح]",
-   "Wire":"سلك",
-   "Crystal":"كرستال",
-   "Infinite Stamina":"قوة تحمل لا نهائية",
-   "Infinite Flashlight":"مصباح لا نهائي",
-   "Table":"طاولة",
-   "Battery":"بطارة",
-   "No Flashlight Shadow":"لا ضلال للمصباح",
-   "No Blur":"لا بلور",
-   "Auto Bait": "الطعم التلقائي",
-   "Priority": "أولوية",
-   "Equipped %s.": "تم تجهيز %s.",
-   "Reset": "إعادة ضبط",
-   "[Fisch] New Catch!":"[Fisch] صيد جديد!",
-   "[Fisch] Auto Sell Result":"[Fisch] نتيجة البيع التلقائي",
-   "[Fisch] Test.":"[Fisch] تجربة.",
-   "Teleport to Player": "الانتقال الى لاعب",
-   "Catch Mentions": "منشنات الصيد",
-   "Bait Mentions": "منشنات الطعم",
-   "Name": "اسم",
-   "Sold For": "بيع لي",
-   "Failed to sell item.": "فشل بيع الغرض.",
-   "Auto Treasure Map - Repair": "خرطية الكنز تلقائيا - اصلاح",
-   "Auto Treasure Map - Claim": "خريطة الكنز تلقائيا - حصول",
-   "New Catch!": "صيد جديد!",
-   "New Bait!": "طعم جديد!",
-   "Auto Sell Result": "بيع النتيجة تلقائيا",
-   "New Event!": "حدث جديد!",
-   "Mentions you when you catch a ... fish.": "يمنشن لما تصيد ... سمكة",
-   "Mentions you when you catch a ... bait.": "يمنشن لما تصيد ... طعم",
-   "Fix stuck on Already running.": "اصلاح العلق مفعل بالفعل.",
-   "Inventory": "الحقيبة",
-   "Auto Claim Fillionaire": "الحصول على فليونير تلقائيا",
-   "Waiting for Auto Claim Fillionaire to finish...": "جاري انتظار الحصول على فليونير تلقائيا ليكمل...",
-   "Enable Location (Zone Cast)": "تفعل المكان (منطقة القذف)",
-   "Center Button": "الزر الاوسط",
-   "Failed to equip the fishing rod, retrying...": "فشل تجهيز سنارة الصيد, جاري اعادة المحاولة...",
-   "Waiting for Auto Treasure Map to finish...": "جاري انتظار الخريطة الكنز تلقائيا لينتهي...",
-   "Faster Fishing": "صيد أسرع",
-   "This feature only works with the 'Exploit' mode.": "'هذة الخاصية تعمل فقط بوضع 'الهاك",
-   "Disable Temperature": "اطفاء ترجة الحرارة",
-   "Go To Event": "أذهب الى الحدث",
-   "Enabled Event(s)": "تفعيل الاحداث",
-   "Event '%s' has been found!": "الحدث '%s' تم وجودة",
-   "Disable UI": "اطفاء الواجهة",
-   "One map repair costs 250C$.": "تصليح خريطة واحدة يكلف C$250",
-   "Auto Claim": "الحصول التلقائي",
-   "Claim Current Maps": "الحصول على الخرائط الحالية",
-   "Discord Settings": "اعدادات الديسكورد",
-   "Anchor Bobber": "بوبر تثبيت",
-   "Anchors the bobber during Auto Fishing.": "تثبيت بوبر اثناء السمك التلقائي",
-   "Buy Item":"شراء غرض",
-   "Cost: %s":"يكلف: %s",
-   "Resuming...": "جاري المواصلة...",
-   "Stopped": "توقف",
-   "Appraise Fish": "قدر السمك",
-   "Despawn Boat": "نفي القارب",
-   "This is a test message.":"هاذة الرسالة تجريبية.",
-   "Disable Kill Client Remote":"حذف ريموت قتل العميل",
-   "Disable Carnation":"اطفاء قرنفل",
-   "Disable Slight & Heed Damage":"اطفاء ضرر طفيف & رأس",
-   "Disable Slugfish":"اطفاء سمك السلوفش",
-   "Disable Elkman":"اطفاء إلكمان",
-   "Disable Sarrow":"اطفاء سارو",
-   "Disable Dozer":"اطفاء البلدوزر",
-   "Disable Goatman":"اطفاء الرجل الماعز",
-   "[Sold For]":"[بيع لي]",
-   "[Name]":"[اسم]",
-   "[Shiny]":"[لامع]",
-   "[Sparkling]":"[فائر]",
-   "[Giant]":"[عملاق]",
-   "[Big]":"[كبير]",
-   "Auto Sell":"البيع التلقائي",
-   "Selling '%s'...":"جار البيع لي '%s'...",
-   "Sold '%s' for '%sC$'":"تم بيع '%s' لي '%sC$'",
-   "Failed to sell '%s'!":"فشل بيع '%s'!",
-   "General: ":"العام:",
-   "You leveled up from **%s** -> **%s**!":"انت لفلت من **%s** -> **%s**!",
-   "WARNING! Your executor doesn't support 'require' function. The script can't detect Big and Giant fishes and baits!":"تحذير! الاكسكيوتر الخاص بك لا يدعم الوظيفة 'require'. لا يمكن للسكريبت اكتشاف الأسماك والتوت الكبيرة والضخمة!",
-   "Mentions you when ... event happens.":"تذكير عندما ... شيء يحدث.",
-   "Mentions":"تذكيرات",
-   "Discord User ID":"ايدي مستخدم الديسكورد",
-   "Your Discord Webhook":"ويب هوك الديسكورد الخاص بس",
-   "Enable Discord Notifications":"تفعيل اشعارات الديسكورد",
-   "Test Webhook":"تجربة الويب هوك",
-   "Testing Discord Notification...":"تجربة اشعارات الديسكورد...",
-   "Test":"تجربة",
-   "Test message.":"رسالة تجربة.",
-   "Custom Locations":"الأماكن المخصصة",
-   "Custom Location Name":"اسم المكان المخصص",
-   "Create Custom Location":"انشاء مكان مخصص",
-   "Custom location already exists!":"المكان المخصص موجود بالفعل!",
-   "Created custom location ":"تم انشاء مكان مخصص",
-   "Teleport to Custom Location":"الانتقال الى المكان المخصص",
-   "Override Custom Location":"تجاوز المكان المخصص",
-   "Overrided custom location ":"تم تجاوز المكان المخصص",
-   "Delete Custom Location":"حذف المكان المخصص",
-   "Custom location does not exist!":"المكان المخصص غير موجود!",
-   "Deleted custom location ":"تم حذف المكان المخصص",
-   "Failed to delete custom location: ":"فشل حذف المكان المخصص:",
-   "Refresh Custom Locations":"اعادة تعيين مكان مخصص",
-   "File System is required for this feature.":"واجهة برمجة الملفات مطلوبة لهادة الخاصية.",
-   "Failed to load location: ":"فشل تحميل المكان:",
-   "Teleport":"الانتقال",
-   "Areas":"المناطق",
-   "Teleport to Area":"انتقال الى مكان",
-   "NPCs":"انبيسي",
-   "Teleport to NPC":"الانقال الى انبيسي",
-   "Interactables":"قابلة للتفاعل",
-   "Teleport to Interactable":"الانتقال الى المتفاعلات",
-   "Failed to find Boat's Base.":"فشل العثر على قاعدة القارب.",
-   "Totem Cycle": "دورة التوتيم",
-   "Day Totem": "يوم التوتيم",
-   "Night Totem": "ليلة التوتيم",
-   "Stop At Event": "التوقف عند حدث",
-   "An Ancient Megalodon has spawned!": "ميقالادون قديم رسبن!",
-   "A Megalodon has spawned!": "ميقالادون رسبن!",
-   "Purchase Totem": "شراء توتيم",
-   "Amount of Totems": "عدد التوتيم",
-   "Buy Totem": "شراء توتيم",
-   "Auto Enchant": "انشانتمنت تلقائي",
-   "Enchant List": "قائمة الانشانتمنت",
-   "Successfully enchanted the rod with %s.": "تم انششانت السنارة مع %s.",
-   "Retry Delay": "مهلة اعادة المحاولة",
-   "Auto Collect Meteor": "استلام النيزك التلقائي",
-   "Fish Radar": "رادار السمك",
-   "Enable fish radar without having to buy it.": "تفعيل رادار السمك مندون الحاجة لششرائه",
-   "Menu":"القائمة",
-   "Fun": "المرح",
-   "Auto Spin Flashlight": "لف المصباح التلقائي",
-   "Info":"معلومات",
-   "Mod Detector": "كاشف المشرفين",
-   "On Mod Join": "عن دخول مشرف",
-   "Looking for a server...": "جاري البحث عن سيرفر...",
-   "Server found!": "تم العثور على سيرفر!",
-   "Player '%s' is a moderator! (%s)": "اللاعب '%s' هو مشرف! (%s)",
-   "Menu Keybind":"زر القائمة",
-   "Auto Quest": "المهمة تلقائيا",
-   "Make sure to start the quest first!": "تأكد من بدأ المهمة اولا!",
-   "Completed Quest!": "تمت المهمة!",
-   "Completing Quest...": "جار اكمال المهمة!",
-   "Finished with quest, re-enabling Auto Farm...": "تم الانتهاء من المهم, العودة لتجميع التلقائي",
-   "Auto Farm is enabled, disabling...": "التجميع التلقائي مفعل, جار الاطفاء...",
-   "Complete Cloud Quest": "اكمل مهمة الغيوم",
-   "Complete Target Quest": "اكمل مهمة الهدف",
-   "Complete Ramp Quest": "اكمل مهمة المنحدر",
-   "Complete Find Me Quest": "اكمل مهمة اعثر عني",
-   "Complete Thin Ice Quest": "اكمل مهمة الجليد النحيل",
-   "Infinite Jetpack Duration":"مدة جيت باك لا نهائية",
-   "Motor Modification":"تعديل المحرك",
-   "Enable Motor Modifications":"تفعيل تعديلات المحرك",
-   "Motor Speed":"سرعة المحرك",
-   "Motor Turning Speed":"سرعة تحول المحرك",
-   "Waiting for Fisch to load.":"انتضظار fisch تحمل.",
-   "Select a custom location first.":"اختار موقع مخصص أولاً",
-   "Auto Fish Settings":"اعدادات السمك التلقائي",
-   "Auto Treasure Map":"خريطة الكنز التلقائية",
-   "Auto Repair":"التصليح التلقائي",
-   "Repair Current Maps":"تصليح الماب الحالي",
-   "Done.":"تم.",
-   "Paused due to Auto Treasure Map.":"توقف بسبب خريطة الكنز التلقائية.",
-   "[Fisch] Auto Treasure Map - Repair.":"[Fisch] خريطة الكنز التقائي - الاصلاح.",
-   "Successfully repaired a new Treasure Map!":"تم اصلاح خرية كنز جديدة!",
-   "[Fisch] Auto Treasure Map - Claimed.":"[Fisch] خريطة الكنز التقائي - تم الحصول.",
-   "Successfully claimed a Treasure Map!":"تم الحصول على خريطة الكنز بنجاح",
-   "Failed to claimed a Treasure Map. Not enough money.":"فشل الحصول على خريطة الكنز. مال غير كافي.",
-   "Failed to find the boat's spawn event.":"فشل العثور على حدث استدعاء القارب.",
-   "Failed to load the boat's data.":"فشل تحميل بيانات القارب.",
-   "Failed to find the despawn button.":"فشل العثور على زر النفي.",
-   "Failed to open the Shipwright UI.":"فشل فتح واجهة القوارب.",
-   "Please interact with the NPC.":"الرجاء التفاعل مع الانبيسي.",
-   "Failed to find the NPC, retrying with teleport...":"فشل العثور على الانبيسي, المحاولة مرة اخرى بلانتقال.",
-   "Failed to find the the NPC.":"فشل العثور على الانبيسي.",
-   "Failed to repair a new Treasure Map! Not enough money.": "فشل اصلاح خريطة كنز جديدة! لا يوجد مال كافي.",
-   "Interacting with the NPC...":"التفاعل مع الانبيسي...",
-   "You don't have the Treasure Map equipped.":"ليس بيديك خريطة الكنز.",
-   "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.":"تحذير! الاكسكيوتر حقك لا يدعم 'require'. بعض البيانات قد تكون قديمة",
-   "Loading location data...":"جاري تحميل بيانات الموقع...",
-   "Searching for a fishing rod...":"جاري البحث عن سنارة السمك...",
-   "Casting the fishing rod...":"جاري قذف سنارة السمك...",
-   "Failed to cast the fishing rod, retrying...":"",
-   "Resuming Auto Fish...":"جاري استأنف السمك التلقائي...",
-   "Auto Fish stopped.":"السمك التلقائي توقف.",
-   "Anchor Player":"تثبيت اللاعب",
-   "Anchors you during Auto Fishing":"تثبت عند السمك التلقائي.",
-   "Auto Reel":"لفائف تلقائية",
-   "Auto Cast":"القذف التلقائي",
-   "Auto Cast is already running...":"سنارة الصيد جاهزة بالفعل...",
-   "Disable Oxygen":"لا اكسجين",
-   "Equipping fishing rod...":"جاري تجهيز سنارة الصيد...",
-   "Casting fishing rod...":"جاري قذف سنارة الصيد...",
-   "Paused due to Auto Crab Cage.":"تم التوقف بسبب قفص السلطعون التلقائي.",
-   "Paused due to Auto Sell.":"تم التوقف بسبب البيع التلقائي.",
-   "Unpausing...":"جاري الغاء الإيقاف المؤقت...",
-   "Perfect Reel Chance":"فرصت البكرة المثالية",
-   "Failed to cast fishing rod.":"فشل قذف سنارة الصيد.",
-   "One crab cage costs 45C$.":"45C$ قفص سلطعون واحد بمبلغ .",
-   "Failed to fetch %s, please make a bug report!":"فشل جلب %s، يرجى تقديم تقرير بالأخطاء!",
-   "Stopped.":"توقف.",
-   "Auto Shake":"هز تلقائي",
-   "Auto Shake Mode":"وضع الهز التلقائي",
-   "Close chat and enable screenshot mode (top right camera button) for this to work all the time.":"أغلق الدردشة وقم بتفعيل وضع التقاط الشاشة (زر الكاميرا في أعلى اليمين) حتى يعمل ذلك طوال الوقت.",
-   "Make sure nothing is covering the shake safezone.\n\nIf you want to do something turn off Auto Shake first,\nit will click on any UI element thats on top of the shake button if you keep it on.":"تأكد من أن لا شيء يغطي منطقة الهز.\n\nإذا كنت تريد فعل شيء، قم بإيقاف الهز التلقائي أولاً،\n mspaint سينقر على أي عنصر في واجهة المستخدم الموجود فوق زر الهز إذا أبقيت الهز مفعلاً.",
-   "Buttons at Fixed Position":"الازرار في اماكن معينة",
-   "Delay":"التأخير",
-   "Enable":"تفعيل",
-   "Exceptions":"التوقعات",
-   "Sell on Catch":"البيع بمجرد الصيد",
-   "Sell fishes after successfully catching them.":"تم بيع السمك بنجاح جاري صيدهم.",
-   "Auto Crab Cage":"قفص السلطعون تلقائيا",
-   "Auto Fish":"السمك التلقائي",
-   "Mode":"وضع",
-   "Location":"المكان",
-   "Enable Location":"تفعيل المكان",
-   "Only works with Exploit Mode.":"يشتغل فقط مع وضع الهاك",
-   "Maximum Throw Power":"اقل قوة للرمي",
-   "Appraise fish (450C$)":"ابريس السمك (250C$)",
-   "You will not drown in the water.":"لن تغرق في الماء",
-   "You can walk on water.":"يمكنك المشي فوق الماء",
-   "Disable being afk.":"اطفاء انك مأفك",
-   "Open Shipwright":"افتح قائمة القوارب",
-   "You don't have enough money.":"ليس لديك مال كافي",
-   "Disable Auto Cast first.":"طفي القذف التلقائي أولاً",
-   "Teleport to Boat": "الانتقال للقارب",
-   "Teleport to Spawned Boat":"الانتقال للقارب الذي تم استدعائه",
-   "Jesus":"المشي فوق الماء",
-   "Spawned Boats":"القوارب الموجودة",
-   "Despawn Boats":"نفي القوارب",
-   "Amount of cages to buy":"عدد الاقفاص لشراء",
-   "Buy Crab Cages":"شراء اقفاص السلطعون",
-   "Auto Buy Crab Cage":"شراء قفص السلطعون تلقائيا",
-   "Please wait.":"الرجاء الانتظار.",
-   "Failed to fetch your balance.":"فشل جلب رصيدك.",
-   "Buying cages...":"جاري شراء الاقفاص...",
-   "Auto Cast is enabled, waiting for it to stop...":"القذف التلقائي مفعل, جاري انتظارة للتوقف...",
-   "Bought '%s' crab cages.":"تم شراء %s اقفاص السلطعونات.",
-   "Failed to find buy prompt.":"فشل العثور على قائمة الشراء.",
-   "Auto Pickup":"التقاط التلقائي",
-   "Sell Item in Hand":"بيع الشيء الذي في يدك",
-   "Sell Inventory":"بيع الانفينتوري",
-   "Murderer": "القاتل",
-   "Innocent": "بريء",
-   "Kill All": "قتل الجميع",
-   "The game has not started yet!": "لم تبدأ الجولة!",
-   "You are not the murderer!": "انت لست القاتل!",
-   "Killed all players!": "تم قتل الجميع!",
-   "Sheriff": "المحقق",
-   "Kill Murderer": "قتل القاتل",
-   "You are not the sheriff!": "انت لست المحقق!",
-   "Failed to find the murder!": "لم يتم العثور على القاتل!",
-   "Killed the murderer!": "تم قتل القاتل!",
-   "Auto Collect Coins": "الحصول التلقائي على العملات",
-   "Auto Collect Gun": "الحصول التقائي على السلاح",
-   "Your executor doesn't support this feature.": "",
-   "General": "العام",
-   "Disable Sensors": "تقفيل الحساسات",
-   "Instant Role Notify": "كشف الرتب الفوري",
-   "Silent Aim": "الايم الصامت",
-   "Reach Multiplier": "مضاعفات الوصول",
-   "Enable Reach": "تفعيل الوصول",
-   "Kill Sheriff": "قتل المحقق",
-   "Please equip the gun.": "الرجاء تجهيز السلاح.",
-   "Please equip the knife.": "الرجاء تجهيز السكينة.",
-   "Failed to find the sheriff!": "فشل العثور على المحقق!",
-   "Killed the sheriff!": "تم قتل المحقق!",
-   "Dropped Gun": "السلاح المرمي",
-   "[mspaint] Loading stopped. (ERROR: Loading)":"[mspaint] تقف التحميل. (خطأ: جاري التحميل)",
-   "[mspaint] Loading stopped. (ERROR: Already loaded)":"[mspaint] تقف التحميل. (خطأ: تحمل بالفعل)",
-   "Using these exploits may cause data loss, please use them at your own risk.": "أستخدام الهاكات ممكن انت يسبب خسارة الباينات, الرجاء استعمالة على مسوؤليتك.",
-   "No message today... 😢":"لا رسالة اليوم... 😢",
-   "MOTD: %s":"مو تدي: %s",
-   "Lifetime":"مدى الحياة",
-   "Language":"لغة",
-   "%d day%s":"%d يوم%s",
-   "%d hour%s %d minute%s":"%d ساعة%s %d دقيقة%s",
-   "%d hour%s":"%d ساعة%s",
-   "%d minute%s":"%d دقيقة%s",
-   "%d second%s":"%d ثانية%s",
-   "Unloading ":"اقتلاع",
-   "Unloading...":"جاري الاقتلاع...",
-   "Unloaded!":"تم الاقتلاع!",
-   "UI Settings":"إعدادات الواجهة",
-   "Credits":"الاعتمادات",
-   "Execute On Teleport":"التنفيذ بعد الانتقال",
-   "Open Keybind Menu":"زر اضهار الواجهة",
-   "Custom Cursor":"مؤشر مخصص",
-   "Menu bind":"زر القائم",
-   "Join Discord":"أدخل سيرفر الديسكورد",
-   "Copy Link":"انسخ الرابط",
-   "Unload":"اقتلاع",
-   "Save Error Logs":"احفظ بيانات الاخطاء",
-   "Your executor doesn't support the FileSystem API.":"الاكسكيوتر حقك لا يدعم واجهة برمجيات الملفات.",
-   "[GameId: %s, JobID: %s] %s":"[ايدي القيم: %s, جوب ايدي: %s] %s",
-   "Developers":"المطوريين:",
-   "upio - Owner":"upio - المالك",
-   "Thank you for supporting us by doing the key system!":"شكرا لك لدعمنا بواسطة نضام المفتاح!",
-   "Thank you for buying a lifetime key! Your support helps us continue mspaint :D":"شكرا لك لشراء مفتاح مدى الحياة! دعمك يساعدنا على تكملة mspaint :D",
-   "Time left: ":"الوقت المتبقي:",
-   "Total Executions: ":"عدد التنفيدات:",
-   "Contributors:": "المساهمين",
-   "Translators:": "المترجمين",
-   "Not linked":"ليس مربوط",
-   "Expired":"منتهي الصلاحية",
-   "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.":"انتهت صلاحية مفتاحك. سيتم إلغاء وصولك إلى mspaint عند التنفيذ التالي ما لم تقم بتمديد مدة المفتاح أو شراء مفتاح مدى الحياة.",
-   "Restart mspaint to apply language changes.":"أعد تشغيل mspaint لتطبيق تغيرات اللغة.",
-   "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.":"[mspaint] الاكسكيوتر حقك لا يدعم واجهة برمجة الملفات. الملحقات لن تعمل.",
-   "[mspaint] Addons folder doesn't exist. Creating...":"[mspaint] ملف الملحقات غير موجود. جاري الانشاء...",
-   "[mspaint] Loading addons...":"[mspaint] جاري تحميل الملحقات...",
-   "[mspaint] Element '":"[mspaint] عنصر '",
-   "' didn't load: Invalid Linoria element.":"'لم يحمل : عنصر ليوريا غير صالح.",
-   "' didn't load: Invalid data.":"' لم يحمل : بيانات غير صالة.",
-   "' didn't load: Invalid name.":"'لم يحمل : اسم غير صالح.",
-   "' didn't load: Invalid addon name.":"'لم يحمل : اسم الملحق غير صالح.",
-   "' didn't load: Invalid element type.":"' لم يحمل : نوع العنصر غير صالح.",
-   "This tab is for UN-OFFICIAL addons made for mspaint. We are not responsible for what addons you will use. You are putting yourself AT RISK since you are executing third-party scripts.":"هذه الصفحة مخصصة للإضافات غير الرسمية التي تم إنشاؤها لـ mspaint. نحن غير مسؤولين عن الإضافات التي ستستخدمها. أنت تتحمل مخاطر التعرض لبرمجيات خارجية.",
-   "WARNING":"تحذير",
-   "Your addons FOLDER is empty! (":"ملف الملحقات فارغ! (",
-   "[mspaint] Invalid file extension for '":"[mspaint] نوع الملف غير صالح الى '",
-   "[mspaint] Loading addon '":"[mspaint] جاري تحميل الملحق '",
-   "Failed to load this addon (":"فشل تحميل هاذا الملحق (",
-   "Invalid 'Elements' variable (expected 'table' got '":"المتغير 'Elements' غير صالح (متوقع 'table' لكن تم الحصول على '')",
-   "' didn't load: Invalid 'Elements' variable (expected 'table' got '":"'لم يتم التحميل: المتغير 'Elements' غير صالح (متوقع 'table' لكن تم الحصول على '')'",
-   "' didn't load: Wrong game.":"لم يتم التحميل : اللعبة غير صحيحة.",
-   "Invalid 'Game' variable (expected 'string/table' got '":"المتغير 'Game' غير صالح (متوقع 'string/table' لكن تم الحصول على '')",
-   "' didn't load: Invalid 'Game' variable (expected 'string/table' got '":"'لم يتم التحميل: غير صالح 'Game' المتغيرات (توقع 'string/table' حصل)'",
-   "[mspaint] Failed to load addon '":"[mspaint] فشل تحميل الملحق '",
-   "Failed to load this addon:":"فشل تحميل هاذا الملحق:",
-   "Path Type":"نوع المسار"
-}
+    "mspaint":"mspaint (AR)",
+    "Main":"رئيسي",
+    "Exploits":"الهاكات",
+    "Visuals":"مرئيات",
+    "Reach":"لإيصال",
+    "Misc":"أخرى",
+    "Movement":"التحركات",
+    "Locations":"الأماكن",
+    "Enable Speed Hack":"تفعيل هاك السرعة",
+    "Prompt Clip":"قصاصة الباب",
+    "Auto Library Code":"كود المكتبة التلقائي",
+    "Addons":"اضافات",
+    "Guiding Light":"ضوء الارشاد",
+    "Anti-Lag":"مضاد-الاق",
+    "Anti AFK":"مضاد الطرد لعدم الحركة",
+    "Noclip":"نو كليب",
+    "Build: ":"نسخة: ",
+    "Discord: ":"ديسكورد: ",
+    "Refresh Presets":"اعادة اضهار الاعدادات المسبقة",
+    "Preset list":"قائمة الاعدادات المسبقة",
+    "Sniper":"الصيد",
+    "Other":"أخرى",
+    "[General]": "عام",
+    "Player":"اللاعب",
+    "Trolling":"طقطقة",
+    "Notifier":"المنبة",
+    "Automation":"تلقائي",
+    "Ambient":"أجواء",
+    "Bypass":"تجاوز",
+    "Farm":"تجميع",
+    "Boats":"قوارب",
+    "Loading data...":"جاري تحميل البيانات...",
+    "Settings":"الإعدادات",
+    "Fullbright":"السطوع الكامل",
+    "Brightness":"السطوع",
+    "No Fog":"أحذف الضباب",
+    "Disable Property Tool Limits": "أطفاء ميزة الحد الاقصى للاداة",
+    "Tool Modifications": "",
+    "Twerk":"هز",
+    "ESP":"تسليط",
+    "ESP Type":"نوع التسليط",
+    "Team Color":"لون الفريق",
+    "Rainbow ESP":"تسليط ملون",
+    "Enable Text":"فعل الكتابة",
+    "Enable Highlight":"تفعيل التسليط",
+    "Transparency":"الشفافية",
+    "Fill Transparency":"شفافية كاملة",
+    "Outline Transparency":"شفايفة الخطوط العريضة",
+    "Show Distance":"عرض المسافة",
+    "Text Size":"حجم الكتابة",
+    "Enable Tracer":"تفعيل التعقب",
+    "Tracer Start Position":"تتبع بداية موقع التعقب",
+    "Enable Arrow":"تفعيل الاسهم",
+    "Arrow Center Offset":"إزاحة مركز السهم",
+    "Speed Hack":"هاك السرعة",
+    "Enable Walk Speed":"تفعيل سرعة المشي",
+    "Speed Boost":"تعزيز السرعة",
+    "Walk Speed":"سرعة المشي",
+    "Jump Power Hack":"هاك القفزة",
+    "Jump Power":"قوة القفزة",
+    "Fly":"الطيران",
+    "Fly Speed":"سرعة الطيران",
+    "Instant Interact":"التفاعل الفوري",
+    "Disable Roblox Void":"طفي فراغ العالم",
+    "Inf Jump":"قفز لا نهائي",
+    "No Acceleration":"بلا تسارع",
+    "Enable Aimbot":"ايم بوت",
+    "Enable Aimbot Smoothness":"سلاسة الايم بوت",
+    "Smoothness":"السلاسة",
+    "Minimal Distance":"الحد الأدنى للمسافة",
+    "Maximum Distance":"الحد الأدنى للمسافة",
+    "Target Part":"الجزء الستهدف",
+    "Get Closest From":"أحصل على الأقرب من",
+    "Team Check":"تحقق من الفريق",
+    "Alive Check":"تحقق من الحياة",
+    "Wall Check":"التحقق من الجدران",
+    "Builds":"البنايات",
+    "Auto Farm":"تجميع تلقائي",
+    "Auto Farm Speed":"سرعة التجميع التلقائي",
+    "Auto Farm Priority":"أولوية التجميع",
+    "Auto Candy":"تجميع الكاندي",
+    "Auto Build":"البناء التلقائي",
+    "Saving %s's build into '%s'...":"البناء داخل %s في '%s'...",
+    "Successfully saved %s's build into '%s'!":"البناء في de %s تم الحفظ بنجاح '%s'!",
+    "Auto Build [BETA]":"بناء تلقائي [تجريبي]",
+    "Save Player Build":"حفظ بنايةاللاعب",
+    "Build name":"أسم البناية",
+    "Save Player's Build":"أحفظ بناية لاعب أخر",
+    "Build with that name already exists!":"بناية بنفس الاسم توجد بالفعل",
+    "Build list":"قائمة البنايات",
+    "Complete Dragon Quest": "اكمال مهمة التنين",
+    "You need to buy a sword mount first!": "يجب أن تشتري غمد السيف اولا!",
+    "Complete Soccer Quest": "اكمال مهمة كرة القدم",
+    "You need to buy a Harpoon first!": "يجب ان تشتري الحربة اولا!",
+    "Complete The Box Quest": "اكمال مهمة الصندوق",
+    "Outdated version! (Data Version: %s | Current Version: %s)":"نسخة قديمة! (بيانات النسخة: %s | الإصدار الحالي: %s)",
+    "Build data loaded, building...\n  Version: %s\nBlocks: %s":"تم تحميل بيانات البناية! جاري البناء...\n  Version: %s\nBlocks: %s",
+    "Invalid color for '%s'":"لون غير صالح '%s'",
+    "Setting %s colors...":"الإعدادات %s الأوان...",
+    "You don't have the painting tool. Can't set the block's color.":"ليس لديك أداة التلوين. لا يمكن تلوين البلوكة.",
+    "Setting '%s' property.":"الإعدادات و الملكية '%s'.",
+    "You don't have the properties tool. Can't set the block's properties.":"ليس لديك خصائص الأداة. لا يمكن تخصيص البلوكة.",
+    "Linking objects...":"ربط الأشياء...",
+    "You don't have the bind tool. Can't link blocks together.":"ليس لديك أداة الربط. لا يمكن ربط البلوكات مع بعضها.",
+    "Auto Buy":"شراء تلقائي",
+    "Chest Type":"نوع الصندوق",
+    "Bought %s chest(s).":"تم شراء %s صناديق",
+    "Failed to buy chest(s).":"فشل شراء الصناديق",
+    "Build Saving [BETA]":"حفظ البناية [تجريبي]",
+    "Build was force stopped.":"تم إيقاف البناء بالقوة.",
+    "Failed to load a part of your build! Check Developer Console for more information.":"فشل تحميل جزء من بنايتك! تحقق من كونسل الديفيلوبر للمزيد من المعلومات.",
+    "Build loaded successfully!":"تم تحميل البناية بنجاح!",
+    "Force Stop Load Build":"ايقاف تحميل البناية بالقوة",
+    "Load Build":"تحميل البناية",
+    "Override Build":"تجاوز البناية",
+    "Delete Build":"حذف البناية",
+    "Failed to delete build: ":"فشل حذف البناية:",
+    "Deleted build: ":"البناية المحذوفة:",
+    "Refresh Builds":"أعادة تعيين البنايات",
+    "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord":"البناء التلائي في المرحلة التجريبية! الرجاء تبليغ البلوكات المنسية في سيرفرنا ديسكورد",
+    "Boat Turning Speed": "سرعة توجية القارب",
+    "Turning Speed": "سرعة التوجية",
+    "Ladder Speed":"سرعة سُلُّم",
+    "Enable Jump":"تفعيل القفزة",
+    "Jump Boost":"تعزيز القفزة",
+    "Fast Closet Exit":"خروج سريع من الخزانة",
+    "Door Reach":"الوصول للباب",
+    "Prompt Reach Multiplier":"مضاعف الوصول الفوري",
+    "Auto Interact":"التفاعل التلقائي",
+    "Auto Interact Ignore":"التجاهل في التفاعل التلقائي",
+    "Interact Mode":"وضع التفاعل",
+    "Auto Heartbeat Minigame":"لعبة نبضات القلب التلقائية",
+    "Auto Library Solver":"حل المكتبة التلقائي",
+    "Auto Library Code Setting":"إعدادات حل المكتبة التلقائي",
+    "Unlock Distance":"مسافة الفتح",
+    "Auto Breaker Solver":"حل الكسارة التلقائي",
+    "The breaker box has been successfully solved.":"تم حل الكسارة بنجاح.",
+    "Auto Breaker Solver Method":"طريقة حل الكسارة التلقائية",
+    "Auto Breaker Box":"صندووق الكسارة تلقائيا",
+    "Auto Anchor Solver":"حل المرساة التلقائي",
+    "Solved Anchor %s successfully!":"تم حل المرساة %s تمت بنجاح!",
+    "Solved anchor with the code ":"حل المرساة مع كود",
+    "Revive":"إحياء",
+    "Play Again":"اللعب مرة اخرى",
+    "Lobby":"اللوبي",
+    "Door":"الباب",
+    "Objective":"المهمة",
+    "Entity":"الكيان",
+    "Item":"غرض",
+    "Items":"أغراض",
+    "Chest":"الصندوق",
+    "Toolshed":"سقيفة الأدوات",
+    "Gold":"الذهب",
+    "Timer Lever":"رافعة الوقت",
+    "Key":"المفتاح",
+    "Keycard":"بطاقة المفتاح",
+    "Electrical Key":"المفتاح الكهربائي",
+    "Gate Lever":"رافعة البوابة",
+    "Book":"الكتاب",
+    "Breaker":"الكسارة",
+    "Generator":"مولد الطاقة",
+    "Gate Power Button":"زر طاقة البوابة",
+    "Fuse":"فيوز",
+    "Anchor":"مِرسَاة",
+    "Water Pump":"مضخة مياه",
+    "Bed":"السرير",
+    "Guidance":"إرشاد",
+    "[Opened]":"[مفتوح]",
+    "[Locked]":"[مقفول]",
+    "Gate":"بوابة",
+    "Lever":"رافعة",
+    "Closet":"خزانة",
+    "Locker":"خزانة",
+    "Notify Entities":"أبلغ عن الكيانات",
+    "Notify Library Code":"أبلغ عن كود المكتبة",
+    "Notify Oxygen":"أبلغ الاكسجين",
+    "Notify Hide Time":"أبلغ عن وقت الاختباء",
+    "Notify Chat":"أبلغ الشات",
+    "Entity and Padlock Code":"الكيانات و رمز القفل",
+    "has spawned!":"رسبن!",
+    "Anti-Dread":"مضاد-دريد",
+    "Anti-Halt":"مضاد-هالت",
+    "Anti-%s":"مضاد - %s",
+    "Dupe":"النسخ",
+    "Entity Notifier Message":"رسالة أبلغ الكيانات",
+    "Play Alert Sound":"اخراج صوت الإبلاغ",
+    "Notify Volume":"صوت الإبلاغ",
+    "Notification":"تحذير",
+    "Notifications":"الأشعارات",
+    "Notification Side":"جانب الأشعارات",
+    "Notification Style":"أسلوب الاشعارات",
+    "Caption Style":"أسلوب التسمية التوضيحية",
+    "Self":"النفس",
+    "Third Person":"المنضور الثالث",
+    "Field of View":"مجال الرؤية",
+    "No Camera Bobbing":"لا تمايل للكاميرا",
+    "No Camera Shake":"لا اهتزاز للكاميرا",
+    "No Cutscenes":"لا مشاهد سينمائية",
+    "Translucent %s":"%s شفافية",
+    "Hiding Transparency":"شفافية الاختباء",
+    "Viewmodel Offset":"عرض إزاحة النموذج",
+    "Effects":"الأفكتات",
+    "No Glitch Effect":"لا قلتش افيكت",
+    "No Void Effect":"لا ايفكت فراغ",
+    "No Jumpscare":"لا قفزة تخويف",
+    "No Spider Jumpscare":"لا قفزة تخويف العنكبوت",
+    "No Halloween Effects":"لا افكتات هالوين",
+    "Knob Cost: ":"تكلفة المقبض:",
+    "Anti-Entity":"مضاد الكيانات",
+    "Spam Other Tools":"سبام الأدوات الاخرى",
+    "Upside Down":"رأسا على عقب",
+    "Speed Bypass":"بايباس السرعة",
+    "Anti-A90":"مضاد-اي 90",
+    "Anti-Screech":"مضاد-سكريش",
+    "Anti-Snare":"مضاد-الافخاخ",
+    "Anti-Figure Hearing":"مضاد-سماع فيقر",
+    "Eyes":"العيون",
+    "Anti-":"مضاد-",
+    "Speed Bypass Delay":"تأخير بايباس السرعة",
+    "Anticheat Manipulation":"تلاعب بمضاد الغش",
+    "Godmode":"عدم الموت",
+    "Lags you back and is buggy with crouch":"يرجعك مكانك و يقلتش الكراوش",
+    "Infinite Items":"أغراض لا نهائية",
+    "Infinite Crucifix":"كروفيكس لا نهائي",
+    "Very risky, you might die/lose the crucifix":"مخاطرة, ممكن تموت/تخسر الكروفيكس",
+    "Fake Revive":"إحياء غير حقيقي",
+    "Selected Player":"الاعب المختار",
+    "Kill Player with Figure":"أقتل الاعب بفيقر",
+    "Figure has not spawned in your room.":"فيقر ما رسبن في غرفتك",
+    "Please use an alarm clock and wait until Figure destroys the clock...":"الرجاء استعمال المنبة و الانتظار الى أن يقوم فيقر بتدميرة",
+    "You have to select a player to kill.":"يجب أن تختار لاعب لقتلة",
+    "You can't kill yourself.":"لا يمكنك قتل نفسك.",
+    "Killed %s successfully!":"تم قتل %s بنجاح!",
+    "Had an error while trying to kill the player.":"حصل خطأ اثناء قتل الاعب",
+    "Delete Figure (FE)":"أحذف فيقر (ناحية السيرفر)",
+    "Delete Figure":"أحذف فيقر",
+    "Deleting Figure...":"جاري حذف فيقر",
+    "Deleted Figure Successfully!":"تم حذف فيقر بنجاح!",
+    "You have revived, fake revive has stopped working.":"لقد تم إحيائك, إحياء الوهمي توقع عن العمل.",
+    "Enable it again to start fake revive":"فعلة مرة ثانية عشان الأحياء الوهمي",
+    "Fake Revive has stopped working, enable it again to start fake revive":"لقد تم إحيائك , إحياء الوهمي توقع عن العمل, فعلة مرة ثانية عشان تبدأ الاحياء الوهمي",
+    "Delete Seek (FE)":"حذف سييك (ناحية السيرفر)",
+    "Enable Star Rift":"تفعيل صدع النجم",
+    "Star Rift":"صدع النجم",
+    "You already have the rift enabled.":"اتن فعل صدع النجم بالفعل.",
+    "Enabled successfully!":"تم التفعيل!",
+    "Was not able to find the rift.":"لم يتم العثور على صدع النجم.",
+    "Are you sure the rift even exists?":"هل انت متأكد ان الرفت موجود?",
+    "Was not able to find the rift. Are you sure the rift even exists?":"لم يتم العثور على الرفت. هل انت متأكد أن الرفت موجود?",
+    "Pre-Run Shop":"بري رن شوب",
+    "Item Selection":"اختيار الاغراض",
+    "Amount of items":"عدد الاغراض",
+    "Buy Item(s)":"شراء الاغراض",
+    "This feature doesn't work on this floor.": "هذه الخاصية لا تعمل في هذا الطابق",
+    "This feature isn't implemented on this floor.": "هذه الخاصية ليست منفذة في هذا الطابق",
+    "Anti-Obstruction": "مضاد-العرقلة",
+    "No Gates": "لا بوابات",
+    "No Puzzle Door": "لا ابواب الغاز",
+    "No Skeleton Door": "لا ابواب عضمية",
+    "Event Prediction": "توقع الحدث",
+    "There may be an event in/after the room %s.": "من المحتمل أن هناك حدث في/بعد الغرفة %s.",
+    "You are unable to buy items as of right now, are you sure you are in room 0 elevator?":"انت ما تقدر تشتري الاغراض الحين, هل انت متأكد انك في غرفة رقم 0 المصعد?",
+    "You have not selected any items to buy!":"انت ما حطيت اي اغراض عشان تشتري!",
+    "You do not have enough knobs to buy the items you have selected!":"انت ما عندك مقابض نكفي عشان تشتري الاغراض الي حطيتها!",
+    "Anti-Seek Obstructions":"مضاد عوائق سييك",
+    "Avoid Rush/Ambush":"تجنب امبوش/راش",
+    "Doesn't work for greenhouse :(":"ما يشتغل للدفيئة :(",
+    "Death Farm":"تجميع الموت",
+    "Loading Death Farm Script":"جاري تشغيل سكربت تجميع الموت",
+    "Please be patient.":"أرجوك خليك صبور.",
+    "Knob Farm":"تجميع المقابض",
+    "Only works in Room 100 and figure is spawned":"يشتغل فقط في غرفة 100 و فيقور يكون مرسبن",
+    "Knob Farm Mode":"وضع تجميع المقابض",
+    "Knob Farm Warning":"تحذير تجميع المقابض",
+    "The <b>I Love Pancakes!!!</b> modifier is required to use the snare method.":"المعدل <b>I Love Pancakes!!!</b> مطلوب استخدام طريقة الفخ.",
+    "The <b>Last Breath</b> modifier should be used for a quicker knob farming experience":"المعدل <b>Last Breath</b> ينبغي استخدامها للحصول على تجربة أفضل للمقابض التلقائية",
+    "Modifiers":"المعدلات",
+    "No Voice Acting":"لا تمثيل صوتي",
+    "No Jammin":"لا تشويش",
+    "No Bats Decoration":"لا زخرفة الخفافيش",
+    "Max Floor Angle":"اتجاة الطابق الاقصى",
+    "Anti-Gloom Egg":"مضاد-البيض القاتم",
+    "Anti-Giggle":"مضاد-الضاحك",
+    "Anti-Bridge Fall":"مضاد-سقوط الجسر",
+    "Anti-Pipe Gap":"مضاد-فجوة النقطة",
+    "Anti-Seek Flood":"مضاد-فيضان سييك",
+    "Beat Door 200":"هزيمة باب 200",
+    "You haven't reached door 200...":"انت ما وصلت لباب 200...",
+    "Get All Badges":"الحصول على جميع الشارات",
+    "Open Door":"فتح الباب",
+    "Open Slide Door":"فتح انزلاق الباب",
+    "Open Lever Door":"فتح رافعة الباب",
+    "Open Vault":"فتح القبو",
+    "Open Distance":"فتح المسافة",
+    "Anticheat Bypass":"بايباس مضاد الغش",
+    "Anti-Dupe":"مضاد-",
+    "Anti-Eyes":"العيون",
+    "Notification Sound ID": "رقم تعريف صوت للاشعار",
+    "Reset Sound to Default": "إعادة ضبط الى الطبيعي",
+    "Notification Sound": "صوت الاشعارات",
+    "Sound has been reset to default.": "تم إعادة ضبط الصوت.",
+    "Minecart Teleport":"تيليبرت العربة صغيرة",
+    "Minecart Teleport debug":"ديباق الانتقال عربة صغيرة",
+    "Visualize Correct Seek Path":"تصور المكان الصحيح لسييك",
+    "Minecart teleport is ready! Waiting for the minecart...":"الانتقال العربة صغيرة جاهز جاري انتظار العربة الصغيرة...",
+    "Minecart teleport started. Enjoy the ride!":"الانتقال العربة صغيرة بدأ. استمتع بالرحلة!",
+    "Anti Haste Jumpscare":"مضاد-قفزة تخويف هيست",
+    "Haste Clock":"ساعة هيست",
+    "Auto Rooms":"الغرف التلقائية",
+    "Auto Rooms Stuck Delay":"تأخير العلق للغرق التلقائية",
+    "Recommended Settings:\nSpeed Bypass and Noclip disabled":"الاعدادات الموصى بها:\nطفي السرعة و نو كليب",
+    "Show Debug Info":"أضهار معلومات الديباق",
+    "Show Pathfinding Nodes":"اضهار معلومات اكتشاف المسار",
+    "Anti A-90 is required for Auto Rooms to work!":"مضاد-اي 90 مطلوب للغرف التلقائية عشان يشتغل!",
+    "Anti A-90 has been enabled":"مضاد-اي 90 تفعل",
+    "Calculated Objective Successfully!\nObjective: %s\nCreating path...":"تم حساب المهمة بنجاح!\nالمهمة: %s\nجاري انشاء المسار...",
+    "Computing Path to %s...":"جاري حوسبة المسار الى %s...",
+    "Computed path successfully with %s waypoints!":"تم حوسبة المسار بنجاح مع %s نقطة الطريقة!",
+    "Seems like you are stuck, trying to recalculate path...":"شكلك عالق, محاولة حساب المسار مرة اخرى...",
+    "Failed to move to waypoint":"فشل الحركة الى نقطة الطريق",
+    "Pathfinding failed with status %s":"اكتشاف المسار فشل مع حالة %s",
+    "You have reached A-1000":"انت وصلت ل A-1000",
+    "A-1000 reached by mspaint autorooms":"وصلت ل A-1000 بواسطة mspaint الغرب التلقائية",
+    "Grab Banana / Jeff":"مسك الموز \\ جيف",
+    "Banana/Jeff Throw":"رمي الموزة / جيف",
+    "You are no longer holding the item due to network owner change!":"انت ما تحمل هاذا الغرض لان اونر النيتورك تغير!",
+    "Throw":"رمي",
+    "Throw Strength":"قوة الرمي",
+    "Anti-Banana":"رمي الموز",
+    "Infinite Revives":"احياء لانهائي",
+    "Figure Godmode":"قود مود للفيقر",
+    "Elevator Sniper":"صيد المصعد",
+    "Target":"الهدف",
+    "Loop Achievements":"لوب اشيفمنت",
+    "Speed":"سرعة",
+    "Create Retro Elevator":"اصنع مصعد ريترو",
+    "Join DOORS before Hotel+ lobby":"دخول دورز قبل دورز بلس",
+    "DOORS before Hotel+":"دورز قبل هوتيل بلس",
+    "Joining DOORS before Hotel+...":"جاري دخول دورز قبل هوتيل بلس...",
+    "DPI Scale": "حجم نقطة لكل بوصة",
+    "Restart mspaint to apply DPI changes.": "أعد تشغيل mspaint لتطبيق تغييرات النقاط لكل بوصة.",
+    "Presets":"المحددات المسبقة",
+    "Preset name":"اسم المحدد المسبق",
+    "Create Preset":"انشاء محدد مسبق",
+    "Preset already exists!":"المحدد المسبق موجود بالفعل!",
+    "Created elevator preset \"%s\" with %s modifiers":"تم انشاء اعداد مسبق للمصعد \"%s\" مع %s المعدلات",
+    "Preset List":"قائمة محددات المسبقة",
+    "Load Preset":"تحميل محدد مسبق",
+    "Override Preset":"تجاوز محدد مسبق",
+    "Delete Preset":"حذف محدد مسبق",
+    "Overrided preset: ":"المحدد المسبق المتجاوز:",
+    "Deleted preset: ":"المحدد المسبق المحذوف:",
+    "Failed to delete preset: ":"فشل حذف المحدد المسبق:",
+    "Preset does not exist!":"المحدد المسبق غير موجود!",
+    "Void/Glitch is coming once the next door is opened.":"فويد/قلتش جاي بس الباب الي بعدة ينفتح.",
+    "Void/Glitch is coming %s.":"فويد/قلتش جاي %s.",
+    "once the next door is opened.":"بس ينفتح الباب الي بعدة.",
+    "in %s rooms":"في %s غرف",
+    "ENTITIES":"الكيانات",
+    "Go to the next room to avoid it.":"اذهب للغرف الجاية لتخطية.",
+    "Floor":"الطابق",
+    "Smooth Look": "نظر سلس",
+    "Simulate Lag": "محاكاة اللاق",
+    "Tick(s) simulation": "محاكاة العلامات",
+    "Go find a hiding place!":"اذهب و اعثر على مكان للاختباء!",
+    "Halt will spawn in next room!":"هالت بيرسبن في الغرفة الي بعدها!",
+    "Halt has broken anticheat bypass.":"هالت خرب بايباس مضاد الغش.",
+    "Bypassed the anticheat successfully!":"تم بايباس مضاد الغش!",
+    "This will only last until the next cutscene!":"بيبقى ليين الكت سين الجاي!",
+    "Bypassed the anticheat successfully! This will only last until the next cutscene":"تم بايباس مضاد الغش! بيبقى ليين الكت سين الجاي",
+    "Please go on a ladder again to fix it.":"ارجوك روح للسلم عشان يتصلح.",
+    "Halt has broken anticheat bypass, please go on a ladder again to fix it.":"هالت خرب بايباس مضاد الغش, ارجوك روح للسلم عشان يتصلح.",
+    "Padlock Code":"كود القفل",
+    "Solved the library padlock code":"تم حل كود المكتبة",
+    "The library code will be automatically solved when you pick up the missing books.":"المكتبة بتنحل بس تجيب الكتب المفقودة.",
+    "Automatic Library Solver":"حل المكتبة التلقائي",
+    "You are still missing some books":"انت للحين عندك كتب مفقودة",
+    "Library Code: %s":"كود المكتبة: %s",
+    "Oxygen: %.1f":"االاكسجين: %.1f",
+    "Delete Seek FE":"احذف سييك (ناحية السيرفر)",
+    "Deleting Seek trigger...":"جاري حذف مفعل سييك...",
+    "Failed to delete Seek trigger!":"فشل حذف مفعل سييك!",
+    "Deleted Seek trigger successfully!":"تم حذف مفعل سييك!",
+    "Failed to load preset: ":"فشل تحميل المحدد المسبق:",
+    "Loaded elevator preset: ":"تم تحميل محدد المسبق للمصعد:",
+    "Throw Power Boost":"تعزيز قوة الرمي",
+    "Throw Power":"قوة الرمي",
+    "FE Delete Object":"حذف شيء (ناحية السيرفر)",
+    "FE Delete Aura":"حذف الاورى (ناحية السيرفر)",
+    "Respawn":"اعادة الانتشار",
+    "Delete objects within a certain range of your character, this can kick you from the game and i'm too lazy to fix it.":"حذف شيء معين في مدى شخصيتك, هاذا ممكن يطرد من للعبة نحن ملنا خلق نصلحة.",
+    "Delete Aura Range":"احذف مدى الاورى",
+    "Disable Hunger":"طفي الجوع",
+    "Infinite Hunger":"جوع لانهائي",
+    "Infinite Energy":"طاقة لانهائية",
+    "Infinite Inventory":"انفينتوري لا نهائي",
+    "No Fall":"لا سقوط",
+    "Auto Respawn":"اعادة انتشار تلقائي",
+    "Auto Push Employees":"دفع الموظفين التلقائي",
+    "Enable player whistle teleport":"تفعيل الانتقال الى تصفير اللاعب",
+    "Go to player(s)'s whistle.":"اذهب الى صفارة لاعب.",
+    "Rejoin":"اعادة الدخول",
+    "Instant Leave":"خروج فوري",
+    "Employee":"موظف",
+    "Personal Watch":"ساعة شخصية",
+    "Death Waypoint":"نقطة الطريق الموت",
+    "Max Waypoints":"اقصى نقطة طريق",
+    "Submarine Sniper":"صائد الغواصات",
+    "Auto Fix Wires":"تصليح الكيبلات التلقائي",
+    "Auto Generator":"المولد التلقائي",
+    "Ignore List":"قائمة التجاهل",
+    "Don't worry you have godmode enabled!":"لا تقلق عدم الموت مفعل!",
+    "Don't worry you have Anti Turrets enabled":"لا تقلق مضاد الابراج مفعل!",
+    "Don't worry you have Anti Eyefestation enabled":"لا تقلق مضاد-احتفال العين نفعل!",
+    "Look away!":"انضر بعيدا!",
+    "Try and find the wall dweller":"حاول البحث عن ساكن الجدار",
+    "Try and find the ridge ":"حاول البحث عن الحافة",
+    "Anti-Void":"مضاد-الفراغ",
+    "Anti-Trickster":"مضاد-المحتال",
+    "Anti-Landmine": "مضاد-لغم أرضي",
+    "Anti-Eyefestation":"مضاد-احتفال عيد",
+    "Anti-Searchlights":"مضاد-الكشاف",
+    "Anti-Turrets":"مضاد-الابراج",
+    "Anti-Squiddle":"مضاد-سكودل",
+    "Anti-Parasites":"مضاد الطفيليات",
+    "Anti-Damage Parts":"مضاد-اجزاء الضرر",
+    "Anti-Pandemonium":"مضاد-الهرج والمرج",
+    "Anti-Bouncers":"مضاد-الحراس",
+    "Anti-Skelepede":"مضاد-سكيليبيد",
+    "Anti-Statue":"مضاد-التمثال",
+    "Anti-Tripwire": "مضاد-سلك التعثر",
+    "Anti-Skeleton Dancers":"مضاد-الهياكل الراقصة",
+    "Anti-Wall Dweller": "مضاد-ساكن الجدران",
+    "Auto Pandemonium Minigame": "لعبة الهرج والمرج تلقائيا",
+    "Document": "وثيقة",
+    "Disable Litany": "اطفاء Litany",
+    "Disable Doppelgangers": "اطفاء دوبيل",
+    "This feature is only available on the test branch of the game.": "هذة الخاصية متاحة فقط في فرع التجريب من اللعبة.",
+    "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "عدم الموت لن يعمل بسبب قونتلنت, سوف يعمل من جديد بعد ان تغادر الغرفة.",
+    "Don't worry you have Anti Wall Dweller enabled": "لا تقلق لديك مضاد ساكن الجدران مفعل",
+    "Don't get in their line of sight!": "لا تدخل في خط بصرهم!",
+    "Please get close to a locker to enable godmode (DO NOT ENTER THE LOCKER)":"ارجوك اقترب من الخزانة لتفعيل عدم الموت (لا تدخل الخزانة)",
+    "This will break interactions with lockers.":"هذا سوف يخرب التفاعل مع الخزائن.",
+    "Godmode enabled successfully! This will break after cutscenes.":"عدم الموت تفعل بنجاح! هاذا سوف يخرب المشاهد السنمائية.",
+    "Door Reach Multiplier":"تضاعفات الوصول للباب",
+    "Get Local Badges":"احصل على الشارات الداخلية",
+    "Currency":"العملة",
+    "No Underwater Effect":"لا افكت تحت الماء",
+    "Turret Controls":"تحكم الابراج",
+    "[Fixed]":"[مصلح]",
+    "Wire":"سلك",
+    "Crystal":"كرستال",
+    "Infinite Stamina":"قوة تحمل لا نهائية",
+    "Infinite Flashlight":"مصباح لا نهائي",
+    "Table":"طاولة",
+    "Battery":"بطارة",
+    "No Flashlight Shadow":"لا ضلال للمصباح",
+    "No Blur":"لا بلور",
+    "Auto Bait": "الطعم التلقائي",
+    "Priority": "أولوية",
+    "Equipped %s.": "تم تجهيز %s.",
+    "Reset": "إعادة ضبط",
+    "[Fisch] New Catch!":"[Fisch] صيد جديد!",
+    "[Fisch] Auto Sell Result":"[Fisch] نتيجة البيع التلقائي",
+    "[Fisch] Test.":"[Fisch] تجربة.",
+    "Teleport to Player": "الانتقال الى لاعب",
+    "Catch Mentions": "منشنات الصيد",
+    "Bait Mentions": "منشنات الطعم",
+    "Name": "اسم",
+    "Sold For": "بيع لي",
+    "Failed to sell item.": "فشل بيع الغرض.",
+    "Auto Treasure Map - Repair": "خرطية الكنز تلقائيا - اصلاح",
+    "Auto Treasure Map - Claim": "خريطة الكنز تلقائيا - حصول",
+    "New Catch!": "صيد جديد!",
+    "New Bait!": "طعم جديد!",
+    "Auto Sell Result": "بيع النتيجة تلقائيا",
+    "New Event!": "حدث جديد!",
+    "Boat Max Speed": "اقصى سرعة للقارب",
+    "Max Speed": "اقصى سرعة",
+    "Boat Acceleration": "تسارع القارب",
+    "Acceleration Speed": "سرعة التسارع",
+    "Player to Fling": "فلنق لاعب",
+    "Boat Player Fling (FE)": "قذف لاعب بالقارب (ناحية السيرفر)",
+    "Flings a player using a boat. Will despawn all boats after use": "يقذف لاعب باستخدام القارب, بينفي كل القوارب بعد الاسعتمال",
+    "You haven't selected a player to fling.": ".لم تختر لاعب ليتم قذفة",
+    "The player's character is not loaded yet.": "شخصية الاعب غير متحملة.",
+    "You don't have any boats spawned.": "ليس لديك أي قارب مجهز",
+    "The player is not loaded yet.": "الاعب لم يحمل.",
+    "Flinging %s...": "جاري قذف %s...",
+    "Enchant Relic": "تفعيل ريليك",
+    "Buy Enchant Relic(s)": "شراء أثر السحر",
+    "Buying enchantment relics...": "جارٍ شراء آثار السحر...",
+    "Bought %s enchantment relics from Merlin.": "تم شراء %s من آثار السحر من ميرلين.",
+    "Mentions you when you catch a ... fish.": "يمنشن لما تصيد ... سمكة",
+    "Mentions you when you catch a ... bait.": "يمنشن لما تصيد ... طعم",
+    "Fix stuck on Already running.": "اصلاح العلق مفعل بالفعل.",
+    "Inventory": "الحقيبة",
+    "Auto Claim Fillionaire": "الحصول على فليونير تلقائيا",
+    "Waiting for Auto Claim Fillionaire to finish...": "جاري انتظار الحصول على فليونير تلقائيا ليكمل...",
+    "Enable Location (Zone Cast)": "تفعل المكان (منطقة القذف)",
+    "Center Button": "الزر الاوسط",
+    "Failed to equip the fishing rod, retrying...": "فشل تجهيز سنارة الصيد, جاري اعادة المحاولة...",
+    "Waiting for Auto Treasure Map to finish...": "جاري انتظار الخريطة الكنز تلقائيا لينتهي...",
+    "Faster Fishing": "صيد أسرع",
+    "This feature only works with the 'Exploit' mode.": "'هذة الخاصية تعمل فقط بوضع 'الهاك",
+    "Disable Temperature": "اطفاء ترجة الحرارة",
+    "Go To Event": "أذهب الى الحدث",
+    "Enabled Event(s)": "تفعيل الاحداث",
+    "Event '%s' has been found!": "الحدث '%s' تم وجودة",
+    "Disable UI": "اطفاء الواجهة",
+    "One map repair costs 250C$.": "تصليح خريطة واحدة يكلف C$250",
+    "Auto Claim": "الحصول التلقائي",
+    "Claim Current Maps": "الحصول على الخرائط الحالية",
+    "Discord Settings": "اعدادات الديسكورد",
+    "Anchor Bobber": "بوبر تثبيت",
+    "Anchors the bobber during Auto Fishing.": "تثبيت بوبر اثناء السمك التلقائي",
+    "Buy Item":"شراء غرض",
+    "Cost: %s":"يكلف: %s",
+    "Resuming...": "جاري المواصلة...",
+    "Stopped": "توقف",
+    "Appraise Fish": "قدر السمك",
+    "Despawn Boat": "نفي القارب",
+    "This is a test message.":"هاذة الرسالة تجريبية.",
+    "Disable Kill Client Remote":"حذف ريموت قتل العميل",
+    "Disable Carnation":"اطفاء قرنفل",
+    "Disable Slight & Heed Damage":"اطفاء ضرر طفيف & رأس",
+    "Disable Slugfish":"اطفاء سمك السلوفش",
+    "Disable Elkman":"اطفاء إلكمان",
+    "Disable Sarrow":"اطفاء سارو",
+    "Disable Dozer":"اطفاء البلدوزر",
+    "Disable Goatman":"اطفاء الرجل الماعز",
+    "[Sold For]":"[بيع لي]",
+    "[Name]":"[اسم]",
+    "[Shiny]":"[لامع]",
+    "[Sparkling]":"[فائر]",
+    "[Giant]":"[عملاق]",
+    "[Big]":"[كبير]",
+    "Auto Sell":"البيع التلقائي",
+    "Selling '%s'...":"جار البيع لي '%s'...",
+    "Sold '%s' for '%sC$'":"تم بيع '%s' لي '%sC$'",
+    "Failed to sell '%s'!":"فشل بيع '%s'!",
+    "General: ":"العام:",
+    "You leveled up from **%s** -> **%s**!":"انت لفلت من **%s** -> **%s**!",
+    "WARNING! Your executor doesn't support 'require' function. The script can't detect Big and Giant fishes and baits!":"تحذير! الاكسكيوتر الخاص بك لا يدعم الوظيفة 'require'. لا يمكن للسكريبت اكتشاف الأسماك والتوت الكبيرة والضخمة!",
+    "Mentions you when ... event happens.":"تذكير عندما ... شيء يحدث.",
+    "Mentions":"تذكيرات",
+    "Discord User ID":"ايدي مستخدم الديسكورد",
+    "Your Discord Webhook":"ويب هوك الديسكورد الخاص بس",
+    "Enable Discord Notifications":"تفعيل اشعارات الديسكورد",
+    "Test Webhook":"تجربة الويب هوك",
+    "Testing Discord Notification...":"تجربة اشعارات الديسكورد...",
+    "Test":"تجربة",
+    "Test message.":"رسالة تجربة.",
+    "Custom Locations":"الأماكن المخصصة",
+    "Custom Location Name":"اسم المكان المخصص",
+    "Create Custom Location":"انشاء مكان مخصص",
+    "Custom location already exists!":"المكان المخصص موجود بالفعل!",
+    "Created custom location ":"تم انشاء مكان مخصص",
+    "Teleport to Custom Location":"الانتقال الى المكان المخصص",
+    "Override Custom Location":"تجاوز المكان المخصص",
+    "Overrided custom location ":"تم تجاوز المكان المخصص",
+    "Delete Custom Location":"حذف المكان المخصص",
+    "Custom location does not exist!":"المكان المخصص غير موجود!",
+    "Deleted custom location ":"تم حذف المكان المخصص",
+    "Failed to delete custom location: ":"فشل حذف المكان المخصص:",
+    "Refresh Custom Locations":"اعادة تعيين مكان مخصص",
+    "File System is required for this feature.":"واجهة برمجة الملفات مطلوبة لهادة الخاصية.",
+    "Failed to load location: ":"فشل تحميل المكان:",
+    "Teleport":"الانتقال",
+    "Areas":"المناطق",
+    "Teleport to Area":"انتقال الى مكان",
+    "NPCs":"انبيسي",
+    "Teleport to NPC":"الانقال الى انبيسي",
+    "Interactables":"قابلة للتفاعل",
+    "Teleport to Interactable":"الانتقال الى المتفاعلات",
+    "Failed to find Boat's Base.":"فشل العثر على قاعدة القارب.",
+    "Totem Cycle": "دورة التوتيم",
+    "Day Totem": "يوم التوتيم",
+    "Night Totem": "ليلة التوتيم",
+    "Stop At Event": "التوقف عند حدث",
+    "An Ancient Megalodon has spawned!": "ميقالادون قديم رسبن!",
+    "A Megalodon has spawned!": "ميقالادون رسبن!",
+    "Purchase Totem": "شراء توتيم",
+    "Amount of Totems": "عدد التوتيم",
+    "Buy Totem": "شراء توتيم",
+    "Auto Enchant": "انشانتمنت تلقائي",
+    "Enchant List": "قائمة الانشانتمنت",
+    "Successfully enchanted the rod with %s.": "تم انششانت السنارة مع %s.",
+    "Retry Delay": "مهلة اعادة المحاولة",
+    "Auto Collect Meteor": "استلام النيزك التلقائي",
+    "Fish Radar": "رادار السمك",
+    "Enable fish radar without having to buy it.": "تفعيل رادار السمك مندون الحاجة لششرائه",
+    "Menu":"القائمة",
+    "Fun": "المرح",
+    "Auto Spin Flashlight": "لف المصباح التلقائي",
+    "Info":"معلومات",
+    "Mod Detector": "كاشف المشرفين",
+    "On Mod Join": "عن دخول مشرف",
+    "Looking for a server...": "جاري البحث عن سيرفر...",
+    "Server found!": "تم العثور على سيرفر!",
+    "Player '%s' is a moderator! (%s)": "اللاعب '%s' هو مشرف! (%s)",
+    "Menu Keybind":"زر القائمة",
+    "Auto Quest": "المهمة تلقائيا",
+    "Make sure to start the quest first!": "تأكد من بدأ المهمة اولا!",
+    "Completed Quest!": "تمت المهمة!",
+    "Completing Quest...": "جار اكمال المهمة!",
+    "Finished with quest, re-enabling Auto Farm...": "تم الانتهاء من المهم, العودة لتجميع التلقائي",
+    "Auto Farm is enabled, disabling...": "التجميع التلقائي مفعل, جار الاطفاء...",
+    "Complete Cloud Quest": "اكمل مهمة الغيوم",
+    "Complete Target Quest": "اكمل مهمة الهدف",
+    "Complete Ramp Quest": "اكمل مهمة المنحدر",
+    "Complete Find Me Quest": "اكمل مهمة اعثر عني",
+    "Complete Thin Ice Quest": "اكمل مهمة الجليد النحيل",
+    "Infinite Jetpack Duration":"مدة جيت باك لا نهائية",
+    "Motor Modification":"تعديل المحرك",
+    "Enable Motor Modifications":"تفعيل تعديلات المحرك",
+    "Motor Speed":"سرعة المحرك",
+    "Motor Turning Speed":"سرعة تحول المحرك",
+    "Waiting for Fisch to load.":"انتضظار fisch تحمل.",
+    "Select a custom location first.":"اختار موقع مخصص أولاً",
+    "Auto Fish Settings":"اعدادات السمك التلقائي",
+    "Auto Treasure Map":"خريطة الكنز التلقائية",
+    "Auto Repair":"التصليح التلقائي",
+    "Repair Current Maps":"تصليح الماب الحالي",
+    "Done.":"تم.",
+    "Paused due to Auto Treasure Map.":"توقف بسبب خريطة الكنز التلقائية.",
+    "[Fisch] Auto Treasure Map - Repair.":"[Fisch] خريطة الكنز التقائي - الاصلاح.",
+    "Successfully repaired a new Treasure Map!":"تم اصلاح خرية كنز جديدة!",
+    "[Fisch] Auto Treasure Map - Claimed.":"[Fisch] خريطة الكنز التقائي - تم الحصول.",
+    "Successfully claimed a Treasure Map!":"تم الحصول على خريطة الكنز بنجاح",
+    "Failed to claimed a Treasure Map. Not enough money.":"فشل الحصول على خريطة الكنز. مال غير كافي.",
+    "Failed to find the boat's spawn event.":"فشل العثور على حدث استدعاء القارب.",
+    "Failed to load the boat's data.":"فشل تحميل بيانات القارب.",
+    "Failed to find the despawn button.":"فشل العثور على زر النفي.",
+    "Failed to open the Shipwright UI.":"فشل فتح واجهة القوارب.",
+    "Please interact with the NPC.":"الرجاء التفاعل مع الانبيسي.",
+    "Failed to find the NPC, retrying with teleport...":"فشل العثور على الانبيسي, المحاولة مرة اخرى بلانتقال.",
+    "Failed to find the the NPC.":"فشل العثور على الانبيسي.",
+    "Failed to repair a new Treasure Map! Not enough money.": "فشل اصلاح خريطة كنز جديدة! لا يوجد مال كافي.",
+    "Interacting with the NPC...":"التفاعل مع الانبيسي...",
+    "You don't have the Treasure Map equipped.":"ليس بيديك خريطة الكنز.",
+    "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.":"تحذير! الاكسكيوتر حقك لا يدعم 'require'. بعض البيانات قد تكون قديمة",
+    "Loading location data...":"جاري تحميل بيانات الموقع...",
+    "Searching for a fishing rod...":"جاري البحث عن سنارة السمك...",
+    "Casting the fishing rod...":"جاري قذف سنارة السمك...",
+    "Failed to cast the fishing rod, retrying...":"",
+    "Resuming Auto Fish...":"جاري استأنف السمك التلقائي...",
+    "Auto Fish stopped.":"السمك التلقائي توقف.",
+    "Anchor Player":"تثبيت اللاعب",
+    "Anchors you during Auto Fishing":"تثبت عند السمك التلقائي.",
+    "Auto Reel":"لفائف تلقائية",
+    "Auto Cast":"القذف التلقائي",
+    "Auto Cast is already running...":"سنارة الصيد جاهزة بالفعل...",
+    "Disable Oxygen":"لا اكسجين",
+    "Equipping fishing rod...":"جاري تجهيز سنارة الصيد...",
+    "Casting fishing rod...":"جاري قذف سنارة الصيد...",
+    "Paused due to Auto Crab Cage.":"تم التوقف بسبب قفص السلطعون التلقائي.",
+    "Paused due to Auto Sell.":"تم التوقف بسبب البيع التلقائي.",
+    "Unpausing...":"جاري الغاء الإيقاف المؤقت...",
+    "Perfect Reel Chance":"فرصت البكرة المثالية",
+    "Failed to cast fishing rod.":"فشل قذف سنارة الصيد.",
+    "One crab cage costs 45C$.":"45C$ قفص سلطعون واحد بمبلغ .",
+    "Failed to fetch %s, please make a bug report!":"فشل جلب %s، يرجى تقديم تقرير بالأخطاء!",
+    "Stopped.":"توقف.",
+    "Auto Shake":"هز تلقائي",
+    "Auto Shake Mode":"وضع الهز التلقائي",
+    "Close chat and enable screenshot mode (top right camera button) for this to work all the time.":"أغلق الدردشة وقم بتفعيل وضع التقاط الشاشة (زر الكاميرا في أعلى اليمين) حتى يعمل ذلك طوال الوقت.",
+    "Make sure nothing is covering the shake safezone.\n\nIf you want to do something turn off Auto Shake first,\nit will click on any UI element thats on top of the shake button if you keep it on.":"تأكد من أن لا شيء يغطي منطقة الهز.\n\nإذا كنت تريد فعل شيء، قم بإيقاف الهز التلقائي أولاً،\n mspaint سينقر على أي عنصر في واجهة المستخدم الموجود فوق زر الهز إذا أبقيت الهز مفعلاً.",
+    "Buttons at Fixed Position":"الازرار في اماكن معينة",
+    "Delay":"التأخير",
+    "Enable":"تفعيل",
+    "Exceptions":"التوقعات",
+    "Sell on Catch":"البيع بمجرد الصيد",
+    "Sell fishes after successfully catching them.":"تم بيع السمك بنجاح جاري صيدهم.",
+    "Auto Crab Cage":"قفص السلطعون تلقائيا",
+    "Auto Fish":"السمك التلقائي",
+    "Mode":"وضع",
+    "Location":"المكان",
+    "Enable Location":"تفعيل المكان",
+    "Only works with Exploit Mode.":"يشتغل فقط مع وضع الهاك",
+    "Maximum Throw Power":"اقل قوة للرمي",
+    "Appraise fish (450C$)":"ابريس السمك (250C$)",
+    "You will not drown in the water.":"لن تغرق في الماء",
+    "You can walk on water.":"يمكنك المشي فوق الماء",
+    "Disable being afk.":"اطفاء انك مأفك",
+    "Open Shipwright":"افتح قائمة القوارب",
+    "You don't have enough money.":"ليس لديك مال كافي",
+    "Disable Auto Cast first.":"طفي القذف التلقائي أولاً",
+    "Teleport to Boat": "الانتقال للقارب",
+    "Teleport to Spawned Boat":"الانتقال للقارب الذي تم استدعائه",
+    "Jesus":"المشي فوق الماء",
+    "Spawned Boats":"القوارب الموجودة",
+    "Despawn Boats":"نفي القوارب",
+    "Amount of cages to buy":"عدد الاقفاص لشراء",
+    "Buy Crab Cages":"شراء اقفاص السلطعون",
+    "Auto Buy Crab Cage":"شراء قفص السلطعون تلقائيا",
+    "Please wait.":"الرجاء الانتظار.",
+    "Failed to fetch your balance.":"فشل جلب رصيدك.",
+    "Buying cages...":"جاري شراء الاقفاص...",
+    "Auto Cast is enabled, waiting for it to stop...":"القذف التلقائي مفعل, جاري انتظارة للتوقف...",
+    "Bought '%s' crab cages.":"تم شراء %s اقفاص السلطعونات.",
+    "Failed to find buy prompt.":"فشل العثور على قائمة الشراء.",
+    "Auto Pickup":"التقاط التلقائي",
+    "Sell Item in Hand":"بيع الشيء الذي في يدك",
+    "Sell Inventory":"بيع الانفينتوري",
+    "Murderer": "القاتل",
+    "Innocent": "بريء",
+    "Kill All": "قتل الجميع",
+    "The game has not started yet!": "لم تبدأ الجولة!",
+    "You are not the murderer!": "انت لست القاتل!",
+    "Killed all players!": "تم قتل الجميع!",
+    "Sheriff": "المحقق",
+    "Kill Murderer": "قتل القاتل",
+    "You are not the sheriff!": "انت لست المحقق!",
+    "Failed to find the murder!": "لم يتم العثور على القاتل!",
+    "Killed the murderer!": "تم قتل القاتل!",
+    "Auto Collect Coins": "الحصول التلقائي على العملات",
+    "Auto Collect Gun": "الحصول التقائي على السلاح",
+    "Your executor doesn't support this feature.": "",
+    "General": "العام",
+    "Disable Sensors": "تقفيل الحساسات",
+    "Instant Role Notify": "كشف الرتب الفوري",
+    "Silent Aim": "الايم الصامت",
+    "Reach Multiplier": "مضاعفات الوصول",
+    "Enable Reach": "تفعيل الوصول",
+    "Kill Sheriff": "قتل المحقق",
+    "Please equip the gun.": "الرجاء تجهيز السلاح.",
+    "Please equip the knife.": "الرجاء تجهيز السكينة.",
+    "Failed to find the sheriff!": "فشل العثور على المحقق!",
+    "Killed the sheriff!": "تم قتل المحقق!",
+    "Dropped Gun": "السلاح المرمي",
+    "[mspaint] Loading stopped. (ERROR: Loading)":"[mspaint] تقف التحميل. (خطأ: جاري التحميل)",
+    "[mspaint] Loading stopped. (ERROR: Already loaded)":"[mspaint] تقف التحميل. (خطأ: تحمل بالفعل)",
+    "Using these exploits may cause data loss, please use them at your own risk.": "أستخدام الهاكات ممكن انت يسبب خسارة الباينات, الرجاء استعمالة على مسوؤليتك.",
+    "No message today... 😢":"لا رسالة اليوم... 😢",
+    "MOTD: %s":"مو تدي: %s",
+    "Lifetime":"مدى الحياة",
+    "Language":"لغة",
+    "%d day%s":"%d يوم%s",
+    "%d hour%s %d minute%s":"%d ساعة%s %d دقيقة%s",
+    "%d hour%s":"%d ساعة%s",
+    "%d minute%s":"%d دقيقة%s",
+    "%d second%s":"%d ثانية%s",
+    "Unloading ":"اقتلاع",
+    "Unloading...":"جاري الاقتلاع...",
+    "Unloaded!":"تم الاقتلاع!",
+    "UI Settings":"إعدادات الواجهة",
+    "Credits":"الاعتمادات",
+    "Execute On Teleport":"التنفيذ بعد الانتقال",
+    "Open Keybind Menu":"زر اضهار الواجهة",
+    "Custom Cursor":"مؤشر مخصص",
+    "Menu bind":"زر القائم",
+    "Join Discord":"أدخل سيرفر الديسكورد",
+    "Copy Link":"انسخ الرابط",
+    "Unload":"اقتلاع",
+    "Save Error Logs":"احفظ بيانات الاخطاء",
+    "Your executor doesn't support the FileSystem API.":"الاكسكيوتر حقك لا يدعم واجهة برمجيات الملفات.",
+    "[GameId: %s, JobID: %s] %s":"[ايدي القيم: %s, جوب ايدي: %s] %s",
+    "Developers":"المطوريين:",
+    "upio - Owner":"upio - المالك",
+    "Thank you for supporting us by doing the key system!":"شكرا لك لدعمنا بواسطة نضام المفتاح!",
+    "Thank you for buying a lifetime key! Your support helps us continue mspaint :D":"شكرا لك لشراء مفتاح مدى الحياة! دعمك يساعدنا على تكملة mspaint :D",
+    "Time left: ":"الوقت المتبقي:",
+    "Total Executions: ":"عدد التنفيدات:",
+    "Contributors:": "المساهمين",
+    "Translators:": "المترجمين",
+    "Not linked":"ليس مربوط",
+    "Expired":"منتهي الصلاحية",
+    "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.":"انتهت صلاحية مفتاحك. سيتم إلغاء وصولك إلى mspaint عند التنفيذ التالي ما لم تقم بتمديد مدة المفتاح أو شراء مفتاح مدى الحياة.",
+    "Restart mspaint to apply language changes.":"أعد تشغيل mspaint لتطبيق تغيرات اللغة.",
+    "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.":"[mspaint] الاكسكيوتر حقك لا يدعم واجهة برمجة الملفات. الملحقات لن تعمل.",
+    "[mspaint] Addons folder doesn't exist. Creating...":"[mspaint] ملف الملحقات غير موجود. جاري الانشاء...",
+    "[mspaint] Loading addons...":"[mspaint] جاري تحميل الملحقات...",
+    "[mspaint] Element '":"[mspaint] عنصر '",
+    "' didn't load: Invalid Linoria element.":"'لم يحمل : عنصر ليوريا غير صالح.",
+    "' didn't load: Invalid data.":"' لم يحمل : بيانات غير صالة.",
+    "' didn't load: Invalid name.":"'لم يحمل : اسم غير صالح.",
+    "' didn't load: Invalid addon name.":"'لم يحمل : اسم الملحق غير صالح.",
+    "' didn't load: Invalid element type.":"' لم يحمل : نوع العنصر غير صالح.",
+    "This tab is for UN-OFFICIAL addons made for mspaint. We are not responsible for what addons you will use. You are putting yourself AT RISK since you are executing third-party scripts.":"هذه الصفحة مخصصة للإضافات غير الرسمية التي تم إنشاؤها لـ mspaint. نحن غير مسؤولين عن الإضافات التي ستستخدمها. أنت تتحمل مخاطر التعرض لبرمجيات خارجية.",
+    "WARNING":"تحذير",
+    "Your addons FOLDER is empty! (":"ملف الملحقات فارغ! (",
+    "[mspaint] Invalid file extension for '":"[mspaint] نوع الملف غير صالح الى '",
+    "[mspaint] Loading addon '":"[mspaint] جاري تحميل الملحق '",
+    "Failed to load this addon (":"فشل تحميل هاذا الملحق (",
+    "Invalid 'Elements' variable (expected 'table' got '":"المتغير 'Elements' غير صالح (متوقع 'table' لكن تم الحصول على '')",
+    "' didn't load: Invalid 'Elements' variable (expected 'table' got '":"'لم يتم التحميل: المتغير 'Elements' غير صالح (متوقع 'table' لكن تم الحصول على '')'",
+    "' didn't load: Wrong game.":"لم يتم التحميل : اللعبة غير صحيحة.",
+    "Invalid 'Game' variable (expected 'string/table' got '":"المتغير 'Game' غير صالح (متوقع 'string/table' لكن تم الحصول على '')",
+    "' didn't load: Invalid 'Game' variable (expected 'string/table' got '":"'لم يتم التحميل: غير صالح 'Game' المتغيرات (توقع 'string/table' حصل)'",
+    "[mspaint] Failed to load addon '":"[mspaint] فشل تحميل الملحق '",
+    "Failed to load this addon:":"فشل تحميل هاذا الملحق:",
+    "Path Type":"نوع المسار"
+ }
