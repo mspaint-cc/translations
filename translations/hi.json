@@ -950,5 +950,13 @@
     "The player's character is not loaded yet.": "खिलाड़ी का चरित्र अभी तक लोड नहीं हुआ है।",
     "You don't have any boats spawned.": "आपके पास कोई भी नाव उत्पन्न नहीं हुई स्पॉन।",
     "The player is not loaded yet.": "खिलाड़ी अभी तक लोड नहीं हुआ है।",
-    "Flinging %s...": "%s को फ़्लिंग कर रहे हैं..."
+    "Flinging %s...": "%s को फ़्लिंग कर रहे हैं...",
+    
+    "Enchant Relic": "मंत्रित अवशेष",
+    "Buy Enchant Relic(s)": "मंत्रित अवशेष(ओं) खरीदें",
+    "Buying enchantment relics...": "जादुई अवशेष खरीद रहे हैं...",
+    "Bought %s enchantment relics from merlin.": "मर्लिन से %s जादुई अवशेष खरीदे।",
+    
+    "Boat Turning Speed": "नाव घूम रहा गति",
+    "Turning Speed": "घूम रहा गति"
 }
