@@ -870,5 +870,9 @@
     "The player's character is not loaded yet.": "El personaje del jugador no se ha cargado aun",
     "You don't have any boats spawned.": "No tienes ningun bote generado",
     "The player is not loaded yet.": "El jugador no esta cargado todavia",
-    "Flinging %s...": "Arrojando %s..."
+    "Flinging %s...": "Arrojando %s...",
+    "Enchant Relic": "Encantar Reliquia",
+    "Buy Enchant Relic(s)": "Comprar Reliquia(s) Encantadas",
+    "Buying enchantment relics...": "Comprando reliquias encantadas",
+    "Bought %s enchantment relics from merlin.": "%s reliquias encandatas compradas de merlin"
     } 
