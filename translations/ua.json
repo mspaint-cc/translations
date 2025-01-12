@@ -771,5 +771,11 @@
    "The player's character is not loaded yet.": "Персонаж гравця ще не завантажений.",
    "You don't have any boats spawned.": "У вас немає створених човнів.",
    "The player is not loaded yet.": "Гравець ще не завантажений.",
-   "Flinging %s...": "Відкидання %s..."
+   "Flinging %s...": "Відкидання %s...",
+   "Enchant Relic": "Зачарувати реліквію",
+   "Buy Enchant Relic(s)": "Купити реліквію(-ї) для зачарування",
+   "Buying enchantment relics...": "Купівля реліквій для зачарування...",
+   "Bought %s enchantment relics from merlin.": "Куплено %s реліквій для зачарування у Мерліна.",
+   "Boat Turning Speed": "Швидкість повороту човна",
+   "Turning Speed": "Швидкість повороту"
 }
