@@ -1,6 +1,9 @@
 {
     "mspaint": "mspaint (TR)",
 
+    "Boat Turning Speed": "Tekne Dönüş Hızı",
+    "Turning Speed": "Dönüş Hızı",
+
     "Boat Max Speed": "Max Tekne hızı",
     "Max Speed": "Max hız",
     "Boat Acceleration": "Tekne Hızlandırma (Acceleration)",
