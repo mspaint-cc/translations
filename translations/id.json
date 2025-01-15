@@ -871,5 +871,8 @@
     "Disable Doppelgangers":"Matikan Doppelganger",
     "This feature is only available on the test branch of the game.":"Fitur ini hanya tersedia pada cabang pengujian game.",
     "DPI Scale":"Skala DPI",
-    "Restart mspaint to apply DPI changes.":"Mulai ulang mspaint untuk menerapkan perubahan DPI."
+    "Restart mspaint to apply DPI changes.":"Mulai ulang mspaint untuk menerapkan perubahan DPI.",
+    "Waiting for coins to spawn...":"Menunggu koin untuk muncul...",
+    "Waiting for the game to start...":"Menunggu game untuk dimulai...", 
+    "Coin Bag is full!":"Kantung Koin sudah penuh!"
 }
