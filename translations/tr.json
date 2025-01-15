@@ -1,6 +1,12 @@
 {
     "mspaint": "mspaint (TR)",
 
+    "Waiting for coins to spawn...": "Altınların Doğmasını bekleniliyor...",
+    "Waiting for the game to start...": "Oyunun başlatılmasını bekleniliyor...",
+    "Coin Bag is full!": "Altın çantası dolu!",
+
+    "This feature doesn't work in private servers.": "Bu özellik özel sunucuda çalışmıyor.",
+
     "Boat Turning Speed": "Tekne Dönüş Hızı",
     "Turning Speed": "Dönüş Hızı",
 
