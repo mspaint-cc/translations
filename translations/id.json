@@ -874,5 +874,6 @@
     "Restart mspaint to apply DPI changes.":"Mulai ulang mspaint untuk menerapkan perubahan DPI.",
     "Waiting for coins to spawn...":"Menunggu koin untuk muncul...",
     "Waiting for the game to start...":"Menunggu game untuk dimulai...", 
-    "Coin Bag is full!":"Kantung Koin sudah penuh!"
+    "Coin Bag is full!":"Kantung Koin sudah penuh!",
+    "This feature doesn't work in private servers.":"Fitur ini tidak dapat bekerja pada server privat."
 }
