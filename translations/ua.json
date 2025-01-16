@@ -780,5 +780,6 @@
    "Turning Speed":"Швидкість повороту",
    "Waiting for coins to spawn...":"Очікування появи монет...",
    "Waiting for the game to start...":"Очікування початку гри...",
-   "Coin Bag is full!":"Мішок з монетами повний!"
+   "Coin Bag is full!":"Мішок з монетами повний!",
+   "This feature doesn't work in private servers.": "Ця функція не працює на приватних серверах."
 }
