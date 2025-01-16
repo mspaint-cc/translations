@@ -871,4 +871,8 @@
     "Bought %s enchantment relics from merlin.": "Đã mua %s bùa chú di vật từ merlin."
     "Boat Turning Speed": "Tốc độ quay thuyền",
     "Turning Speed": "Tốc độ quay"
+    "Waiting for coins to spawn...": "Đang đợi xu xuất hiện...",
+    "Waiting for the game to start...": "Đang đợi game bắt đầu...",
+    "Coin Bag is full!": "Túi xu đã đầy!"
+    "This feature doesn't work in private servers.": "Tính năng này không hoạt động trong private servers."
 }
