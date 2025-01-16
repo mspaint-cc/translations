@@ -908,5 +908,11 @@
     "Bought %s enchantment relics from merlin.": "Telah membeli %s enchantment relic dari merlin",
 
     "Boat Turning Speed": "Kelajuan Pusing Bot",
-    "Turning Speed": "Kelajuan Pusing"
+    "Turning Speed": "Kelajuan Pusing",
+
+    "Waiting for coins to spawn...": "Menunggu duit untuk muncul",
+    "Waiting for the game to start...": "Menunggu permainan untuk bermula",
+    "Coin Bag is full!": "Bag Duit telah Penuh!",
+
+    "This feature doesn't work in private servers.": "Ciri ini tidak bekerja di server peribadi."
 } 
