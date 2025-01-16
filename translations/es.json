@@ -874,5 +874,11 @@
     "Enchant Relic": "Encantar Reliquia",
     "Buy Enchant Relic(s)": "Comprar Reliquia(s) Encantadas",
     "Buying enchantment relics...": "Comprando reliquias encantadas",
-    "Bought %s enchantment relics from merlin.": "%s reliquias encandatas compradas de merlin"
-    } 
+    "Bought %s enchantment relics from merlin.": "%s reliquias encandatas compradas de merlin",
+    "Boat Turning Speed": "Velocidad de giro del bote",
+    "Turning Speed": "Velocidad de giro",
+    "Waiting for coins to spawn...": "Esperando monedas a generarse...",
+    "Waiting for the game to start...": "Esperando a que el juego empieze...",
+    "Coin Bag is full!": "La bolsa de monedas esta llena!",
+    "This feature doesn't work in private servers.": "Esta funcion no funciona en servidores privados."
+    }
