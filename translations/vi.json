@@ -864,15 +864,15 @@
     "The player's character is not loaded yet.": "Nhân vật của người chơi chưa được tải.",
     "You don't have any boats spawned.": "Bạn không có thuyền nào được tạo ra.",
     "The player is not loaded yet.": "Người chơi chưa được tải.",
-    "Flinging %s...": "Đang ném %s..."
+    "Flinging %s...": "Đang ném %s...",
     "Enchant Relic": "bùa chú di vật",
     "Buy Enchant Relic(s)": "Mua bùa chú di vật",
     "Buying enchantment relics...": "Đang mua bùa chú di vật...",
-    "Bought %s enchantment relics from merlin.": "Đã mua %s bùa chú di vật từ merlin."
+    "Bought %s enchantment relics from merlin.": "Đã mua %s bùa chú di vật từ merlin.",
     "Boat Turning Speed": "Tốc độ quay thuyền",
-    "Turning Speed": "Tốc độ quay"
+    "Turning Speed": "Tốc độ quay",
     "Waiting for coins to spawn...": "Đang đợi xu xuất hiện...",
     "Waiting for the game to start...": "Đang đợi game bắt đầu...",
-    "Coin Bag is full!": "Túi xu đã đầy!"
+    "Coin Bag is full!": "Túi xu đã đầy!",
     "This feature doesn't work in private servers.": "Tính năng này không hoạt động trong private servers."
 }
