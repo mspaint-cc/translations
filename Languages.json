@@ -101,5 +101,11 @@
     "vi": {
         "NativeName" : "Tiếng Việt",
         "EnglishName": "Vietnamese"
+    },
+
+    "hu": {
+        "NativeName": "Magyar",
+        "EnglishName": "Hungarian"
     }
+    
 }
