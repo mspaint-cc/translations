@@ -83,17 +83,17 @@
         "EnglishName": "Turkish"
     },
     
-     "hi": {
+    "hi": {
         "NativeName": "हिंदी",
         "EnglishName": "Hindi"
     },
 
-     "hr": {
+    "hr": {
         "NativeName": "Hrvatski",
         "EnglishName": "Croatian"
     },
      
-     "ms": {
+    "ms": {
         "NativeName": "Bahasa Melayu",
         "EnglishName": "Malay"
     },
@@ -107,5 +107,4 @@
         "NativeName": "Magyar",
         "EnglishName": "Hungarian"
     }
-    
 }
