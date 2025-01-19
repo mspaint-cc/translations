@@ -868,5 +868,6 @@
    "Automatically plays the paengi minigame, can fail.":"Автоматично виконує мінігру «Паенгі», можливі помилки.",
    "Auto Ddakji":"Автомінігра «Ддакджі»",
    "Automatically plays the ddakji minigame, can fail.":"Автоматично виконує мінігру «Ддакджі», можливі помилки.",
-   "Minigame Throw Power":"Сила кидка у мінігрі"
+   "Minigame Throw Power":"Сила кидка у мінігрі",
+   "Waiting for Character...": "Ожидание персонажа..."
 }
