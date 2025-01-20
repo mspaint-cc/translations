@@ -869,5 +869,6 @@
    "Auto Ddakji":"Автомінігра «Ддакджі»",
    "Automatically plays the ddakji minigame, can fail.":"Автоматично виконує мінігру «Ддакджі», можливі помилки.",
    "Minigame Throw Power":"Сила кидка у мінігрі",
-   "Waiting for Character...": "Ожидание персонажа..."
+   "Waiting for Character...": "Ожидание персонажа...",
+   "Show Seek Path": "Показати шлях пошуку"
 }
