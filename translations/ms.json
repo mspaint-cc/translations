@@ -915,4 +915,37 @@
     "Coin Bag is full!": "Bag Duit telah Penuh!",
 
     "This feature doesn't work in private servers.": "Ciri ini tidak bekerja di server peribadi."
+
+    "Claim All Codes": "Tuntut Semua Kod",
+    "Fetching all codes from the wiki this may take a while...": "Mengambil semua kod dari wiki mungkin mengambil masa...",
+    "Successfully found %s codes. Claiming...": "Berjaya menjumpai kod %s. Sedang di tuntut...",
+    "Successfully claimed all codes!": "Berjaya tuntut semua kod",
+
+    "Police": "Polis",
+    "Camera": "Kamera",
+    "Criminals": "Penjenayah",
+    "Safe Spots": "Lokasi Selamat",
+    "Lootables": "Boleh Di Loot",
+    "Auto Teleport Bags to Van": "Automatik Teleport Bag ke dalam Van",
+    "Teleport Current Bags To Van": "Teleport Bag Sekarang Ke Dalam Van",
+    "Teleport To Van": "Teleport ke Van",
+    "All bags were teleported to the van.": "Bag telah di teleport ke dalam van.",
+    "Disable All Cameras": "Tutup Semua Kamera",
+    "Remove Glass (Client)": "Buang Kaca (Clien)",
+    "Remove Glass (Server)": "Buang Kaca (Server)",
+    "This will alert guard(s) that will notice the shattered glass. MIGHT LAG": "Ini mungkin memberi amaran kepada guard pada kaca pecah",
+    "Done!": "Dilakukan!",
+    "Vote Reset": "Undi Reset",
+    "Show Hitboxes": "Tunjuk Hitboxes",
+    "Successfully claimed code '%s'!": "Tuntutan Kod Berjaya '%s'!",
+    "Failed to claim code '%s'. It's maybe invalid now.": "Tuntutan Kod '%s'. Gagal. Mungkin ia tidak sah.",
+
+    "Infinite Damage": "Damage Tanpa Batas",
+    "Infinite Ammo": "Peluru Tanpa Batas",
+    "Instant Reload": "Isi Ulang Secara Segara",
+    "Instant Shoot": "Tembak Segera",
+    "Make Guns Automatic": "Menukar Pistol Menjadi Automatik",
+    "Kill All Cops": "Bunuh Semua Polis",
+    "Auto Yell Citizens": "Automatik Menjerit Kepada Warganegara",
+    "Safes": "Peti Besi"
 } 
