@@ -869,6 +869,9 @@
    "Auto Ddakji":"Автомінігра «Ддакджі»",
    "Automatically plays the ddakji minigame, can fail.":"Автоматично виконує мінігру «Ддакджі», можливі помилки.",
    "Minigame Throw Power":"Сила кидка у мінігрі",
-   "Waiting for Character...": "Ожидание персонажа...",
-   "Show Seek Path": "Показати шлях пошуку"
+   "Waiting for Character...":"Ожидание персонажа...",
+   "Show Seek Path":"Показати шлях пошуку",
+   "To bypass the Anticheat, you must interact with a ladder.":"Щоб обійти античит, вам потрібно взаємодіяти зі сходами.",
+   "Ladder ESP has been enabled, do not move while on the ladder.":"Ladder ESP увімкнено, не рухайтеся, перебуваючи на сходах.",
+   "Exclude Own Team":"Виключити власну команду"
 }
