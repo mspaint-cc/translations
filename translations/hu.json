@@ -742,5 +742,8 @@
     "Fix broken Fishing Rod.": "Törött horgászbot javítása.",
     "Failed to find the equipped fishing rod.": "Nem sikerült megtalálni a felszerelt horgászbotot.",
     "Fishing rod is now fixed.": "A horgászbot most már meg van javítva.",
-    "You need a second fishing rod.": "Szükséged van egy második horgászbotra."
+    "You need a second fishing rod.": "Szükséged van egy második horgászbotra.",
+    "To bypass the Anticheat, you must interact with a ladder.": "Az Anticheat megkerüléséhez interakcióba kell lépned egy létrával.",
+    "Ladder ESP has been enabled, do not move while on the ladder.": "A létra ESP engedélyezve lett, ne mozogj amíg a létrán vagy.",
+    "Exclude Own Team": "Saját csapat kizárása"
 }
