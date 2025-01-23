@@ -1,6 +1,14 @@
 {
     "mspaint": "mspaint (TR)",
 
+    "Waiting for Character...": "Karakter bekleniliyor...",
+
+    "Show Seek Path": "Seek yolu göster",
+
+    "To bypass the Anticheat, you must interact with a ladder.": "Hile korumasını Bypasslamak için, Merdivenle Etkileşim (Tutunmanız) gerekir.",
+    "Ladder ESP has been enabled, do not move while on the ladder.": "Ladder ESP Açıldı, merdivendeyken sakın hareket etmeyin",
+    "Exclude Own Team": "kendi takımın hariç",
+
     "Claim All Codes": "Tüm Kodları Al",
     "Fetching all codes from the wiki this may take a while...": "wiki'den tüm kodları alıyor, bu biraz zaman alabilir...",
     "Successfully found %s codes. Claiming...": "Başarıyla %s kod bulundu. Talep ediliyor...",
