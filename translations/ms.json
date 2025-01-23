@@ -947,5 +947,14 @@
     "Make Guns Automatic": "Menukar Pistol Menjadi Automatik",
     "Kill All Cops": "Bunuh Semua Polis",
     "Auto Yell Citizens": "Automatik Menjerit Kepada Warganegara",
-    "Safes": "Peti Besi"
-} 
+    "Safes": "Peti Besi",
+
+    
+    "Auto Type": "Menaip Automatik",
+    "Add Random Typing Delay": "Menambah Menaip Delay Secara Rawak",
+    "Typing Speed": "Kecepatan Menaip",
+    "Random Delay Min/Max": "Delay Rawak Min/Max",
+    "Word Priority": "Perkataan Utama",
+    "Typing word: %s\nMandatory letters: %s": "Menaip Perkataan: %s\Huruf Mandatori: %s,
+    "You have no words left, how is that even possible?": "Anda tidak mempunyai huruf lagi, bagaimana ia terjadi?"
+}
