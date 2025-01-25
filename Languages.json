@@ -106,5 +106,10 @@
     "hu": {
         "NativeName": "Magyar",
         "EnglishName": "Hungarian"
+    },
+
+    "ja": {
+        "NativeName" : "日本語",
+        "EnglishName": "Japanese"
     }
 }
