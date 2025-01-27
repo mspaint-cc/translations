@@ -607,8 +607,8 @@
     "' didn't load: Invalid element type.": "' không tải được: Loại phần tử không hợp lệ.",
     "This tab is for UN-OFFICIAL addons made for mspaint. We are not responsible for what addons you will use. You are putting yourself AT RISK since you are executing third-party scripts.": "Tab này dành cho các addon KHÔNG CHÍNH THỨC được tạo ra cho mspaint. Chúng tôi không chịu trách nhiệm về các addon bạn sẽ sử dụng. Bạn đang tự đặt mình VÀO NGUY HIỂM vì bạn đang thực thi các script của bên thứ ba.",
     "WARNING": "CẢNH BÁO",
-    "Your addons FOLDER is empty! (": "Thư mục Addons của bạn trống! (",
-    "[mspaint] Invalid file extension for '": "[mspaint] Phần mở rộng tệp không hợp lệ cho '",
+    "Your addons FOLDER is empty!": "Thư mục Addons của bạn trống!",
+    "[mspaint] Invalid file extension for '": "[mspaint] Phần mở rộng tệp không hợp lệ cho",
     "[mspaint] Loading addon '": "[mspaint] Đang tải addon '",
     "Failed to load this addon (": "Lỗi khi tải addon này (",
     "Invalid 'Elements' variable (expected 'table' got '": "Biến 'Elements' không hợp lệ (mong đợi 'table' nhận được '",
@@ -967,5 +967,5 @@
     "Waiting for Character...": "Đang đợi cho nhân vật...",
     "To bypass the Anticheat, you must interact with a ladder.": "Để vượt Anticheat , bạn cần tương tác với một cái thang",
     "Ladder ESP has been enabled, do not move while on the ladder.": "ESP Thang đã được bật , đừng di chuyển khi ở trên thang.",
-    "Exclude Own Team": "Loại bỏ team của bạn",
+    "Exclude Own Team": "Loại bỏ team của bạn"
 }
