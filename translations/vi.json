@@ -875,7 +875,6 @@
     "Waiting for the game to start...": "Đang đợi game bắt đầu...",
     "Coin Bag is full!": "Túi xu đã đầy!",
     "This feature doesn't work in private servers.": "Tính năng này không hoạt động trong private servers."
-    {
     "Claim All Codes": "Yêu cầu tất cả mã",
     "Fetching all codes from the wiki this may take a while...": "Đang lấy tất cả mã từ wiki, việc này có thể mất một lúc...",
     "Successfully found %s codes. Claiming...": "Đã tìm thấy %s mã thành công. Đang yêu cầu...",
@@ -968,5 +967,6 @@
     "Waiting for Character...": "Đang đợi cho nhân vật...",
     "To bypass the Anticheat, you must interact with a ladder.": "Để vượt Anticheat , bạn cần tương tác với một cái thang",
     "Ladder ESP has been enabled, do not move while on the ladder.": "ESP Thang đã được bật , đừng di chuyển khi ở trên thang.",
-    "Exclude Own Team": "Loại bỏ team của bạn"
+    "Exclude Own Team": "Loại bỏ team của bạn",
+    \\ ps : i got no translator role hehe bruh
 }
