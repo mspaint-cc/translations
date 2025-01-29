@@ -935,5 +935,39 @@
 "Show Seek Path": "نمایش مسیر سییک",
 "To bypass the Anticheat, you must interact with a ladder.": "برای دور زدن انتی چیت باید از یک نرده بان استفاده کنید.",
 "Ladder ESP has been enabled, do not move while on the ladder.": "ESP نرده بان فعال شد، هنگام استفاده از نرده بان تکان نخورید.",
-"Exclude Own Team": "درنظر نگفتن همتیمی ها"
+"Exclude Own Team": "درنظر نگفتن همتیمی ها",
+
+   "Claim All Codes": "اسفتاده کردن همه کد ها",
+    "Fetching all codes from the wiki this may take a while...": "دریافت کردن همه کد ها از وبسایت، ممکن است طول بکشد...",
+    "Successfully found %s codes. Claiming...": "%s تا کد پیدا شد! درحال وارد کردن کد ها...",
+    "Successfully claimed all codes!": "همه کد ها دریافت و استفاده شد اند!",
+
+    "Police": "پلیس",
+    "Camera": "دوربین",
+    "Criminals": "دزد ها",
+    "Safe Spots": "مناطق صندوقچه ها",
+    "Lootables": "لوت شدنی ها",
+    "Auto Teleport Bags to Van": "تلپورت کردن کیسه های پول خودکار به ماشین",
+    "Teleport Current Bags To Van": "تلپورت کردن کیسه های پول فعلی",
+    "Teleport To Van": "تلپورت شدن به ماشین",
+    "All bags were teleported to the van.": "همه کیسه های پول به ماشین تلپورت شدند",
+    "Disable All Cameras": "شکستن دوربین ها",
+    "Remove Glass (Client)": "برداشتن شیشه ها(برای خود)",
+    "Remove Glass (Server)": "شکستن شیشه ها(برای همه)",
+    "This will alert guard(s) that will notice the shattered glass. MIGHT LAG": "پلیس ها متوجه شکسته شدن شیشه ها میشوند!!! ممکن است لگ بشود",
+    "Done!": "انجام شد!",
+    "Vote Reset": "رای گیری برای ری استارت",
+    "Show Hitboxes": "نمایش هیتباکس ها",
+    "Successfully claimed code '%s'!": "این کد دریافت شد! '%s'!",
+    "Failed to claim code '%s'. It's maybe invalid now.": " این کد استفاده نشد، ممکن است نامعتبر باشد '%s'.",
+
+    "Infinite Damage": "دمیج دادن بینهایت",
+    "Infinite Ammo": "پول بینهایت",
+    "Instant Reload": "پر کردن خشاب سریع",
+    "Instant Shoot": "شلیک سرعتی",
+    "Make Guns Automatic": "رگباری کردن اسلحه",
+    "Kill All Cops": "کشتن همه پلیس ها",
+    "Auto Yell Citizens": "ترساندن همه مردم",
+    "Safes": "صندوقچه ها"
+
 }
