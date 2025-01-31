@@ -968,6 +968,27 @@
     "Make Guns Automatic": "رگباری کردن اسلحه",
     "Kill All Cops": "کشتن همه پلیس ها",
     "Auto Yell Citizens": "ترساندن همه مردم",
-    "Safes": "صندوقچه ها"
+    "Safes": "صندوقچه ها",
+
+    "Force Checkbox": "انتخاب گزینه اجباری",
+    "UI Style": "استایل UI",
+    "Test Notification": "تست کردن اعلان",
+    "Retired Developer & UI Library Developer": "توسعه دهنده بازنشته و توسعه دهنده UI",
+    "Helped with ESP": "در ESP کمک کرد",
+    "Helped with Fisch": "در بازی Fisch کمک کرد",
+    "Helped with BABFT": "در بازی Build a boat کمک کرد",
+    "Helped find exploits for DOORS": "در پیدا کردن چندین تقلب در بازی Doors کمک کرد",
+   "Auto Type": "تایپ کردن خودکار",
+    "Add Random Typing Delay": "اضافه کردن مکس کردن رندوم",
+    "Typing Speed": "سرعت تایپ کردن",
+    "Random Delay Min/Max": "مکس کردن رندوم حداکثر/حداقل",
+    "Word Priority": "اولویت کلمه",
+    "Typing word: %s\nMandatory letters: %s": "تایپ کردن کلمه : %s\nحروف اجباری : %s",
+    "You have no words left, how is that even possible?": "شما هیچ کلمه دیگری باقی ندارید، اصلا چطور ممکنه؟",
+   "Fix broken Fishing Rod.": "تعمیر کردن چوب ماهیگیری شکسته",
+    "Failed to find the equipped fishing rod.": "چوب ماهیگیری انتخاب شده پیدا نشد.",
+    "Fishing rod is now fixed.": "چوب ماهیگیری الان تعمیر شد.",
+    "You need a second fishing rod.": "شما یک چوب ماهیگیری دیگری هم نیاز دارید."
+}
 
 }
