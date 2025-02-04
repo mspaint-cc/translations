@@ -111,5 +111,10 @@
     "ja": {
         "NativeName" : "日本語",
         "EnglishName": "Japanese"
+    },
+
+    "am": {
+        "NativeName": "հայկ",
+        "EnglishName": "Armenian"
     }
 }
