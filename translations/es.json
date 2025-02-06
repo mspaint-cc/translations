@@ -957,5 +957,16 @@
     "Helped with ESP": "Ayudo con ESP",
     "Helped with Fisch": "Ayudo con Fisch",
     "Helped with BABFT": "Ayudo con BABFT",
-    "Helped find exploits for DOORS": "Ayudo en encontrar exploits para DOORS"
+    "Helped find exploits for DOORS": "Ayudo en encontrar exploits para DOORS",
+    "Auto Type": "Escribir Automaticamente",
+    "Add Random Typing Delay": "Añadir retraso de escritura al azar",
+    "Typing Speed": "Velocidad de escritura",
+    "Random Delay Min/Max": "Retraso aleatorio Minimo/Maximo",
+    "Word Priority": "Prioridad de palabra",
+    "Typing word: %s\nMandatory letters: %s": "Escribiendo palabra: %s\nLetras obligatorias: %s",
+    "You have no words left, how is that even possible?": "No tienes palabras restantes, como es eso posible?",
+    "Fix broken Fishing Rod.": "Arreglar caña de pescar rota",
+    "Failed to find the equipped fishing rod.": "Fallo en encontrar la caña de pescar equipada",
+    "Fishing rod is now fixed.": "La caña de pescar ya esta arreglada",
+    "You need a second fishing rod.": "Necesitas una segunda caña de pescar"
 }
