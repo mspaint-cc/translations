@@ -577,7 +577,6 @@
     "Save Error Logs": "Hibanapló mentése",
     "Your executor doesn't support the FileSystem API.": "A végrehajtód nem támogatja a FileSystem API-t.",
     "[GameId: %s, JobID: %s] %s": "[JátékAzonosító: %s, MunkaAzonosító: %s] %s",
-    "Developers": "Fejlesztők",
     "upio - Owner": "upio - Tulajdonos",
     "Thank you for supporting us by doing the key system!": "Köszönjük, hogy támogatsz minket a kulcsrendszer használatával!",
     "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "Köszönjük, hogy megvásároltad az élettartam kulcsot! A támogatásod segít nekünk folytatni a mspaint-et :D",
