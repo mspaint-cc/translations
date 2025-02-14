@@ -116,5 +116,9 @@
     "am": {
         "NativeName": "հայկ",
         "EnglishName": "Armenian"
-    }
+    }, 
+
+    "sv": {
+        "NativeName": "svenska",
+        "EnglishName": "Swedish"
 }
