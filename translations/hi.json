@@ -303,7 +303,7 @@
     "Preset name":"प्रीसेट नाम",
     "Create Preset":"प्रीसेट बनाएं",
     "Preset already exists!":"प्रीसेट पहले से मौजूद है!",
-    "Created elevator preset \" with %s modifiers":"%s संशोधक के साथ एलेवेटर प्रीसेट\” बनाया गया",
+    "Created elevator preset \" with %s modifiers":"%s मॉडिफ़ायर के साथ एलीवेटर प्रीसेट \" बनाया गया",
     "Preset List":"प्रीसेट सूची",
     "Load Preset":"प्रीसेट लोड करें",
     "Refresh Presets":"प्रीसेट रीफ्रेश करें",
