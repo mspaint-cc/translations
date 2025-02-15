@@ -92,7 +92,6 @@
     "Build with that name already exists!": "その名前のビルドはすでに存在しています！",
     "Build list": "ビルドリスト",
     "Outdated version! (Data Version: %s | Current Version: %s)": "古いバージョン！（データバージョン：%s |現在のバージョン：%s）",
-    "Build data loaded, building...\n  Version: %s\nBlocks: %s": "建設データがロードされ、作成されています...\nバージョン：%s\nブロック：%s",
     "Invalid color for '%s'": "「%s」の再生可能色",
     "Setting %s colors...": "%s色が設定されています...",
     "You don't have the painting tool. Can't set the block's color.": "絵画ツールはありません。ブロックの色を設定することはできません。",
