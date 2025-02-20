@@ -1,1078 +1,1191 @@
 {
-   
-    "mspaint": "mspaint (فارسی - Fa)",
-
-    "Main": "اصلی",
-    "Exploits": "تقلب ها",
-    "Visuals": "دیدنی",
-    "Reach": "بُرد",
-    "Misc": "متفرقه",
-    "Movement": "حرکت ها",
-    "Locations": "مکان ها",
-    "Addons": "افزونه ها",
-
-    "Sniper": "تلپورت به آسانسور",
-    "Other": "دیگری",
-    "Player": "بازیکن",
-    "Trolling": "مزاحمت",
-    "Notifier": "اعلام کننده",
-    "Automation": "اَتوماتیک",
-    "Ambient": "محیط",
-    "Bypass": "دور زدن",
-    "Farm": "فارم کردن",
-
-
-    "Loading data...": "بارگیری داده ها...",
-    "Settings": "تنظیمات",
-
-    
-    "Fullbright": "روشنایی کامل",
-    "Brightness": "روشنایی",
-    "No Fog": "حذف مِه",
-    "Anti-Lag": "ضد لگ",
-
-    
-    "ESP": "ادراک فراحسی",
-    "ESP Type": " حالت ادراک فراحسی",
-    "Team Color": "رنگ تیم",
-    "Rainbow ESP": "ادراک فراحسی رنگینکمانی",
-    "Enable Text": "فعال سازی متن",
-    "Enable Highlight": "فعال سازی برجستگی اجسام",
-    "Fill Transparency": "پَر کردن شفافیت",
-    "Transparency": "شفافیت",
-    "Outline Transparency":  "شفافیت خطوط خارجی",
-    "Show Distance": "نشان دادن فاصله",
-    "Text Size": "اندازه متن ها",
-    "Enable Tracer": "فعال کردن نوار",
-    "Tracer Start Position": "نقطه شروع نوار",
-    "Enable Arrow": "فعال کردن کمان",
-    "Arrow Center Offset": "نقطه مرکزی کمان",
-    "Bottom": "پایین",
-    "Top": "بالا",
-    "Center": "مرکز",
-    "Mouse": "مکان نما",
-
-    
-    "Speed Hack": "تغییر سرعت راه رفتن",
-    "Enable Walk Speed": "فعال سازی سرعت راه رفتن",
-    "Speed Boost": "افزایش سرعت",
-    "Walk Speed": "سرعت راه رفتن",
-    "Jump Power Hack": "تغییر قدرت پرش",
-    "Jump Power": "قدرت پرش",
-    "Fly": "پرواز",
-    "Fly Speed": "سرعت پرواز",
-    "Instant Interact": "تعامل فوری(فشار دادن دکمه فوری)",
-    "Disable Roblox Void": "غیر فعال سازی وَید بازی",
-    "Inf Jump": "پرش بینهایت",
-    "Anti AFK": "ضد کیک شدن هنگام ثابت ماندن برای مدت زیاد",
-    "Noclip": "رد شدن از دیوار(نوکلیپ)",
-    "Twerk": "رقصیدن",
-    "Hold": "نگه داشتن",
-    "Toggle": "فشار دادن",
-    "Always": "همیشه",
-
-    "Menu": "منو",
-    "No Acceleration": "نداشتن شتاب",
-    "Aimbot": "ایم بات(هدف گیری خودکار)",
-    "Enable Aimbot": "فعال سازی ایم بات(هدف گیری خودکار)",
-    "Enable Aimbot Smoothness": "میزان روان بودن ایم بات",
-    "Smoothness": "روان بودن",
-    "Minimal Distance": "کمترین فاصله",
-    "Maximum Distance": "بیشترین فاصله",
-    "Target Part": "بخش مورد هدف",
-    "Get Closest From": "انتخاب نزدیک ترین بخش به",
-    "Team Check": "بررسی تیم بودن",
-    "Alive Check": "بررسی زنده بودن",
-    "Wall Check": "بررسی وجود دیوار",
-
-    
-    "Builds": "سازه ها",
-    "Auto Farm": "فارم خودکار",
-    "Auto Farm Speed": "سرعت فارم کردن",
-    "Auto Farm Priority": "اولویت فارم خودکار",
-    "Auto Candy": "گرفتن آبنبات خودکار",
-    "Auto Build": "ساخت خودکار",
-    "Saving %s's build into '%s'...": "ذخیره کردن سازه %s's در '%s'...",
-    "Successfully saved %s's build into '%s'!": "با موفقیت سازه %s's در ذخیره شد '%s'!",
-    "Auto Build [BETA]": "ساخت خودکار (آزمایشی)",
-    "Save Player Build": "ذخیره کردن سازه بازیکن",
-    "Build name": "نام سازه",
-    "Build Saving [BETA]": "ذخیره کردن سازه(آزمایشی)",
-    "Auto Buy": "خرید خودکار",
-    "Chest Type": "نوع صندوق",
-    "Bought %s chest(s).": "صندوق با این مقدار طلا خریداری شد : %s",
-    "Failed to buy chest(s).": "خریداری صندوق ها شکست خورد",
-    "Save Player's Build": "ذخیره کردن سازه بازیکنِ",
-    "Build with that name already exists!": "یک سازه با آن نام درحال حاضر وجود دارد",
-    "Build list": "لیست سازه ها",
-    "Outdated version! (Data Version: %s | Current Version: %s)": "!نسخه قدیمی است(نسخه داده: %s | نسخه فعلی: %s)",
-    "Build data loaded, building...\n  Version: %s\nBlocks: %s": "داده های سازه بارگیری شده اند ...\n  نسخه: %s\nبلاکها: %s",
-    "Invalid color for '%s'": "رنگ اشتباه برای '%s'",
-    "Setting %s colors...": "قرار دادن %s رنگ ها...",
-    "You don't have the painting tool. Can't set the block's color.": "شما ابزار نقاشی(رنگ آمیزی) را ندارید. نمی توان رنگ بلاک را انتخاب کرد",
-    "Setting '%s' property.": "تنظیم کردن اطلاعات '%s'.",
-    "You don't have the properties tool. Can't set the block's properties.": "شما پیچ گوشتی را خریداری نکرده اید. نمی توان تنظیمات بلاک را تغییر داد.",
-    "Linking objects...": "وصل کردن اشیا به هم...",
-    "You don't have the bind tool. Can't link blocks together.": "شما آچر را خریداری نکرده اید. نمی توان بلاک ها را به هم متصل کرد.",
-    "Build was force stopped.": "ساخت متوقف شد.",
-    "Failed to load a part of your build! Check Developer Console for more information.": "ساخت با شکست مواجه شد زیرا قسمتی از ساخت بارگیری نشد بود.",
-    "Build loaded successfully!": "سازه با موفقیت بارگیری شد!",
-    "Load Build": "بالا آوردن سازه",
-    "Force Stop Load Build": "متوقف کردن ساخت",
-    "Override Build": "باز تعریف سازه",
-    "Delete Build": "حذف سازه",
-    "Failed to delete build: ": "حذف کردن با شکست مواجه شد: ",
-    "Deleted build: ": "سازه حذف شد: ",
-    "Refresh Builds": "تازه سازی سازه ها",
-    "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": "ساخت خودکار در حال حاضر در حالت آزمایشی است، ممکن است بلاک ها به درستی ذخیره نشود",
-
-   
-    "Ladder Speed": "سرعت بالا یا پایین امدن از نرده بان",
-    "Enable Speed Hack": "فعال سازی سرعت راه رفتن",
-    "Enable Jump": "فعال سازی پرش",
-    "Jump Boost": "قدرت پرش",
-    "Fast Closet Exit": "خروج سریع از کمد",
-    "Door Reach": "بَرد دست تا در",
-    "Prompt Reach Multiplier": "ضریب بَرد دست به دکمه ها",
-    "Prompt Clip": "بَرد دست تا دکمه ها",
-
-    "Auto Interact": "تعامل فوری(فشار دادن دکمه فوری)",
-    "Ignore List": " در نظر نگرفتن تعامل فوری با :",
-    "Interact Mode": "حالت تعامل",
-
-    "Auto Heartbeat Minigame": "انجام خودکار مینی گیم قلب در کمد",
-    "Auto Library Solver": "انجام خودکار کد کتاب خانه(در شماره 50)",
-    "Auto Library Code Setting": "تنظیمات انجام خودکار کد کتاب خانه",
-    "Unlock Distance": "فاصله باز کردن",
-
-    "Auto Breaker Solver": "انجام دهنده خودکار مینی گیم برق (در شماره 100)",
-    "The breaker box has been successfully solved.": "مینی گیم برق با موفقیت انجام شد.",
-    "Auto Breaker Solver Method": "روش انجام مینی گیم خودکار",
-    "Auto Breaker Box": "انجام خودکار مینی گیم برق",
-
-    "Auto Anchor Solver": "انجام خودکار مینی گیم شماره(اهرم)",
-    "Solved Anchor %s successfully!": "شماره %s با موفقیت انجام شد",
-    "Solved anchor with the code ": " اهرم به همراه کد انجام شد",
-
-    "Revive": "زنده شدن",
-    "Play Again": "بازی مجدد",
-    "Lobby": "لابی",
-
-    "Door": "در",
-    "Objective": "هدف",
-    "Entity": "موجودات",
-    "Item": "وسیله",
-    "Items": "وسیله ها",
-    "Chest": "صندوق",
-    "Toolshed": "اتاقک ابزار",
-    "Gold": "طلا (سکه)",
-    "Timer Lever": "اهرم زمان",
-    "Key": "کلید",
-    "Keycard": "کارت",
-    "Electrical Key": "کلید اتاق برق",
-    "Gate Lever": "اهرم دروازه",
-    "Book": "کتاب",
-    "Breaker": "فیوز",
-    "Generator": "ژنراتور",
-    "Gate Power Button": "دکمه در آهنی",
-    "Fuse": "فیوز",
-    "Anchor": "اهرم",
-    "Water Pump": "پمپ آب",
-    "Bed": "تخت",
-    "Guidance": "راهنمایی",
-    "Guiding Light": "نور راهنما",
-    "[Opened]": "[باز شده است]",
-    "[Locked]": "[بسته است]",
-    "Gate": "دروازه",
-    "Lever": "اهرم",
-    "Glowsticks": "چوب شب‌تاب",
-    "Ladder": "نرده بان",
-    "Bandage": "بانداژ",
-    "Lighter": "فندک",
-
-    "Anti-Dread": "ضد Dread",
-    "Anti-Halt": "ضد Halt",
-    "Anti-Screech": "ضد Screech",
-    
-    
-  
-    "Anti-Figure Hearing": "ناشنوا کردن فیگور",
-    "Anti-Snare": "ضد Snare",
-
-    "Anti-%s": "%s ضد",
-    "Vacuum": "Vacuum",
-    "Dupe": "Dupe",
-    "Eyes": "Eyes",
-    "Lookman": "Lookman",
-    "Giggle": "Giggle",
-    "Anti-Giggle": "ضد Giggle",
-
- 
-
-    "Closet": "کمد",
-    "Locker": "کمد",
-
-    "Notify Entities": "هشدار دهنده موجودات",
-    "Notify Library Code": "نمایش کد کتاب خانه",
-    "Notify Oxygen": "نمایش میزان اکسیژن",
-    "Notify Hide Time": "نمایش زمان قایم شدن",
-
-    "Notify Chat": "هشدار دهنده در چت",
-    "Entity and Padlock Code": " موحود و کد قفل ",
-
-    "has spawned!": "احضار شد!",
-    "Entity Notifier Message": "پیغام هشدار دهنده موجودات",
-
-    "Play Alert Sound": "پخش صدای هشدار",
-    "Notify Volume": "میزان صدای هشدار",
-
-    "Notification": " اگاه سازی",
-    "Notifications": " آگاه سازی ها",
-    "Notification Side": "سمت  اگاه سازی",
-    "Notification Style": "استایل آگاه سازی",
-    "Caption Style": "نوع استایل",
-
-    "Self": "خود",
-
-    "Third Person": "سوم شخص",
-    "Field of View": "میدان دید",
-    "No Camera Bobbing": "ثابت ماندن تصویر",
-    "No Camera Shake": "تکان نخوردن تصویر",
-    "No Cutscenes": "حذف کاتسین",
-    "Translucent %s": "%s شفاف بودن",
-    "Hiding Transparency": "شفافیت تصویر هنگام قایم شدن",
-    "Viewmodel Offset": "جایگاه قرار گیری وسیله در دست",
-
-    "Effects": "جلوه‌های بصری",
-    "No Glitch Effect": "حذف موجود گلیچ",
-    "No Void Effect": "حذف تاثیر وید ",
-    "No Jumpscare": "حذف جامپ اسکر",
-    "No Spider Jumpscare": "حذف جامپ اسکر عنکبوت",
-    "No Halloween Effects": "برداشتن حالت هالووین",
-
-    "Knob Cost: ": "هزینه : ",
-
-    "Anti-Entity": "ضد موجود",
-    "Spam Other Tools": "استفاده وسیله های دیگران",
-    "Upside Down": "برعکس شدن",
-
-    "Speed Bypass": "دور زدن انتی چیت سرعت",
-    "Speed Bypass Delay": "تاخیر دور زدن انتی چیت سرعت",
-
-    "Anticheat Manipulation": "گول زدن انتی چیت",
-    "Godmode": "حالت خدا (جان بینهایت)",
-    "Lags you back and is buggy with crouch": "شمارا به سمت عقب برمیگرداند و با حالت نشستن ایراد دارد",
-    "Infinite Items": "وسیله بینهایت",
-    "Infinite Crucifix": "صلیب بینهایت",
-    "Very risky, you might die/lose the crucifix": "ریسک بالا.ممکن است بمیرید یا صلیب از بین برود",
-
-    "Fake Revive": "زنده شدن غیر واقعی",
-    "You have revived, fake revive has stopped working.": "شما زنده شدید،زنده شدن غیر واقعی از کار افتاد.",
-    "Enable it again to start fake revive": "زنده شدن غیر واقعی را روشن کنید تا دوباره فعال شود",
-    "Fake Revive has stopped working, enable it again to start fake revive": "زنده شدن غیر واقعی از کار افتاد، آن را روشن کنید تا دوباره فعال شود ",
-    "Delete Seek (FE)": "حذف سییک(برای همه)",
-    
-    "Enable Star Rift": "فعال سازی ریفت دوم(طلایی)",
-    "Star Rift": "ریفت طلایی",
-    "You already have the rift enabled.": "شما از قبل ریفت طلایی را دارید.",
-    "Enabled successfully!": "با موفقیت فعال شد!",
-    "Was not able to find the rift.": "ریفت پیدا نشد.",
-    "Are you sure the rift even exists?": "ایا مطمئن هستید که ریفت وجود دارد یا نه?",
-    "Was not able to find the rift. Are you sure the rift even exists?": "ریفت پیدا نشد، ایا مطمئن هستید که ریفت وجود دارد یا نه?",
-
-    "Pre-Run Shop": "خرید داخل آسانسور",
-    "Item Selection": "انتخاب وسیله",
-    "Amount of items": "مقدار وسیله",
-    "Buy Item(s)": "خرید وسیله (ها)",
-    "You are unable to buy items as of right now, are you sure you are in room 0 elevator?": "نمی توان وسیله را خریداری کرد، ایا مطمئن اید که در اتاق آسانسور هستید؟",
-    "You have not selected any items to buy!": "شما وسیله ای را برای خرید انتخاب نکرده اید!",
-    "You do not have enough knobs to buy the items you have selected!": "شما پول کافی برای خرید این وسیله را ندارید",
-    
-    "Anti-Seek Obstructions": "ضد دست و لوستر و آتش سییک",
-    "Avoid Rush/Ambush": "ضد راش و امبوش",
-    "Doesn't work for greenhouse :(": "برای اتاق شماره 90 تا 100 کار نمیکند :(",
-
-    "Death Farm": "فارم کردن مرگ",
-    "Loading Death Farm Script": "بارگیری اسکریپت فارم مرگ",
-    "Please be patient.": "صبور باشید.",
-    "Knob Farm": "فارم پول",
-    "Only works in Room 100 and figure is spawned": "زمانی کار میکند که در اتاق 100 باشید و فیگور اسپاون شده باشد",
-    "Knob Farm Mode": "روش فارم پول",
-    "Knob Farm Warning": "هشدار  فارم پول",
-    "The <b>I Love Pancakes!!!</b> modifier is required to use the snare method.": "مادیفایر <b>I Love Pancakes!!!</b> برای روش تله مورد نیاز است.",
-    "The <b>Last Breath</b> modifier should be used for a quicker knob farming experience": "مادیفایر <b>Last Breath</b> برای فارم سریعتر مورد نیاز است",
-    "Modifiers": "مادیفایر ها",
-    "No Voice Acting": "حذف مادیفایر صدا گذاری",
-    "No Jammin": "حذف مادیفایر خرابی صدا (jammin)",
-    "No Bats Decoration": "حذف دکوراسیون هالووین",
-    "Anti-A90": "ضد A90",
-
-    "Max Floor Angle": "حداکثر زاویه طبقه",
-
-    "Anti-Gloom Egg": "ضد تخم گلووم",
-    "Anti-Bridge Fall": "ضد خرابی پل(اتاق سییک،طبقه دوم)",
-    "Anti-Pipe Gap": "ضد حفره بین لوله(اتاق سییک، طبقه دوم)",
-    "Anti-Seek Flood": "ضدآب سییک",
-    
-    "Beat Door 200": "انجام خودکار اتاق 200",
-    "You haven't reached door 200...": "شما هنوز به اتاق 200 نرسیده اید...",
-    "Anticheat Bypass": "دور زدن انتی چیت",
-
-    "Minecart Teleport": "تلپورت واگن",
-    "Minecart Teleport debug": "بررسی تلپورت واگن",
-    "Visualize Correct Seek Path": "نمایش راه صحیح سییک",
-    "Minecart teleport is ready! Waiting for the minecart...": "تلپورت واگن اماده است!...",
-    "Minecart teleport started. Enjoy the ride!": "تلپورت واگن شروع شد!",
-    "Path Type": "حالت نمایش راه صحیح سییک",
-
-    "Anti Haste Jumpscare": "ضد جامپ اسکر Haste",
-    "Haste Clock": "زمان احضار شدن Haste",
-
-    "Auto Rooms": "انجام خودکار اتاق ها (A-1000)",
-    "Auto Rooms Stuck Delay": "تاخیر بین گیرکردن ",
-    "Recommended Settings:\nSpeed Bypass and Noclip disabled": "تنظیمات پیشنهادی:\n خاموش کردن دور زدن انتی چیت سرعت و نوکلیپ",
-    
-    "Show Debug Info": "نمایش اطلاعات بررسی",
-    "Show Pathfinding Nodes": "نمایش مسیر حرکت",
-
-    "Anti A-90 is required for Auto Rooms to work!": "ضد( A-90) برای انجام خودکار اتاق ها مورد نیاز است",
-    "Anti A-90 has been enabled": "ضد (A-90) روشن شد",
-
-    "Calculated Objective Successfully!\nObjective: %s\nCreating path...": "اهداف محاسبه شد!\nهدف: %s\nساختن مسیر حرکت...",
-    "Computing Path to %s...": "تغییر جهت به  %s...",
-    "Computed path successfully with %s waypoints!": "مسیر با موفقیت  محاسبه شد %s نقاط ایجاد شده!",
-    "Seems like you are stuck, trying to recalculate path...": "به نظر می آید شما گیر کرده باشید، تلاش برای مجاسبه مجدد مسیر...",
-    "Failed to move to waypoint": "تغییر مسیر به نقاط ایجاد شده شکست خورد",
-    "Pathfinding failed with status %s": "پیدا کردن مسیر شکست خورد، وضعیت : %s",
-    "You have reached A-1000": "شما به اتاق (A-1000) رسیدید",
-    "A-1000 reached by mspaint autorooms": "به(A-1000) رسیدید، با استفاده از اسکریپت ام اس پینت",
-
-    "Grab Banana / Jeff": "برداشتن موز/قاتل(jeff)",
-    "Banana/Jeff Throw": "پرتاب موز/ قاتل",
-    "You are no longer holding the item due to network owner change!": "شما دیگر وسیله را در دست ندارید!",
-    "Throw": "پرتاب",
-    "Throw Strength": "قدرت پرتاب",
-
-    "Anti-Banana": "ضد سر خوردن روی موز",
-    "Infinite Revives": "زنده شدن بینهایت",
-    "Figure Godmode": "حالت خدا (برای فیگور)",
-
-    "Elevator Sniper": "تلپورت به آسانسور",
-    "Target": "هدف",
-    "Loop Achievements": "تغییر دستاوردها",
-    "Speed": "سرعت",
-    "Create Retro Elevator": "ساخت آسانسور رترو",
-    "Join DOORS before Hotel+": "(Doors before Hotel+)جوین شدن در ",
-    "DOORS before Hotel+": "DOORS before Hotel+",
-    "Joining DOORS before Hotel+...": "(Doors before Hotel+)درحال جوین شدن در ...",
-
-    "Presets": "تنظیمات از پیش تعیین شده",
-    "Preset name": "نام تنظیمات از پیش تعیین شده",
-    "Create Preset": "ایجاد تنظیمات از پیش تعیین شده",
-    "Preset already exists!": "تنظیمات از پیش تعیین شده وجود دارد!",
-    "Created elevator preset \" with %s modifiers" : "تنظیمات از پیش تعیین شده برای آسانسور ایجاد شد \" به همراه %s این مادیفایر (ها)",
-    "Preset List": "لیست تنظیمات از پیش تعیین شده",
-    "Load Preset": "بارگیری تنظیمات از پیش تعیین شده",
-    "Refresh Presets": "تازه سازی تنظیمات از پیش تعیین شده",
-    "Override Preset": "باز تعریف تنظیمات از پیش تعیین شده",
-    "Delete Preset": "حذف کردن تنظیمات از پیش تعیین شده",
-    "Overrided preset: ": "تنظیمات از پیش تعیین شده باز تعریف شد: ",
-    "Deleted preset: ": "تنظیمات از پیش تعیین شده حذف شد: ",
-    "Failed to delete preset: ": "حذف تنظیمات از پیش تعیین شده با شکست مواجه شد: ",
-    "Preset does not exist!": "این تنظیمات از پیش تعیین شده وجود ندارد!",
-
-
-    "Void/Glitch is coming once the next door is opened.": "وید/گلیچ در اتاق بعدی احضار می شود.",
-    "Void/Glitch is coming %s.": "وید/گلیچ در حال آمدن است %s.",
-    "once the next door is opened.": "هنگامی که در بعدی باز شود.",
-    "in %s rooms": "در %s اتاق",
-
-    "ENTITIES": "موجودات",
-    "Go to the next room to avoid it.": "وارد اتاق بعدی شوید تا از ان از آن اجتناب کنید.",
-    "Floor": "طبقه",
-
-    "Go find a hiding place!": "یک جا برای قایم شدن را پیدا کنید!",
-    "Halt will spawn in next room!": "halt در اتاق بعدی احضار میشود!",
-    "Halt has broken anticheat bypass.": "halt دور زدن انتی چیت را از کار انداخت.",
-    "Bypassed the anticheat successfully!": " دور زدن انتی چیت با موفقیت فعال شد!",
-    "This will only last until the next cutscene!": "این فقط تا کاتسین بعدی کار می کند !",
-    "Bypassed the anticheat successfully! This will only last until the next cutscene": "دور زدن انتی چیت با موفقیت فعال شد! این فقط تا کاتسین بعدی کار می کند.",
-    "Please go on a ladder again to fix it.": "لطفا برای تعمیر، از یک نرده بان استفاده کنید.",
-    "Halt has broken anticheat bypass, please go on a ladder again to fix it.": "هالت دور زدن انتی چیت را از  کار انداخت، لطفا برای تعمیر، از یک نرده بان استفاده کنید.",
-
-    "Padlock Code": "کد قفل",
-    "Solved the library padlock code": "کد قفل کتاب خانه انجام شد",
-    "The library code will be automatically solved when you pick up the missing books.": "کد کتاب خانه به صورت خودکار انجام می شود بعد از پیدا کردن تمامی کتاب ها..",
-    "Automatic Library Solver": "انجام دهنده خودکار کتابخانه",
-    "You are still missing some books": "شما هنوز چند کتاب را پیدا نکرده اید",
-    "Library Code: %s": "کد کتاب خانه: %s",
-    "Auto Library Code": "انجام خودکار کد کتابخانه",
-
-    "Oxygen: %.1f": "  %.1f اکسیژن :",
-    "Delete Seek FE": "حذف کردن سییک(برای همه)",
-    "Deleting Seek trigger...": "حذف کردن سییک...",
-    "Failed to delete Seek trigger!": "حذف کردن سییک با شکست مواجه شد!",
-    "Deleted Seek trigger successfully!": "سییک با موفقیت حذف شد!",
-
-    "Failed to load preset: ": "بارگیری تنظیمات از پیش تعیین شده با شکست مواجه شد: ",
-    "Loaded elevator preset: ": "تنظیمات از پیش تعیین شده بارگیری شد: ",
-    
-    
-    "Throw Power Boost": "تقویت قدرت پرتاب",
-    "Throw Power": "قدرت پرتاب",
-    "FE Delete Object": "حذف وسیله(برای همه)",
-    "FE Delete Aura": "حذف وسایل اطراف(برای همه)",
-    "Delete objects within a certain range of your character, this can kick you from the game and i'm too lazy to fix it.": "حذف وسایل اطراف بازیکن در محدوده مشخص(ممکن از شما را از بازی کیک کند).",
-    "Delete Aura Range": "محدوده حذف",
-    "Disable Hunger": "حذف گرسنه شدن",
-    "Infinite Hunger": "گرسنه نشدن",
-    "Infinite Energy": "انرژی بینهایت",
-    "Infinite Inventory": "کیف بینهایت",
-    "No Fall": "ضد اسیب از افتادن",
-    "Auto Respawn": "زنده شدن خودکار",
-    "Auto Push Employees": " هل دادن دادن خودکار کارمنده ها",
-    "Enable player whistle teleport": "فعال سازی تلپورت به سوت بازیکن",
-    "Go to player(s)'s whistle.": "تلپورت به سوت بازیکن(ها).",
-    "Rejoin": "جوین شدن مجدد",
-    "Instant Leave": "خروج سریع",
-    "Employee": "کارمند",
-    "Personal Watch": "ساعت شخصی",
-    "Death Waypoint": "نقطه مرگ",
-    "Max Waypoints": "حداکثر نقطه گذاری",
-
-    
-    "Submarine Sniper": "تلپورت به زیردریایی",
-    "Don't worry you have godmode enabled!": "نگران نباشید، شما حالت خدا را فعال کرده اید!",
-    "Don't worry you have Anti Turrets enabled": "نگران نباشید، شما ضد برجک سلاح را فعال کرده اید!",
-    "Don't worry you have Anti Eyefestation enabled": "نگران نباشید، شما Eyefestation را فعال کرده اید!",
-    "Look away!": "نگاه نکن!!!",
-    "Try and find the wall dweller": " تلاش کنید تا دیوارنشین را پیدا کنید ",
-    "Try and find the ridge ": "تلاش کنید تا لبه را پیدا کنید ",
-    "Anti-Void": "ضد Void",
-    "Anti-Trickster": "ضد Trickster",
-    "Anti-Eyefestation": "ضد Eyefestation",
-    "Anti-Searchlights": "ضد Searchlights",
-    "Anti-Turrets": "ضد Turrets",
-    "Anti-Squiddle": "ضد Squiddle",
-    "Anti-Parasites": "ضد Parasites",
-    "Anti-Damage Parts": "حذف بلاک های دمیج",
-    "Anti-Pandemonium": "ضد Pandemonium",
-    "Anti-Bouncers": "ضد Bouncers",
-    "Anti-Skelepede": "ضد Skelepede",
-    "Anti-Statue": "ضد Statue",
-    "Anti-Skeleton Dancers": "ضد Skeleton Dancers",
-    "Please get close to a locker to enable godmode (DO NOT ENTER THE LOCKER)": "لطفا برای فعالسازی حالت خدا نزدیک یک کمد شوید(وارد آن نشوید!!)",
-    "This will break interactions with lockers.": "با استفاده از این، نمی توانید در کمد ها قایم شوید.",
-    "Godmode enabled successfully! This will break after cutscenes.": "حالت خدا فعال شد،این بعد کاتسین بعدی خراب می شود.",
-    "Door Reach Multiplier": "بَرد دست تا در",
-    "Get Local Badges": "دریافت برخی از دستاوردها",
-    "Currency": "واحد پول",
-    "No Underwater Effect": "حذف جلوه تصویری زیر آب",
-    "Turret Controls": "کنترل های برجک سلاح",
-    "[Fixed]": "[تعمیر شده]",
-    "Wire": "کابل",
-    "Crystal": "کریستال",
-    "Auto Generator": "انجام خودکار ژنراتور ها",
-    "Auto Fix Wires": "انجام خودکار سیم ها",
-    
-    "Infinite Stamina": "خستگی‌ناپذیری",
-    "Infinite Flashlight": "چراغ غوه نامحدود",
-    "Table": "میز",
-    "Battery": "باتری",
-    "No Flashlight Shadow": "حذف سایه چراغ قوه",
-    "No Blur": "حذف تار بودن",
-
-   
- 
-    "[Fisch] New Catch!": "[Fisch] صید تازه!",
-    "[Fisch] Auto Sell Result": "[Fisch] نتیجه فروش خودکار",
-    "[Fisch] Test.": "[Fisch] امتحان.",
-    "This is a test message.": "این یک پیام آزمایشی است.",
-    "[Sold For]": "[فروخته شد برای ]",
-    "[Name]": "[نام]",
-    "[Shiny]": "[درخشان]",
-    "[Sparkling]": "[برق‌زننده]",
-    "[Giant]": "[عظیم]",
-    "[Big]": "[بزرگ]",
-    "Auto Sell": "فروش خودکار",
-    "Selling '%s'...": "فروش برای : '%s'...",
-    "Sold '%s' for '%sC$'": "فروخته شد '%s' برای '%sC$'",
-    "Failed to sell '%s'!": "فروش شکست خورد '%s'!",
-    "General: ": "کلی: ",
-    "You leveled up from **%s** -> **%s**!": "لول شما ارتقا یاقت **%s** -> **%s**!",
-    "WARNING! Your executor doesn't support 'require' function. The script can't detect Big and Giant fishes and baits!": "هشدار! اجرا کننده شما (اگزکیوتر) از این تابع پشتیبانی نمیکند، نمیتوان ماهی های بزرگ و عظیم را تشخیص داد.",
-    "Mentions you when ... event happens.": " شما را ذکر می‌کند زمانی که ... اتفاق بیفتد.",
-    "Mentions": "ذکر کردن",
-    "Discord User ID": "ایدی عددی دیسکورد",
-    "Your Discord Webhook": "وب هوک دیسکورد شما",
-    "Enable Discord Notifications": " فعال سازی اعلان دیسکورد",
-    "Test Webhook": "آزمایش کردن وب هوک",
-    "Testing Discord Notification...": "آزمایش کردن اعلان های دیسکورد...",
-    "Test": "آزمایش کردن",
-    "Test message.": "پیغام آزمایشی .",
-    
-    "Custom Locations": "مکان های مشخص شده",
-    "Custom Location Name": "نام مکان مشخص شده",
-    "Create Custom Location": "ایجاد یک مکان مشخص شده",
-    "Custom location already exists!": "این مکان مشخص شده از قبل وجود دارد!",
-    "Created custom location ": "مکان مشخص شده ایجاد شد",
-    "Teleport to Custom Location": "تلپورت به مکان مشخص شده",
-    "Override Custom Location": "باز تعریف مکان مشخص شده",
-    "Overrided custom location ": "مکان مشخص شده باز تعریف شد",
-    "Delete Custom Location": "حذف مکان مشخص شده",
-    "Custom location does not exist!": "این مکان مشخص شده وجود ندارد!",
-    "Deleted custom location ": "مکان مشخص شده حذف شد",
-    "Failed to delete custom location: ": "نتوانست این مکان مشخص شده را حذف کرد: ",
-    "Refresh Custom Locations": "تازه سازی مکان مشخص شده ",
-    "File System is required for this feature.": "برای استفاده از این قابلیت به نیاز دارید (File System).",
-    "Failed to load location: ": "بارگیری مکان شکست خورد : ",
-
-    "Auto Fish": "ماهیگری خودکار",
-    "Mode": "حالت",
-    "Location": "مکان",
-    "Only works with Exploit Mode.": "فقط در حالت تقلب کار می کند",
-    "Enable Location": "قعال کردن مکان",
-    "Minimum Throw Power": "کمترین قدرت پرتاب",
-    "Maximum Throw Power": "بیشترین قدرت پرتاب",
-    "Appraise fish (450C$)": "بررسی ماهی (450C$)",
-    "You will not drown in the water.": "در آب غرق نمی شوید" ,
-    "Disable being afk.": "خاموش کردن خودکار AFK",
-    "You can walk on water.": "می توانید روی آب راه بروید",
-    "Open Shipwright": "باز کردن صفحه خرید قایق",
-    "You don't have enough money.": "پول کافی ندارید",
-    "Disable Auto Cast first.": "ابتدا ماهیگیری خودکار را خاموش کنید.",
-    "Teleport": "تلپورت",
-    "Areas": "مناطق",
-    "Teleport to Area": "تلپورت به منطقه",
-    "NPCs": "شخصیت های غیرقابل بازی",
-    "Teleport to NPC": "تلپورت به شخصیت غیرقابل بازی",
-    "Interactables": "قابل تعامل ها",
-    "Teleport to Interactable": "تلپورت به قابل تعامل",
-    "Perfect Reel Chance": "شانس جمع کردن بی‌نقص نخ ماهیگیری",
-    "Failed to find Boat's Base.": "پیدا کردن پایگاه قایق شکست خورد.",
-
-    "Anchor Player": "ثابت نگه داشتن بازیکن",
-    "Anchors you during Auto Casting.": " هنگام پرتاب کردن چوب ماهیگیری شما را ثابت نگه میدارد.",
-    
-    "Auto Reel": "چرخش نخ خودکار",
-   
-    "Auto Cast": "پرتاب خودکار چوب ماهیگیری",
-    "Auto Cast is already running...": "پرتاب خودکار چوب ماهیگیری در حال اجرا است...",
-    "Equipping fishing rod...": "انتخاب کردن چوب ماهیگیری...",
-    "Casting fishing rod...": "در حال پرتاب چوب ماهیگیری...",
-    "Paused due to Auto Crab Cage.": "توقف به دلیل تله خرچنگ خودکار.",
-    "Paused due to Auto Sell.": "توقف به دلیل فروش خودکار.",
-    "Unpausing...": "درحال شروع مجدد...",
-    "Failed to cast fishing rod.": "پرتاب چوب ماهیگیری شکست خورد.",
-    "Stopped.": "متوقف شد.",
-    "Boats": "قایق ها",
-    "Spawn and Teleport to Boat": "احضار و تلپورت به قابل",
-    "Spawn Boat": "احضار قایق",
-    "Spawned Boats": "قایق های احضار شده",
-    "Auto Shake": "تکان دادن خودکار",
-    "Disable Oxygen": "ضد غرق شدن",
-    "Teleport to Spawned Boat": "تلپورت به قایق احضار شده",
-    "Despawn Boats": "از بین بردن قایق ها",
-    "Auto Shake Mode": "حالت تکان دادن خودکار",
-    "Close chat and enable screenshot mode (top right camera button) for this to work all the time.": "چت را ببندید و به حالت اسکرین شات(بالای صفحه، دکمه دوربین) بروید تا به درستی کار کند.",
-    "Make sure nothing is covering the shake safezone.\n\nIf you want to do something turn off Auto Shake first,\nit will click on any UI element thats on top of the shake button if you keep it on.": " مطمئن شوید هیچ دکمه ای روی منطقه تکان خودکار (روی تصویر) نیست.\n\nاگر میخواهید کار دیگری انجام بدهید ،ابتدا تکان دادن خودکار را خاموش کنید چون این روی هر دکمه ای روی تصویر کلیک می کند اگر روشن باشد.",
-    "Buttons at Fixed Position": "دکمه ها در مکان ثابتی هستنتد",
-    "Delay": "تاخیر",
-    "Enable": "فعال کردن",
-    "Discord": "دیسکورد",
-    "Jesus": "راه رفتن روی آب",
-    "Exceptions": "استثناها",
-    "Sell on Catch": "فروش پس از گرفتن ماهی",
-    "Sell fishes after successfully catching them.": "فروختن ماهی ها بعد از با موفقیت گرفتن ماهی ها از آب.",
-
-    "Auto Crab Cage": " قفس خرچنگ خودکار",
-    "Amount of cages to buy": "مقدار قفس خرچنگ برای خرید",
-    "Buy Crab Cages": "خرید قفس خرچنگ",
-    "Auto Buy Crab Cage": "خرید خودکار قفس خرچنگ",
-    "Please wait.": "لطفا صبر کنید.",
-    "Failed to fetch your balance.": "نتوانست اطلاعات مربوط به موجودی شما را یافت کند..",
-    "Buying cages...": "خرید قفس ها...",
-    "Auto Cast is enabled, waiting for it to stop...": "ماهیگیری خودکار روشن است، درحال انتظار برای متوقف شدن آن...",
-    "Bought '%s' crab cages.": "خریده شد %s قفس خرچنگ.",
-    "Failed to find buy prompt.": "دکمه خرید پیدا نشد.",
-    "Auto Pickup": "برداشتن خودکار وسایل از روی زمین",
-
-    "Sell Item in Hand": "فروش وسایل داخل دست",
-    "Sell Inventory": "فروش وسایل داخل کیف",
-    
-   
-    "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] بارگیری متوقف شده است. (خطا: درحال بارگیری)",
-    "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] بارگیری متوقف شد. (خطا: از قبل بارگیری شده است)",
-    "No message today... 😢": "هیج پیامی برای امروز نیست... 😢",
-    "MOTD: %s": " : پیام روز %s",
-
-   
-    "Lifetime": "مادام العمر",
-    "Language": "زبان",
-    "%d day%s": "%d روز%s",
-    "%d hour%s %d minute%s": "%d ساعت%s %d دقیقه%s",
-    "%d hour%s": "%d ساعت%s",
-    "%d minute%s": "%d دقیقه%s",
-    "%d second%s": "%d ثانیه%s",
-    "Unloading ": "درحال غیرفعال کردن",
-    "Unloading...": "درحال غیرفعال کردن...",
-    "Unloaded!": "غیر فعال شد!",
-    "UI Settings": "تنظیمات رابط کاربری",
-    "Credits": "سپاس از",
-    "Execute On Teleport": "اجرای مجدد خودکار هنگام ورود به بازی دیگر",
-    "Open Keybind Menu": "کنترل ها",
-    "Custom Cursor": "مکان نمای موس خاص",
-    "Menu bind": "منوی کنترل",
-    "Join Discord": "جوین شدن در سرور دیسکورد",
-    "Copy Link": "کپی لینک",
-    "Unload": "غیر فعال کردن اسکریپت",
-    "Save Error Logs": "ذخیره کردن خطا ها",
-    "Your executor doesn't support the FileSystem API.": "اجرا کننده(اگزکیوتر) شما از این پشتیبانی نمیکند (FileSystem-API). ",
-    "[GameId: %s, JobID: %s] %s": "[ایدی بازی: %s, ایدی سرور: %s] %s",
-    "Developers": "سازندگان ",
-    "upio - Owner": "upio - مالک",
-    "Thank you for supporting us by doing the key system!": "تشکر بابت انجام کلید و حمایت از ما!",
-    "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "تشکر ویژه بابت خرید کلید مادام العمر و حمایت از ما  D:",
-    "Time left: ": "زمان باقی مانده: ",
-    "Total Executions: ": "تعداد اجرا شدن ها: ",
-    "Not linked": "متصل نشده است",
-    "Expired": "منقضی شده است",
-    "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.": "کلید شما منقضی شده است، بر روی اجرای بعدی شما نمیتوانید از اسکریپت استفاده کنید ،لطفا در سایت کلید خود را مجددا تازه سازی کنید یا یک کلید مادام العمر خریداری کنید.",
-    "Restart mspaint to apply language changes.": "اسکریپت را مجددا اجرا کنید تا تغییرات ذخیره شوند.",
-
-   
-    "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint]  اجرا کننده(اگزکیوتر) شما این از این پشتیبانی نمی کند، افزونه‌ها کار نمی کنند(FileSystem API).",
-    "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] پوشه افزونه ها وجود ندارد، درحال ساخت پوشه افزونه ها...",
-    "[mspaint] Loading addons...": "[mspaint] بارگیری افزونه ها...",
-    "[mspaint] Element '": "[mspaint] المنت '",
-    "' didn't load: Invalid Linoria element.": "'بارگیری نشد' :اطلاعات نادرست لینوریا",
-    "' didn't load: Invalid data.": "'بارگیری نشد:' اطلاعات نادرست است",
-    "' didn't load: Invalid name.": "'بارگیری نشد:' نام نادرست است",
-    "' didn't load: Invalid addon name.": "'بارگیری نشد:' نام افزونه‌ نادرست است",
-    "' didn't load: Invalid element type.": "'بارگیری نشد:' نوع داده نادرست است",
-    "This tab is for UN-OFFICIAL addons made for mspaint. We are not responsible for what addons you will use. You are putting yourself AT RISK since you are executing third-party scripts.": "اینجا برای افزونه‌های غیر رسمی است،ما از اینکه شما از چه افزونه‌هایی استفاده میکنید مسئولیت‌ پذیر نیستیم، شما خودتان را در ریسک قرار میدهید چون شما از افزونه‌های سوم شخص استفاده می کنید.",
-    "WARNING": "هشدار!!",
-    "Your addons FOLDER is empty! (": "پوشه افزونه‌های شما خالی است! (",
-    "[mspaint] Invalid file extension for '": "[mspaint] فورمت غلظ برای فایل افزونه‌ '",
-    "[mspaint] Loading addon '": "[mspaint] بارگیری افزونه‌ها  '",
-    "Failed to load this addon (": "بارگیری این افزونه‌ با شکست مواجه شد  (",
-    "Invalid 'Elements' variable (expected 'table' got '": "Invalid 'Elements' variable (expected 'table' got '",
-    "' didn't load: Invalid 'Elements' variable (expected 'table' got '": "' didn't load: Invalid 'Elements' variable (expected 'table' got '",
-    "' didn't load: Wrong game.": "'بارگیری نشد:' بازی اشتباه است",
-    "Invalid 'Game' variable (expected 'string/table' got '": "Invalid 'Game' variable (expected 'string/table' got '",
-    "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' didn't load: Invalid 'Game' variable (expected 'string/table' got '",
-    "[mspaint] Failed to load addon '": "[mspaint] بارگیری افزونه‌ با شکست مواجه شد '",
-    "Failed to load this addon:": "بارگیری افزونه‌ با شکست مواجه شد :" ,
-    "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "هشدار!!، اجراکننده(اگزکیوتر) شما از این پشتیبانی نمی کند، ممکن است بعضی از داده ها قدیمی باشند (Require).",
-    "Loading location data...": "بارگیری داده های مناطق",
-    "Searching for a fishing rod...": "جستوجو کردن برای پیدا کردن چوب ماهیگیری...",
-    "Casting the fishing rod...": "پرتاب کردن چوب ماهیگیری...",
-    "Failed to cast the fishing rod, retrying...": "پرتاب چوب ماهیگیری شکست خورد، تلاش مجدد...",
-    "Resuming Auto Fish...": "ادامه دادن ماهیگیری خودکار",
-    "Auto Fish stopped.": "ماهیگیری خودکار از کار افتاد.",
-   "Info": "اطلاعات",
-"Menu Keybind": "منوی کنترل",
-
-"Infinite Jetpack Duration": "جت پک بینهایت",
-"Motor Modification": "تغییر سرعت موتور قایق",
-"Enable Motor Modifications": "فعال سازی تغییر سرعت موتور قایق",
-"Motor Speed": "سرعت موتور",
-"Motor Turning Speed": "سرعت چرخش موتور",
-
-"Waiting for Fisch to load.": "منتظر لود شدن بازی.",
-
-"Select a custom location first.": ".ابتدا یک مکان مشخص شده را انتخاب کنید",
-
-"Auto Fish Settings": "تنظیمات ماهیگیری خودکار",
-"Auto Treasure Map": "نقشه گنج خودکار",
-"Auto Repair": "تعمیر خودکار",
-"Repair Current Maps": "تعمیر نقشه های فعلی",
-"Done.": "انجام شد.",
-"Waiting for Auto Treasure Map to finish...": "منتظر ماندن برای نقشه گنج خودکار که تمام شود...",
-"Paused due to Auto Treasure Map.": "متوقف شدن به دلیل روشن بودن نقشه گنج خودکار.",
-"[Fisch] Auto Treasure Map - Repair.": "[Fisch] نقشه گنج خودکار - تعمیر",
-"Successfully repaired a new Treasure Map!": "با موفقیت یک نقشه گنج جدید تعمیر شد!",
-
-"[Fisch] Auto Treasure Map - Claimed.": "[Fisch] نقشه گنج خودکار - دریافت شد.",
-"Successfully claimed a Treasure Map!": "با موفقیت یک نقشه گنچ دریافت شد!",
-"Failed to claimed a Treasure Map. Not enough money.": "دریافت کردن نقشه گنج شکست خورد، پول کافی ندارید.",
-
-"Failed to find the boat's spawn event.": "پیدا کردن نقطه احضار قایق شکست خورد.",
-"Failed to load the boat's data.": "بارگیری داده قایق شکست خورد.",
-"Failed to find the despawn button.": "دکمه از بین بردن قایق پیدا نشد.",
-"Failed to open the Shipwright UI.": "باز کردن صفحه خرید قایق شکست خورد.",
-"Please interact with the NPC.": "لطفا با شخصیت غیر قابل بازی ارتباط برقرار کنید.",
-"Disable Auto Fish first.": "ابتدا ماهیگیری خودکار را غیرفعال کنید.",
-"Failed to find the NPC, retrying with teleport...": "پیدا کردن شخصیت غیر قابل بازی شکست خورد، تلاش مجدد با استفاده از تلپورت...",
-"Failed to find the the NPC.": "شخصیت غیر قابل بازی پیدا نشد.",
-"Interacting with the NPC...": "...در حال برقراری ارتباط با شخصیت غیر قابل بازی",
-"You don't have the Treasure Map equipped.": "شما نقشه گنج را در دست خود انتخاب نکرده اید.",
-"Get All Badges": "دریافت همه دستاورد ها",
-"Open Door": "باز کردن در خودکار",
-"Open Slide Door": "بازکردن در های کشویی خودکار ",
-"Open Lever Door": "باز کردن خودکار در اهرمی",
-"Open Vault": " باز کردن گنجینه ها",
-"Open Distance": "فاصله بازکردن در ها",
-"Disable Kill Client Remote": "غیرفعال کردن کیک کردن بازیکن",
-"Disable Slight & Heed Damage": "غیر فعال کردن Slight و آسیب های Heed",
-"Disable Carnation": "غیرفعال کردن Carnation",
-"Disable Slugfish": "غیرفعال کردن Slugfish",
-"Disable Elkman": "غیرفعال کردن Elkman",
-"Disable Sarrow": "غیرفعال کردن Sarrow",
-"Disable Dozer": "غیرفعال کردن Dozer",
-"Disable Goatman": "غیر فعال کردن Goatman",
-"One crab cage costs 45C$.": "45C$ قیمت یک قفس خرچنگ است",
-"Failed to fetch %s, please make a bug report!": "بارگیری %s شکست خورد",
-
-"Buy Item": "خرید وسیله",
-"Cost: %s": "هزینه : %s",
-   
-"Selected Player": "بازیکن انتخاب شده",
-"Kill Player with Figure": "کشتن بازیکن با استفاده از فیگور",
-"Figure has not spawned in your room.": "فیگور در این اتاق احضار نشده است.",
-"Please use an alarm clock and wait until Figure destroys the clock...": "لطفا از یک ساعت زنگ دار استفاده کنید و صبر کنید تا فیگور آن را نابود کند.",
-"You have to select a player to kill.": "شما باید یک بازیکن را برای کشتن انتخاب کنید.",
-"You can't kill yourself.": "نمیتوانید خودتان را بکشید.",
-"Killed %s successfully!": " با موفقیت %s کشته شد!",
-"Had an error while trying to kill the player.": "کشتن بازیکن با خطا مواجه شد.",
-"Delete Figure (FE)": "کشتن فیگور(برای همه)",
-"Delete Figure": "کشتن فیگور",
-"Deleting Figure...": "درحال کشتن فیگور...",
-"Deleted Figure Successfully!": "فیگور با موفقیت کشته شد!",
-"Fix stuck on Already running.": "'تعمیر گیر کردن روی'درحال اجرا",
-"Inventory": "کیف",
-"Center Button": "دکمه مرکز",
-"One map repair costs 250C$.": "هزینه یک تعمیر نقشه (250C$)",
-"Auto Claim": "دریافت خودکار",
-"Claim Current Maps": "دریافت نقشه های فعلی",
-"Discord Settings": "تنظیمات دیسکورد",
-"Teleport to Boat": "تلپورت به قایق",
-"Anchor Bobber": "ثابت کردن شناور",
-"Anchors the bobber during Auto Fishing.": "هنگام ماهیگیری خودکار شناور را ثابت نگه می‌دارد.",
-"Anchors you during Auto Fishing.": "هنگام ماهیگیری خودکار شما را ثابت نگه می‌دارد.",
-"Contributors": "همکار ها ",
-"Translators": "مترجم ها ",
-"Auto Bait": "قرار دادن طعمه خودکار",
-"Priority": "اولویت",
-"Equipped %s.": "به %s مجهز شد.",
-"Reset": "بازنشانی",
-   
-"Fun": "باحال",
-"Auto Spin Flashlight": "چرخاندن خودکار چراغ قوه",
-   
-"Auto Quest": "انجام خودکار ماموریت ها",
-"Make sure to start the quest first!": "ابتدا ماموریت را فعال کنید!",
-"Completed Quest!": "ماموریت انجام شد!",
-"Completing Quest...": "درحال انجام ماموریت...",
-"Finished with quest, re-enabling Auto Farm...": "ماموریت انجام شد ، فعال سازی مجدد فارم خودکار...",
-"Auto Farm is enabled, disabling...": "فارم خودکار درحال حاضر فعال است، درحال خاموش کردن...",
-
-"Complete Cloud Quest": "انجام ماموریت Cloud",
-"Complete Target Quest": "انجام ماموریت Target",
-"Complete Ramp Quest": "انجام ماموریت Ramp",
-"Complete Find Me Quest": "انجام ماموریت Find Me",
-"Complete Thin Ice Quest": "انجام ماموریت Thin Ice",
-"Anti-Tripwire": "ضد سیم تله",
-"Notification Sound ID": "شماره عددی صدای اگاهسازی",
-"Reset Sound to Default": "بازنشانی صدا به حالت اولیه",
-"Notification Sound": "صدای اگاهسازی",
-"Sound has been reset to default.": "صدا با موفقیت به حالت اولیه بازنشانی شد.",
-"Murderer": "قاتل",
-"Kill All": "کشتن همه",
-"The game has not started yet!": "بازی هنوز شروع نشده است!",
-"You are not the murderer!": "شما قاتل نیستید!",
-"Killed all players!": "همه بازیکن ها کشته شدند!",
-
-"Sheriff": "کلانتر",
-"Kill Murderer": "کشتن قاتل",
-"You are not the sheriff!": "شما کلانتر نیستید!",
-"Failed to find the murder!": "پیدا کردن قاتل شکست خورد!",
-"Killed the murderer!": "قاتل کشته شد!",
-
-"Auto Collect Coins": "جمع کردن خودکار سکه ها",
-"Auto Collect Gun": "برداشتن خودکار تفنگ",
-
-"Dropped Gun": "تفنگ انداخته شده",
-"Discord Rich Presence": "ریچ پرزنس دیسکورد",
-"Your executor doesn't support this feature.": "اجرا کننده(اگزکیوتر) شما از این قابلیت پشتیبانی نمی کند.",
-"General": "کلی",
-"Disable Sensors": "غیرفعال کردن سنسور ها",
-"Instant Role Notify": "نمایش شغل سریع",
-"Silent Aim": "هدفگیری بی صدا",
-"Reach Multiplier": "افزاینده طول تماس گرفتن",
-"Enable Reach": "فعال سازی افزاینده طول تماس گرفتن",
-"Kill Sheriff": "کشتن کلانتر",
-"Please equip the gun.": "لطفا تفنگ را به دست بگیرید.",
-"Please equip the knife.": "لطفا چاقو را به دست بگیرید",
-"Failed to find the sheriff!": "پیدا کردن کلانتر شکست خورد!",
-"Killed the sheriff!": "کلانتر کشته شد",
-"Innocent": "بی گناه",
-
-"Anti-Wall Dweller": "ضد Wall Dweller",
-"Don't worry you have Anti Wall Dweller enabled": "نگران نباشید شما Wall Dweller را فعال کرده اید",
-"Don't get in their line of sight!": "توی میدان دید آنها قرار نگیرید!",
-"No One": "هیچ کس",
-"Silent Aim Setting": "تنظیمات هدفگیری بیصدا",
-"Fling": "فلینگ",
-"Successfully flinged %s!": "با موفقیت این بازیکن فلینگ شد %s !",
-"Failed to fling %s.": "فلینگ کردن این بازیکن شکست خورد %s.",
-"Auto Play": "بازی خودکار",
-"Auto Play is already running.": "بازی خوکار درحال حاضر روشن است.",
-"Waiting for player data...": "منتظر داده بازیکن...",
-"Waiting for the gun...": "منتظر تفنگ...",
-"Finding the murderer...": "درحال پیدا کردن قاتل...",
-"Completing round...": "درحال کامل کردن این بازی...",
-"Round completed!": "بازی تمام شد!",
-"Auto Play stopped.": "بازی خودکار غیرفعال شد.",
-"Fling Murderer": "فلینگ کردن قاتل",
-"You are not innocent!": "شما قاتل نیستید!",
-"Kill Player": "کشتن بازیکن",
-"Killed %s!": " %s کشته شد !",
-"Using these exploits may cause data loss, please use them at your own risk.": ".این چیت ممکن است باعث از بین رفتن داده ها شود، لطفا با مسئولیت خود از آنها استفاده کنید",
-"Anti-Landmine": "ضد مین",
-"Auto Pandemonium Minigame": "انجام خودکار مینی گیم Pandemonium",
-"Document": "سند",
-"Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "حالت خدا خراب شد، به صورت خودکار بعد از خارج شدن از این اتاق روشن میشود. دلیل : برخود با gauntlet",
-"This feature doesn't work on this floor.": "این قابلیت روی این طبقه کار نمی کند.",
-"This feature isn't implemented on this floor.": "این قابلیت روی این طبقه به کار نرفه است.",
-"Anti-Obstruction": "ضد Obstruction",
-"No Gates": "حذف دروازه ها",
-"No Puzzle Door": "حذف اتاق های پازلی",
-"No Skeleton Door": "حدف اتاق Skeleton",
-"Event Prediction": "پیشبینی اتفاقات",
-"There may be an event in/after the room %s.": "ممکن است یک اتفاق داخل/بعد اتاق %s باشد.",
-"Totem Cycle": "Totem Cycle",
-"Day Totem": "Day Totem",
-"Night Totem": "Night Totem",
-"Stop At Event": "توقف در اتفاق",
-"An Ancient Megalodon has spawned!": "یک Ancient Megalodon احضار شد!",
-"A Megalodon has spawned!": "یک Megalodon احضار شد!",
-"Purchase Totem": "خرید Totem",
-"Amount of Totems": "مقدار Totem",
-"Buy Totem": "خرید Totem",
-"Auto Enchant": "Enchant خودکار",
-"Enchant List": "لیست Enchant",
-"Successfully enchanted the rod with %s.": "با موفقیت این ملیه را با این Enchant ارتقا داده شد : %s.",
-"Retry Delay": "تاخیر بین تلاش مجدد",
-"Auto Collect Meteor": "جمع کردن خودکار شهاب سنگ",
-"Fish Radar": "رادار ماهی",
-"Enable fish radar without having to buy it.": "فعال سازی رادار ماهی بدون نیاز به خرید آن",
-"Resuming...": "ادامه دادن...",
-"Stopped": "متوقف شد",
-"Appraise Fish": "ارزیابی ماهی",
-"Despawn Boat": "حذف کردن قایق",
-"Disable Property Tool Limits": "برداشت محدودیت های ابزار پیچ گوشتی",
-"Tool Modifications": "تغییرات ابزار",
-"Complete Dragon Quest": "انجام ماموریت اژدها",
-"You need to buy a sword mount first!": "شما باید Sword Mount را از فروشگاه خریداری کرده باشید!",
-"Complete Soccer Quest": "انجام ماموریت فوتبال",
-"You need to buy a Harpoon first!": "شما باید Harpoon را از فروشگاه خریداری کرده باشید!",
-"Complete The Box Quest": "انجام ماموریت جعبه",
-"Failed to equip the fishing rod, retrying...": "انتخاب کردن چوب ماهیگیری شکست خورد، تلاش مجدد...",
-"Faster Fishing": "ماهیگیری سریع تر",
-"This feature only works with the 'Exploit' mode.": "این قابلیت فقط در حالت تقلب کار میکند.",
-"Disable Temperature": "خاموش کردن دما",
-"Go To Event": "رفتن به ایونت",
-"Enabled Event(s)": "ایونت های فعال شده",
-"Event '%s' has been found!": "ایونت '%s' پیدا شد!",
-"Disable UI": "خاموش کردن UI",
-"Failed to repair a new Treasure Map! Not enough money.": "تعمیر نقشه گنج شکست خورد، پول کافی ندارید.",
-"Simulate Lag": "شبیه سازی لگ",
-"Tick(s) simulation": "شبیه سازی Tick ها",
-"Mod Detector": "تشخیص مادریتور",
-"On Mod Join": "هنگامی که یک مادریتور وارد سرور شود :",
-"Looking for a server...": "در حال گشتن برای یک سرور...",
-"Server found!": "یک سرور پیدا شد!",
-"Player '%s' is a moderator! (%s)": "'%s' یک مادریتور است! (%s)",
-"Name": "نام",
-"Sold For": "فروخته شد برای :",
-"Failed to sell item.": "فروش شکست خورد",
-"Auto Treasure Map - Repair": "نقشه گنج خودکار - تعمییر",
-"Auto Treasure Map - Claim": "نقشه گنج خودکار - دریافت",
-"New Catch!": "صید جدید!",
-"New Bait!": "طعمه جدید!",
-"Auto Sell Result": "نتایج فروش خودکار",
-"New Event!": "ایونت جدید!",
-"Players": "بازیکن ها",
-"Teleport to Player": "تلپورت به بازیکن",
-"Catch Mentions": "صید صدا میزند",
-"Bait Mentions": "طعمه صدا میزند",
-"Mentions you when you catch a ... fish.": "شما را وقتی که ماهی جدید بگیرید صدا میزند...",
-"Mentions you when you catch a ... bait.": "شما را وقتی که طعمخ جدید بگیرید صدا میزند",
-"[General]": "[کلی]",
-"Auto Claim Fillionaire": "برداشتن خودکار Fillionaire",
-"Waiting for Auto Claim Fillionaire to finish...": "منتظر ماندن تا برداشتن خودکار Fillionaire تمام شود...",
-"Enable Location (Zone Cast)": "فعال سازی منطقه ماهیگیری",
-"Smooth Look": "تماشای روان",
-"Disable Litany": "غیرفعال کردن Litany",
-"Disable Doppelgangers": "غیرفعال کردن Doppelgangers",
-"This feature is only available on the test branch of the game.": "این قابلیت فقط در نسخه آزمایشی بازی کار میکند.",
-"DPI Scale": "اندازه DPI",
-"Restart mspaint to apply DPI changes.": "اسکریپت را ری استارت کنید تا تغییرات DPI اعمال بشوند",
-"Boat Max Speed": "حداکثر سرعت قایق",
-"Max Speed": "حداکثر سرعت",
-"Boat Acceleration": "شتاب قایق",
-"Acceleration Speed": "شتاب سرعت",
-"Player to Fling": "تلپورت کردن بازیکن به فلینگ",
-"Boat Player Fling (FE)": "فلیگ کردن قایق بازیکن",
-"Flings a player using a boat. Will despawn all boats after use": "یک بازیکن را فلینگ میکند با استفاده از یک قایق. این همه قایق هارا ازبین میبرد بعد از استفاده",
-"You haven't selected a player to fling.": "شما هیچ بازیکنی را برای فلیگ کردن انتخاب نکرده اید.",
-"The player's character is not loaded yet.": "شخصیت این بازیکن هنوز کاملا لود نشده است",
-"You don't have any boats spawned.": "شما هیچ قایقی را احضار نکرده اید",
-"The player is not loaded yet.": "این بازیکن هنوز لود نشده است",
-"Flinging %s...": "فلینگ کردن %s ...",
-"Enchant Relic": "Enchant Relic",
-"Buy Enchant Relic(s)": "خرید Enchant Relic(ها)",
-"Buying enchantment relics...": "خرید enchantment Relic ها",
-"Bought %s enchantment relics from merlin.": "%s مقدار enchantment relic از مرلین خریداری شد.",
-"Boat Turning Speed": "سرعت چرخش قایق",
-"Turning Speed": "سرعت چرخش",
-"Waiting for coins to spawn...": "منتظر ماندن برای اینکه سکه ها احضار بشوند...",
-"Waiting for the game to start...": "منتظر ماندن برای اینکه بازی شروع بشود...",
-"Coin Bag is full!": "کیف سکه پر است!",
-"This feature doesn't work in private servers.": "این قابلیت در سرور های خصوصی کار نمیکند.",
-"Waiting for Character...": "منتظر ماندن برای شخصیت...",
-"Show Seek Path": "نمایش مسیر سییک",
-"To bypass the Anticheat, you must interact with a ladder.": "برای دور زدن انتی چیت باید از یک نرده بان استفاده کنید.",
-"Ladder ESP has been enabled, do not move while on the ladder.": "ESP نرده بان فعال شد، هنگام استفاده از نرده بان تکان نخورید.",
-"Exclude Own Team": "درنظر نگفتن همتیمی ها",
-
-   "Claim All Codes": "اسفتاده کردن همه کد ها",
-    "Fetching all codes from the wiki this may take a while...": "دریافت کردن همه کد ها از وبسایت، ممکن است طول بکشد...",
-    "Successfully found %s codes. Claiming...": "%s تا کد پیدا شد! درحال وارد کردن کد ها...",
-    "Successfully claimed all codes!": "همه کد ها دریافت و استفاده شد اند!",
-
-    "Police": "پلیس",
-    "Camera": "دوربین",
-    "Criminals": "دزد ها",
-    "Safe Spots": "مناطق صندوقچه ها",
-    "Lootables": "لوت شدنی ها",
-    "Auto Teleport Bags to Van": "تلپورت خودکار کیسه های پول به ماشین",
-    "Teleport Current Bags To Van": "تلپورت کردن کیسه های پول فعلی",
-    "Teleport To Van": "تلپورت شدن به ماشین",
-    "All bags were teleported to the van.": "همه کیسه های پول به ماشین تلپورت شدند",
-    "Disable All Cameras": "شکستن دوربین ها",
-    "Remove Glass (Client)": "برداشتن شیشه ها(برای خود)",
-    "Remove Glass (Server)": "شکستن شیشه ها(برای همه)",
-    "This will alert guard(s) that will notice the shattered glass. MIGHT LAG": "پلیس ها متوجه شکسته شدن شیشه ها میشوند!!! ممکن است لگ بشود",
-    "Done!": "انجام شد!",
-    "Vote Reset": "رای گیری برای ری استارت",
-    "Show Hitboxes": "نمایش هیتباکس ها",
-    "Successfully claimed code '%s'!": "این کد دریافت شد! '%s'!",
-    "Failed to claim code '%s'. It's maybe invalid now.": " این کد استفاده نشد، ممکن است نامعتبر باشد '%s'.",
-
-    "Infinite Damage": "دمیج دادن بینهایت",
-    "Infinite Ammo": "تیر بینهایت",
-    "Instant Reload": "پر کردن خشاب سریع",
-    "Instant Shoot": "شلیک سرعتی",
-    "Make Guns Automatic": "رگباری کردن اسلحه",
-    "Kill All Cops": "کشتن همه پلیس ها",
-    "Auto Yell Citizens": "ترساندن همه مردم",
-    "Safes": "صندوقچه ها",
-
-    "Force Checkbox": "انتخاب گزینه اجباری",
-    "UI Style": "استایل UI",
-    "Test Notification": "تست کردن اعلان",
-    "Retired Developer & UI Library Developer": " توسعه دهنده بازنشته و توسعه دهنده UI ",
-    "Helped with ESP": " در ESP کمک کرد ",
-    "Helped with Fisch": " در بازی Fisch کمک کرد ",
-    "Helped with BABFT": " در بازی Build a boat کمک کرد ",
-    "Helped find exploits for DOORS": " در پیدا کردن چندین تقلب در بازی Doors کمک کرد ",
-    "Auto Type": "تایپ کردن خودکار",
-    "Add Random Typing Delay": "اضافه کردن مکس کردن رندوم",
-    "Typing Speed": "سرعت تایپ کردن",
-    "Random Delay Min/Max": "مکس کردن رندوم حداکثر/حداقل",
-    "Word Priority": "اولویت کلمه",
-    "Typing word: %s\nMandatory letters: %s": "تایپ کردن کلمه : %s\nحروف اجباری : %s",
-    "You have no words left, how is that even possible?": "شما هیچ کلمه دیگری باقی ندارید، اصلا چطور ممکنه؟",
-   "Fix broken Fishing Rod.": "تعمیر کردن چوب ماهیگیری شکسته",
-    "Failed to find the equipped fishing rod.": "چوب ماهیگیری انتخاب شده پیدا نشد.",
-    "Fishing rod is now fixed.": "چوب ماهیگیری الان تعمیر شد.",
-    "You need a second fishing rod.": "شما یک چوب ماهیگیری دیگری هم نیاز دارید.",
-"World": "جهان",
-"Webhooks": "وب هووک",
-"Auto Balance Nuke": "متعادل کردن خودکار Nuke",
-"Anchors your character.": "بازیکن شما را در یک نقطه قفل می کند.",
-"Anchors the bobber.": "شناور را در یک نقطه قفل می کند.",
-"Cast Delay": "تأخیر در پرتاب قلاب",
-"Enable Notifications": "فعالسازی اعلان ها",
-"Event Override": "جایگزینی ایونت",
-"Select Rod on Event Override": "انتخاب چوب ماهیگیری خودکار هنگام وقوع جایگزینی ایونت",
-"Spam open bait crates": "بازکردن مداوم جعبه طعمه",
-"Bait Priority": "اولویت طعمه",
-"Fish Priority": "اولویت ماهی",
-"Character": "شخصیت",
-"Disable Oxygen - Normal": "غیرفعال کردن اکسیژن - معمولی",
-"Disable Oxygen - Peaks": "غیرفعال کردن اکسیژن",
-"Water Platform": "ساخت پلتفورم روی آب",
-"You can walk on water without making the water collideable.": "شما می توانید روی آب راه بروید بدون اینکه آب را لمس کنید.",
-"Delete AFK Remote": "حذف کردن ریموت AFK شدن",
-"Inventory Value:": "ارزش کل موجودی کیف:",
-"Total Items:": "مجموع آیتم ها:",
-"Favorited Items:": "آیتم های موردعلاقه:",
-"Update Information": "بروزرسانی اطلاعات",
-"Calculate Item in Hand": "حساب کردن آیتم داخل دست",
-"Item(s)": "آیتم(ها)",
-"Item Amount": "مقدار آیتم",
-"Auto Purchase": "خرید خودکار",
-"Auto Favorite": "علامت‌گذاری خودکار به عنوان موردعلاقه",
-"Fish Selection": "انتخاب ماهی",
-"Raritiy Exceptions": "استثنا برای نادر بودن",
-"Mutation Exceptions": "استثنا برای جهش ها",
-"Fish Exceptions": "استثنا برای ماهی",
-"Auto Appraise": "ارزیابی خودکار",
-"Appraisal List": "فهرست ارزیابی",
-"Auto Get Rod": "گرفتن خودکار چوب ماهیگیری",
-"Rod Selection": "انتخاب چوب ماهیگیری",
-"Get Rod": "دریافت چوب ماهیگیری",
-"Do not touch anything while mspaint is getting the rod.": "به هیچ چیزی دست نزنید (یا چیزی را فعال نکنید) هنگامی که اسکریپت درحال دریافت چوب ماهیگیری است.",
-"Repair Maps": "تعمیر نقشه ها",
-"Claim Maps": "دریافت کردن نقشه ها",
-"Fishing Zones": "منظقه ماهیگیری",
-"Events": "ایونت ها",
-"Teleport Spots": "نقاط تلپورت",
-"Teleportation": "تلپورت کردن",
-"Auto Accept Offers": "قبول کردن خودکار پیشنهادات",
-"Auto Rejoin": "جوین شدن دوباره خودکار",
-"Skin Selection": "انتخاب کردن اسکین",
-"Apply Rod Skin": "اعمال اسکین چوب ماهیگیری",
-"Reset Rod Skin": "بازنشینی اسکین چوب ماهیگیری",
-"Optimizations": "بهینه‌سازی‌ها",
-"Disable 3D Rendering": "غیرفعال کردن رندرینگ سه‌بعدی",
-"Hide Inventory": "پنهان کردن موجودی کیف",
-"Hide UI": "پنهان کردن صفحه(UI)",
-"Bobber ESP": "ESP شناور",
-"Event ESP": "ESP ایونت",
-"Player ESP": "ESP بازیکن",
-"Enabled Notifications": "اعلان ها فعال شدند",
-"Enabled Rarities Mention": "صدا زدن نادر بودن فعال‌ شد",
-"Enabled Mutations Mention": "صدا زدن جهش ها فعال شد",
-"Discord: ": "دیسکورد",
-"Build: ": "ساخت",
-"Execute on Teleport": "اجرای مجدد خودکار هنگام ورود به بازی دیگر",
-"Menu keybind": "فهرست دکمه ها",
-"Owner": "مالک",
-"Developer": "توسعه دهندگان",
-"Helped with Fisch Webhooks": "با وب هووک Fisch کمک کرد",
-"Bobber": "شناور",
-"Bit by": "گزش شدن توسط",
-"Mutation": "جهش",
-"No Mutation": "بدون جهش",
-"Size": "سایز",
-"Normal": "معمولی",
-"Shiny": "نورانی",
-"False": "خیر",
-"Sparkling": "درخشان",
-"Weight": "وزن",
-"Item Value: %sC$": "ارزش آیتم : %sC$",
-"Rod Of The Depths already obtained.": "Rod Of The Depths قبلا به دست آمده.",
-"New Event has Been Spotted": "ایونت جدید دیده شد",
-"Time": "زمان",
-"Other Events": "ایونت های دیگر",
-"Current Cycle": "چرخه فعلی",
-"Server": "سرور",
-"Join Server": "جوین سرور شدن",
-"Rarity": "نادر بودن ",
-"Amount": "میزان",
-"Event has Ended": "ایونت تمام شد"
+  "mspaint": "mspaint (فارسی - Fa)",
+  "Main": "اصلی",
+  "Exploits": "تقلب ها",
+  "Visuals": "بصری",
+  "Reach": "بُرد",
+  "Misc": "متفرقه",
+  "Movement": "حرکت ها",
+  "Locations": "مکان ها",
+  "Addons": "افزونه ها",
+  "Sniper": "تلپورت به آسانسور",
+  "Other": "دیگری",
+  "Player": "بازیکن",
+  "Trolling": "مزاحمت",
+  "Notifier": "اعلام کننده",
+  "Automation": "اَتوماتیک",
+  "Ambient": "محیط",
+  "Bypass": "دور زدن",
+  "Farm": "فارم کردن",
+  "Loading data...": "بارگیری داده ها...",
+  "Settings": "تنظیمات",
+  "Fullbright": "روشنایی کامل",
+  "Brightness": "روشنایی",
+  "No Fog": "حذف مِه",
+  "Anti-Lag": "ضد لگ",
+  "ESP": "ادراک فراحسی",
+  "ESP Type": " حالت ادراک فراحسی",
+  "Team Color": "رنگ تیم",
+  "Rainbow ESP": "ادراک فراحسی رنگینکمانی",
+  "Enable Text": "فعال سازی متن",
+  "Enable Highlight": "فعال سازی برجستگی اجسام",
+  "Fill Transparency": "پَر کردن شفافیت",
+  "Transparency": "شفافیت",
+  "Outline Transparency": "شفافیت خطوط خارجی",
+  "Show Distance": "نشان دادن فاصله",
+  "Text Size": "اندازه متن ها",
+  "Enable Tracer": "فعال کردن نوار",
+  "Tracer Start Position": "نقطه شروع نوار",
+  "Enable Arrow": "فعال کردن کمان",
+  "Arrow Center Offset": "نقطه مرکزی کمان",
+  "Bottom": "پایین",
+  "Top": "بالا",
+  "Center": "مرکز",
+  "Mouse": "مکان نما",
+  "Speed Hack": "تغییر سرعت راه رفتن",
+  "Enable Walk Speed": "فعال سازی سرعت راه رفتن",
+  "Speed Boost": "افزایش سرعت",
+  "Walk Speed": "سرعت راه رفتن",
+  "Jump Power Hack": "تغییر قدرت پرش",
+  "Jump Power": "قدرت پرش",
+  "Fly": "پرواز",
+  "Fly Speed": "سرعت پرواز",
+  "Instant Interact": "تعامل فوری(فشار دادن دکمه فوری)",
+  "Disable Roblox Void": "غیر فعال سازی وَید بازی",
+  "Inf Jump": "پرش بینهایت",
+  "Anti AFK": "ضد کیک شدن هنگام ثابت ماندن برای مدت زیاد",
+  "Noclip": "رد شدن از دیوار(نوکلیپ)",
+  "Twerk": "رقصیدن",
+  "Hold": "نگه داشتن",
+  "Toggle": "فشار دادن",
+  "Always": "همیشه",
+  "Menu": "منو",
+  "No Acceleration": "نداشتن شتاب",
+  "Aimbot": "ایم بات(هدف گیری خودکار)",
+  "Enable Aimbot": "فعال سازی ایم بات(هدف گیری خودکار)",
+  "Enable Aimbot Smoothness": "میزان روان بودن ایم بات",
+  "Smoothness": "روان بودن",
+  "Minimal Distance": "کمترین فاصله",
+  "Maximum Distance": "بیشترین فاصله",
+  "Target Part": "بخش مورد هدف",
+  "Get Closest From": "انتخاب نزدیک ترین بخش به",
+  "Team Check": "بررسی تیم بودن",
+  "Alive Check": "بررسی زنده بودن",
+  "Wall Check": "بررسی وجود دیوار",
+  "Builds": "سازه ها",
+  "Auto Farm": "فارم خودکار",
+  "Auto Farm Speed": "سرعت فارم کردن",
+  "Auto Farm Priority": "اولویت فارم خودکار",
+  "Auto Candy": "گرفتن آبنبات خودکار",
+  "Auto Build": "ساخت خودکار",
+  "Saving %s's build into '%s'...": "ذخیره کردن سازه %s's در '%s'...",
+  "Successfully saved %s's build into '%s'!": "با موفقیت سازه %s's در ذخیره شد '%s'!",
+  "Auto Build [BETA]": "ساخت خودکار (آزمایشی)",
+  "Save Player Build": "ذخیره کردن سازه بازیکن",
+  "Build name": "نام سازه",
+  "Build Saving [BETA]": "ذخیره کردن سازه(آزمایشی)",
+  "Auto Buy": "خرید خودکار",
+  "Chest Type": "نوع صندوق",
+  "Bought %s chest(s).": "صندوق با این مقدار طلا خریداری شد : %s",
+  "Failed to buy chest(s).": "خریداری صندوق ها شکست خورد",
+  "Save Player's Build": "ذخیره کردن سازه بازیکنِ",
+  "Build with that name already exists!": "یک سازه با آن نام درحال حاضر وجود دارد",
+  "Build list": "لیست سازه ها",
+  "Outdated version! (Data Version: %s | Current Version: %s)": "!نسخه قدیمی است(نسخه داده: %s | نسخه فعلی: %s)",
+  "Invalid color for '%s'": "رنگ اشتباه برای '%s'",
+  "Setting %s colors...": "قرار دادن %s رنگ ها...",
+  "You don't have the painting tool. Can't set the block's color.": "شما ابزار نقاشی(رنگ آمیزی) را ندارید. نمی توان رنگ بلاک را انتخاب کرد",
+  "Setting '%s' property.": "تنظیم کردن اطلاعات '%s'.",
+  "You don't have the properties tool. Can't set the block's properties.": "شما پیچ گوشتی را خریداری نکرده اید. نمی توان تنظیمات بلاک را تغییر داد.",
+  "Linking objects...": "وصل کردن اشیا به هم...",
+  "You don't have the bind tool. Can't link blocks together.": "شما آچر را خریداری نکرده اید. نمی توان بلاک ها را به هم متصل کرد.",
+  "Build was force stopped.": "ساخت متوقف شد.",
+  "Failed to load a part of your build! Check Developer Console for more information.": "ساخت با شکست مواجه شد زیرا قسمتی از ساخت بارگیری نشد بود.",
+  "Build loaded successfully!": "سازه با موفقیت بارگیری شد!",
+  "Load Build": "بالا آوردن سازه",
+  "Force Stop Load Build": "متوقف کردن ساخت",
+  "Override Build": "باز تعریف سازه",
+  "Delete Build": "حذف سازه",
+  "Failed to delete build: ": "حذف کردن با شکست مواجه شد: ",
+  "Deleted build: ": "سازه حذف شد: ",
+  "Refresh Builds": "تازه سازی سازه ها",
+  "Auto Build is currently in BETA! Some blocks may not save correctly, please report missing blocks and issues in our Discord": "ساخت خودکار در حال حاضر در حالت آزمایشی است، ممکن است بلاک ها به درستی ذخیره نشود",
+  "Ladder Speed": "سرعت بالا یا پایین امدن از نرده بان",
+  "Enable Speed Hack": "فعال سازی سرعت راه رفتن",
+  "Enable Jump": "فعال سازی پرش",
+  "Jump Boost": "قدرت پرش",
+  "Fast Closet Exit": "خروج سریع از کمد",
+  "Door Reach": "بَرد دست تا در",
+  "Prompt Reach Multiplier": "ضریب بَرد دست به دکمه ها",
+  "Prompt Clip": "بَرد دست تا دکمه ها",
+  "Auto Interact": "تعامل فوری(فشار دادن دکمه فوری)",
+  "Ignore List": " در نظر نگرفتن تعامل فوری با :",
+  "Interact Mode": "حالت تعامل",
+  "Auto Heartbeat Minigame": "انجام خودکار مینی گیم قلب در کمد",
+  "Auto Library Solver": "انجام خودکار کد کتاب خانه(در شماره 50)",
+  "Auto Library Code Setting": "تنظیمات انجام خودکار کد کتاب خانه",
+  "Unlock Distance": "فاصله باز کردن",
+  "Auto Breaker Solver": "انجام دهنده خودکار مینی گیم برق (در شماره 100)",
+  "The breaker box has been successfully solved.": "مینی گیم برق با موفقیت انجام شد.",
+  "Auto Breaker Solver Method": "روش انجام مینی گیم خودکار",
+  "Auto Breaker Box": "انجام خودکار مینی گیم برق",
+  "Auto Anchor Solver": "انجام خودکار مینی گیم شماره(اهرم)",
+  "Solved Anchor %s successfully!": "شماره %s با موفقیت انجام شد",
+  "Solved anchor with the code ": " اهرم به همراه کد انجام شد",
+  "Revive": "زنده شدن",
+  "Play Again": "بازی مجدد",
+  "Lobby": "لابی",
+  "Door": "در",
+  "Objective": "هدف",
+  "Entity": "موجودات",
+  "Item": "وسیله",
+  "Items": "وسیله ها",
+  "Chest": "صندوق",
+  "Toolshed": "اتاقک ابزار",
+  "Gold": "طلا (سکه)",
+  "Timer Lever": "اهرم زمان",
+  "Key": "کلید",
+  "Keycard": "کارت",
+  "Electrical Key": "کلید اتاق برق",
+  "Gate Lever": "اهرم دروازه",
+  "Book": "کتاب",
+  "Breaker": "فیوز",
+  "Generator": "ژنراتور",
+  "Gate Power Button": "دکمه در آهنی",
+  "Fuse": "فیوز",
+  "Anchor": "اهرم",
+  "Water Pump": "پمپ آب",
+  "Bed": "تخت",
+  "Guidance": "راهنمایی",
+  "Guiding Light": "نور راهنما",
+  "[Opened]": "[باز شده است]",
+  "[Locked]": "[بسته است]",
+  "Gate": "دروازه",
+  "Lever": "اهرم",
+  "Glowsticks": "چوب شب‌تاب",
+  "Ladder": "نرده بان",
+  "Bandage": "بانداژ",
+  "Lighter": "فندک",
+  "Anti-Dread": "ضد Dread",
+  "Anti-Halt": "ضد Halt",
+  "Anti-Screech": "ضد Screech",
+  "Anti-Figure Hearing": "ناشنوا کردن فیگور",
+  "Anti-Snare": "ضد Snare",
+  "Anti-%s": "%s ضد",
+  "Vacuum": "Vacuum",
+  "Dupe": "Dupe",
+  "Eyes": "Eyes",
+  "Lookman": "Lookman",
+  "Giggle": "Giggle",
+  "Anti-Giggle": "ضد Giggle",
+  "Closet": "کمد",
+  "Locker": "کمد",
+  "Notify Entities": "هشدار دهنده موجودات",
+  "Notify Library Code": "نمایش کد کتاب خانه",
+  "Notify Oxygen": "نمایش میزان اکسیژن",
+  "Notify Hide Time": "نمایش زمان قایم شدن",
+  "Notify Chat": "هشدار دهنده در چت",
+  "Entity and Padlock Code": " موحود و کد قفل ",
+  "has spawned!": "احضار شد!",
+  "Entity Notifier Message": "پیغام هشدار دهنده موجودات",
+  "Play Alert Sound": "پخش صدای هشدار",
+  "Notify Volume": "میزان صدای هشدار",
+  "Notification": " اگاه سازی",
+  "Notifications": " آگاه سازی ها",
+  "Notification Side": "سمت  اگاه سازی",
+  "Notification Style": "استایل آگاه سازی",
+  "Caption Style": "نوع استایل",
+  "Self": "خود",
+  "Third Person": "سوم شخص",
+  "Field of View": "میدان دید",
+  "No Camera Bobbing": "ثابت ماندن تصویر",
+  "No Camera Shake": "تکان نخوردن تصویر",
+  "No Cutscenes": "حذف کاتسین",
+  "Translucent %s": "%s شفاف بودن",
+  "Hiding Transparency": "شفافیت تصویر هنگام قایم شدن",
+  "Viewmodel Offset": "جایگاه قرار گیری وسیله در دست",
+  "Effects": "جلوه‌های بصری",
+  "No Glitch Effect": "حذف موجود گلیچ",
+  "No Void Effect": "حذف تاثیر وید ",
+  "No Jumpscare": "حذف جامپ اسکر",
+  "No Spider Jumpscare": "حذف جامپ اسکر عنکبوت",
+  "No Halloween Effects": "برداشتن حالت هالووین",
+  "Knob Cost: ": "هزینه : ",
+  "Anti-Entity": "ضد موجود",
+  "Spam Other Tools": "استفاده وسیله های دیگران",
+  "Upside Down": "برعکس شدن",
+  "Speed Bypass": "دور زدن انتی چیت سرعت",
+  "Speed Bypass Delay": "تاخیر دور زدن انتی چیت سرعت",
+  "Anticheat Manipulation": "گول زدن انتی چیت",
+  "Godmode": "حالت خدا (جان بینهایت)",
+  "Lags you back and is buggy with crouch": "شمارا به سمت عقب برمیگرداند و با حالت نشستن ایراد دارد",
+  "Infinite Items": "وسیله بینهایت",
+  "Infinite Crucifix": "صلیب بینهایت",
+  "Very risky, you might die/lose the crucifix": "ریسک بالا.ممکن است بمیرید یا صلیب از بین برود",
+  "Fake Revive": "زنده شدن غیر واقعی",
+  "You have revived, fake revive has stopped working.": "شما زنده شدید،زنده شدن غیر واقعی از کار افتاد.",
+  "Enable it again to start fake revive": "زنده شدن غیر واقعی را روشن کنید تا دوباره فعال شود",
+  "Fake Revive has stopped working, enable it again to start fake revive": "زنده شدن غیر واقعی از کار افتاد، آن را روشن کنید تا دوباره فعال شود ",
+  "Delete Seek (FE)": "حذف سییک(برای همه)",
+  "Enable Star Rift": "فعال سازی ریفت دوم(طلایی)",
+  "Star Rift": "ریفت طلایی",
+  "You already have the rift enabled.": "شما از قبل ریفت طلایی را دارید.",
+  "Enabled successfully!": "با موفقیت فعال شد!",
+  "Was not able to find the rift.": "ریفت پیدا نشد.",
+  "Are you sure the rift even exists?": "ایا مطمئن هستید که ریفت وجود دارد یا نه?",
+  "Was not able to find the rift. Are you sure the rift even exists?": "ریفت پیدا نشد، ایا مطمئن هستید که ریفت وجود دارد یا نه?",
+  "Pre-Run Shop": "خرید داخل آسانسور",
+  "Item Selection": "انتخاب وسیله",
+  "Amount of items": "مقدار وسیله",
+  "Buy Item(s)": "خرید وسیله (ها)",
+  "You are unable to buy items as of right now, are you sure you are in room 0 elevator?": "نمی توان وسیله را خریداری کرد، ایا مطمئن اید که در اتاق آسانسور هستید؟",
+  "You have not selected any items to buy!": "شما وسیله ای را برای خرید انتخاب نکرده اید!",
+  "You do not have enough knobs to buy the items you have selected!": "شما پول کافی برای خرید این وسیله را ندارید",
+  "Anti-Seek Obstructions": "ضد دست و لوستر و آتش سییک",
+  "Avoid Rush/Ambush": "ضد راش و امبوش",
+  "Doesn't work for greenhouse :(": "برای اتاق شماره 90 تا 100 کار نمیکند :(",
+  "Death Farm": "فارم کردن مرگ",
+  "Loading Death Farm Script": "بارگیری اسکریپت فارم مرگ",
+  "Please be patient.": "صبور باشید.",
+  "Knob Farm": "فارم پول",
+  "Only works in Room 100 and figure is spawned": "زمانی کار میکند که در اتاق 100 باشید و فیگور اسپاون شده باشد",
+  "Knob Farm Mode": "روش فارم پول",
+  "Knob Farm Warning": "هشدار  فارم پول",
+  "The <b>I Love Pancakes!!!</b> modifier is required to use the snare method.": "مادیفایر <b>I Love Pancakes!!!</b> برای روش تله مورد نیاز است.",
+  "The <b>Last Breath</b> modifier should be used for a quicker knob farming experience": "مادیفایر <b>Last Breath</b> برای فارم سریعتر مورد نیاز است",
+  "Modifiers": "مادیفایر ها",
+  "No Voice Acting": "حذف مادیفایر صدا گذاری",
+  "No Jammin": "حذف مادیفایر خرابی صدا (jammin)",
+  "No Bats Decoration": "حذف دکوراسیون هالووین",
+  "Anti-A90": "ضد A90",
+  "Max Floor Angle": "حداکثر زاویه طبقه",
+  "Anti-Gloom Egg": "ضد تخم گلووم",
+  "Anti-Bridge Fall": "ضد خرابی پل(اتاق سییک،طبقه دوم)",
+  "Anti-Pipe Gap": "ضد حفره بین لوله(اتاق سییک، طبقه دوم)",
+  "Anti-Seek Flood": "ضدآب سییک",
+  "Beat Door 200": "انجام خودکار اتاق 200",
+  "You haven't reached door 200...": "شما هنوز به اتاق 200 نرسیده اید...",
+  "Anticheat Bypass": "دور زدن انتی چیت",
+  "Minecart Teleport": "تلپورت واگن",
+  "Minecart Teleport debug": "بررسی تلپورت واگن",
+  "Visualize Correct Seek Path": "نمایش راه صحیح سییک",
+  "Minecart teleport is ready! Waiting for the minecart...": "تلپورت واگن اماده است!...",
+  "Minecart teleport started. Enjoy the ride!": "تلپورت واگن شروع شد!",
+  "Path Type": "حالت نمایش راه صحیح سییک",
+  "Anti Haste Jumpscare": "ضد جامپ اسکر Haste",
+  "Haste Clock": "زمان احضار شدن Haste",
+  "Auto Rooms": "انجام خودکار اتاق ها (A-1000)",
+  "Auto Rooms Stuck Delay": "تاخیر بین گیرکردن ",
+  "Show Debug Info": "نمایش اطلاعات بررسی",
+  "Show Pathfinding Nodes": "نمایش مسیر حرکت",
+  "Anti A-90 is required for Auto Rooms to work!": "ضد( A-90) برای انجام خودکار اتاق ها مورد نیاز است",
+  "Anti A-90 has been enabled": "ضد (A-90) روشن شد",
+  "Computing Path to %s...": "تغییر جهت به  %s...",
+  "Computed path successfully with %s waypoints!": "مسیر با موفقیت  محاسبه شد %s نقاط ایجاد شده!",
+  "Seems like you are stuck, trying to recalculate path...": "به نظر می آید شما گیر کرده باشید، تلاش برای مجاسبه مجدد مسیر...",
+  "Failed to move to waypoint": "تغییر مسیر به نقاط ایجاد شده شکست خورد",
+  "Pathfinding failed with status %s": "پیدا کردن مسیر شکست خورد، وضعیت : %s",
+  "You have reached A-1000": "شما به اتاق (A-1000) رسیدید",
+  "A-1000 reached by mspaint autorooms": "به(A-1000) رسیدید، با استفاده از اسکریپت ام اس پینت",
+  "Grab Banana / Jeff": "برداشتن موز/قاتل(jeff)",
+  "Banana/Jeff Throw": "پرتاب موز/ قاتل",
+  "You are no longer holding the item due to network owner change!": "شما دیگر وسیله را در دست ندارید!",
+  "Throw": "پرتاب",
+  "Throw Strength": "قدرت پرتاب",
+  "Anti-Banana": "ضد سر خوردن روی موز",
+  "Infinite Revives": "زنده شدن بینهایت",
+  "Figure Godmode": "حالت خدا (برای فیگور)",
+  "Elevator Sniper": "تلپورت به آسانسور",
+  "Target": "هدف",
+  "Loop Achievements": "تغییر دستاوردها",
+  "Speed": "سرعت",
+  "Create Retro Elevator": "ساخت آسانسور رترو",
+  "Join DOORS before Hotel+": "(Doors before Hotel+)جوین شدن در ",
+  "DOORS before Hotel+": "DOORS before Hotel+",
+  "Joining DOORS before Hotel+...": "(Doors before Hotel+)درحال جوین شدن در ...",
+  "Presets": "تنظیمات از پیش تعیین شده",
+  "Preset name": "نام تنظیمات از پیش تعیین شده",
+  "Create Preset": "ایجاد تنظیمات از پیش تعیین شده",
+  "Preset already exists!": "تنظیمات از پیش تعیین شده وجود دارد!",
+  "Created elevator preset \" with %s modifiers": "تنظیمات از پیش تعیین شده برای آسانسور ایجاد شد \" به همراه %s این مادیفایر (ها)",
+  "Preset List": "لیست تنظیمات از پیش تعیین شده",
+  "Load Preset": "بارگیری تنظیمات از پیش تعیین شده",
+  "Refresh Presets": "تازه سازی تنظیمات از پیش تعیین شده",
+  "Override Preset": "باز تعریف تنظیمات از پیش تعیین شده",
+  "Delete Preset": "حذف کردن تنظیمات از پیش تعیین شده",
+  "Overrided preset: ": "تنظیمات از پیش تعیین شده باز تعریف شد: ",
+  "Deleted preset: ": "تنظیمات از پیش تعیین شده حذف شد: ",
+  "Failed to delete preset: ": "حذف تنظیمات از پیش تعیین شده با شکست مواجه شد: ",
+  "Preset does not exist!": "این تنظیمات از پیش تعیین شده وجود ندارد!",
+  "Void/Glitch is coming once the next door is opened.": "وید/گلیچ در اتاق بعدی احضار می شود.",
+  "Void/Glitch is coming %s.": "وید/گلیچ در حال آمدن است %s.",
+  "once the next door is opened.": "هنگامی که در بعدی باز شود.",
+  "in %s rooms": "در %s اتاق",
+  "ENTITIES": "موجودات",
+  "Go to the next room to avoid it.": "وارد اتاق بعدی شوید تا از ان از آن اجتناب کنید.",
+  "Floor": "طبقه",
+  "Go find a hiding place!": "یک جا برای قایم شدن را پیدا کنید!",
+  "Halt will spawn in next room!": "halt در اتاق بعدی احضار میشود!",
+  "Halt has broken anticheat bypass.": "halt دور زدن انتی چیت را از کار انداخت.",
+  "Bypassed the anticheat successfully!": " دور زدن انتی چیت با موفقیت فعال شد!",
+  "This will only last until the next cutscene!": "این فقط تا کاتسین بعدی کار می کند !",
+  "Bypassed the anticheat successfully! This will only last until the next cutscene": "دور زدن انتی چیت با موفقیت فعال شد! این فقط تا کاتسین بعدی کار می کند.",
+  "Please go on a ladder again to fix it.": "لطفا برای تعمیر، از یک نرده بان استفاده کنید.",
+  "Halt has broken anticheat bypass, please go on a ladder again to fix it.": "هالت دور زدن انتی چیت را از  کار انداخت، لطفا برای تعمیر، از یک نرده بان استفاده کنید.",
+  "Padlock Code": "کد قفل",
+  "Solved the library padlock code": "کد قفل کتاب خانه انجام شد",
+  "The library code will be automatically solved when you pick up the missing books.": "کد کتاب خانه به صورت خودکار انجام می شود بعد از پیدا کردن تمامی کتاب ها..",
+  "Automatic Library Solver": "انجام دهنده خودکار کتابخانه",
+  "You are still missing some books": "شما هنوز چند کتاب را پیدا نکرده اید",
+  "Library Code: %s": "کد کتاب خانه: %s",
+  "Auto Library Code": "انجام خودکار کد کتابخانه",
+  "Oxygen: %.1f": "  %.1f اکسیژن :",
+  "Delete Seek FE": "حذف کردن سییک(برای همه)",
+  "Deleting Seek trigger...": "حذف کردن سییک...",
+  "Failed to delete Seek trigger!": "حذف کردن سییک با شکست مواجه شد!",
+  "Deleted Seek trigger successfully!": "سییک با موفقیت حذف شد!",
+  "Failed to load preset: ": "بارگیری تنظیمات از پیش تعیین شده با شکست مواجه شد: ",
+  "Loaded elevator preset: ": "تنظیمات از پیش تعیین شده بارگیری شد: ",
+  "Throw Power Boost": "تقویت قدرت پرتاب",
+  "Throw Power": "قدرت پرتاب",
+  "FE Delete Object": "حذف وسیله(برای همه)",
+  "FE Delete Aura": "حذف وسایل اطراف(برای همه)",
+  "Delete objects within a certain range of your character, this can kick you from the game and i'm too lazy to fix it.": "حذف وسایل اطراف بازیکن در محدوده مشخص(ممکن از شما را از بازی کیک کند).",
+  "Delete Aura Range": "محدوده حذف",
+  "Disable Hunger": "حذف گرسنه شدن",
+  "Infinite Hunger": "گرسنه نشدن",
+  "Infinite Energy": "انرژی بینهایت",
+  "Infinite Inventory": "کیف بینهایت",
+  "No Fall": "ضد اسیب از افتادن",
+  "Auto Respawn": "زنده شدن خودکار",
+  "Auto Push Employees": " هل دادن دادن خودکار کارمنده ها",
+  "Enable player whistle teleport": "فعال سازی تلپورت به سوت بازیکن",
+  "Go to player(s)'s whistle.": "تلپورت به سوت بازیکن(ها).",
+  "Rejoin": "جوین شدن مجدد",
+  "Instant Leave": "خروج سریع",
+  "Employee": "کارمند",
+  "Personal Watch": "ساعت شخصی",
+  "Death Waypoint": "نقطه مرگ",
+  "Max Waypoints": "حداکثر نقطه گذاری",
+  "Submarine Sniper": "تلپورت به زیردریایی",
+  "Don't worry you have godmode enabled!": "نگران نباشید، شما حالت خدا را فعال کرده اید!",
+  "Don't worry you have Anti Turrets enabled": "نگران نباشید، شما ضد برجک سلاح را فعال کرده اید!",
+  "Don't worry you have Anti Eyefestation enabled": "نگران نباشید، شما Eyefestation را فعال کرده اید!",
+  "Look away!": "نگاه نکن!!!",
+  "Try and find the wall dweller": " تلاش کنید تا دیوارنشین را پیدا کنید ",
+  "Try and find the ridge ": "تلاش کنید تا لبه را پیدا کنید ",
+  "Anti-Void": "ضد Void",
+  "Anti-Trickster": "ضد Trickster",
+  "Anti-Eyefestation": "ضد Eyefestation",
+  "Anti-Searchlights": "ضد Searchlights",
+  "Anti-Turrets": "ضد Turrets",
+  "Anti-Squiddle": "ضد Squiddle",
+  "Anti-Parasites": "ضد Parasites",
+  "Anti-Damage Parts": "حذف بلاک های دمیج",
+  "Anti-Pandemonium": "ضد Pandemonium",
+  "Anti-Bouncers": "ضد Bouncers",
+  "Anti-Skelepede": "ضد Skelepede",
+  "Anti-Statue": "ضد Statue",
+  "Anti-Skeleton Dancers": "ضد Skeleton Dancers",
+  "Please get close to a locker to enable godmode (DO NOT ENTER THE LOCKER)": "لطفا برای فعالسازی حالت خدا نزدیک یک کمد شوید(وارد آن نشوید!!)",
+  "This will break interactions with lockers.": "با استفاده از این، نمی توانید در کمد ها قایم شوید.",
+  "Godmode enabled successfully! This will break after cutscenes.": "حالت خدا فعال شد،این بعد کاتسین بعدی خراب می شود.",
+  "Door Reach Multiplier": "بَرد دست تا در",
+  "Get Local Badges": "دریافت برخی از دستاوردها",
+  "Currency": "واحد پول",
+  "No Underwater Effect": "حذف جلوه تصویری زیر آب",
+  "Turret Controls": "کنترل های برجک سلاح",
+  "[Fixed]": "[تعمیر شده]",
+  "Wire": "کابل",
+  "Crystal": "کریستال",
+  "Auto Generator": "انجام خودکار ژنراتور ها",
+  "Auto Fix Wires": "انجام خودکار سیم ها",
+  "Infinite Stamina": "خستگی‌ناپذیری",
+  "Infinite Flashlight": "چراغ غوه نامحدود",
+  "Table": "میز",
+  "Battery": "باتری",
+  "No Flashlight Shadow": "حذف سایه چراغ قوه",
+  "No Blur": "حذف تار بودن",
+  "[Fisch] New Catch!": "[Fisch] صید تازه!",
+  "[Fisch] Auto Sell Result": "[Fisch] نتیجه فروش خودکار",
+  "[Fisch] Test.": "[Fisch] امتحان.",
+  "This is a test message.": "این یک پیام آزمایشی است.",
+  "[Sold For]": "[فروخته شد برای ]",
+  "[Name]": "[نام]",
+  "[Shiny]": "[درخشان]",
+  "[Sparkling]": "[برق‌زننده]",
+  "[Giant]": "[عظیم]",
+  "[Big]": "[بزرگ]",
+  "Auto Sell": "فروش خودکار",
+  "Selling '%s'...": "فروش برای : '%s'...",
+  "Sold '%s' for '%sC$'": "فروخته شد '%s' برای '%sC$'",
+  "Failed to sell '%s'!": "فروش شکست خورد '%s'!",
+  "General: ": "کلی: ",
+  "You leveled up from **%s** -> **%s**!": "لول شما ارتقا یاقت **%s** -> **%s**!",
+  "WARNING! Your executor doesn't support 'require' function. The script can't detect Big and Giant fishes and baits!": "هشدار! اجرا کننده شما (اگزکیوتر) از این تابع پشتیبانی نمیکند، نمیتوان ماهی های بزرگ و عظیم را تشخیص داد.",
+  "Mentions you when ... event happens.": " شما را ذکر می‌کند زمانی که ... اتفاق بیفتد.",
+  "Mentions": "ذکر کردن",
+  "Discord User ID": "ایدی عددی دیسکورد",
+  "Your Discord Webhook": "وب هوک دیسکورد شما",
+  "Enable Discord Notifications": " فعال سازی اعلان دیسکورد",
+  "Test Webhook": "آزمایش کردن وب هوک",
+  "Testing Discord Notification...": "آزمایش کردن اعلان های دیسکورد...",
+  "Test": "آزمایش کردن",
+  "Test message.": "پیغام آزمایشی .",
+  "Custom Locations": "مکان های مشخص شده",
+  "Custom Location Name": "نام مکان مشخص شده",
+  "Create Custom Location": "ایجاد یک مکان مشخص شده",
+  "Custom location already exists!": "این مکان مشخص شده از قبل وجود دارد!",
+  "Created custom location ": "مکان مشخص شده ایجاد شد",
+  "Teleport to Custom Location": "تلپورت به مکان مشخص شده",
+  "Override Custom Location": "باز تعریف مکان مشخص شده",
+  "Overrided custom location ": "مکان مشخص شده باز تعریف شد",
+  "Delete Custom Location": "حذف مکان مشخص شده",
+  "Custom location does not exist!": "این مکان مشخص شده وجود ندارد!",
+  "Deleted custom location ": "مکان مشخص شده حذف شد",
+  "Failed to delete custom location: ": "نتوانست این مکان مشخص شده را حذف کرد: ",
+  "Refresh Custom Locations": "تازه سازی مکان مشخص شده ",
+  "File System is required for this feature.": "برای استفاده از این قابلیت به نیاز دارید (File System).",
+  "Failed to load location: ": "بارگیری مکان شکست خورد : ",
+  "Auto Fish": "ماهیگری خودکار",
+  "Mode": "حالت",
+  "Location": "مکان",
+  "Only works with Exploit Mode.": "فقط در حالت تقلب کار می کند",
+  "Enable Location": "قعال کردن مکان",
+  "Minimum Throw Power": "کمترین قدرت پرتاب",
+  "Maximum Throw Power": "بیشترین قدرت پرتاب",
+  "Appraise fish (450C$)": "بررسی ماهی (450C$)",
+  "You will not drown in the water.": "در آب غرق نمی شوید",
+  "Disable being afk.": "خاموش کردن خودکار AFK",
+  "You can walk on water.": "می توانید روی آب راه بروید",
+  "Open Shipwright": "باز کردن صفحه خرید قایق",
+  "You don't have enough money.": "پول کافی ندارید",
+  "Disable Auto Cast first.": "ابتدا ماهیگیری خودکار را خاموش کنید.",
+  "Teleport": "تلپورت",
+  "Areas": "مناطق",
+  "Teleport to Area": "تلپورت به منطقه",
+  "NPCs": "شخصیت های غیرقابل بازی",
+  "Teleport to NPC": "تلپورت به شخصیت غیرقابل بازی",
+  "Interactables": "قابل تعامل ها",
+  "Teleport to Interactable": "تلپورت به قابل تعامل",
+  "Perfect Reel Chance": "شانس جمع کردن بی‌نقص نخ ماهیگیری",
+  "Failed to find Boat's Base.": "پیدا کردن پایگاه قایق شکست خورد.",
+  "Anchor Player": "ثابت نگه داشتن بازیکن",
+  "Anchors you during Auto Casting.": " هنگام پرتاب کردن چوب ماهیگیری شما را ثابت نگه میدارد.",
+  "Auto Reel": "چرخش نخ خودکار",
+  "Auto Cast": "پرتاب خودکار چوب ماهیگیری",
+  "Auto Cast is already running...": "پرتاب خودکار چوب ماهیگیری در حال اجرا است...",
+  "Equipping fishing rod...": "انتخاب کردن چوب ماهیگیری...",
+  "Casting fishing rod...": "در حال پرتاب چوب ماهیگیری...",
+  "Paused due to Auto Crab Cage.": "توقف به دلیل تله خرچنگ خودکار.",
+  "Paused due to Auto Sell.": "توقف به دلیل فروش خودکار.",
+  "Unpausing...": "درحال شروع مجدد...",
+  "Failed to cast fishing rod.": "پرتاب چوب ماهیگیری شکست خورد.",
+  "Stopped.": "متوقف شد.",
+  "Boats": "قایق ها",
+  "Spawn and Teleport to Boat": "احضار و تلپورت به قابل",
+  "Spawn Boat": "احضار قایق",
+  "Spawned Boats": "قایق های احضار شده",
+  "Auto Shake": "تکان دادن خودکار",
+  "Disable Oxygen": "ضد غرق شدن",
+  "Teleport to Spawned Boat": "تلپورت به قایق احضار شده",
+  "Despawn Boats": "از بین بردن قایق ها",
+  "Auto Shake Mode": "حالت تکان دادن خودکار",
+  "Close chat and enable screenshot mode (top right camera button) for this to work all the time.": "چت را ببندید و به حالت اسکرین شات(بالای صفحه، دکمه دوربین) بروید تا به درستی کار کند.",
+  "Buttons at Fixed Position": "دکمه ها در مکان ثابتی هستنتد",
+  "Delay": "تاخیر",
+  "Enable": "فعال کردن",
+  "Discord": "دیسکورد",
+  "Jesus": "راه رفتن روی آب",
+  "Exceptions": "استثناها",
+  "Sell on Catch": "فروش پس از گرفتن ماهی",
+  "Sell fishes after successfully catching them.": "فروختن ماهی ها بعد از با موفقیت گرفتن ماهی ها از آب.",
+  "Auto Crab Cage": " قفس خرچنگ خودکار",
+  "Amount of cages to buy": "مقدار قفس خرچنگ برای خرید",
+  "Buy Crab Cages": "خرید قفس خرچنگ",
+  "Auto Buy Crab Cage": "خرید خودکار قفس خرچنگ",
+  "Please wait.": "لطفا صبر کنید.",
+  "Failed to fetch your balance.": "نتوانست اطلاعات مربوط به موجودی شما را یافت کند..",
+  "Buying cages...": "خرید قفس ها...",
+  "Auto Cast is enabled, waiting for it to stop...": "ماهیگیری خودکار روشن است، درحال انتظار برای متوقف شدن آن...",
+  "Bought '%s' crab cages.": "خریده شد %s قفس خرچنگ.",
+  "Failed to find buy prompt.": "دکمه خرید پیدا نشد.",
+  "Auto Pickup": "برداشتن خودکار وسایل از روی زمین",
+  "Sell Item in Hand": "فروش وسایل داخل دست",
+  "Sell Inventory": "فروش وسایل داخل کیف",
+  "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] بارگیری متوقف شده است. (خطا: درحال بارگیری)",
+  "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] بارگیری متوقف شد. (خطا: از قبل بارگیری شده است)",
+  "No message today... 😢": "هیج پیامی برای امروز نیست... 😢",
+  "MOTD: %s": " : پیام روز %s",
+  "Lifetime": "مادام العمر",
+  "Language": "زبان",
+  "%d day%s": "%d روز%s",
+  "%d hour%s %d minute%s": "%d ساعت%s %d دقیقه%s",
+  "%d hour%s": "%d ساعت%s",
+  "%d minute%s": "%d دقیقه%s",
+  "%d second%s": "%d ثانیه%s",
+  "Unloading ": "درحال غیرفعال کردن",
+  "Unloading...": "درحال غیرفعال کردن...",
+  "Unloaded!": "غیر فعال شد!",
+  "UI Settings": "تنظیمات رابط کاربری",
+  "Credits": "سپاس از",
+  "Execute On Teleport": "اجرای مجدد خودکار هنگام ورود به بازی دیگر",
+  "Open Keybind Menu": "کنترل ها",
+  "Custom Cursor": "مکان نمای موس خاص",
+  "Menu bind": "منوی کنترل",
+  "Join Discord": "جوین شدن در سرور دیسکورد",
+  "Copy Link": "کپی لینک",
+  "Unload": "غیر فعال کردن اسکریپت",
+  "Save Error Logs": "ذخیره کردن خطا ها",
+  "Your executor doesn't support the FileSystem API.": "اجرا کننده(اگزکیوتر) شما از این پشتیبانی نمیکند (FileSystem-API). ",
+  "[GameId: %s, JobID: %s] %s": "[ایدی بازی: %s, ایدی سرور: %s] %s",
+  "Developers": "سازندگان ",
+  "upio - Owner": "upio - مالک",
+  "Thank you for supporting us by doing the key system!": "تشکر بابت انجام کلید و حمایت از ما!",
+  "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "تشکر ویژه بابت خرید کلید مادام العمر و حمایت از ما  D:",
+  "Time left: ": "زمان باقی مانده: ",
+  "Total Executions: ": "تعداد اجرا شدن ها: ",
+  "Not linked": "متصل نشده است",
+  "Expired": "منقضی شده است",
+  "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.": "کلید شما منقضی شده است، بر روی اجرای بعدی شما نمیتوانید از اسکریپت استفاده کنید ،لطفا در سایت کلید خود را مجددا تازه سازی کنید یا یک کلید مادام العمر خریداری کنید.",
+  "Restart mspaint to apply language changes.": "اسکریپت را مجددا اجرا کنید تا تغییرات ذخیره شوند.",
+  "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint]  اجرا کننده(اگزکیوتر) شما این از این پشتیبانی نمی کند، افزونه‌ها کار نمی کنند(FileSystem API).",
+  "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] پوشه افزونه ها وجود ندارد، درحال ساخت پوشه افزونه ها...",
+  "[mspaint] Loading addons...": "[mspaint] بارگیری افزونه ها...",
+  "[mspaint] Element '": "[mspaint] المنت '",
+  "' didn't load: Invalid Linoria element.": "'بارگیری نشد' :اطلاعات نادرست لینوریا",
+  "' didn't load: Invalid data.": "'بارگیری نشد:' اطلاعات نادرست است",
+  "' didn't load: Invalid name.": "'بارگیری نشد:' نام نادرست است",
+  "' didn't load: Invalid addon name.": "'بارگیری نشد:' نام افزونه‌ نادرست است",
+  "' didn't load: Invalid element type.": "'بارگیری نشد:' نوع داده نادرست است",
+  "This tab is for UN-OFFICIAL addons made for mspaint. We are not responsible for what addons you will use. You are putting yourself AT RISK since you are executing third-party scripts.": "اینجا برای افزونه‌های غیر رسمی است،ما از اینکه شما از چه افزونه‌هایی استفاده میکنید مسئولیت‌ پذیر نیستیم، شما خودتان را در ریسک قرار میدهید چون شما از افزونه‌های سوم شخص استفاده می کنید.",
+  "WARNING": "هشدار!!",
+  "Your addons FOLDER is empty! (": "پوشه افزونه‌های شما خالی است! (",
+  "[mspaint] Invalid file extension for '": "[mspaint] فورمت غلظ برای فایل افزونه‌ '",
+  "[mspaint] Loading addon '": "[mspaint] بارگیری افزونه‌ها  '",
+  "Failed to load this addon (": "بارگیری این افزونه‌ با شکست مواجه شد  (",
+  "Invalid 'Elements' variable (expected 'table' got '": "Invalid 'Elements' variable (expected 'table' got '",
+  "' didn't load: Invalid 'Elements' variable (expected 'table' got '": "' didn't load: Invalid 'Elements' variable (expected 'table' got '",
+  "' didn't load: Wrong game.": "'بارگیری نشد:' بازی اشتباه است",
+  "Invalid 'Game' variable (expected 'string/table' got '": "Invalid 'Game' variable (expected 'string/table' got '",
+  "' didn't load: Invalid 'Game' variable (expected 'string/table' got '": "' didn't load: Invalid 'Game' variable (expected 'string/table' got '",
+  "[mspaint] Failed to load addon '": "[mspaint] بارگیری افزونه‌ با شکست مواجه شد '",
+  "Failed to load this addon:": "بارگیری افزونه‌ با شکست مواجه شد :",
+  "WARNING! Your executor doesn't support 'require' function. Some data can be outdated.": "هشدار!!، اجراکننده(اگزکیوتر) شما از این پشتیبانی نمی کند، ممکن است بعضی از داده ها قدیمی باشند (Require).",
+  "Loading location data...": "بارگیری داده های مناطق",
+  "Searching for a fishing rod...": "جستوجو کردن برای پیدا کردن چوب ماهیگیری...",
+  "Casting the fishing rod...": "پرتاب کردن چوب ماهیگیری...",
+  "Failed to cast the fishing rod, retrying...": "پرتاب چوب ماهیگیری شکست خورد، تلاش مجدد...",
+  "Resuming Auto Fish...": "ادامه دادن ماهیگیری خودکار",
+  "Auto Fish stopped.": "ماهیگیری خودکار از کار افتاد.",
+  "Info": "اطلاعات",
+  "Menu Keybind": "منوی کنترل",
+  "Infinite Jetpack Duration": "جت پک بینهایت",
+  "Motor Modification": "تغییر سرعت موتور قایق",
+  "Enable Motor Modifications": "فعال سازی تغییر سرعت موتور قایق",
+  "Motor Speed": "سرعت موتور",
+  "Motor Turning Speed": "سرعت چرخش موتور",
+  "Waiting for Fisch to load.": "منتظر لود شدن بازی.",
+  "Select a custom location first.": ".ابتدا یک مکان مشخص شده را انتخاب کنید",
+  "Auto Fish Settings": "تنظیمات ماهیگیری خودکار",
+  "Auto Treasure Map": "نقشه گنج خودکار",
+  "Auto Repair": "تعمیر خودکار",
+  "Repair Current Maps": "تعمیر نقشه های فعلی",
+  "Done.": "انجام شد.",
+  "Waiting for Auto Treasure Map to finish...": "منتظر ماندن برای نقشه گنج خودکار که تمام شود...",
+  "Paused due to Auto Treasure Map.": "متوقف شدن به دلیل روشن بودن نقشه گنج خودکار.",
+  "[Fisch] Auto Treasure Map - Repair.": "[Fisch] نقشه گنج خودکار - تعمیر",
+  "Successfully repaired a new Treasure Map!": "با موفقیت یک نقشه گنج جدید تعمیر شد!",
+  "[Fisch] Auto Treasure Map - Claimed.": "[Fisch] نقشه گنج خودکار - دریافت شد.",
+  "Successfully claimed a Treasure Map!": "با موفقیت یک نقشه گنچ دریافت شد!",
+  "Failed to claimed a Treasure Map. Not enough money.": "دریافت کردن نقشه گنج شکست خورد، پول کافی ندارید.",
+  "Failed to find the boat's spawn event.": "پیدا کردن نقطه احضار قایق شکست خورد.",
+  "Failed to load the boat's data.": "بارگیری داده قایق شکست خورد.",
+  "Failed to find the despawn button.": "دکمه از بین بردن قایق پیدا نشد.",
+  "Failed to open the Shipwright UI.": "باز کردن صفحه خرید قایق شکست خورد.",
+  "Please interact with the NPC.": "لطفا با شخصیت غیر قابل بازی ارتباط برقرار کنید.",
+  "Disable Auto Fish first.": "ابتدا ماهیگیری خودکار را غیرفعال کنید.",
+  "Failed to find the NPC, retrying with teleport...": "پیدا کردن شخصیت غیر قابل بازی شکست خورد، تلاش مجدد با استفاده از تلپورت...",
+  "Failed to find the the NPC.": "شخصیت غیر قابل بازی پیدا نشد.",
+  "Interacting with the NPC...": "...در حال برقراری ارتباط با شخصیت غیر قابل بازی",
+  "You don't have the Treasure Map equipped.": "شما نقشه گنج را در دست خود انتخاب نکرده اید.",
+  "Get All Badges": "دریافت همه دستاورد ها",
+  "Open Door": "باز کردن در خودکار",
+  "Open Slide Door": "بازکردن در های کشویی خودکار ",
+  "Open Lever Door": "باز کردن خودکار در اهرمی",
+  "Open Vault": " باز کردن گنجینه ها",
+  "Open Distance": "فاصله بازکردن در ها",
+  "Disable Kill Client Remote": "غیرفعال کردن کیک کردن بازیکن",
+  "Disable Slight & Heed Damage": "غیر فعال کردن Slight و آسیب های Heed",
+  "Disable Carnation": "غیرفعال کردن Carnation",
+  "Disable Slugfish": "غیرفعال کردن Slugfish",
+  "Disable Elkman": "غیرفعال کردن Elkman",
+  "Disable Sarrow": "غیرفعال کردن Sarrow",
+  "Disable Dozer": "غیرفعال کردن Dozer",
+  "Disable Goatman": "غیر فعال کردن Goatman",
+  "One crab cage costs 45C$.": "45C$ قیمت یک قفس خرچنگ است",
+  "Failed to fetch %s, please make a bug report!": "بارگیری %s شکست خورد",
+  "Buy Item": "خرید وسیله",
+  "Cost: %s": "هزینه : %s",
+  "Selected Player": "بازیکن انتخاب شده",
+  "Kill Player with Figure": "کشتن بازیکن با استفاده از فیگور",
+  "Figure has not spawned in your room.": "فیگور در این اتاق احضار نشده است.",
+  "Please use an alarm clock and wait until Figure destroys the clock...": "لطفا از یک ساعت زنگ دار استفاده کنید و صبر کنید تا فیگور آن را نابود کند.",
+  "You have to select a player to kill.": "شما باید یک بازیکن را برای کشتن انتخاب کنید.",
+  "You can't kill yourself.": "نمیتوانید خودتان را بکشید.",
+  "Killed %s successfully!": " با موفقیت %s کشته شد!",
+  "Had an error while trying to kill the player.": "کشتن بازیکن با خطا مواجه شد.",
+  "Delete Figure (FE)": "کشتن فیگور(برای همه)",
+  "Delete Figure": "کشتن فیگور",
+  "Deleting Figure...": "درحال کشتن فیگور...",
+  "Deleted Figure Successfully!": "فیگور با موفقیت کشته شد!",
+  "Fix stuck on Already running.": "'تعمیر گیر کردن روی'درحال اجرا",
+  "Inventory": "کیف",
+  "Center Button": "دکمه مرکز",
+  "One map repair costs 250C$.": "هزینه یک تعمیر نقشه (250C$)",
+  "Auto Claim": "دریافت خودکار",
+  "Claim Current Maps": "دریافت نقشه های فعلی",
+  "Discord Settings": "تنظیمات دیسکورد",
+  "Teleport to Boat": "تلپورت به قایق",
+  "Anchor Bobber": "ثابت کردن شناور",
+  "Anchors the bobber during Auto Fishing.": "هنگام ماهیگیری خودکار شناور را ثابت نگه می‌دارد.",
+  "Anchors you during Auto Fishing.": "هنگام ماهیگیری خودکار شما را ثابت نگه می‌دارد.",
+  "Contributors": "همکار ها ",
+  "Translators": "مترجم ها ",
+  "Auto Bait": "قرار دادن طعمه خودکار",
+  "Priority": "اولویت",
+  "Equipped %s.": "به %s مجهز شد.",
+  "Reset": "بازنشانی",
+  "Fun": "باحال",
+  "Auto Spin Flashlight": "چرخاندن خودکار چراغ قوه",
+  "Auto Quest": "انجام خودکار ماموریت ها",
+  "Make sure to start the quest first!": "ابتدا ماموریت را فعال کنید!",
+  "Completed Quest!": "ماموریت انجام شد!",
+  "Completing Quest...": "درحال انجام ماموریت...",
+  "Finished with quest, re-enabling Auto Farm...": "ماموریت انجام شد ، فعال سازی مجدد فارم خودکار...",
+  "Auto Farm is enabled, disabling...": "فارم خودکار درحال حاضر فعال است، درحال خاموش کردن...",
+  "Complete Cloud Quest": "انجام ماموریت Cloud",
+  "Complete Target Quest": "انجام ماموریت Target",
+  "Complete Ramp Quest": "انجام ماموریت Ramp",
+  "Complete Find Me Quest": "انجام ماموریت Find Me",
+  "Complete Thin Ice Quest": "انجام ماموریت Thin Ice",
+  "Anti-Tripwire": "ضد سیم تله",
+  "Notification Sound ID": "شماره عددی صدای اگاهسازی",
+  "Reset Sound to Default": "بازنشانی صدا به حالت اولیه",
+  "Notification Sound": "صدای اگاهسازی",
+  "Sound has been reset to default.": "صدا با موفقیت به حالت اولیه بازنشانی شد.",
+  "Murderer": "قاتل",
+  "Kill All": "کشتن همه",
+  "The game has not started yet!": "بازی هنوز شروع نشده است!",
+  "You are not the murderer!": "شما قاتل نیستید!",
+  "Killed all players!": "همه بازیکن ها کشته شدند!",
+  "Sheriff": "کلانتر",
+  "Kill Murderer": "کشتن قاتل",
+  "You are not the sheriff!": "شما کلانتر نیستید!",
+  "Failed to find the murder!": "پیدا کردن قاتل شکست خورد!",
+  "Killed the murderer!": "قاتل کشته شد!",
+  "Auto Collect Coins": "جمع کردن خودکار سکه ها",
+  "Auto Collect Gun": "برداشتن خودکار تفنگ",
+  "Dropped Gun": "تفنگ انداخته شده",
+  "Discord Rich Presence": "ریچ پرزنس دیسکورد",
+  "Your executor doesn't support this feature.": "اجرا کننده(اگزکیوتر) شما از این قابلیت پشتیبانی نمی کند.",
+  "General": "کلی",
+  "Disable Sensors": "غیرفعال کردن سنسور ها",
+  "Instant Role Notify": "نمایش شغل سریع",
+  "Silent Aim": "هدفگیری بی صدا",
+  "Reach Multiplier": "افزاینده طول تماس گرفتن",
+  "Enable Reach": "فعال سازی افزاینده طول تماس گرفتن",
+  "Kill Sheriff": "کشتن کلانتر",
+  "Please equip the gun.": "لطفا تفنگ را به دست بگیرید.",
+  "Please equip the knife.": "لطفا چاقو را به دست بگیرید",
+  "Failed to find the sheriff!": "پیدا کردن کلانتر شکست خورد!",
+  "Killed the sheriff!": "کلانتر کشته شد",
+  "Innocent": "بی گناه",
+  "Anti-Wall Dweller": "ضد Wall Dweller",
+  "Don't worry you have Anti Wall Dweller enabled": "نگران نباشید شما Wall Dweller را فعال کرده اید",
+  "Don't get in their line of sight!": "توی میدان دید آنها قرار نگیرید!",
+  "No One": "هیچ کس",
+  "Silent Aim Setting": "تنظیمات هدفگیری بیصدا",
+  "Fling": "فلینگ",
+  "Successfully flinged %s!": "با موفقیت این بازیکن فلینگ شد %s !",
+  "Failed to fling %s.": "فلینگ کردن این بازیکن شکست خورد %s.",
+  "Auto Play": "بازی خودکار",
+  "Auto Play is already running.": "بازی خوکار درحال حاضر روشن است.",
+  "Waiting for player data...": "منتظر داده بازیکن...",
+  "Waiting for the gun...": "منتظر تفنگ...",
+  "Finding the murderer...": "درحال پیدا کردن قاتل...",
+  "Completing round...": "درحال کامل کردن این بازی...",
+  "Round completed!": "بازی تمام شد!",
+  "Auto Play stopped.": "بازی خودکار غیرفعال شد.",
+  "Fling Murderer": "فلینگ کردن قاتل",
+  "You are not innocent!": "شما قاتل نیستید!",
+  "Kill Player": "کشتن بازیکن",
+  "Killed %s!": " %s کشته شد !",
+  "Using these exploits may cause data loss, please use them at your own risk.": ".این چیت ممکن است باعث از بین رفتن داده ها شود، لطفا با مسئولیت خود از آنها استفاده کنید",
+  "Anti-Landmine": "ضد مین",
+  "Auto Pandemonium Minigame": "انجام خودکار مینی گیم Pandemonium",
+  "Document": "سند",
+  "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "حالت خدا خراب شد، به صورت خودکار بعد از خارج شدن از این اتاق روشن میشود. دلیل : برخود با gauntlet",
+  "This feature doesn't work on this floor.": "این قابلیت روی این طبقه کار نمی کند.",
+  "This feature isn't implemented on this floor.": "این قابلیت روی این طبقه به کار نرفه است.",
+  "Anti-Obstruction": "ضد Obstruction",
+  "No Gates": "حذف دروازه ها",
+  "No Puzzle Door": "حذف اتاق های پازلی",
+  "No Skeleton Door": "حدف اتاق Skeleton",
+  "Event Prediction": "پیشبینی اتفاقات",
+  "There may be an event in/after the room %s.": "ممکن است یک اتفاق داخل/بعد اتاق %s باشد.",
+  "Totem Cycle": "Totem Cycle",
+  "Day Totem": "Day Totem",
+  "Night Totem": "Night Totem",
+  "Stop At Event": "توقف در اتفاق",
+  "An Ancient Megalodon has spawned!": "یک Ancient Megalodon احضار شد!",
+  "A Megalodon has spawned!": "یک Megalodon احضار شد!",
+  "Purchase Totem": "خرید Totem",
+  "Amount of Totems": "مقدار Totem",
+  "Buy Totem": "خرید Totem",
+  "Auto Enchant": "Enchant خودکار",
+  "Enchant List": "لیست Enchant",
+  "Successfully enchanted the rod with %s.": "با موفقیت این ملیه را با این Enchant ارتقا داده شد : %s.",
+  "Retry Delay": "تاخیر بین تلاش مجدد",
+  "Auto Collect Meteor": "جمع کردن خودکار شهاب سنگ",
+  "Fish Radar": "رادار ماهی",
+  "Enable fish radar without having to buy it.": "فعال سازی رادار ماهی بدون نیاز به خرید آن",
+  "Resuming...": "ادامه دادن...",
+  "Stopped": "متوقف شد",
+  "Appraise Fish": "ارزیابی ماهی",
+  "Despawn Boat": "حذف کردن قایق",
+  "Disable Property Tool Limits": "برداشت محدودیت های ابزار پیچ گوشتی",
+  "Tool Modifications": "تغییرات ابزار",
+  "Complete Dragon Quest": "انجام ماموریت اژدها",
+  "You need to buy a sword mount first!": "شما باید Sword Mount را از فروشگاه خریداری کرده باشید!",
+  "Complete Soccer Quest": "انجام ماموریت فوتبال",
+  "You need to buy a Harpoon first!": "شما باید Harpoon را از فروشگاه خریداری کرده باشید!",
+  "Complete The Box Quest": "انجام ماموریت جعبه",
+  "Failed to equip the fishing rod, retrying...": "انتخاب کردن چوب ماهیگیری شکست خورد، تلاش مجدد...",
+  "Faster Fishing": "ماهیگیری سریع تر",
+  "This feature only works with the 'Exploit' mode.": "این قابلیت فقط در حالت تقلب کار میکند.",
+  "Disable Temperature": "خاموش کردن دما",
+  "Go To Event": "رفتن به ایونت",
+  "Enabled Event(s)": "ایونت های فعال شده",
+  "Event '%s' has been found!": "ایونت '%s' پیدا شد!",
+  "Disable UI": "خاموش کردن UI",
+  "Failed to repair a new Treasure Map! Not enough money.": "تعمیر نقشه گنج شکست خورد، پول کافی ندارید.",
+  "Simulate Lag": "شبیه سازی لگ",
+  "Tick(s) simulation": "شبیه سازی Tick ها",
+  "Mod Detector": "تشخیص مادریتور",
+  "On Mod Join": "هنگامی که یک مادریتور وارد سرور شود :",
+  "Looking for a server...": "در حال گشتن برای یک سرور...",
+  "Server found!": "یک سرور پیدا شد!",
+  "Player '%s' is a moderator! (%s)": "'%s' یک مادریتور است! (%s)",
+  "Name": "نام",
+  "Sold For": "فروخته شد برای :",
+  "Failed to sell item.": "فروش شکست خورد",
+  "Auto Treasure Map - Repair": "نقشه گنج خودکار - تعمییر",
+  "Auto Treasure Map - Claim": "نقشه گنج خودکار - دریافت",
+  "New Catch!": "صید جدید!",
+  "New Bait!": "طعمه جدید!",
+  "Auto Sell Result": "نتایج فروش خودکار",
+  "New Event!": "ایونت جدید!",
+  "Players": "بازیکن ها",
+  "Teleport to Player": "تلپورت به بازیکن",
+  "Catch Mentions": "صید صدا میزند",
+  "Bait Mentions": "طعمه صدا میزند",
+  "Mentions you when you catch a ... fish.": "شما را وقتی که ماهی جدید بگیرید صدا میزند...",
+  "Mentions you when you catch a ... bait.": "شما را وقتی که طعمخ جدید بگیرید صدا میزند",
+  "[General]": "[کلی]",
+  "Auto Claim Fillionaire": "برداشتن خودکار Fillionaire",
+  "Waiting for Auto Claim Fillionaire to finish...": "منتظر ماندن تا برداشتن خودکار Fillionaire تمام شود...",
+  "Enable Location (Zone Cast)": "فعال سازی منطقه ماهیگیری",
+  "Smooth Look": "تماشای روان",
+  "Disable Litany": "غیرفعال کردن Litany",
+  "Disable Doppelgangers": "غیرفعال کردن Doppelgangers",
+  "This feature is only available on the test branch of the game.": "این قابلیت فقط در نسخه آزمایشی بازی کار میکند.",
+  "DPI Scale": "اندازه DPI",
+  "Restart mspaint to apply DPI changes.": "اسکریپت را ری استارت کنید تا تغییرات DPI اعمال بشوند",
+  "Boat Max Speed": "حداکثر سرعت قایق",
+  "Max Speed": "حداکثر سرعت",
+  "Boat Acceleration": "شتاب قایق",
+  "Acceleration Speed": "شتاب سرعت",
+  "Player to Fling": "تلپورت کردن بازیکن به فلینگ",
+  "Boat Player Fling (FE)": "فلیگ کردن قایق بازیکن",
+  "Flings a player using a boat. Will despawn all boats after use": "یک بازیکن را فلینگ میکند با استفاده از یک قایق. این همه قایق هارا ازبین میبرد بعد از استفاده",
+  "You haven't selected a player to fling.": "شما هیچ بازیکنی را برای فلیگ کردن انتخاب نکرده اید.",
+  "The player's character is not loaded yet.": "شخصیت این بازیکن هنوز کاملا لود نشده است",
+  "You don't have any boats spawned.": "شما هیچ قایقی را احضار نکرده اید",
+  "The player is not loaded yet.": "این بازیکن هنوز لود نشده است",
+  "Flinging %s...": "فلینگ کردن %s ...",
+  "Enchant Relic": "Enchant Relic",
+  "Buy Enchant Relic(s)": "خرید Enchant Relic(ها)",
+  "Buying enchantment relics...": "خرید enchantment Relic ها",
+  "Bought %s enchantment relics from merlin.": "%s مقدار enchantment relic از مرلین خریداری شد.",
+  "Boat Turning Speed": "سرعت چرخش قایق",
+  "Turning Speed": "سرعت چرخش",
+  "Waiting for coins to spawn...": "منتظر ماندن برای اینکه سکه ها احضار بشوند...",
+  "Waiting for the game to start...": "منتظر ماندن برای اینکه بازی شروع بشود...",
+  "Coin Bag is full!": "کیف سکه پر است!",
+  "This feature doesn't work in private servers.": "این قابلیت در سرور های خصوصی کار نمیکند.",
+  "Waiting for Character...": "منتظر ماندن برای شخصیت...",
+  "Show Seek Path": "نمایش مسیر سییک",
+  "To bypass the Anticheat, you must interact with a ladder.": "برای دور زدن انتی چیت باید از یک نرده بان استفاده کنید.",
+  "Ladder ESP has been enabled, do not move while on the ladder.": "ESP نرده بان فعال شد، هنگام استفاده از نرده بان تکان نخورید.",
+  "Exclude Own Team": "درنظر نگفتن همتیمی ها",
+  "Claim All Codes": "اسفتاده کردن همه کد ها",
+  "Fetching all codes from the wiki this may take a while...": "دریافت کردن همه کد ها از وبسایت، ممکن است طول بکشد...",
+  "Successfully found %s codes. Claiming...": "%s تا کد پیدا شد! درحال وارد کردن کد ها...",
+  "Successfully claimed all codes!": "همه کد ها دریافت و استفاده شد اند!",
+  "Police": "پلیس",
+  "Camera": "دوربین",
+  "Criminals": "دزد ها",
+  "Safe Spots": "مناطق صندوقچه ها",
+  "Lootables": "لوت شدنی ها",
+  "Auto Teleport Bags to Van": "تلپورت خودکار کیسه های پول به ماشین",
+  "Teleport Current Bags To Van": "تلپورت کردن کیسه های پول فعلی",
+  "Teleport To Van": "تلپورت شدن به ماشین",
+  "All bags were teleported to the van.": "همه کیسه های پول به ماشین تلپورت شدند",
+  "Disable All Cameras": "شکستن دوربین ها",
+  "Remove Glass (Client)": "برداشتن شیشه ها(برای خود)",
+  "Remove Glass (Server)": "شکستن شیشه ها(برای همه)",
+  "This will alert guard(s) that will notice the shattered glass. MIGHT LAG": "پلیس ها متوجه شکسته شدن شیشه ها میشوند!!! ممکن است لگ بشود",
+  "Done!": "انجام شد!",
+  "Vote Reset": "رای گیری برای ری استارت",
+  "Show Hitboxes": "نمایش هیتباکس ها",
+  "Successfully claimed code '%s'!": "این کد دریافت شد! '%s'!",
+  "Failed to claim code '%s'. It's maybe invalid now.": " این کد استفاده نشد، ممکن است نامعتبر باشد '%s'.",
+  "Infinite Damage": "دمیج دادن بینهایت",
+  "Infinite Ammo": "تیر بینهایت",
+  "Instant Reload": "پر کردن خشاب سریع",
+  "Instant Shoot": "شلیک سرعتی",
+  "Make Guns Automatic": "رگباری کردن اسلحه",
+  "Kill All Cops": "کشتن همه پلیس ها",
+  "Auto Yell Citizens": "ترساندن همه مردم",
+  "Safes": "صندوقچه ها",
+  "Force Checkbox": "انتخاب گزینه اجباری",
+  "UI Style": "استایل UI",
+  "Test Notification": "تست کردن اعلان",
+  "Retired Developer & UI Library Developer": " توسعه دهنده بازنشته و توسعه دهنده UI ",
+  "Helped with ESP": " در ESP کمک کرد ",
+  "Helped with Fisch": " در بازی Fisch کمک کرد ",
+  "Helped with BABFT": " در بازی Build a boat کمک کرد ",
+  "Helped find exploits for DOORS": " در پیدا کردن چندین تقلب در بازی Doors کمک کرد ",
+  "Auto Type": "تایپ کردن خودکار",
+  "Add Random Typing Delay": "اضافه کردن مکس کردن رندوم",
+  "Typing Speed": "سرعت تایپ کردن",
+  "Random Delay Min/Max": "مکس کردن رندوم حداکثر/حداقل",
+  "Word Priority": "اولویت کلمه",
+  "Typing word: %s\nMandatory letters: %s": "تایپ کردن کلمه : %s\nحروف اجباری : %s",
+  "You have no words left, how is that even possible?": "شما هیچ کلمه دیگری باقی ندارید، اصلا چطور ممکنه؟",
+  "Fix broken Fishing Rod.": "تعمیر کردن چوب ماهیگیری شکسته",
+  "Failed to find the equipped fishing rod.": "چوب ماهیگیری انتخاب شده پیدا نشد.",
+  "Fishing rod is now fixed.": "چوب ماهیگیری الان تعمیر شد.",
+  "You need a second fishing rod.": "شما یک چوب ماهیگیری دیگری هم نیاز دارید.",
+  "World": "جهان",
+  "Webhooks": "وب هووک",
+  "Auto Balance Nuke": "متعادل کردن خودکار Nuke",
+  "Anchors your character.": "بازیکن شما را در یک نقطه قفل می کند.",
+  "Anchors the bobber.": "شناور را در یک نقطه قفل می کند.",
+  "Cast Delay": "تأخیر در پرتاب قلاب",
+  "Enable Notifications": "فعالسازی اعلان ها",
+  "Event Override": "جایگزینی ایونت",
+  "Select Rod on Event Override": "انتخاب چوب ماهیگیری خودکار هنگام وقوع جایگزینی ایونت",
+  "Spam open bait crates": "بازکردن مداوم جعبه طعمه",
+  "Bait Priority": "اولویت طعمه",
+  "Fish Priority": "اولویت ماهی",
+  "Character": "شخصیت",
+  "Disable Oxygen - Normal": "غیرفعال کردن اکسیژن - معمولی",
+  "Disable Oxygen - Peaks": "غیرفعال کردن اکسیژن",
+  "Water Platform": "ساخت پلتفورم روی آب",
+  "You can walk on water without making the water collideable.": "شما می توانید روی آب راه بروید بدون اینکه آب را لمس کنید.",
+  "Delete AFK Remote": "حذف کردن ریموت AFK شدن",
+  "Inventory Value:": "ارزش کل موجودی کیف:",
+  "Total Items:": "مجموع آیتم ها:",
+  "Favorited Items:": "آیتم های موردعلاقه:",
+  "Update Information": "بروزرسانی اطلاعات",
+  "Calculate Item in Hand": "حساب کردن آیتم داخل دست",
+  "Item(s)": "آیتم(ها)",
+  "Item Amount": "مقدار آیتم",
+  "Auto Purchase": "خرید خودکار",
+  "Auto Favorite": "علامت‌گذاری خودکار به عنوان موردعلاقه",
+  "Fish Selection": "انتخاب ماهی",
+  "Raritiy Exceptions": "استثنا برای نادر بودن",
+  "Mutation Exceptions": "استثنا برای جهش ها",
+  "Fish Exceptions": "استثنا برای ماهی",
+  "Auto Appraise": "ارزیابی خودکار",
+  "Appraisal List": "فهرست ارزیابی",
+  "Auto Get Rod": "گرفتن خودکار چوب ",
+  "Rod Selection": "انتخاب چوب ماهیگیری",
+  "Get Rod": "گرفتن چوب",
+  "Do not touch anything while mspaint is getting the rod.": "به هیچ چیزی دست نزنید (یا چیزی را فعال نکنید) هنگامی که اسکریپت درحال دریافت چوب ماهیگیری است.",
+  "Repair Maps": "تعمیر نقشه ها",
+  "Claim Maps": "دریافت کردن نقشه ها",
+  "Fishing Zones": "منظقه ماهیگیری",
+  "Events": "ایونت ها",
+  "Teleport Spots": "نقاط تلپورت",
+  "Teleportation": "تلپورت کردن",
+  "Auto Accept Offers": "قبول کردن خودکار پیشنهادات",
+  "Auto Rejoin": "جوین شدن دوباره خودکار",
+  "Skin Selection": "انتخاب کردن اسکین",
+  "Apply Rod Skin": "اعمال اسکین چوب ماهیگیری",
+  "Reset Rod Skin": "بازنشینی اسکین چوب ماهیگیری",
+  "Optimizations": "بهینه‌سازی‌ها",
+  "Disable 3D Rendering": "غیرفعال کردن رندرینگ سه‌بعدی",
+  "Hide Inventory": "پنهان کردن موجودی کیف",
+  "Hide UI": "پنهان کردن صفحه(UI)",
+  "Bobber ESP": "ESP شناور",
+  "Event ESP": "ESP ایونت",
+  "Player ESP": "ESP بازیکن",
+  "Enabled Notifications": "اعلان ها فعال شدند",
+  "Enabled Rarities Mention": "صدا زدن نادر بودن فعال‌ شد",
+  "Enabled Mutations Mention": "صدا زدن جهش ها فعال شد",
+  "Discord: ": "دیسکورد",
+  "Build: ": "ساخت",
+  "Execute on Teleport": "اجرای مجدد خودکار هنگام ورود به بازی دیگر",
+  "Menu keybind": "فهرست دکمه ها",
+  "Owner": "مالک",
+  "Developer": "توسعه دهندگان",
+  "Helped with Fisch Webhooks": "با وب هووک Fisch کمک کرد",
+  "Bobber": "شناور",
+  "Bit by": "گزش شدن توسط",
+  "Mutation": "جهش",
+  "No Mutation": "بدون جهش",
+  "Size": "سایز",
+  "Normal": "معمولی",
+  "Shiny": "نورانی",
+  "False": "خیر",
+  "Sparkling": "درخشان",
+  "Weight": "وزن",
+  "Item Value: %sC$": "ارزش آیتم : %sC$",
+  "Rod Of The Depths already obtained.": "Rod Of The Depths قبلا به دست آمده.",
+  "New Event has Been Spotted": "ایونت جدید دیده شد",
+  "Time": "زمان",
+  "Other Events": "ایونت های دیگر",
+  "Current Cycle": "چرخه فعلی",
+  "Server": "سرور",
+  "Join Server": "جوین سرور شدن",
+  "Rarity": "نادر بودن ",
+  "Amount": "میزان",
+  "Event has Ended": "ایونت تمام شد",
+  "Successfully unloaded ": "با موفقیت آن لود شد",
+  "UNKNOWN ENTITIES": "موجود‌های ناشناخته",
+  "There may be an event in/after %s room(s).": "ممکن است رویدادی در/بعد از %s اتاق(ها) رخ دهد.",
+  "Event": "ایونت",
+  "Success!": "موفقیت!",
+  "Price": "قیمت",
+  "Failed...": "ناموفق...",
+  "Treasure Map": "نقشه گنج",
+  "Coordinates": "مختصات",
+  "Repaired": "تعمیر شد",
+  "Chest Claimed": "صندوق دریافت شد",
+  "Mod Found": "مادریتور پیدا شد",
+  "Username": "نام کاربری",
+  "User ID": "شناسه کاربر عددی",
+  "Rank": "رتبه",
+  "Rejoining": "پیوستن مجدد",
+  "Joining a new server": "پیوستن به سرور جدید",
+  "Reason": "دلیل",
+  "No catches after %s seconds.": "هیچ صیدی پس از %s ثانیه انجام نشد.",
+  "Auto Send Offers": "ارسال خودکار پیشنهادات",
+  "Sending offers...": "در حال ارسال پیشنهادات...",
+  "Selling...": "در حال فروش...",
+  "Sold '%s' for %sC$.": "'%s' فروخته شد به قیمت %sC$.",
+  "Godmode is broken due to teleport. Re-enabling...": "حالت خدا به دلیل تله‌پورت خراب شد. در حال فعال‌سازی مجدد...",
+  "The executor you are using can't bypass the anticheat. You have been kicked by the script, because the game would kick you anyways.": "اگزکیوتری که شما استفاده میکنید نمیتواند آنتی چیت بازی را دور بزند. توسط اسکریپت از بازی کیک شدید، چون در هر صورت خود بازی شمارا کیک میکرد.",
+  "You will never get hungry, incompatible with Godmode.": "شما هرگز گرسنه نخواهید شد، با حالت خدا سازگار نیست.",
+  "You will never get tired, incompatible with Godmode.": "شما هرگز خسته نخواهید شد، با حالت خدا سازگار نیست.",
+  "Respawn": "ری اسپاون",
+  "Build data loaded, building...\n  Version: %s\nBlocks: %s": "داده‌های ساخت بارگذاری شد، در حال ساخت...\n  نسخه: %s\nبلوک‌ها: %s",
+  "Invalid color for '": "رنگ نامعتبر برای '",
+  "Anti Isolation Mode": "ضد حالت Isolation",
+  "Motor Modifications": "تنظیمات موتور",
+  "Claiming code '%s'...": "در حال دریافت کد '%s'...",
+  "Quest To Complete": "ماموریت برای تکمیل",
+  "Complete Quest": "تکمیل ماموریت",
+  "Get Glitch Fragment": "دریافت قطعه گلیچ",
+  "You are already getting a glitch fragment, please wait until it finishes.": "شما در حال حاضر دارید یک قطعه گلیچ دریافت می‌کنید، لطفاً صبر کنید تا تکمیل شود.",
+  "This may take a while...": "این ممکن است مدتی طول بکشد...",
+  "100% done! A glitch fragment will soon spawn somewhere, play like normal.": "100٪ انجام شد! یک قطعه گلیچ به زودی ظاهر خواهد شد، به‌طور معمول بازی کنید.",
+  "%s%% done...": "%s%% انجام شد...",
+  "Failed to get network ownership of Figure, retrying...": "دریافت مالکیت فیگور ناموفق بود، در حال تلاش مجدد...",
+  "Disable Knob Farm Security": "غیرفعال کردن امنیت فارم پول",
+  "Disables the check for room 100 to farm knobs": "بررسی اتاق 100 برای فارم پول را غیرفعال می‌کند",
+  "Auto Play Minecart": "انجام خودکار بازی واگن",
+  "Duck Search Distance": "فاصله جستجوی درازکشیدن",
+  "Split Search Distance": "فاصله جستجوی تقسیم شدن ها",
+  "Disable Entities (FE)": "غیرفعال کردن موجودها (FE)",
+  "You have already disabled entities in the run.": "شما قبلاً موجودها را در این مچ غیرفعال کرده‌اید.",
+  "Disabled all entities in the run.": "تمام موجود‌ها در مچ غیرفعال شدند.",
+  "Disables all entities in the run. Credits to DAMIANOO9": "تمام موجود‌ها را در مچ غیرفعال می‌کند. توسط  DAMIANOO9",
+  "Line Thickness": "ضخامت خط",
+  "Hide": "پنهان کردن",
+  "Visual": "بصری",
+  "Recommended Settings:\nSpeed Bypass and Noclip disabled": "تنظیمات پیشنهادی:\nدور زدن سرعت و Noclip غیرفعال شده باشند",
+  "For your safety, Anti-A90 was enabled automatically for Auto Rooms.": "برای امنیت شما، حالت ضد A90 به‌صورت خودکار برای اتاق‌های خودکار فعال شد.",
+  "Infinite Jack": "جک بی‌نهایت",
+  "Anti-Jeff": "ضد Jeff",
+  "Anti-Jeff (FE)": "ضد Jeff (FE)",
+  "Complete Ending Obby": "تکمیل مرحله پایانی Obby",
+  "Completing Ending Obby": "در حال تکمیل مرحله پایانی Obby",
+  "Seems like the end obby has not been spawned yet.": "به نظر می‌رسد مرحله پایانی Obby هنوز ظاهر نشده است.",
+  "Anti-Seek Wall": "ضد دیوار سییک",
+  "Anti-Lava": "ضد لاوا",
+  "Buy Crucifix(es)": "خرید صلیب(ها)",
+  "Join DOORS before Hotel+ lobby": "پیوستن به DOORS قبل از لابی Hotel+",
+  "Sell Inventory Mode": "حالت فروش موجودی کیف",
+  "Sell after": "فروش پس از",
+  "catches": "صیدها",
+  "Auto Get Rod [BETA]": "گرفتن خودکار چوب [آزمایشی]",
+  "Drop Bobber": "رها کردن شناور",
+  "Drops the bobber.": "شناور را رها می‌کند.",
+  "Enable No Catch Serverhop": "فعال کردن جابجایی سرور بدون صید گرفتن",
+  "After": "پس از",
+  "minute(s)": "دقیقه(ها)",
+  "If you don't catch anything after a set number of minutes with Auto Fish enabled, this option will serverhop.": "اگر پس از مدت مشخصی با ماهیگیری خودکار فعال هیچ صیدی انجام ندهید، این گزینه سرور را تغییر می‌دهد.",
+  "You don't have a bait crate equipped.": "شما یک جعبه طعمه مجهز ندارید.",
+  "Auto Claim Crates": "دریافت خودکار جعبه‌ها",
+  "Automatizations": "اتوماسیون‌ها",
+  "Auto Claim Daily Rewards": "دریافت خودکار جوایز روزانه",
+  "Make sure nothing is covering the shake safezone.\n\nIf you want to do something turn off Auto Shake first,\nit will click on any UI element thats on top of the shake button if you keep it on.": " مطمئن شوید هیچ دکمه ای روی منطقه تکان خودکار (روی تصویر) نیست.\n\nاگر میخواهید کار دیگری انجام بدهید ،ابتدا تکان دادن خودکار را خاموش کنید چون این روی هر دکمه ای روی تصویر کلیک می کند اگر روشن باشد.",
+  "Kick detected, attempting to rejoin...": "کیک شدن شناسایی شد، در حال تلاش برای پیوستن مجدد...",
+  "Whitelist UserID": "شناسه کاربر عددی در فهرست مجاز",
+  "Offers": "پیشنهادات",
+  "Player to Offer": "بازیکن برای ارائه پیشنهاد",
+  "Offer after": "ارائه پیشنهاد پس از",
+  "Auto Send Offers is useful if you farm with multiple accounts, including your main account, on the same server. You can set up an autoclicker on the main account to accept the offers.": "ارسال خودکار پیشنهادات در صورتی مفید است که با چندین اکانت، از جمله اکانت اصلی خود، در یک سرور فارم کنید. می‌توانید روی حساب اصلی یک اتوکلیکر خودکار تنظیم کنید تا پیشنهادات را بپذیرد.",
+  "Identity": "هویت",
+  "Protect Identity": "محافظت هویت",
+  "New Identity Name": "نام هویت جدید",
+  "Enable Color": "فعال کردن رنگ",
+  "Rainbow Color": "رنگین‌کمانی",
+  "Event not found.": "ایونت یافت نشد.",
+  "Deleted custom location: ": "مکان سفارشی حذف شد: ",
+  "Auto Open Select": "انتخاب باز کردن خودکار",
+  "Auto Open": "باز کردن خودکار",
+  "No one": "هیچ‌کس",
+  "Second Life": "زنده شدن دوباره",
+  "Waiting for the item...": "منتظر آیتم...",
+  "Failed to find the ": "پیدا کردن شکست خورد ",
+  "This feature is always on for your safety.": "این ویژگی همیشه برای امنیت شما فعال است.",
+  "Auto R&D": "R&D خودکار",
+  "Auto R&D Stuck Delay": "تأخیر گیر کردن R&D",
+  "Calculated Objective Successfully!\nObjective: %s\nCreating path...": "هدف با موفقیت محاسبه شد!\nهدف: %s\nدر حال ایجاد مسیر...",
+  "Failed to compute path to %s: %s": "محاسبه مسیر به %s ناموفق بود: %s",
+  "Godmode cannot be disabled while Auto R&D is active.": "حالت خدا در حالی که تحقیق و توسعه خودکار فعال است، قابل غیرفعال‌سازی نیست.",
+  "Auto R&D is active": "تحقیق و توسعه خودکار فعال است",
+  "Disable glass bridge": "غیرفعال کردن پل شیشه‌ای",
+  "Disables the glass bridge, this is not recommended as not disabling it can kill you.": "پل شیشه‌ای را غیرفعال می‌کند، این توصیه نمی‌شود زیرا غیرفعال نکردن آن ممکن است باعث مرگ شما شود.",
+  "Tool Cooldown": "کول دون ابزار",
+  "Max Tool Cooldown": "حداکثر کول دون ابزار",
+  "Tool Damage": "آسیب ابزار",
+  "Max Tool Damage": "حداکثر آسیب ابزار",
+  "Light Game Helper": "کمک‌کننده بازی چراغ سبز/قرمز",
+  "Automatically stops your character when the light turns red.": "به‌طور خودکار شخصیت شما را متوقف می‌کند زمانی که نور قرمز شود.",
+  "Beat Light Game": "برنده شدن در بازی چراغ سبز/قرمز",
+  "Successfully beat the game.": "با موفقیت بازی را بردید.",
+  "Auto Honeycomb Minigame": "مینی گیم سوزن و شکل خودکار",
+  "Automatically solves the honeycomb minigame.": "به‌طور خودکار مینی گیم سوزن و شکل را حل می‌کند.",
+  "Auto Tug Of War": "کشیدن طناب خودکار",
+  "Automatically tugs the rope.": "به‌طور خودکار طناب را می‌کشد.",
+  "Auto Mingle": "بازی مینگل خودکار",
+  "Automatically plays the mingle minigame.": "به‌طور خودکار مینی گیم مینگل را انجام می‌دهد.",
+  "Pentathlon Automation:": "اتوماسیون بازی های پنج‌گانه:",
+  "Auto Jegi": "بازی جکی خودکار",
+  "Automatically plays the jegi minigame.": "به‌طور خودکار مینی گیم جگی را انجام می‌دهد.",
+  "Auto Gonggi": "بازی تاس خودکار خودکار",
+  "Automatically plays the gonggi minigame.": "به‌طور خودکار مینی گیم تاس را انجام می‌دهد.",
+  "Auto Biseokchigi": "بازی پرتاب سنگ خودکار",
+  "Automatically plays the biseokchigi minigame, can fail.": "به‌طور خودکار مینی گیم پرتاب سنگ را انجام می‌دهد، ممکن است شکست بخورد.",
+  "Auto Paengi": "بازی نخ و قرقره خودکار",
+  "Automatically plays the paengi minigame, can fail.": "به‌طور خودکار بازی نخ و قرقره را انجام می‌دهد، ممکن است شکست بخورد.",
+  "Auto Ddakji": "بازی داکجی خودکار",
+  "Automatically plays the ddakji minigame, can fail.": "به‌طور خودکار بازی داکجی را انجام می‌دهد، ممکن است شکست بخورد.",
+  "Minigame Throw Power": "قدرت پرتاب مینی گیم",
+  "If Auto Paengi / Auto Ddakji / Auto Biseokchigi does not work, try adjusting the Minigame Throw Power slider.": "اگر نخ و قرقره خودکار / داکجی خودکار / پرتاپ سننگ خودکار کار نکرد، سعی کنید نوار تنظیم قدرت پرتاب مینی گیم را تغییر دهید.",
+  "Locked movement until next green light for your safety.": "حرکت کردن قفل شد تا چراغ سبز بعدی برای امنیت شما.",
+  "Solving the %s honeycomb\nMake sure no UI is blocking the honeycomb & DONT MOVE THE MOUSE...": "در حال حل کردن بازی سوزن و شکل %s\nمطمئن شوید هیچ UI‌ای جلوی شکل را نمی‌گیرد و ماوس را حرکت ندهید...",
+  "Solving the %s honeycomb": "در حال حل کردن بازی سوزن و شکل %s",
+  "Hiding mspaint menu to prevent the minigame from being interrupted.": "مخفی کردن منوی اسکریپت برای جلوگیری از اختلال در مینی گیم.",
+  "Successfully solved the %s honeycomb!": "بازی سوزن و شکل %s با موفقیت حل شد!",
+  "Tugging the rope...": "در حال کشیدن طناب...",
+  "Successfully tugged the rope!": "طناب با موفقیت کشیده شد!",
+  "Teleporting to room...": "در حال تلپورت به اتاق...",
+  "Failed to find a room.": "پیدا کردن اتاق شکست خورد.",
+  "Closing room (%s players in room)...": "در حال بستن اتاق (%s بازیکن در اتاق)...",
+  "Due to your executor's limitations, mspaint is unable to automatically interact with the doors to close them. You will have to do it manually.": "به دلیل محدودیت‌های اجرایی شما، اسکریپت قادر به تعامل خودکار با درها برای بستن آن‌ها نیست. باید این کار را به‌صورت دستی انجام دهید.",
+  "Solver has been disabled due to mspaint menu being open.\nPlease close the menu and mspaint will resume.": "حل‌کننده به دلیل باز بودن منوی اسکریپت غیرفعال شده است.\nلطفاً منو را ببندید تا اسکریپت ادامه دهد.",
+  "Money:": "پول: ",
+  "No Catch Action": "No Catch Action",
+  "Fast Reel": "جمع کردن سریع قرقره",
+  "If you don't catch anything after a set number of minutes with Auto Fish enabled, this option will do the selected action.": "اگر ماهیگیری خودکار فعال باشد و بعد از یک مدت زمان مشخص(دقیقه) هیچ ماهی‌ای صید نشود، بازی به‌طور خودکار یک عمل مشخص‌شده را انجام می‌دهد.",
+  "Reduces reels faster.": "قرقره را سریع‌تر جمع می‌کند.",
+  "Make sure nothing is covering the shake safezone.\\n\\nIf you want to do something turn off Auto Shake first,\\nit will click on any UI element thats on top of the shake button if you keep it on.": "مطمئن شوید که هیچ چیزی منطقه امن تکان دادن را نپوشانده است.\\n\\nاگر می‌خواهید کاری انجام دهید، ابتدا تکان دادن خودکار را خاموش کنید،\\nزیرا در صورت روشن بودن، روی هر عنصر رابط کاربری که روی دکمه تکان دادن قرار دارد کلیک خواهد کرد.",
+  "Disable Underwater Effect": "غیرفعال کردن افکت زیر آب",
+  "Anti Boat Fling": "ضد فلیگ کردن قایق",
+  "Enabled Fish Mention": "فعال کردن اعلان ماهی",
+  "Teleport Boat to Player": "تلپورت قایق به بازیکن",
+  "Aimbot Method": "روش ایم بات",
+  "Enable FOV Circle": "فعال کردن دایره FOV",
+  "FOV Radius": "شعاع FOV",
+  "ForceField Check": "بررسی ForceField",
+  "Waiting for Auto Sell to finish...": "در حال انتظار برای پایان فروش خودکار...",
+  "Waiting for Auto Appraise to finish...": "در حال انتظار برای پایان ارزیابی خودکار...",
+  "Waiting for Auto Totem Cycle to finish...": "در حال انتظار برای پایان چرخه توتم خودکار...",
+  "Waiting for Auto Crab Cage to finish...": "در حال انتظار برای پایان قفس خرچنگ خودکار...",
+  "Waiting for Auto Claim Crate to finish...": "در حال انتظار برای پایان دریافت جعبه خودکار...",
+  "Waiting for Item Sell to finish...": "در حال انتظار برای پایان فروش آیتم...",
+  "Waiting for Spawn Boat to finish...": "در حال انتظار برای پایان احضار قایق...",
+  "Waiting for Auto Send Offers to finish...": "در حال انتظار برای پایان ارسال پیشنهادات خودکار...",
+  "%s has spawned!": "%s احضار شد!",
+  "It's still day! Use a sundial totem.": "هنوز روز است! از توتم sundial استفاده کن.",
+  "Failed to fetch the new item.": "عدم توانایی در دریافت آیتم جدید.",
+  "Successfully appraised %s with %s.": "ارزیابی موفقیت‌آمیز %s با %s.\"",
+  "Failed to appraise %s with %s.": "عدم توانایی در ارزیابی %s با %s.",
+  "Rod Of The Depths is already obtained.": "Rod Of The Depths قبلاً به‌دست آمده است.",
+  "Auto Get Rod is already running.": "گرفتن خودکار چوب در حال اجرا است.",
+  "Enable No Catch Action": "No Catch Action فعال کردن",
+  "Getting Rod Of The Depths...\\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS GETTING THE ROD.": "در حال دریافت Rod Of The Depths...\\nدر حالی که Mspaint در حال دریافت چوب است، هیچ چیزی را لمس نکنید.",
+  "Status: ": "وضعیت:",
+  "Caught Isonade, removing event override & restarting auto fish...": "ماهی Isonade صید شد، لغو تنظیمات ایونت و راه‌اندازی مجدد ماهیگیری خودکار...",
+  "Successfully completed the main Vertigo bestiary.": "به‌طور موفقیت‌آمیز Vertigo bestiary اصلی را تکمیل کردید.",
+  "Failed to get Crab Cage.": "عدم توانایی در دریافت قفس خرچنگ.",
+  "Failed to get Crab Cage deploy remote.": "عدم توانایی در دریافت ریموت گذاشتن قفس خرچنگ.",
+  "Successfully completed the Vertigo bestiary.": "به‌طور موفقیت‌آمیز Vertigo bestiary را تکمیل کردید.",
+  "Successfully got the Depths Key.": "با موفقیت کلید Depths را به‌دست آوردید.",
+  "Successfully opened The Depths gate.": "با موفقیت دروازه Depths را باز کردید.",
+  "Failed to find Merlin for Enchant Relics.": "عدم توانایی در پیدا کردن مرلین برای Enchant Relics.",
+  "Successfully bought 2 Enchant Relics.": "با موفقیت 2 Enchant Relics خریداری شد.",
+  "Successfully appraised Enchant Relics to Hexed and Abyssal.": "با موفقیت Enchant Relics را به Hexed و Abyssal ارزیابی کردید.",
+  "Successfully opened The Depths maze gate.": "با موفقیت دروازه میز Depths را باز کردید.",
+  "Bought the Rod Of The Depths.": "چوب Depths خریداری شد.",
+  "Heaven's Rod is already obtained.": "چوب Heaven قبلاً به‌دست آمده است.",
+  "Heaven's Rod is already running.": "چوب Heaven در حال اجرا است.",
+  "Getting Heaven's Rod...\\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS GETTING THE ROD.": "در حال دریافت چوب Heaven...\\nدر حالی که Mspaint در حال دریافت چوب است، هیچ چیزی را لمس نکنید.",
+  "Failed to get the Blue Energy Crystal.": "عدم توانایی در دریافت کریستال انرژی آبی.",
+  "Successfully got the Blue Energy Crystal.": "با موفقیت کریستال انرژی آبی را به‌دست آوردید.",
+  "Failed to buy the Avalanche Totem.": "عدم توانایی در خرید توتم Avalanche.",
+  "Failed to get the Yellow Energy Crystal.": "عدم توانایی در دریافت کریستال انرژی زرد.",
+  "Successfully got the Yellow Energy Crystal.": "با موفقیت کریستال انرژی زرد را به‌دست آوردید.",
+  "Successfully got the Green Energy Crystal.": "با موفقیت کریستال انرژی سبز را به‌دست آوردید.",
+  "Successfully got the Red Energy Crystal.": "با موفقیت کریستال انرژی قرمز را به‌دست آوردید.",
+  "Bought the Heaven's Rod.": "چوب Heaven خریداری شد.",
+  "Player '%s' is a %s! (%s)": "بازیکن '%s' یک %s است! (%s)",
+  "Auto Fish will start once the moderator leaves the game.": "ماهیگیری خودکار پس از ترک مادریتور از بازی آغاز خواهد شد.",
+  "Moderator left, starting Auto Fish...": "مادریتور سرور را ترک کرد، شروع ماهیگیری خودکار...",
+  "[mspaint] Addon '": "[mspaint] افزونه '",
+  "Addon '": "افزونه '",
+  "Restart mspaint to apply changes.": "برای اعمال تغییرات، mspaint را مجدداً ری استارت کنید.",
+  "Test.": "تست.",
+  "Build data loaded, building...\\n  Version: %s\\nBlocks: %s": "داده‌های ساخت بارگذاری شد، در حال ساخت...\\n نسخه: %s\\nبلوک‌ها: %s",
+  "Recommended Settings:\\nSpeed Bypass and Noclip disabled": "تنظیمات توصیه‌شده:\\nغیرفعال بودن نوکلیپ و دورزدن انتی چیت سرعت",
+  "Calculated Objective Successfully!\\nObjective: %s\\nCreating path...": "هدف با موفقیت محاسبه شد!\\nهدف: %s\\nدر حال ایجاد مسیر...",
+  "Solving the %s honeycomb\\nMake sure no UI is blocking the honeycomb & DONT MOVE THE MOUSE...": "در حال حل کردن %s مینی‌گیم سوزن و شکل\\nمطمئن شوید که هیچ رابط کاربری جلوی مینی‌گیم را نمی‌گیرد و موس را حرکت ندهید...",
+  "Solver has been disabled due to mspaint menu being open.\\nPlease close the menu and mspaint will resume.": "حل‌کننده به‌دلیل باز بودن منوی mspaint غیرفعال شده است.\\nلطفاً منو را ببندید تا mspaint ادامه یابد.",
+  "Auto Join Game": "پیوستن خودکار به بازی",
+  "Auto Join": "پیوستن خودکار",
+  "Typing word: %s\\nMandatory letters: %s": "در حال تایپ کلمه: %s\\nحروف الزامی: %s",
+  "Successfully joined the game.": "با موفقیت به بازی پیوستید.",
+  "A Glitch Fragment was found nearby!": "یک قطعه گلیچ در نزدیکی پیدا شد!",
+  "Solving the breaker box...": "در حال حل کردن جعبه فیوز...",
+  "Look at the screech!": "به screech نگاه کن!",
+  "Please wait...": "لطفاً منتظر بمانید...",
+  "Godmode has been broken due to searchlight encounter.": "حالت خدا به‌دلیل برخورد با searchlight خراب شد.",
+  "Crystal cutscene broke godmode, re-enabling godmode..": "کاتسین کریستال حالت خدا را خراب کرد، فعال سازی مجدد حالت خدا"
 }

@@ -6,6 +6,10 @@ Keep in mind that each file is named based on the [IETF BCP 47 language tag stan
 
 You can use one of the files in `/translations/` as a template. You can create a PR to submit changes and add new language support. Please do not spam the PRs with spam.
 
+# Website
+We created a website for people who do not understand the JSON formatting. This makes your translating job easier via a web ui.
+https://translations.mspaint.cc/
+
 # Testing
 To test out your language in game, you can put the `.json` file in your executor's workspace folder and run this **BEFORE** loading mspaint:
 
