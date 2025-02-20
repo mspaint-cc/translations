@@ -1140,5 +1140,15 @@
   "A Glitch Fragment was found nearby!": "Yakınlarda bir Glitch Fragment bulundu!",
   "Ladder": "Merdiven",
   "Successfully joined the game.": "Başarıyla oyuna katıldı.",
-  "Auto Join": "Otomatik Katıl"
+  "Auto Join": "Otomatik Katıl",
+  "Getting Heaven's Rod...\\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS GETTING THE ROD.": "Cennetin Çubuğunu Alırken...\\nMSPAINT OLTAYI ALARKEN HİÇBİR ŞEYE DOKUNMAYIN.",
+  "Failed to get the Blue Energy Crystal.": "Mavi Enerji Kristali alınamadı.",
+  "Successfully got the Blue Energy Crystal.": "Mavi Enerji Kristalini başarıyla aldındı.",
+  "Failed to buy the Avalanche Totem.": "Çığ Totemi satın alınamadı.",
+  "Failed to get the Yellow Energy Crystal.": "Sarı Enerji Kristali alınamadı.",
+  "Successfully got the Yellow Energy Crystal.": "Sarı Enerji Kristalini başarıyla alındı.",
+  "Successfully got the Green Energy Crystal.": "Yeşil Enerji Kristalini başarıyla alındı.",
+  "Successfully got the Red Energy Crystal.": "Kırmızı Enerji Kristalini başarıyla alındı.",
+  "Heaven's Rod is already running.": "Heaven's Oltası zaten çalışıyor.",
+  "Heaven's Rod is already obtained.": "Heaven's Oltası zaten elde edildi."
 }
