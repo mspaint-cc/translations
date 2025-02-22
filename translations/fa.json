@@ -1187,5 +1187,15 @@
   "Look at the screech!": "به screech نگاه کن!",
   "Please wait...": "لطفاً منتظر بمانید...",
   "Godmode has been broken due to searchlight encounter.": "حالت خدا به‌دلیل برخورد با searchlight خراب شد.",
-  "Crystal cutscene broke godmode, re-enabling godmode..": "کاتسین کریستال حالت خدا را خراب کرد، فعال سازی مجدد حالت خدا"
+  "Crystal cutscene broke godmode, re-enabling godmode..": "کاتسین کریستال حالت خدا را خراب کرد، فعال سازی مجدد حالت خدا",
+  "Rarity Exceptions": "استثناها برای نادر بودن",
+  "Boat Selection": "انتخاب قایق",
+  "Auto Complete [BETA]": "تکمیل خودکار [آزمایشی]",
+  "Get Boat": "گرفتن قایق",
+  "Do not touch anything while mspaint is getting the stuff for you.": "به هیچ چیز دست نزنید هنگامی که اسکریپت درحال دریافت وسایل است.",
+  "Auto Complete": "تکمیل خودکار",
+  "Auto Complete is already running.": "تکمیل خودکار از قبل در حال اجرا است.",
+  "Submarine is already obtained.": "زیردریایی از قبل دریافت شده است.",
+  "Getting Submarine...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS GETTING THE BOAT.": "اسکریپت در حال دریافت زیردریایی است...\nبه هیچ چیز دست نزنید هنگامی که اسکریپت در حال دریافت زیردریایی است.",
+  "Failed to get the Drill.": "دریافت کردن دریل شکست خورد."
 }
