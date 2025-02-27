@@ -522,7 +522,7 @@
   "Buy Item": "Acheter l'Item",
   "Cost: %s": "Coût: %s",
   "Rarity": "Rareté",
-  "Successfully unloaded ": "Déchargement effectué avec succès",
+  "Successfully unloaded ": "raise your yah ya yah",
   "Mutation": "Mutation",
   "No Mutation": "Aucune mutation",
   "Size": "Taille",
@@ -612,5 +612,9 @@
   "Retry Delay": "Délai de réessai",
   "Auto Appraise": "Évaluation automatique",
   "Appraisal List": "Liste des évaluations",
-  "Auto Get Rod [BETA]": "Obtenir canne à pêche automatiquement [BETA]"
+  "Auto Get Rod [BETA]": "Obtenir canne à pêche automatiquement [BETA]",
+  "UNKNOWN ENTITIES": "sillyware :silly:",
+  "Event Prediction": "skibidiwar",
+  "[mspaint] Addon '": "kljKFHJKLDJSJKFJKL",
+  "Restart mspaint to apply changes.": "Redémarrez mspaint pour appliquer les changements."
 }
