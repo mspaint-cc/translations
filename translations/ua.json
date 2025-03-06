@@ -1041,5 +1041,13 @@
   "Getting the Red Energy Crystal...": "Отримання червоного енергетичного кристала...",
   "Getting the Drill...": "Отримання дриля...",
   "Mining for items...": "Видобуток предметів...",
-  "Teleporting to the Submarine...": "Телепортація до підводного човна..."
+  "Teleporting to the Submarine...": "Телепортація до підводного човна...",
+  "Amount of cages to place": "Кількість кліток для розміщення",
+  "Place Crab Cages": "Розмістити крабові клітки",
+  "You don't have a Crab Cage.": "У вас немає крабової клітки.",
+  "You don't have enough Crab Cages.": "У вас недостатньо крабових кліток.",
+  "Placed %s Crab Cages.": "Розміщено %s крабових кліток.",
+  "Getting the Ethereal Prism Rod...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS COMPLETING THE ROD.": "Отримання Ethereal Prism Rod...\nНЕ ТОРКАЙТЕСЯ НІЧОГО, ПОКИ MSPAINT ОТРИМУЄ ВУДКУ.",
+  "Completing Bestiary...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS COMPLETING THE QUEST.": "Завершення бестіарію...\nНЕ ТОРКАЙТЕСЯ НІЧОГО, ПОКИ MSPAINT ЗАВЕРШУЄ КВЕСТ.",
+  "Initial Typing Delay": "Початкова затримка набору"
 }
