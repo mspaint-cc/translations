@@ -1264,5 +1264,6 @@
   "Successfully offerd %sC$!": "%sC$のオファーに成功しました！",
   "Automatic Offers": "自動オファー",
   "Restart mspaint to apply %s.": "%sを適用するためにmspaintを再起動してください。",
-  "Initial Typing Delay": "初期入力遅延"
+  "Initial Typing Delay": "初期入力遅延",
+  "Etheral Prism Rod is already obtained.": "エーテルプリズムの釣り竿はすでに取得済みです。"
 }
