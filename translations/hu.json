@@ -1214,5 +1214,15 @@
   "You don't have the Treasure Map equipped.": "Nincs kincses térkép felszerelve.",
   "Done.": "Kész.",
   "Claim Current Maps": "Jelenlegi térképek igénylése",
-  "Failed to load the boat's data.": "Nem sikerült betölteni a hajó adatait."
+  "Failed to load the boat's data.": "Nem sikerült betölteni a hajó adatait.",
+  "Initial Typing Delay": "Kezdeti gépelési késleltetés",
+  "Amount of cages to place": "Elhelyezendő ketrecek száma",
+  "Place Crab Cages": "Rákketrecek elhelyezése",
+  "You don't have a Crab Cage.": "Nincs rákketreced.",
+  "You don't have enough Crab Cages.": "Nincs elég rákketreced.",
+  "Placed %s Crab Cages.": "%s rákketrec elhelyezve.",
+  "Ethereal Prism Rod is already obtained.": "Az Ethereal Prism Rod már megszerzett.",
+  "Getting the Ethereal Prism Rod...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS COMPLETING THE ROD.": "Ethereal Prism Rod megszerzése...\nNE NYÚLJ SEMMIHEZ, MÍG AZ MSPAINT BEFEJEZI A PÁLCA SZERZÉSÉT.",
+  "Completing Bestiary...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS COMPLETING THE QUEST.": "Bestiárius befejezése...\nNE NYÚLJ SEMMIHEZ, MÍG AZ MSPAINT BEFEJEZI A KÜLDETÉST.",
+  "Etheral Prism Rod is already obtained.": "Az Ethernal Prism Rodot már megszerezted"
 }
