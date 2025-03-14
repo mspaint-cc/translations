@@ -1240,5 +1240,6 @@
   "Successfully offerd %sC$!": "%sC$ başarıyla teklif edildi!",
   "Automatic Offers": "Otomatik Teklifler",
   "Restart mspaint to apply %s.": "%s'yi uygulamak için mspaint'i yeniden başlatın.",
-  "Initial Typing Delay": "İlk Yazma Gecikmesi"
+  "Initial Typing Delay": "İlk Yazma Gecikmesi",
+  "Etheral Prism Rod is already obtained.": "Etheral Prism Rod zaten elde edildi."
 }
