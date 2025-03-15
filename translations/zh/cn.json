@@ -569,7 +569,7 @@
   "[Fisch] Auto Treasure Map - Repair.": "[Fisch] 自动藏宝图 - 修复",
   "Successfully repaired a new Treasure Map!": "成功修复藏宝图!",
   "[Fisch] Auto Treasure Map - Claimed.": "[Fisch] 自动藏宝图 - 已领取",
-  "Successfully claimed a Treasure Map!": "",
+  "Successfully claimed a Treasure Map!": "成功领取了一张藏宝图！",
   "Failed to claimed a Treasure Map. Not enough money.": "无法领取藏宝图。钱不够。",
   "Failed to find the boat's spawn event.": "无法找到船的生成点",
   "Failed to load the boat's data.": "无法加载船的数据",
