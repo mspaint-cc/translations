@@ -1064,5 +1064,10 @@
   "Boat Plane Height": "Նավակի ինքնաթիռի բարձրությունը",
   "Failed to appraise the item because it's favourited.": "Չհաջողվեց գնահատել տարրը, քանի որ այն ընտրված է.",
   "Appraised to Abyssal!": "Գնահատված է Աբիսսալին!",
-  "Possible Lucky Spot": "Հնարավոր բախտավոր վայր"
+  "Possible Lucky Spot": "Հնարավոր բախտավոր վայր",
+  "Addon '": "Նորույթ '",
+  "Completes the bestiary for you - will ignore event fishes and crab cage fishes": "Ավարտում է անասունը ձեզ համար: անտեսելու է իրադարձություն ձկներին և խեցգետնի վանդակի ձկներին",
+  "Notify Lobby Code": "Տեղեկացրեք լոբբի կոդը",
+  "The lobby code is '%s'": "Լոբբիի կոդը '%s' է",
+  "N/A": "Ն/Ա"
 }
