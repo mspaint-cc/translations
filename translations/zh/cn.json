@@ -1266,5 +1266,14 @@
   "Possible Lucky Spot": "可能的幸运之地",
   "Notify Lobby Code": "通知大厅代码",
   "The lobby code is '%s'": "大厅代码是“%s”",
-  "N/A": "未提供"
+  "N/A": "未提供",
+  "Anti-Pipsqueak": "防Pipsqueak",
+  "Sticky Aimbot": "粘性自瞄",
+  "Please select 'Mouse' in 'Get Closest From' dropdown.": "请在“从……获取最近对象”下拉菜单中选择“鼠标”选项",
+  "Checks": "检查",
+  "Colors": "颜色",
+  "FOV Circle Color": "FOV圆圈颜色",
+  "Sticky Target Color": "粘性目标颜色",
+  "Flash them with a light beacon!": "用闪光灯闪他们",
+  "Token": "钱"
 }
