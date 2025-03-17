@@ -1071,5 +1071,19 @@
   "FOV Circle Color": "Տեսադաշտի Շրջանի Գույն",
   "Sticky Target Color": "Կպչուն թիրախային գույն",
   "Flash them with a light beacon!": "Լուսավորեք դրանք լուսային փարոսով!",
-  "Token": "Նշան"
+  "Token": "Նշան",
+  "ForceField Check": "Ուժի դաշտի ստուգում",
+  "Addon '": "Նորույթ '",
+  "Completes the bestiary for you - will ignore event fishes and crab cage fishes": "Ավարտում է անասունը ձեզ համար: անտեսելու է իրադարձություն ձկներին և խեցգետնի վանդակի ձկներին",
+  "The crooked is already disabled/or did not spawn yet.": "Ծուռն արդեն անջատված է/կամ դեռ չի ծնվել.",
+  "Auto Radio": "Ավտո ռադիո",
+  "Could not find the position to tune the radio to please fallback to manual tuning.": "Չհաջողվեց գտնել ռադիոն կարգավորելու դիրքը որպեսզի կարողանանք ձեռքով կարգավորել.",
+  "Radio has automatically been tuned to the position!": "Ռադիոն ավտոմատ կերպով միացվել է դիրքին!",
+  "Fixing wire, the wire is currently at %s%% from fixed.": "Հաղորդալարը ամրագրվում է, լարը ներկայումս գտնվում է ֆիքսված %s%% մակարդակում.",
+  "Wire is currently at %s%% from being fixed!": "Հաղորդալարը ներկայումս գտնվում է %s%% մակարդակում որը չի շտկվում!",
+  "Wire has automatically been fixed!": "Լարը ավտոմատ կերպով շտկվել է!",
+  "Radio": "Ռադիո",
+  "[Tuned]": "[Տեղադրված]",
+  "Intensity Part": "Ինտենսիվության մաս",
+  "Oxygen Tank": "Թթվածնի բաք"
 }
