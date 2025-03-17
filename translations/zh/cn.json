@@ -1275,5 +1275,15 @@
   "FOV Circle Color": "FOV圆圈颜色",
   "Sticky Target Color": "粘性目标颜色",
   "Flash them with a light beacon!": "用闪光灯闪他们",
-  "Token": "钱"
+  "Token": "钱",
+  "Auto Radio": "自动收音机",
+  "Could not find the position to tune the radio to please fallback to manual tuning.": "找不到调整收音机的位置，请回退到手动调音",
+  "Radio has automatically been tuned to the position!": "收音机已自动调到合适位置！",
+  "Fixing wire, the wire is currently at %s%% from fixed.": "「 固定电线，电线目前从固定到%s%%",
+  "Wire is currently at %s%% from being fixed!": "电线目前在%s%%被修复！",
+  "Wire has automatically been fixed!": "电线已经自动固定了！",
+  "Oxygen Tank": "氧气罐",
+  "Intensity Part": "强度部分",
+  "[Tuned]": "[调整]",
+  "Radio": "收音机"
 }
