@@ -1076,5 +1076,17 @@
   "Boat Plane Height": "ボート飛行高度",
   "Failed to appraise the item because it's favourited.": "お気に入り登録されているため、アイテムの鑑定に失敗しました。",
   "Appraised to Abyssal!": "深淵の状態に鑑定されました！",
-  "Possible Lucky Spot": "運が良さそうな場所"
+  "Possible Lucky Spot": "運が良さそうな場所",
+  "Anti-Pipsqueak": "チビっ子対策",
+  "Notify Lobby Code": "ロビーコードを通知",
+  "The lobby code is '%s'": "ロビーコードは「%s」です",
+  "N/A": "該当なし",
+  "Sticky Aimbot": "粘着エイムボット",
+  "Please select 'Mouse' in 'Get Closest From' dropdown.": "「Get Closest From」ドロップダウンで「Mouse」を選択してください。",
+  "Checks": "チェック",
+  "Colors": "色",
+  "FOV Circle Color": "視野円の色",
+  "Sticky Target Color": "粘着ターゲットの色",
+  "Flash them with a light beacon!": "光のビーコンで照らしましょう！",
+  "Token": "トークン"
 }
