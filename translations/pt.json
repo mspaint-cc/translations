@@ -1071,5 +1071,17 @@
   "FOV Circle Color": "Cor do círculo do FOV",
   "Sticky Target Color": "Cor do alvo pegajoso",
   "Flash them with a light beacon!": "Ilumine-os com um farol!",
-  "Token": "Ficha"
+  "Token": "Ficha",
+  "The crooked is already disabled/or did not spawn yet.": "O crooked já está desabilitado/ou ainda não apareceu.",
+  "ForceField Check": "Verificação de campo de força",
+  "Auto Radio": "Radio automático",
+  "Could not find the position to tune the radio to please fallback to manual tuning.": "Não foi possível encontrar a posição para sintonizar o rádio. Por favor, retorne à sintonia manual.",
+  "Radio has automatically been tuned to the position!": "O rádio foi sintonizado automaticamente na posição!",
+  "Fixing wire, the wire is currently at %s%% from fixed.": "Corrigindo o fio, o fio está atualmente em %s%% do corrigido.",
+  "Wire is currently at %s%% from being fixed!": "O fio está atualmente a %s%% de ser consertado!",
+  "Wire has automatically been fixed!": "O fio foi corrigido automaticamente!",
+  "Radio": "Rádio",
+  "[Tuned]": "[Afinado]",
+  "Intensity Part": "Parte da Intensidade",
+  "Oxygen Tank": "Tanque de oxigênio"
 }
