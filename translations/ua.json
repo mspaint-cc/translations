@@ -1068,5 +1068,18 @@
   "Sticky Aimbot": "Прилипливий аімбот",
   "Checks": "Перевірки",
   "Flash them with a light beacon!": "Осліпіть їх світловим маяком!",
-  "Token": "Токен"
+  "Token": "Токен",
+  "Auto Radio": "Автоматичне радіо",
+  "Could not find the position to tune the radio to please fallback to manual tuning.": "Не вдалося знайти позицію для налаштування радіо, будь ласка, виконайте ручне налаштування.",
+  "Radio has automatically been tuned to the position!": "Радіо автоматично налаштовано на позицію!",
+  "Fixing wire, the wire is currently at %s%% from fixed.": "Ремонт дроту, наразі відремонтовано %s%%.",
+  "Wire is currently at %s%% from being fixed!": "Дріт наразі відремонтовано на %s%%!",
+  "Wire has automatically been fixed!": "Дріт автоматично відремонтовано!",
+  "Colors": "Кольори",
+  "FOV Circle Color": "Колір кола FOV",
+  "Sticky Target Color": "Колір липкої цілі",
+  "Radio": "Радіо",
+  "[Tuned]": "[Налаштовано]",
+  "Intensity Part": "Частина інтенсивності",
+  "Oxygen Tank": "Кисневий балон"
 }
