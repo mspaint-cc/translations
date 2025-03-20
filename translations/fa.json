@@ -1128,5 +1128,7 @@
   "Failed to find Ringo.": "Ringo پیدا نشد.",
   "Starting quest...": "در حال شروع مأموریت...",
   "Level Dupe": "دوبلیکیت کردن سطح",
-  "Adds free levels to your player": "چند سطح رایگان به بازیکن شما اضافه می‌کند"
+  "Adds free levels to your player": "چند سطح رایگان به بازیکن شما اضافه می‌کند",
+  "Bruteforce Code": "یافتن خودکار کد",
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open).": "این عملیات کد را زمانی که دو رقم آخر گم شده باشند به‌صورت خودکار حدس خواهد زد (حداکثر ۵ ثانیه طول میکشد، سپس درب باز خواهد شد)."
 }
