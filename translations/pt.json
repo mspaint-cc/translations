@@ -1072,8 +1072,6 @@
   "Sticky Target Color": "Cor do alvo pegajoso",
   "Flash them with a light beacon!": "Ilumine-os com um farol!",
   "Token": "Ficha",
-  "The crooked is already disabled/or did not spawn yet.": "O crooked já está desabilitado/ou ainda não apareceu.",
-  "ForceField Check": "Verificação de campo de força",
   "Auto Radio": "Radio automático",
   "Could not find the position to tune the radio to please fallback to manual tuning.": "Não foi possível encontrar a posição para sintonizar o rádio. Por favor, retorne à sintonia manual.",
   "Radio has automatically been tuned to the position!": "O rádio foi sintonizado automaticamente na posição!",
@@ -1083,5 +1081,7 @@
   "Radio": "Rádio",
   "[Tuned]": "[Afinado]",
   "Intensity Part": "Parte da Intensidade",
-  "Oxygen Tank": "Tanque de oxigênio"
+  "Oxygen Tank": "Tanque de oxigênio",
+  "Bruteforce Code": "Código de força bruta",
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open).": "Isso aplicará força bruta ao código quando os últimos 2 dígitos estiverem faltando (máximo de 5 segundos, a porta será aberta)."
 }
