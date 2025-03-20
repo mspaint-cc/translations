@@ -1088,5 +1088,17 @@
   "FOV Circle Color": "視野円の色",
   "Sticky Target Color": "粘着ターゲットの色",
   "Flash them with a light beacon!": "光のビーコンで照らしましょう！",
-  "Token": "トークン"
+  "Token": "トークン",
+  "Bruteforce Code": "総当たり解読",
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open).": "最後の2桁が不明な場合、このコードを総当たりで解読します（最大5秒で、ドアが開きます）。",
+  "Auto Radio": "オートラジオ",
+  "Could not find the position to tune the radio to please fallback to manual tuning.": "ラジオの周波数を自動設定できませんでした。手動で調整してください。",
+  "Radio has automatically been tuned to the position!": "ラジオが自動的に周波数に合わせられました！",
+  "Fixing wire, the wire is currently at %s%% from fixed.": "ワイヤーを修理中、現在修理完了まで %s%% です。",
+  "Wire is currently at %s%% from being fixed!": "ワイヤーの修理完了まで %s%% です！",
+  "Wire has automatically been fixed!": "ワイヤーが自動的に修理されました！",
+  "Radio": "ラジオ",
+  "[Tuned]": "[調整済]",
+  "Intensity Part": "強度部品",
+  "Oxygen Tank": "酸素タンク"
 }
