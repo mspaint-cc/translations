@@ -1085,5 +1085,7 @@
   "Radio": "Ռադիո",
   "[Tuned]": "[Տեղադրված]",
   "Intensity Part": "Ինտենսիվության մաս",
-  "Oxygen Tank": "Թթվածնի բաք"
+  "Oxygen Tank": "Թթվածնի բաք",
+  "Bruteforce Code": "Բռուտֆորս կոդ",
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open).": "Սա կուժեղացնի կոդը, երբ վերջին 2 թվանշանները բացակայում են (առավելագույնը 5 վայրկյան, դուռը կբացվի)."
 }
