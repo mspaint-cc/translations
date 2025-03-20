@@ -1285,5 +1285,7 @@
   "Oxygen Tank": "氧气罐",
   "Intensity Part": "强度部分",
   "[Tuned]": "[调整]",
-  "Radio": "收音机"
+  "Radio": "收音机",
+  "Bruteforce Code": "暴力破解图书馆密码",
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open).": "当最后两位数字缺失时，这将通过暴力破解的方式来获取密码（最多耗时5秒，门就会打开）"
 }
