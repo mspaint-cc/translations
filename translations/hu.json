@@ -1261,5 +1261,17 @@
   "Starting quest...": "Küldetés indítása...",
   "Level Dupe": "Szint duplikálás",
   "Adds free levels to your player": "Ingyenes szinteket ad a játékosodhoz",
-  "Boat Plane Height": "Hajó sík magassága"
+  "Boat Plane Height": "Hajó sík magassága",
+  "Bruteforce Code": "Bruteforce kód",
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open).": "Ez bruteforce-olja a kódot, ha az utolsó 2 számjegy hiányzik (maximum 5 másodperc, az ajtó kinyílik).",
+  "Auto Radio": "Automatikus rádió",
+  "Could not find the position to tune the radio to please fallback to manual tuning.": "Nem sikerült megtalálni a rádió beállítási pozícióját, kérjük, váltson manuális beállításra.",
+  "Radio has automatically been tuned to the position!": "A rádió automatikusan beállította a pozíciót!",
+  "Fixing wire, the wire is currently at %s%% from fixed.": "Huzal javítása folyamatban, a huzal jelenleg %s%%-ra van a javítástól.",
+  "Wire is currently at %s%% from being fixed!": "A huzal jelenleg %s%%-ra van a javítástól!",
+  "Wire has automatically been fixed!": "A huzal automatikusan meg lett javítva!",
+  "Radio": "Rádió",
+  "[Tuned]": "[Beállítva]",
+  "Intensity Part": "Intenzitás rész",
+  "Oxygen Tank": "Oxigéntartály"
 }
