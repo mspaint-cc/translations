@@ -1055,8 +1055,6 @@
   "Failed to find Easter Bunny.": "Не вдалося знайти Easter Bunny.",
   "Failed to find Ringo.": "Не вдалося знайти Ringo.",
   "Starting quest...": "Початок квесту...",
-  "Level Dupe": "Дублювання рівнів",
-  "Adds free levels to your player": "Додає безкоштовні рівні вашому персонажу",
   "Enable Global Event Webhook": "Увімкнути глобальний вебхук подій",
   "Enables events to be sent to the global webhook (found in the discord server).": "Дозволяє надсилати події у глобальний вебхук (знаходиться на Discord-сервері).",
   "Boat Plane Height": "Висота човна-літака",
