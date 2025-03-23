@@ -1288,5 +1288,9 @@
   "Radio": "收音机",
   "Bruteforce Code": "暴力破解图书馆密码",
   "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open).": "当最后两位数字缺失时，这将通过暴力破解的方式来获取密码（最多耗时5秒，门就会打开）",
-  "Create Logs": "创建日志"
+  "Create Logs": "创建日志",
+  "Auto-%s V2": "自动-%s V2",
+  "Automatically hides the player against entities:\nRush, Ambush, Blitz, A-60, A-120.": "自动隐藏玩家防止实体杀死：\n\nRush，Ambush，Blitz，A-60，A-120",
+  "Automatic: Will pick the best algorithm.\nPrefer Safety: The player will stay hidden as long as possible.\nPrefer Timing: Will hide and unhide as needed.": "自动：将选择最佳算法\n优先考虑安全：玩家将尽可能长时间地保持隐藏状态\n优先考虑时机：会根据需要进行隐藏和现身",
+  "Algorithm mode": "算法模式"
 }
