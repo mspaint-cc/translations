@@ -1081,5 +1081,19 @@
   "Radio": "Радіо",
   "[Tuned]": "[Налаштовано]",
   "Intensity Part": "Частина інтенсивності",
-  "Oxygen Tank": "Кисневий балон"
+  "Oxygen Tank": "Кисневий балон",
+  "Make sure nothing is covering the shake safezone.\\n\\nIf you want to do something turn off Auto Shake first,\\nit will click on any UI element thats on top of the shake button if you keep it on.": "Переконайтеся, що ніщо не закриває безпечну зону струшування.\\n\\nЯкщо ви хочете щось зробити, спершу вимкніть автоматичне струшування,\\nто воно натискатиме на будь-який елемент інтерфейсу, що знаходиться поверх кнопки струшування, якщо його увімкнено.",
+  "Getting Rod Of The Depths...\\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS GETTING THE ROD.": "Витягування стрижня з глибини...\\nНічого не торкайтеся, доки фарба витягує стрижень.",
+  "Getting Heaven's Rod...\\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS GETTING THE ROD.": "Небесна вудка...\\nНічого не чіпайте, доки малюнок отримує жезл.",
+  "Build data loaded, building...\\n  Version: %s\\nBlocks: %s": "Завантажено дані збірки, збірка...\\n Версія: %s\\nБлоки: %s",
+  "Recommended Settings:\\nSpeed Bypass and Noclip disabled": "Рекомендовані налаштування:\\nШвидкісний обхід та Noclip вимкнено",
+  "Calculated Objective Successfully!\\nObjective: %s\\nCreating path...": "Успішно обчислено ціль! \\nЦіль: %s\\nСтворення шляху...",
+  "Solving the %s honeycomb\\nMake sure no UI is blocking the honeycomb & DONT MOVE THE MOUSE...": "Вирішення проблеми зі стільниками %s\\nПереконайтеся, що жоден користувацький інтерфейс не блокує стільники і НЕ РУХАЙТЕ МИШКОЮ...",
+  "Solver has been disabled due to mspaint menu being open.\\nPlease close the menu and mspaint will resume.": "Розв'язувач було вимкнено через відкрите меню mspaint.\\nЗакрийте меню і mspaint відновить роботу.",
+  "Typing word: %s\\nMandatory letters: %s": "Слово для введення: %s\\nОбов'язкові літери: %s",
+  "Create Logs": "Створення журналів",
+  "Auto-%s V2": "Авто-%s V2",
+  "Automatically hides the player against entities:\nRush, Ambush, Blitz, A-60, A-120.": "Автоматично ховає гравця проти сутностей:\nRush, Ambush, Blitz, A-60, A-120.",
+  "Automatic: Will pick the best algorithm.\nPrefer Safety: The player will stay hidden as long as possible.\nPrefer Timing: Will hide and unhide as needed.": "Автоматично: Вибере найкращий алгоритм.\nВіддати перевагу безпеці: Гравець залишатиметься прихованим якомога довше.\nВіддати перевагу часу: Ховатиметься і виринатиме за потреби.",
+  "Algorithm mode": "Режим алгоритму"
 }
