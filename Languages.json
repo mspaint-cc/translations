@@ -116,5 +116,10 @@
     "sv": {
         "NativeName": "Svenska",
         "EnglishName": "Swedish"
+    },
+
+     "az": {
+        "NativeName": "Azerbaijani",
+        "EnglishName": "Azerbaijani"
     }
 }
