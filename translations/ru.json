@@ -1083,7 +1083,7 @@
   "Join Discord": "Discord сервер",
   "Copy Link": "Копировать ссылку",
   "Unload": "Выгрузить",
-  "Save Error Logs": "Сохранять журналы ошибок",
+  "Save Error Logs": "Сохранить логи ошибок",
   "Your executor doesn't support the FileSystem API.": "Ваш чит(инжектор) не поддерживает API файловой системы.",
   "[GameId: %s, JobID: %s] %s": "[GameId: %s, JobID: %s] %s",
   "Developers:": "Разработчики:",
