@@ -1100,5 +1100,10 @@
   "Radio": "ラジオ",
   "[Tuned]": "[調整済]",
   "Intensity Part": "強度部品",
-  "Oxygen Tank": "酸素タンク"
+  "Oxygen Tank": "酸素タンク",
+  "Create Logs": "ログを作成",
+  "Auto-%s V2": "オート-%s V2",
+  "Automatically hides the player against entities:\nRush, Ambush, Blitz, A-60, A-120.": "プレイヤーを次のエンティティから自動的に隠します：\nラッシュ、アンブッシュ、ブリッツ、A-60、A-120。",
+  "Automatic: Will pick the best algorithm.\nPrefer Safety: The player will stay hidden as long as possible.\nPrefer Timing: Will hide and unhide as needed.": "自動：最適なアルゴリズムを選択します。\n安全性優先：プレイヤーができるだけ長く隠れたままになります。\nタイミング優先：必要に応じて隠れたり現れたりします。",
+  "Algorithm mode": "アルゴリズムモード"
 }
