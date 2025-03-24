@@ -1082,8 +1082,12 @@
   "Automatic: Will pick the best algorithm.\nPrefer Safety: The player will stay hidden as long as possible.\nPrefer Timing: Will hide and unhide as needed.": "自動：智能選擇最佳方案\n保命優先：能躲多久躲多久\n看時機：該躲就躲，該漏就漏",
   "Algorithm mode": "算法模式",
   "Latest Changelog": "最新的變更日誌",
-  "Use Tools Anywhere": "在隨處使用工具",
+  "Use Tools Anywhere": "在任何地方使用工具",
   "Bruteforce Code": "暴力破解圖書館密碼",
   "Successfully bruteforced the code!": "暴力破解圖書館密碼成功！",
-  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "當只有最後兩位數字缺失時，將會採取暴力破解的方式解開密碼 (最多只用五秒鐘，門就會自動打開)"
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "當只有最後兩位數字缺失時，將會採取暴力破解的方式解開密碼 (最多只用五秒鐘，門就會自動打開)",
+  "Speed Bypass": "速度繞過",
+  "Speed Bypass Delay": "速度繞過延遲",
+  "Credits": "致謝",
+  "Possible Lucky Spot": "可能的幸運點"
 }
