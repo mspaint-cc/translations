@@ -1296,5 +1296,7 @@
   "Latest Changelog": "更新功能公告",
   "Use Tools Anywhere": "在任何地方使用道具（在衣柜里）",
   "Successfully bruteforced the code!": "成功强行破解密码！",
-  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "当最后2位数字缺失时，这将强制破解密码（最多5秒，图书馆门打开）"
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "当最后2位数字缺失时，这将强制破解密码（最多5秒，图书馆门打开）",
+  "Anti-Firedamp": "防火房",
+  "Disabled the lighter to prevent explosion.": "禁用打火机以防止爆炸"
 }
