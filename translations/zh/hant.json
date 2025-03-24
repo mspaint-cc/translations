@@ -167,8 +167,6 @@
   "Anti-Entity": "反實體",
   "Spam Other Tools": "濫用他人工具",
   "Upside Down": "顛倒視角",
-  "Speed Bypass": "速度繞過",
-  "Speed Bypass Delay": "速度繞過延遲",
   "Anticheat Manipulation": "反作弊操控",
   "Godmode": "無敵模式",
   "Lags you back and is buggy with crouch": "可能卡住，並在蹲下時存在問題",
@@ -410,7 +408,6 @@
   "Unloading ": "卸載中 ",
   "Unloaded!": "卸載完成!",
   "UI Settings": "界面設置",
-  "Credits": "致謝",
   "Open Keybind Menu": "打開快捷鍵菜單",
   "Custom Cursor": "自定義鼠標光標",
   "Menu bind": "菜單快捷鍵",
@@ -1079,10 +1076,14 @@
   "Moderator left, starting Auto Fish...": "管理員已離開，正在開始自動釣魚",
   "Bobber": "浮標",
   "Bit by": "被咬",
-  "Possible Lucky Spot": "可能的幸運點",
   "Create Logs": "建立日誌",
   "Auto-%s V2": "自動%s 第二版",
   "Automatically hides the player against entities:\nRush, Ambush, Blitz, A-60, A-120.": "自動躲藏以對抗以下實體：\nRush，Ambush，Blitz，A-60，A-120",
   "Automatic: Will pick the best algorithm.\nPrefer Safety: The player will stay hidden as long as possible.\nPrefer Timing: Will hide and unhide as needed.": "自動：智能選擇最佳方案\n保命優先：能躲多久躲多久\n看時機：該躲就躲，該漏就漏",
-  "Algorithm mode": "算法模式"
+  "Algorithm mode": "算法模式",
+  "Latest Changelog": "最新的變更日誌",
+  "Use Tools Anywhere": "在隨處使用工具",
+  "Bruteforce Code": "暴力破解圖書館密碼",
+  "Successfully bruteforced the code!": "暴力破解圖書館密碼成功！",
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "當只有最後兩位數字缺失時，將會採取暴力破解的方式解開密碼 (最多只用五秒鐘，門就會自動打開)"
 }
