@@ -1089,5 +1089,7 @@
   "Use Tools Anywhere": "どこでもツールを使用",
   "Bruteforce Code": "総当たり解読",
   "Successfully bruteforced the code!": "コードの総当たり解読に成功！",
-  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "最後の2桁が不明な場合、このコードを総当たりで解読します（最大5秒で、任意の距離からドアが開きます）。"
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "最後の2桁が不明な場合、このコードを総当たりで解読します（最大5秒で、任意の距離からドアが開きます）。",
+  "Anti-Firedamp": "可燃性ガス防止",
+  "Disabled the lighter to prevent explosion.": "爆発を防ぐためにライターを無効にしました。"
 }
