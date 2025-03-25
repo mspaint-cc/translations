@@ -866,11 +866,6 @@
   "Fish '%s' is not in the Fisch Library. (REPORT THIS)": "O peixe '%s' não está na biblioteca do Fisch. (RELATE ISTO)",
   "Failed to find the correct zone for '%s'. (REPORT THIS)": "Falha ao encontrar a zona correta para '%s'. (RELATE ISSO)",
   "Failed to complete the quest, retrying...": "Falha ao completar a missão, tentando novamente...",
-  "Complete The Hunt Event": "Completar o evento The Hunt",
-  "Doing The Hunt Quest...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS COMPLETING THE QUEST.": "Fazendo a missão do The Hunt...\nNÃO TOQUE EM NADA ENQUANTO MSPAINT ESTIVER CONCLUINDO A MISSÃO.",
-  "Failed to find Easter Bunny.": "Não foi possível encontrar o coelho da Páscoa.",
-  "Failed to find Ringo.": "Não foi possível encontrar Ringo.",
-  "Starting quest...": "Iniciando missão...",
   "Position": "Posição",
   "Spam open bait crates": "Spamar abrir caixas de isca",
   "You don't have a bait crate equipped.": "Você não tem uma caixa de isca equipada.",
@@ -1085,5 +1080,11 @@
   "Automatic: Will pick the best algorithm.\nPrefer Safety: The player will stay hidden as long as possible.\nPrefer Timing: Will hide and unhide as needed.": "Automático: Escolherá o melhor algoritmo.\nPrefere Segurança: O jogador ficará escondido o máximo de tempo possível.\nPrefere Tempo: Ocultará e exibirá conforme necessário.",
   "Algorithm mode": "Modo de algoritmo",
   "Successfully bruteforced the code!": "Código submetido a força bruta com sucesso!",
-  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "Isso fará um teste de força bruta no código quando os últimos 2 dígitos estiverem faltando (máximo de 5 segundos, a porta abrirá de qualquer distância)."
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "Isso fará um teste de força bruta no código quando os últimos 2 dígitos estiverem faltando (máximo de 5 segundos, a porta abrirá de qualquer distância).",
+  "Level Dupe": "Duplicação de nível",
+  "Adds free levels to your player": "Adiciona níveis gratuitos ao seu player",
+  "Possible Lucky Spot": "Possível ponto de sorte",
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open).": "Isso aplicará força bruta ao código quando os últimos 2 dígitos estiverem faltando (máximo de 5 segundos, a porta será aberta).",
+  "Anti-Firedamp": "Anti-Grifo",
+  "Disabled the lighter to prevent explosion.": "Desativei o isqueiro para evitar explosão."
 }
