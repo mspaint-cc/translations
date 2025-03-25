@@ -890,11 +890,6 @@
   "Fish '%s' is not in the Fisch Library. (REPORT THIS)": "魚 '%s' 不在Fisch庫中！(請報告該問題)",
   "Failed to find the correct zone for '%s'. (REPORT THIS)": "無法找到 '%s' 的正確區域！(請報告該問題)",
   "Failed to complete the quest, retrying...": "完成任務失敗，正在重試...",
-  "Complete The Hunt Event": "完成The Hunt活動",
-  "Doing The Hunt Quest...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS COMPLETING THE QUEST.": "正在完成The Hunt活動...\n當mspaint在完成The Hunt活動時請不要碰任何東西！",
-  "Failed to find Easter Bunny.": "找不到復活節兔子",
-  "Failed to find Ringo.": "未能找到林戈",
-  "Starting quest...": "開始任務...",
   "Auto Balance Nuke": "自動平衡核彈",
   "Anchors your character.": "錨固我的角色",
   "Drop Bobber": "扔下浮標",
@@ -1086,8 +1081,6 @@
   "Bruteforce Code": "暴力破解圖書館密碼",
   "Successfully bruteforced the code!": "暴力破解圖書館密碼成功！",
   "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "當只有最後兩位數字缺失時，將會採取暴力破解的方式解開密碼 (最多只用五秒鐘，門就會自動打開)",
-  "Speed Bypass": "速度繞過",
-  "Speed Bypass Delay": "速度繞過延遲",
-  "Credits": "致謝",
-  "Possible Lucky Spot": "可能的幸運點"
+  "Anti-Firedamp": "防沼氣",
+  "Disabled the lighter to prevent explosion.": "關閉打火機以防止爆炸"
 }
