@@ -1287,5 +1287,7 @@
   "Latest Changelog": "Последний Ченжлог",
   "Use Tools Anywhere": "Использовать предметы везде",
   "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "Это позволит подобрать код методом перебора, если отсутствуют последние 2 цифры (максимум 5 секунд, дверь откроется с любого расстояния).",
-  "Successfully bruteforced the code!": "Успешно подобран код!"
+  "Successfully bruteforced the code!": "Успешно подобран код!",
+  "Anti-Firedamp": "Анти огненая комната",
+  "Disabled the lighter to prevent explosion.": "Отключает зажигалку, чтобы предотвратить взрыв."
 }
