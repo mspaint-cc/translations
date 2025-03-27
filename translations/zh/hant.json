@@ -1082,14 +1082,5 @@
   "Successfully bruteforced the code!": "暴力破解圖書館密碼成功！",
   "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "當只有最後兩位數字缺失時，將會採取暴力破解的方式解開密碼 (最多只用五秒鐘，門就會自動打開)",
   "Anti-Firedamp": "防沼氣",
-  "Disabled the lighter to prevent explosion.": "關閉打火機以防止爆炸",
-  "Speed Bypass": "速度繞過",
-  "Speed Bypass Delay": "速度繞過延遲",
-  "Credits": "致謝",
-  "Complete The Hunt Event": "完成The Hunt活動",
-  "Doing The Hunt Quest...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS COMPLETING THE QUEST.": "正在完成The Hunt活動...\n當mspaint在完成The Hunt活動時請不要碰任何東西！",
-  "Failed to find Easter Bunny.": "找不到復活節兔子",
-  "Failed to find Ringo.": "未能找到林戈",
-  "Starting quest...": "開始任務...",
-  "Possible Lucky Spot": "可能的幸運點"
+  "Disabled the lighter to prevent explosion.": "關閉打火機以防止爆炸"
 }
