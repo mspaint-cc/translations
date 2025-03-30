@@ -1289,5 +1289,14 @@
   "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "Это позволит подобрать код методом перебора, если отсутствуют последние 2 цифры (максимум 5 секунд, дверь откроется с любого расстояния).",
   "Successfully bruteforced the code!": "Успешно подобран код!",
   "Anti-Firedamp": "Анти огненая комната",
-  "Disabled the lighter to prevent explosion.": "Отключает зажигалку, чтобы предотвратить взрыв."
+  "Disabled the lighter to prevent explosion.": "Отключает зажигалку, чтобы предотвратить взрыв.",
+  "Sold '%s' for %s%s.": "Продан '%s' за %s%s.",
+  "One map repair costs 250%s.": "Одна починка карты стоит 250%s.",
+  "Item Value: %s%s": "Стоимость предмета: %s%s",
+  "You don't have enough fishes. %s%s/%s%s.": "У тебя не достаточно рыб.\n%s%s/%s%s.",
+  "Successfully offerd %s%s!": "Успешно предложено %s%s!",
+  "Kill Cthulu (Second Sea Boss)": "Убить Ктулху (Босс второго моря)",
+  "Kill Cthulu": "Убить Ктулху",
+  "You are not in the Boss Fight.": "Ты сейчас не в босс файте.",
+  "Could not find the Boss UI.": "Не получилось найти менюшку босса."
 }
