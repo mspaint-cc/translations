@@ -1091,5 +1091,14 @@
   "Successfully bruteforced the code!": "コードの総当たり解読に成功！",
   "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "最後の2桁が不明な場合、このコードを総当たりで解読します（最大5秒で、任意の距離からドアが開きます）。",
   "Anti-Firedamp": "可燃性ガス防止",
-  "Disabled the lighter to prevent explosion.": "爆発を防ぐためにライターを無効にしました。"
+  "Disabled the lighter to prevent explosion.": "爆発を防ぐためにライターを無効にしました。",
+  "Sold '%s' for %s%s.": "'%s'を%s%sで売却しました。",
+  "One map repair costs 250%s.": "1つの地図修理には250%sかかります。",
+  "Item Value: %s%s": "アイテム価値：%s%s",
+  "You don't have enough fishes. %s%s/%s%s.": "魚が足りません。%s%s/%s%s。",
+  "Successfully offerd %s%s!": "%s%sの提供に成功しました！",
+  "Kill Cthulu (Second Sea Boss)": "クトゥルフを倒す（第二の海のボス）",
+  "Kill Cthulu": "クトゥルフを倒す",
+  "You are not in the Boss Fight.": "ボス戦闘中ではありません。",
+  "Could not find the Boss UI.": "ボスUIが見つかりませんでした。"
 }
