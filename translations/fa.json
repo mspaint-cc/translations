@@ -1,5 +1,5 @@
 {
-  "mspaint": "mspaint (فارسی - Fa)",
+  "mspaint": "mspaint (فارسی)",
   "Main": "اصلی",
   "Exploits": "تقلب ها",
   "Visuals": "بصری",
@@ -1089,5 +1089,19 @@
   "Kill Cthulhu (Second Sea Boss)": "کشتن Cthulhu (غول دریای دوم)",
   "Kill Cthulhu": "کشتن Cthulhu ",
   "You are not in the Boss Fight.": "شما در مبارزه با غول نیستید.",
-  "Could not find the Boss UI.": "رابط کاربری غول پیدا نشد."
+  "Could not find the Boss UI.": "رابط کاربری غول پیدا نشد.",
+  "Speed Bypass": "دور زدن انتی چیت سرعت",
+  "Speed Bypass Delay": "تاخیر دور زدن انتی چیت سرعت",
+  "Credits": "سپاس از",
+  "One map repair costs 250C$.": "هزینه یک تعمیر نقشه (250C$)",
+  "Item Value: %sC$": "ارزش آیتم : %sC$",
+  "Sold '%s' for %sC$.": "'%s' فروخته شد به قیمت %sC$.",
+  "You don't have enough fishes. %sC$/%sC$.": "ماهی‌های کافی ندارید. %sC$/%sC$.",
+  "Successfully offerd %sC$!": "با موفقیت %sC$ پیشنهاد شد!",
+  "Possible Lucky Spot": "نقطه شانس احتمالی",
+  "Complete The Hunt Event": "انجام ایونت The Hunt",
+  "Doing The Hunt Quest...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS COMPLETING THE QUEST.": "در حال انجام مأموریت The Hunt...\nهیچ چیزی را لمس نکنید تا زمانی که  mspaint مأموریت را کامل کند.",
+  "Failed to find Easter Bunny.": "Easter Bunny پیدا نشد.",
+  "Failed to find Ringo.": "Ringo پیدا نشد.",
+  "Starting quest...": "در حال شروع مأموریت..."
 }
