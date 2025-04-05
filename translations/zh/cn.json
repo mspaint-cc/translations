@@ -1318,5 +1318,19 @@
   "Be careful!": "小心点！",
   "Join Three Nights at the Blacksite": "加入《黑区的三夜后宫》",
   "Disable Camera Static": "禁用摄像头静态干扰",
-  "Auto Hide Popups": "自动隐藏弹出窗口"
+  "Auto Hide Popups": "自动隐藏弹出窗口",
+  "Hiding Spot": "藏身点",
+  "%s: %s studs": "%s：%s螺柱",
+  "Auto Pickup Projectiles": "自动拾取投掷物",
+  "Auto Throw At Players": "自动向玩家投掷",
+  "Projectile Silent Aim": "投掷物自动瞄准",
+  "No Firedamp Effect": "没有火房效果",
+  "Show Entity Distance": "显示实体离你的距离",
+  "World Select": "世界选择",
+  "Teleport to Sea 2": "传送到2海",
+  "Teleport to Sea 1": "传送到1海",
+  "You do not have access to the second sea! Please defeat Cthulu.": "你无法进入第二海！请打败克苏鲁",
+  "Teleporting...": "传送...",
+  "Failed to find the Sea Traveler NPC.": "找不到海上旅行者NPC",
+  "Failed to appraise.": "评估失败"
 }
