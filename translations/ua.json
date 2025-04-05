@@ -1085,5 +1085,26 @@
   "Use Tools Anywhere": "Використовуйте інструменти будь-де",
   "Bruteforce Code": "Bruteforce Код",
   "Successfully bruteforced the code!": "Успішний Bruteforced код!",
-  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "Це призведе до Bruteforce коду, якщо відсутні останні 2 цифри (максимум 5 секунд, двері відчиняться з будь-якої відстані)."
+  "This will bruteforce the code when the last 2 digits are missing (maximum 5 seconds, the door will open from any distance).": "Це призведе до Bruteforce коду, якщо відсутні останні 2 цифри (максимум 5 секунд, двері відчиняться з будь-якої відстані).",
+  "Hiding-Spot": "Схованка",
+  "Anti-Firedamp": "Анти-газ",
+  "Disabled the lighter to prevent explosion.": "Запальничку вимкнено, щоб запобігти вибуху.",
+  "Sebastian is in Camera %s": "Себастьян на камері %s",
+  "Flash sebastian!": "Осліпи Себастьяна!",
+  "Be careful!": "Будь обережним!",
+  "Party": "Вечірка",
+  "Auto Collect Pads": "Автозбір подушечок",
+  "Join Three Nights at the Blacksite": "Приєднатися до 'Три ночі на Чорному об'єкті'",
+  "Disable Camera Static": "Вимкнути статичність камери",
+  "Auto Hide Popups": "Автоматично ховати спливаючі вікна",
+  "Sold '%s' for %s%s.": "Продано '%s' за %s%s.",
+  "One map repair costs 250%s.": "Один ремонт мапи коштує 250%s.",
+  "Item Value: %s%s": "Цінність предмета: %s%s",
+  "You don't have enough fishes. %s%s/%s%s.": "У вас недостатньо риби. %s%s/%s%s.",
+  "Successfully offerd %s%s!": "Успішно запропоновано %s%s!",
+  "Kill Cthulhu (Second Sea Boss)": "Вбий Ктулху (бос другого моря)",
+  "Kill Cthulhu": "Вбий Ктулху",
+  "You are not in the Boss Fight.": "Ви не в битві з босом.",
+  "Could not find the Boss UI.": "Не вдалося знайти інтерфейс боса."
+
 }
