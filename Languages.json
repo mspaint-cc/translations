@@ -118,8 +118,13 @@
         "EnglishName": "Swedish"
     },
 
-     "az": {
+    "az": {
         "NativeName": "Azərbaycanca",
         "EnglishName": "Azerbaijani"
+    },
+
+    "pl": {
+        "NativeName": "Polski",
+        "EnglishName": "Polish"
     }
 }
