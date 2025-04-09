@@ -1,1 +1,24 @@
-{}
+{
+  "No message today... 😢": "Nie ma dziś wiadomości... 😢",
+  "MOTD: %s": "Wiadomość dnia: %s",
+  "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] Twój executor nie wspiera FileSystem API. Dodatki nie będą działać",
+  "Addons": "Dodatki",
+  "%d day%s": "%d dzień%s",
+  "Lifetime": "Życiowy",
+  "%d hour%s %d minute%s": "%d godzina%s %d minuta%s",
+  "%d hour%s": "%d godzina%s",
+  "%d minute%s": "%d minuta%s",
+  "%d second%s": "%d sekunda%s",
+  "WARNING": "UWAGA",
+  "Your executor doesn't support the FileSystem API.": "Twój executor nie wspiera FileSystem API",
+  "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] twój folder z dodatkami nie istnieje. Tworzenie nowego...",
+  "[mspaint] Loading addons...": "[mspaint] Ładowanie dodatków",
+  "This tab is for UN-OFFICIAL addons made for mspaint. We are not responsible for what addons you will use. You are putting yourself AT RISK since you are executing third-party scripts.": "Ta zakładka jest dla NIEOFICJALNYCH dodatków zrobionych dla mspaint. Nie jesteśmy odpowiedzialni za to jakich dodatków będziesz używał. Nakładasz na siebie RYZYKO ponieważ używasz nieautoryzowanych skryptó",
+  "Your addons FOLDER is empty! (": "Twój folder z dodatkami jest pusty",
+  "[mspaint] Invalid file extension for '": "[mspaint] Niepoprawne rozszerzenie pliku dla '",
+  "[mspaint] Loading addon '": "[mspaint] Ładowanie dodatku '",
+  "Failed to load this addon (": "Nie udało się załadować danego dodatku (",
+  "[mspaint] Addon '": "[mspaint] Dodatek",
+  "' didn't load: Wrong game.": "' nie załadowano: zła gra",
+  "Failed to load this addon:": "Nie udało się załadować danego dodatku:"
+}
