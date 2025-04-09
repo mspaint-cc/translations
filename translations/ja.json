@@ -1124,5 +1124,15 @@
   "You do not have access to the second sea! Please defeat Cthulu.": "第二の海にアクセスできません！クトゥルフを倒してください。",
   "Teleporting...": "テレポート中...",
   "Failed to find the Sea Traveler NPC.": "海の旅人NPCを見つけられませんでした。",
-  "Failed to appraise.": "鑑定に失敗しました。"
+  "Failed to appraise.": "鑑定に失敗しました。",
+  "%d days": "%d日",
+  "%d day": "%d日",
+  "%d hours": "%d時間",
+  "%d hour": "%d時間",
+  "%d minutes": "%d分",
+  "%d minute": "%d分",
+  "%d seconds": "%d秒",
+  "%d second": "%d秒",
+  "Fast Reel Delay": "高速リール遅延",
+  "seconds": "秒"
 }
