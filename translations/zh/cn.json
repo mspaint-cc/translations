@@ -1332,5 +1332,15 @@
   "You do not have access to the second sea! Please defeat Cthulu.": "你无法进入第二海！请打败克苏鲁",
   "Teleporting...": "传送...",
   "Failed to find the Sea Traveler NPC.": "找不到海上旅行者NPC",
-  "Failed to appraise.": "评估失败"
+  "Failed to appraise.": "评估失败",
+  "%d days": "%d天",
+  "%d day": "%d天",
+  "%d hours": "%d小时",
+  "%d hour": "%d小时",
+  "%d minutes": "%d分钟",
+  "%d minute": "%d分钟",
+  "%d seconds": "%d秒",
+  "%d second": "%d秒",
+  "Fast Reel Delay": "快速卷轴延迟",
+  "seconds": "秒"
 }
