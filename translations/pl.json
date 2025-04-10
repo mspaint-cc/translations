@@ -44,5 +44,8 @@
   "Save Error Logs": "Zapisz błędy w logach",
   "Restart mspaint to apply %s.": "Zrestartuj mspaint aby zachować %s",
   "Play Alert Sound": "Zagraj dźwięk alertu",
-  "Notify Volume": "Głośność powiadomień"
+  "Notify Volume": "Głośność powiadomień",
+  "Helped find exploits for DOORS": "Pomógł znależć exploity w DOORS",
+  "Developer": "Developer",
+  "Contributors": "współautor"
 }
