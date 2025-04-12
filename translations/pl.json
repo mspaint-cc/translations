@@ -47,5 +47,18 @@
   "Notify Volume": "Głośność powiadomień",
   "Helped find exploits for DOORS": "Pomógł znależć exploity w DOORS",
   "Developer": "Developer",
-  "Contributors": "współautor"
+  "Contributors": "współautor",
+  "mspaint": "mspaint",
+  "UI Settings": "Ustawienia UI",
+  "Unloaded!": "Odładowane!",
+  "Unloading ": "Odładowanie",
+  "Click here to see the migration guide to the new addons api, only click this if you are the addon developer.": "Kliknij tutaj, aby zobaczyć przewodnik migracji do nowego interfejsu API dodatków. Kliknij tutaj tylko jeśli jesteś twórcą dodatku.",
+  "Migration Guide": "przewodnik migracji",
+  "Time left: ": "Pozostały czas:",
+  "Total Executions: ": "Ilość ",
+  "Settings": "Ustawienia",
+  "Menu": "Menu",
+  "Info": "Informacje",
+  "Thank you for supporting us by doing the key system!": "Dziękujemy za wspieranie nas poprzez robienie systemu kluczy",
+  "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "Dziękujemy za kupienie klucza na całe życie! Twoje wsparcie pomaga nam udoskonalanie mspaint :D"
 }
