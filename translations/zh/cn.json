@@ -1342,5 +1342,7 @@
   "%d seconds": "%d秒",
   "%d second": "%d秒",
   "Fast Reel Delay": "快速卷轴延迟",
-  "seconds": "秒"
+  "seconds": "秒",
+  "Please wait while we load the script.": "正在加载脚本，请等待",
+  "Loading...": "正在加载..."
 }
