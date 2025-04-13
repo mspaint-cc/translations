@@ -1324,5 +1324,17 @@
   "You do not have access to the second sea! Please defeat Cthulu.": "İkinci sea'ya erişiminiz yok! Lütfen Cthulu'yu yenin.",
   "Teleporting...": "Işınlanıyor...",
   "Failed to find the Sea Traveler NPC.": "Deniz Gezgini NPC'sini bulunamadı.",
-  "Failed to appraise.": "Değerlendirme başarısız oldu."
+  "Failed to appraise.": "Değerlendirme başarısız oldu.",
+  "%d days": "%d gün",
+  "%d day": "%d gün",
+  "%d hours": "%d saat",
+  "%d hour": "%d saat",
+  "%d minutes": "%d dakika",
+  "%d minute": "%d dakika",
+  "%d seconds": "%d saniye",
+  "%d second": "%d saniye",
+  "Please wait while we load the script.": "Lütfen script yüklenirken bekleyin.",
+  "Loading...": "Yükleniyor...",
+  "Fast Reel Delay": "Hızlı Makara Gecikmesi",
+  "seconds": "saniye"
 }
