@@ -96,5 +96,21 @@
   "Simulate Lag": "Symulowanie laga",
   "Twerk": "Twerk",
   "Selected Player": "Wybrany gracz",
-  "Dropped Gun": "Upuszczono broń"
+  "Dropped Gun": "Upuszczono broń",
+  "Door": "Drzwi",
+  "ESP": "ESP",
+  "Lobby": "Lobby",
+  "Play Again": "Zagraj Ponownie",
+  "Revive": "Odrodzenie",
+  "Reset": "Reset",
+  "Auto Breaker Box": "Auto bezpieczniki",
+  "Auto Breaker Solver Method": "Metoda rozwiązywania auto bezpieczników",
+  "Objective": "Cel",
+  "ESP Type": "Typ ESP",
+  "Rainbow ESP": "Tęczowe ESP",
+  "Entity": "Entity",
+  "Item": "Przedmiot",
+  "Chest": "Skrzynia",
+  "Gold": "Złoto",
+  "Guiding Light": "Guiding light"
 }
