@@ -412,11 +412,6 @@
   "No message today... 😢": "هیج پیامی برای امروز نیست... 😢",
   "MOTD: %s": " : پیام روز %s",
   "Lifetime": "مادام العمر",
-  "%d day%s": "%d روز%s",
-  "%d hour%s %d minute%s": "%d ساعت%s %d دقیقه%s",
-  "%d hour%s": "%d ساعت%s",
-  "%d minute%s": "%d دقیقه%s",
-  "%d second%s": "%d ثانیه%s",
   "Unloading ": "درحال غیرفعال کردن",
   "Unloaded!": "غیر فعال شد!",
   "UI Settings": "تنظیمات رابط کاربری",
@@ -593,7 +588,6 @@
   "Smooth Look": "تماشای روان",
   "Disable Litany": "غیرفعال کردن Litany",
   "Disable Doppelgangers": "غیرفعال کردن Doppelgangers",
-  "This feature is only available on the test branch of the game.": "این قابلیت فقط در نسخه آزمایشی بازی کار میکند.",
   "DPI Scale": "اندازه DPI",
   "Boat Max Speed": "حداکثر سرعت قایق",
   "Max Speed": "حداکثر سرعت",
@@ -1072,7 +1066,6 @@
   "Automatic: Will pick the best algorithm.\nPrefer Safety: The player will stay hidden as long as possible.\nPrefer Timing: Will hide and unhide as needed.": "Automatic: بهترین الگوریتم را انتخاب می‌کند.\nPrefer Safety: بازیکن تا جای ممکن پنهان باقی می‌ماند.\nPrefer Timing: در صورت نیاز پنهان و ظاهر می‌شود.",
   "Algorithm mode": "حالت الگوریتم",
   "Latest Changelog": "آخرین تغییرات",
-  "Hiding-Spot": "محل مخفی شدن",
   "Anti-Firedamp": "ضد Firedamp",
   "Disabled the lighter to prevent explosion.": "فندک غیرفعال شد تا از انفجار جلوگیری شود.",
   "Use Tools Anywhere": "استفاده از ابزارها در هر مکان",
@@ -1090,20 +1083,6 @@
   "Kill Cthulhu": "کشتن Cthulhu ",
   "You are not in the Boss Fight.": "شما در مبارزه با غول نیستید.",
   "Could not find the Boss UI.": "رابط کاربری غول پیدا نشد.",
-  "Speed Bypass": "دور زدن انتی چیت سرعت",
-  "Speed Bypass Delay": "تاخیر دور زدن انتی چیت سرعت",
-  "Credits": "سپاس از",
-  "One map repair costs 250C$.": "هزینه یک تعمیر نقشه (250C$)",
-  "Item Value: %sC$": "ارزش آیتم : %sC$",
-  "Sold '%s' for %sC$.": "'%s' فروخته شد به قیمت %sC$.",
-  "You don't have enough fishes. %sC$/%sC$.": "ماهی‌های کافی ندارید. %sC$/%sC$.",
-  "Successfully offerd %sC$!": "با موفقیت %sC$ پیشنهاد شد!",
-  "Possible Lucky Spot": "نقطه شانس احتمالی",
-  "Complete The Hunt Event": "انجام ایونت The Hunt",
-  "Doing The Hunt Quest...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS COMPLETING THE QUEST.": "در حال انجام مأموریت The Hunt...\nهیچ چیزی را لمس نکنید تا زمانی که  mspaint مأموریت را کامل کند.",
-  "Failed to find Easter Bunny.": "Easter Bunny پیدا نشد.",
-  "Failed to find Ringo.": "Ringo پیدا نشد.",
-  "Starting quest...": "در حال شروع مأموریت...",
   "%d days": "%d روز",
   "%d day": "%d روز",
   "%d hours": "%d ساعت",
@@ -1133,5 +1112,33 @@
   "Teleport to Sea 1": "تلپورت به دریای اول",
   "You do not have access to the second sea! Please defeat Cthulu.": "شما به دریای دوم دسترسی ندارید! لطفاً Cthulu را شکست دهید.",
   "Teleporting...": "در حال تلپورت...",
-  "Failed to find the Sea Traveler NPC.": "شخصیت Sea Traveler پیدا نشد."
+  "Failed to find the Sea Traveler NPC.": "شخصیت Sea Traveler پیدا نشد.",
+  "Death Farm": "فارم مرگ",
+  "Please wait while we load the script.": "لطفاً صبر کنید تا اسکریپت بارگذاری شود",
+  "Loading...": "در حال بارگذاری...",
+  "Combat": "مبارزه",
+  "Auto Collect Moneybags": "جمع‌آوری خودکار کیسه‌های پول",
+  "Loop Bring Items": "آوردن پشت‌سر‌هم آیتم‌ها",
+  "Auto Drive Train": "راندن خودکار قطار",
+  "Spam Train Horn": "اسپم کردن بوق قطار",
+  "Destroy Dragged Items": "از بین بردن آیتمای حمل‌شده",
+  "Third Person View": "حالت سوم‌شخص",
+  "Teleport back to Train": "تلپورت به قطار",
+  "Was unable to find humanoid, teleport failed!": "humanoid یافت نشد، تلپورت ناموفق بود!",
+  "Teleport to End": "تلپورت به انتهای بازی",
+  "Was unable to find weapon, please buy a gun!": "سلاح پیدا نشد، لطفاً یک اسلحه بخرید!",
+  "You need at least 4 ammo to teleport, please buy ammo/reload your weapon! (%s)": "برای تلپورت حداقل به ۴ گلوله نیاز دارید، لطفاً گلوله بخرید یا اسلحه را پر کنید! (%s)",
+  "Teleporting to end, DO NOT TOUCH ANYTHING WHILE MSPAINT IS TELEPORTING YOU...": "در حال تلپورت به انتهای بازی... لطفاً به هیچ چیز دست نزنید تا MSPAINT کار خود را انجام دهد",
+  "You have been teleported to the end, enjoy!": "به انتهای بازی تلپورت شدید، لذت ببرید!",
+  "Client Time Changer": "تغییر تایم (برای خود)",
+  "Client Time in Hour(s)": "\"تغییر تایم بر حسب \"ساعت ",
+  "Hitboxes": "هیت باکس",
+  "Hitbox Expander": "افزایش اندازه هیت باکس",
+  "Expansion Multiplier": "ضریب افزایش",
+  "Kill Aura": "محدوده آسیب اتوماتیک",
+  "Shovel Aura": "محدوده بیل اتوماتیک",
+  "Enable Silent Aim": "فعال‌سازی هدف‌گیری بی‌صدا",
+  "Show Bullet Tracers": "نمایش مسیر گلوله‌ها",
+  "Shows bullet tracers for silent aim.": "مسیر گلوله‌ها را برای هدف‌گیری بی‌صدا نشان می‌دهد",
+  "Bullet Breadcrumbs Color": "رنگ رد گلوله"
 }
