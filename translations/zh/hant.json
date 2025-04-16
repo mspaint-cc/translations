@@ -1118,7 +1118,7 @@
   "Loading...": "加載中...",
   "Combat": "格鬥",
   "Auto Collect Moneybags": "自動收集錢袋",
-  "Loop Bring Items": "循環物品給予",
+  "Loop Bring Items": "循環物品拾取",
   "Auto Drive Train": "自動開火車",
   "Spam Train Horn": "垃圾郵件火車喇叭",
   "Destroy Dragged Items": "破壞可抓取的物品",
@@ -1140,5 +1140,18 @@
   "Enable Silent Aim": "啟用靜默自瞄",
   "Show Bullet Tracers": "顯示子彈軌跡",
   "Shows bullet tracers for silent aim.": "在靜默自瞄下顯示子彈軌跡",
-  "Bullet Breadcrumbs Color": "子彈麵包屑顏色"
+  "Bullet Breadcrumbs Color": "子彈麵包屑顏色",
+  "Speed Bypass": "速度繞過",
+  "Speed Bypass Delay": "速度繞過延遲",
+  "Credits": "致謝",
+  "This feature is only available on the test branch of the game.": "此功能僅在遊戲測試分支中可用。",
+  "Complete The Hunt Event": "完成The Hunt活動",
+  "Doing The Hunt Quest...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS COMPLETING THE QUEST.": "正在完成The Hunt活動...\n當mspaint在完成The Hunt活動時請不要碰任何東西！",
+  "Failed to find Easter Bunny.": "找不到復活節兔子",
+  "Failed to find Ringo.": "未能找到林戈",
+  "Starting quest...": "開始任務...",
+  "Possible Lucky Spot": "可能的幸運點",
+  "Kill Cthulu (Second Sea Boss)": "擊殺克蘇魯 (第二海洋首領)",
+  "Kill Cthulu": "擊殺克蘇魯",
+  "Hiding-Spot": "躲藏點"
 }
