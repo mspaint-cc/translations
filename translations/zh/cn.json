@@ -1369,5 +1369,11 @@
   "Enable Silent Aim": "启用子弹追踪",
   "Show Bullet Tracers": "显示子弹轨迹",
   "Shows bullet tracers for silent aim.": "为自动追踪显示子弹轨迹",
-  "Bullet Breadcrumbs Color": "子弹轨迹颜色"
+  "Bullet Breadcrumbs Color": "子弹轨迹颜色",
+  "Gun Aura": "枪械光环",
+  "Gun Aura Range": "枪械光环范围",
+  "Bullet Tracers Color": "子弹轨迹的颜色",
+  "Auto Collect Bonds": "自动收集债券",
+  "Auto Fuel Train": "自动烧燃料",
+  "Auto Store Items": "自动存储物品"
 }
