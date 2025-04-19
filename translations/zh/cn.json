@@ -1375,5 +1375,8 @@
   "Bullet Tracers Color": "子弹轨迹的颜色",
   "Auto Collect Bonds": "自动收集债券",
   "Auto Fuel Train": "自动给火车加油",
-  "Auto Store Items": "自动存储物品"
+  "Auto Store Items": "自动存储物品",
+  "Train": "火车",
+  "Train Fuel: %s%%": "火车燃料：%s%%",
+  "Train Distance: %s": "列车行驶距离：%s"
 }
