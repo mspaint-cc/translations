@@ -1378,5 +1378,8 @@
   "Auto Store Items": "自动存储物品",
   "Train": "火车",
   "Train Fuel: %s%%": "火车燃料：%s%%",
-  "Train Distance: %s": "列车行驶距离：%s"
+  "Train Distance: %s": "列车行驶距离：%s",
+  "Complete Game": "完成游戏",
+  "You can use the crank in the end now!": "你现在可以拉终点的拉杆了！",
+  "You can use the crank in %s minutes and %s seconds": "您可以在%s分钟和%s秒后拉终点的拉杆"
 }
