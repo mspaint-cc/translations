@@ -1162,5 +1162,17 @@
   "Enable Silent Aim": "サイレントエイムを有効化",
   "Show Bullet Tracers": "弾道軌跡を表示",
   "Shows bullet tracers for silent aim.": "サイレントエイムの弾道軌跡を表示します。",
-  "Bullet Breadcrumbs Color": "弾道軌跡の色"
+  "Bullet Breadcrumbs Color": "弾道軌跡の色",
+  "Gun Aura": "銃オーラ",
+  "Gun Aura Range": "銃オーラ範囲",
+  "Bullet Tracers Color": "弾道軌跡の色",
+  "Auto Collect Bonds": "債券自動収集",
+  "Auto Fuel Train": "列車自動給油",
+  "Auto Store Items": "アイテム自動収納",
+  "Train": "列車",
+  "Train Fuel: %s%%": "列車燃料: %s%%",
+  "Train Distance: %s": "列車距離: %s",
+  "Complete Game": "ゲーム完了",
+  "You can use the crank in the end now!": "今、終点でハンドルを使用できます！",
+  "You can use the crank in %s minutes and %s seconds": "あと%s分%s秒でハンドルを使用できます"
 }
