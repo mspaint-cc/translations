@@ -1361,5 +1361,17 @@
   "Enable Silent Aim": "Sessiz Hedefi Etkinleştir",
   "Show Bullet Tracers": "Mermi İzleyicileri Göster",
   "Shows bullet tracers for silent aim.": "Sessiz nişan için mermi izlerini gösterir.",
-  "Bullet Breadcrumbs Color": "Mermi Rengi"
+  "Bullet Breadcrumbs Color": "Mermi Rengi",
+  "Gun Aura": "Silah Aura",
+  "Gun Aura Range": "Silah Aura Mesafe",
+  "Bullet Tracers Color": "Mermi Tracer Renki",
+  "Auto Collect Bonds": "Otomatik Tahvil Toplama",
+  "Auto Fuel Train": "Otomatik Tren Yakıtı",
+  "Auto Store Items": "Öğeleri Otomatik Depolama",
+  "Train": "Tren",
+  "Train Fuel: %s%%": "Tren Yakıtı: %s%%",
+  "Train Distance: %s": "Tren Mesafesi: %s",
+  "Complete Game": "Oyunu Tamamla",
+  "You can use the crank in the end now!": "Artık krankı kullanabilirsin!",
+  "You can use the crank in %s minutes and %s seconds": "Krankı %s dakika ve %s saniye içinde kullanabilirsiniz"
 }
