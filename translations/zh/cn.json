@@ -1418,5 +1418,11 @@
   "Enchants": "附魔",
   "Pet": "宠物",
   "Enchant": "附魔",
-  "Enchant New Pets": "给新宠物附魔"
+  "Enchant New Pets": "给新宠物附魔",
+  "Marble Throwing Helper": "弹珠投掷辅助",
+  "Helps you get a consistent percentage in the marble throwing minigames.": "帮助你在弹珠投掷小游戏中获得稳定的命中率",
+  "Marble Throw Power": "弹珠投掷力度",
+  "Marble helper has been disabled due to mspaint menu being open.\nPlease close the menu and mspaint will resume.": "由于MSPaint菜单处于打开状态，弹珠辅助功能已被禁用。\n请关闭该菜单，功能将恢复正常",
+  "[Value: %s$]%s": "[数值：%s美元]%s",
+  "[Fuel: %.1f%%]": "[燃料：百分之%.1f]"
 }
