@@ -112,5 +112,8 @@
   "Item": "Przedmiot",
   "Chest": "Skrzynia",
   "Gold": "Złoto",
-  "Guiding Light": "Guiding light"
+  "Guiding Light": "Guiding light",
+  "Failed to find Boat's Base.": "Nie udało sięznaleźć bazy łódki",
+  "Done.": "Zrobione.",
+  "Repair Current Maps": "Napraw\n"
 }
