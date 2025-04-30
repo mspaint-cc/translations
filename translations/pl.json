@@ -116,5 +116,19 @@
   "Failed to find Boat's Base.": "Nie udało sięznaleźć bazy łódki",
   "Done.": "Zrobione.",
   "Repair Current Maps": "Napraw\n",
-  "Farm": "Farma"
+  "Farm": "Farma",
+  "Fullbright": "Fullbright",
+  "Ambient": "Dźwięki",
+  "Brightness": "Jasność",
+  "Text Size": "Wielkość tekstu",
+  "Anti-Lag": "Anty-Lag",
+  "Speed": "Prędkość",
+  "Auto Radio": "Auto Radio",
+  "Auto Generator": "Auto generator",
+  "Colors": "Kolory",
+  "Jump Power": "Moc skoku",
+  "mspaint has detected a seek chase, we have reduced maximum speed to prevent lagback!": "mspaint wykrył pogoń seeka, zmniejszyliśmy maksymalną prędkość aby zapobiec lagbackowi!",
+  "Ladder": "drabina",
+  "Rejoin": "Dołącz ponownie",
+  "Inf Jump": "Nieskończony skok"
 }
