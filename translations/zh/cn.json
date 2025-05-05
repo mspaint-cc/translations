@@ -1487,5 +1487,8 @@
   "Teleporting to Tesla Lab, please wait...": "传送到特斯拉实验室，请稍等......",
   "You have been teleported to Tesla Lab, enjoy!": "你已被传送到特斯拉实验室，小心点",
   "Please get close to a newspaper so mspaint can block sunlight for you!": "请靠近报纸，让mspaint替你挡住阳光！",
-  "Failed to find Merling.": "找不到梅林"
+  "Failed to find Merling.": "找不到梅林",
+  "Successfully claimed code:": "成功申请代码：",
+  "Failed to claim code:": "未能申请代码：",
+  "Claiming '%s'...": "声明“%s”..."
 }
