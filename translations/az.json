@@ -502,5 +502,15 @@
   "Auto Pickup Projectiles": "Proyektilləri Avtomatik Topla",
   "Auto Throw At Players": "Avtomatik Oyunçulara Tulla",
   "Projectile Silent Aim": "Proyektilin Sakit Hədəfi",
-  "No Firedamp Effect": "Atəş Otağı Effekti yoxdur"
+  "No Firedamp Effect": "Atəş Otağı Effekti yoxdur",
+  "Join Three Nights at the Blacksite": "\"BlackSite-da 3 Gün\"-ə Qoşul",
+  "Disable Camera Static": "Kamera Statikliyini Deaktiv et",
+  "Auto Hide Popups": "Pop-up-ları Avtomatik Gizlət",
+  "Show Entity Distance": "Yaratıq Məsafəsini Göstər",
+  "Enable Silent Aim": "Səssiz Hədəfi Aktiv et",
+  "Silent Aim Method": "Səssiz Hədəf Metodu",
+  "Silent Aim uses settings from Aimbot.": "Səssiz Hədəf HədəfBotu-nun Ayarlarından istifadə edir.",
+  "Current Target Color": "İndiki Hədəf Rəngi",
+  "mspaint has detected a seek chase, we have reduced maximum speed to prevent lagback!": "mspaint Bir Seek Qaçışı hiss etdi, biz maksimum sürəti Lag-ları önləmək üçün azaltdıq!",
+  "Detected that seek chase has ended, maximum speed restored!": "Seek Qaçışının bitdiyi hiss olundu, maksimum sürət sıfırlandı!"
 }
