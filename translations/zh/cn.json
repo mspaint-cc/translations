@@ -1490,5 +1490,14 @@
   "Failed to find Merling.": "找不到梅林",
   "Successfully claimed code:": "成功申请代码：",
   "Failed to claim code:": "未能申请代码：",
-  "Claiming '%s'...": "声明“%s”..."
+  "Claiming '%s'...": "声明“%s”...",
+  "Waiting for turn... (%s / %s)": "等待轮到...（%s / %s）",
+  "Waiting for turn...": "等待轮到...",
+  "Auto Farm Currency": "自动刷取货币",
+  "Auto Farm Currency Settings": "自动刷取货币设置",
+  "Farming World": "农业世界",
+  "Collect in Zones": "在区域中收集",
+  "Please select a world you can access.": "请选择您可以访问的世界",
+  "Teleporting up...": "传送至...",
+  "Collecting currency...": "收集货币..."
 }
