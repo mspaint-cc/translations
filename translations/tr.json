@@ -1474,5 +1474,17 @@
   "Auto Enchant has finished.": "Otomatik Büyüleme tamamlandı.",
   "Rift": "Rift",
   "Failed to find the Egg.": "Yumurta bulunamadı.",
-  "Failed to find Merling.": "Merling'i bulunamadı."
+  "Failed to find Merling.": "Merling'i bulunamadı.",
+  "Waiting for turn... (%s / %s)": "Sıra bekleniyor... (%s / %s)",
+  "Waiting for turn...": "Sıra bekleniyor...",
+  "Auto Farm Currency": "Otomatik Çiftlik Para Birimi",
+  "Auto Farm Currency Settings": "Otomatik Çiftlik Para Birimi Ayarları",
+  "Farming World": "Tarım Dünyası",
+  "Collect in Zones": "Bölgelerde Toplayın",
+  "Please select a world you can access.": "Lütfen erişebileceğiniz bir dünya seçin.",
+  "Teleporting up...": "Yukarı ışınlanılıyor...",
+  "Collecting currency...": "Para toplanıyor...",
+  "Successfully claimed code:": "Kod başarıyla Alındı:",
+  "Failed to claim code:": "Kod Alınamadı:",
+  "Claiming '%s'...": "'%s' Alınıyor..."
 }
