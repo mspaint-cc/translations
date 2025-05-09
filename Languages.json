@@ -126,5 +126,10 @@
     "pl": {
         "NativeName": "Polski",
         "EnglishName": "Polish"
+    },
+
+    "et": {
+       "NativeName": "Eesti",
+       "EnglishName": "Estonian"
     }
 }
