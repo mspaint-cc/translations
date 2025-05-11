@@ -1499,5 +1499,18 @@
   "Collect in Zones": "在区域中收集",
   "Please select a world you can access.": "请选择您可以访问的世界",
   "Teleporting up...": "传送至...",
-  "Collecting currency...": "收集货币..."
+  "Collecting currency...": "收集货币...",
+  "Checking other features...": "检查其他功能...",
+  "Rewards & Quests": "奖励和任务",
+  "Bubbles": "气泡",
+  "Auto Blow Bubbles": "自动吹泡泡",
+  "What Currency": "什么货币",
+  "Sell only when full": "仅在满时出售",
+  "Drops": "药水",
+  "Collect Zones": "收集区域",
+  "Auto Hatch": "自动舱口",
+  "You need to be close to the Egg to open it.": "你需要靠近鸡蛋才能打开它",
+  "Turning %s into a shiny pet...": "把%s变成一只闪亮的宠物......",
+  "Auto Claim Prizes (Quests)": "自动索赔奖品（任务）",
+  "Egg was found!": "鸡蛋被发现了！"
 }
