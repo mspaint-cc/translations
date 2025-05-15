@@ -1111,5 +1111,20 @@
   "Teleporting to end, DO NOT TOUCH ANYTHING WHILE MSPAINT IS TELEPORTING YOU...": "Transportando al final, NO TOQUES NADA MIENTRAS MSPAINT TE ESTÁ TELETRANSPORTANDO...",
   "You have been teleported to the end, enjoy!": "Haz sido transportado al final, disfruta!",
   "Teleports": "Teletransportes",
-  "Teleport to Fort Constitution": "Teletransportarse a Fuerte Constitución"
+  "Teleport to Fort Constitution": "Teletransportarse a Fuerte Constitución",
+  "Teleporting to Fort Constitution, please wait...": "Teletransportándose a Fuerte Constitución, por favor espere...",
+  "You have been teleported to Fort Constitution, enjoy!": "¡Te han teletransportado a Fort Constitution, disfrútalo!",
+  "Risky, it may not work and break your game.": "Es arriesgado, puede que no funcione y arruine tu juego.",
+  "Teleport to Vampire Castle": "Teletransportarse al Castillo de los Vampiros",
+  "You have been teleported to Vampire Castle, enjoy!": "¡Te han teletransportado al Castillo de los Vampiros, disfrútalo!",
+  "Teleport to Tesla Lab": "Teletransportarse al laboratorio de Tesla",
+  "Tesla Lab not found, teleport failed!": "¡No se encontró el laboratorio de Tesla, el teletransporte falló!",
+  "Generator not found, teleport failed!": "¡Generador no encontrado, teletransporte fallido!",
+  "Teleport to Tesla Lab...": "Teletransportarse al laboratorio de Tesla...",
+  "Teleporting to Tesla Lab, please wait...": "Teletransportándose al Laboratorio Tesla, por favor espere...",
+  "You have been teleported to Tesla Lab, enjoy!": "¡Te han teletransportado al Laboratorio Tesla, disfrútalo!",
+  "Please get close to a newspaper so mspaint can block sunlight for you!": "¡Por favor, acérquese a un periódico para que mspaint pueda bloquear la luz solar para usted!",
+  "Client Time Changer": "Cambiador de hora del cliente",
+  "Client Time in Hour(s)": "Tiempo del cliente en hora(s)",
+  "Auto Open Select": "Selección de apertura automática"
 }
