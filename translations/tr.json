@@ -1486,5 +1486,18 @@
   "Collecting currency...": "Para toplanıyor...",
   "Successfully claimed code:": "Kod başarıyla Alındı:",
   "Failed to claim code:": "Kod Alınamadı:",
-  "Claiming '%s'...": "'%s' Alınıyor..."
+  "Claiming '%s'...": "'%s' Alınıyor...",
+  "Checking other features...": "Diğer özellikler kontrol ediliyor...",
+  "Rewards & Quests": "Ödüller ve Görevler",
+  "Bubbles": "Bubbles",
+  "Auto Blow Bubbles": "Otomatik Kabarcıkları Üfle",
+  "What Currency": "Ne kadar para var",
+  "Sell only when full": "Sadece dolu olduğunda sat",
+  "Drops": "Damla",
+  "Collect Zones": "Bölgeleri Topla",
+  "Auto Hatch": "Otomatik Hatch",
+  "You need to be close to the Egg to open it.": "Yumurtayı açabilmek için ona yakın olmanız gerekiyor.",
+  "Turning %s into a shiny pet...": "%s yi parlak bir evcil hayvana dönüştürüyorum...",
+  "Auto Claim Prizes (Quests)": "Otomatik Ödülleri Talep Et (Görevler)",
+  "Egg was found!": "Yumurta Bulundu!"
 }
