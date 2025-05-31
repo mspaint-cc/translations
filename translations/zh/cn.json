@@ -1512,5 +1512,11 @@
   "You need to be close to the Egg to open it.": "你需要靠近鸡蛋才能打开它",
   "Turning %s into a shiny pet...": "把%s变成一只闪亮的宠物......",
   "Auto Claim Prizes (Quests)": "自动索赔奖品（任务）",
-  "Egg was found!": "鸡蛋被发现了！"
+  "Egg was found!": "鸡蛋被发现了！",
+  "Merchants": "商人",
+  "Buy whole item stock": "购买全部商品库存",
+  "Auto Buy Items": "自动购买物品",
+  "Hatch closest egg": "孵化最接近的蛋",
+  "World 2 Minigames": "世界2迷你游戏",
+  "Auto Dice": "自动掷骰子"
 }
