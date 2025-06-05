@@ -43,19 +43,6 @@
         "EnglishName": "Russian"
     },
 
-    "uk": {
-        "ua": {
-             "NativeName": "Українська",
-             "EnglishName": "Ukrainian"
-        },
-        
-        "uk": {
-             "NativeName": "Українська",
-             "EnglishName": "Ukrainian"
-        },
-        
-        "Default": "uk"
-    },
     "ua": {
         "NativeName": "Українська",
         "EnglishName": "Ukrainian"
