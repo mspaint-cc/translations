@@ -1565,5 +1565,11 @@
   "Auto Place Eggs": "自动放置蛋",
   "Auto Hatch Eggs": "自动孵化蛋",
   "Auto Collect Quests": "自动收集任务",
-  "Auto Open Packs": "自动打开包装"
+  "Auto Open Packs": "自动打开包装",
+  "Successfully loaded mspaint with the saved key!": "已使用保存的密钥成功加载mspaint！",
+  "Detected Methods:": "检测方法：",
+  "None": "无",
+  "Update Label": "更新标签",
+  "Type Method": "类型方法",
+  "Flip Y -> Z & Z -> Y": "将Y轴与Z轴翻转"
 }
