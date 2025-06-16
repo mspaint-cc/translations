@@ -1572,5 +1572,10 @@
   "Update Label": "更新标签",
   "Type Method": "类型方法",
   "Flip Y -> Z & Z -> Y": "将Y轴与Z轴翻转",
-  "Failed to load the changelog... 😢": "加载更改日志失败...😢"
+  "Failed to load the changelog... 😢": "加载更改日志失败...😢",
+  "Toggle GUI": "切换UI",
+  "GUI": "UI",
+  "Daily Quests": "每日任务",
+  "Honey Quests": "蜂蜜任务",
+  "Auto Honey": "自动蜂蜜"
 }
