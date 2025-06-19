@@ -1559,5 +1559,10 @@
   "Hatch closest egg": "En yakın yumurtayı çıkar",
   "World 2 Minigames": "Dünya 2 Mini Oyunları",
   "Auto Dice": "Otomatik Zar",
-  "Failed to load the changelog... 😢": "Güncelleme notları yüklenemedi... 😢"
+  "Failed to load the changelog... 😢": "Güncelleme notları yüklenemedi... 😢",
+  "GUI": "Menü",
+  "Toggle GUI": "Menü Aç/Kapat",
+  "Daily Quests": "Günlük Görevler",
+  "Honey Quests": "Bal Görevleri",
+  "Auto Honey": "Otomatik Bal"
 }
