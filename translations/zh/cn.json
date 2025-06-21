@@ -1577,5 +1577,13 @@
   "GUI": "UI",
   "Daily Quests": "每日任务",
   "Honey Quests": "蜂蜜任务",
-  "Auto Honey": "自动蜂蜜"
+  "Auto Honey": "自动蜂蜜",
+  "Auto Water uses Auto Plant's position. The Center position is recommended. Random will select a random plant instead of the random position.": "自动浇水功能采用自动植物的位置，建议选中心位置。随机选项会选取随机植物，而非随机位置",
+  "Shops": "商店",
+  "Auto Buy Seeds - %s": "自动购买种子 - %s",
+  "Auto Buy Gears - %s": "自动购买装备 - %s",
+  "Calculate Pet (Tools) Value": "计算宠物（工具）价值",
+  "Pet Value: %s¢": "宠物价值：%s元",
+  "Auto Claim Free INF Pack": "自动领取免费INF礼包",
+  "Opening %s...": "正在打开%s..."
 }
