@@ -1585,5 +1585,12 @@
   "Calculate Pet (Tools) Value": "计算宠物（工具）价值",
   "Pet Value: %s¢": "宠物价值：%s元",
   "Auto Claim Free INF Pack": "自动领取免费INF礼包",
-  "Opening %s...": "正在打开%s..."
+  "Opening %s...": "正在打开%s...",
+  "Pause during weather": "天气影响时暂停",
+  "Minimum Items": "最小物品数量",
+  "Seed Blacklist": "种子黑名单",
+  "Rarity Blacklist": "稀有度黑名单",
+  "Summer Harvest": "夏季收获",
+  "Auto Summer Harvest": "自动夏季收获",
+  "Summer Fruits:": "夏季水果"
 }
