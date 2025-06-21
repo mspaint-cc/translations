@@ -1564,5 +1564,13 @@
   "Toggle GUI": "Menü Aç/Kapat",
   "Daily Quests": "Günlük Görevler",
   "Honey Quests": "Bal Görevleri",
-  "Auto Honey": "Otomatik Bal"
+  "Auto Honey": "Otomatik Bal",
+  "Auto Water uses Auto Plant's position. The Center position is recommended. Random will select a random plant instead of the random position.": "Otomatik Sulama, Otomatik Bitkinin konumunu kullanır. Merkez konumu önerilir. Rastgele, rastgele konum yerine rastgele bir bitki seçecektir.",
+  "Shops": "Mağazalar",
+  "Auto Buy Seeds - %s": "Otomatik Tohum Satın Al - %s",
+  "Auto Buy Gears - %s": "Otomatik Satın Alma Vitesleri - %s",
+  "Calculate Pet (Tools) Value": "Evcil Hayvan (Araçlar) Değerini Hesapla",
+  "Pet Value: %s¢": "Evcil Hayvan Değeri: %s¢",
+  "Auto Claim Free INF Pack": "Otomatik Talep Ücretsiz INF Paketi",
+  "Opening %s...": "%s açılıyor..."
 }
