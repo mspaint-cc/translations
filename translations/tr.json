@@ -1572,5 +1572,12 @@
   "Calculate Pet (Tools) Value": "Evcil Hayvan (Araçlar) Değerini Hesapla",
   "Pet Value: %s¢": "Evcil Hayvan Değeri: %s¢",
   "Auto Claim Free INF Pack": "Otomatik Talep Ücretsiz INF Paketi",
-  "Opening %s...": "%s açılıyor..."
+  "Opening %s...": "%s açılıyor...",
+  "Pause during weather": "Hava koşullarında duraklat",
+  "Minimum Items": "Minimum Eşyalar",
+  "Seed Blacklist": "Tohum Karalistesi",
+  "Rarity Blacklist": "Nadirlik Kara Listesi",
+  "Summer Harvest": "Yaz Hasadı",
+  "Auto Summer Harvest": "Otomatik Yaz Hasadı",
+  "Summer Fruits:": "Yaz Meyveleri:"
 }
