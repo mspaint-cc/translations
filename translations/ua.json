@@ -1321,5 +1321,20 @@
   "Daily Quests": "Щоденні квести",
   "Rewards": "Нагороди",
   "Honey Quests": "Медові квести",
-  "Auto Honey": "Авто-мед"
+  "Auto Honey": "Авто-мед",
+  "Pause during weather": "Пауза під час погодних ефектів",
+  "Minimum Items": "Мінімальна кількість предметів",
+  "Auto Water uses Auto Plant's position. The Center position is recommended. Random will select a random plant instead of the random position.": "Авто-полив використовує позицію авто-посадки. Рекомендовано використовувати центральну позицію. Випадкове — обирає випадкову рослину, а не випадкову позицію.",
+  "Shops": "Магазини",
+  "Seed Blacklist": "Чорний список насіння",
+  "Rarity Blacklist": "Чорний список рідкості",
+  "Auto Buy Seeds - %s": "Автопокупка насіння – %s",
+  "Auto Buy Gears - %s": "Автопокупка спорядження – %s",
+  "Calculate Pet (Tools) Value": "Обчислити вартість улюбленця (інструменти)",
+  "Pet Value: %s¢": "Вартість улюбленця: %s¢",
+  "Auto Claim Free INF Pack": "Автоматично отримати безкоштовний INF пакунок",
+  "Summer Harvest": "Літній урожай",
+  "Auto Summer Harvest": "Автоматичний літній урожай",
+  "Summer Fruits:": "Літні фрукти:",
+  "Opening %s...": "Відкривається %s..."
 }
