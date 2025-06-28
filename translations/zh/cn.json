@@ -1592,5 +1592,9 @@
   "Rarity Blacklist": "稀有度黑名单",
   "Summer Harvest": "夏季收获",
   "Auto Summer Harvest": "自动夏季收获",
-  "Summer Fruits:": "夏季水果"
+  "Summer Fruits:": "夏季水果",
+  "Failed to find the submit remote.": "未能找到提交的位置",
+  "Submit to Summer Harvest": "提交至夏日收获活动",
+  "You have no Summer Harvest fruits or Summer Harvest is not currently happening.": "你没有夏季果实，或者当前未开展夏日收获活动",
+  "Submitting fruit...": "提交水果..."
 }
