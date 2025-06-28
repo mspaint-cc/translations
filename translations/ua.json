@@ -1271,7 +1271,6 @@
   "Auto Plant": "Автоматична посадка",
   "Enable Auto Plant": "Увімкнути авто-посадку",
   "Auto Water": "Автоматичний полив",
-  "Auto Water uses Auto Plant's position. The Center position is recommended.": "Авто-полив використовує позицію авто-посадки. Рекомендовано використовувати центральну позицію.",
   "Enable Auto Water": "Увімкнути авто-полив",
   "Water selected position": "Полив вибраної позиції",
   "Enable Auto Sell": "Увімкнути авто-продаж",
@@ -1336,5 +1335,10 @@
   "Summer Harvest": "Літній урожай",
   "Auto Summer Harvest": "Автоматичний літній урожай",
   "Summer Fruits:": "Літні фрукти:",
-  "Opening %s...": "Відкривається %s..."
+  "Opening %s...": "Відкривається %s...",
+  "Failed to find the submit remote.": "Не вдалося знайти пульт дистанційного керування.",
+  "Maximum Fruit to Submit": "Максимально можлива кількість фруктів для подачі",
+  "Submit to Summer Harvest": "Подати заявку на Літній врожай",
+  "You have no Summer Harvest fruits or Summer Harvest is not currently happening.": "У вас немає фруктів Літнього врожаю або Літній врожай зараз не відбувається.",
+  "Submitting fruit...": "Подання фруктів..."
 }
