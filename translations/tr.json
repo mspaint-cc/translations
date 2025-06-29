@@ -1579,5 +1579,10 @@
   "Rarity Blacklist": "Nadirlik Kara Listesi",
   "Summer Harvest": "Yaz Hasadı",
   "Auto Summer Harvest": "Otomatik Yaz Hasadı",
-  "Summer Fruits:": "Yaz Meyveleri:"
+  "Summer Fruits:": "Yaz Meyveleri:",
+  "Failed to find the submit remote.": "Uzaktan gönderim bulunamadı.",
+  "Maximum Fruit to Submit": "Gönderilecek Maksimum Meyve",
+  "Submit to Summer Harvest": "Yaz Hasadına Teslim Olun",
+  "You have no Summer Harvest fruits or Summer Harvest is not currently happening.": "Yaz Hasadı meyveniz yok veya şu anda Yaz Hasadı yapılmıyor.",
+  "Submitting fruit...": "Meyve gönderiliyor..."
 }
