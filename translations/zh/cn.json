@@ -1634,7 +1634,7 @@
   "Camera Aspect Ratio": "摄相机宽高比",
   "Show Server Position": "显示服务器位置",
   "Generator [%d%%]": "发电机 [%d%%]",
-  "Anti-Abomination": "移除憎恶实体[水下追踪战]",
-  "Anti-Firewall": "防防火墙",
+  "Anti-Abomination": "移除憎恶实体[水下追逐战]",
+  "Anti-Firewall": "反防火墙",
   "Your executor does not support hookmetamethod, which is required for this feature to work.": "您的执行器不支持该功能需要的函数，这是此功能运行所必需的函数"
 }
