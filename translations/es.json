@@ -1624,5 +1624,20 @@
   "Enable Auto Favorite Crop": "Habilitar Auto Favorito Cultivo",
   "Crop to Favorite": "Cultivo a favoritos",
   "Magnifying Glass": "Lupa",
-  "Crops to Check Value": "Cultivos para comprobar su valor"
+  "Crops to Check Value": "Cultivos para comprobar su valor",
+  "Selected Player's Farm": "Granja del jugador seleccionado",
+  "Check Value": "Verificar valor",
+  "The selected player's farm could not be found.": "No se pudo encontrar la granja del jugador seleccionado.",
+  "No crops found to check value.": "No se encontraron cultivos para verificar valor.",
+  "You need to have a magnifying glass equipped to check crop values.": "Necesitas tener una Lupa equipada para mirar el valor de tus plantas.",
+  "Successfully inspected %s/%s crops.": "Se han inspectado exitosamente %s/%s plantas.",
+  "If you put nothing in the whitelist, it will check all crops.": "Si no pones nada en la Lista Blanca, va a verificar todas las plantas.",
+  "Auto Remove Plants": "Eliminar plantas automáticamente",
+  "Valuable Plants": "Plantas valiosas",
+  "Fruit Whitelist": "Lista blanca de frutas",
+  "Zen Event": "Evento Zen",
+  "Submit NPC": "Enviar a NPC",
+  "Auto Submit": "Envíar automáticamente",
+  "Submit to Zen Event": "Enviar al Evento Zen",
+  "You have no Tranquil mutated fruits.": "No tienes ninguna fruta con la mutacion \"Tranquil\""
 }
