@@ -854,7 +854,7 @@
   "Vote Reset": "اعادة ضبط تصويت",
   "Show Hitboxes": "أضهار الهت بوكس",
   "Successfully claimed code '%s'!": "تم كسب كود '%s'!",
-  "Failed to claim code '%s'. It's maybe invalid now.": "فشل كسب كود .'%' ربما يكون غير صالح الان.",
+  "Failed to claim code '%s'. It's maybe invalid now.": "فشل في المطالبة بالرمز '%s'. ربما أصبح غير صالح الآن.",
   "This feature is always on for your safety.": ".هذة الخاصية مفعلة طول الوقت لسلامتك",
   "Disable glass bridge": "اطفاء الجسر الزجاجي",
   "Disables the glass bridge, this is not recommended.": "يطفئ الجسر الزجاجي, ليس موصى بة.",
@@ -906,7 +906,7 @@
   "Typing Speed": "سرعة الكتابة",
   "Random Delay Min/Max": "تأخير عشوائي الحد الأدنى/الحد الاقصى",
   "Word Priority": "اهمية الكلمة",
-  "Typing word: %s\nMandatory letters: %s": "كتابة كلمة: %s\nكلمة إلزامية",
+  "Typing word: %s\nMandatory letters: %s": "كلمة الكتابة: %s\nالأحرف الإلزامية: %s",
   "You have no words left, how is that even possible?": "ليس لديك أي كلمات متبقية, كيف يكون ذلك ممكنا؟",
   "[mspaint] Loading stopped. (ERROR: Loading)": "[mspaint] تقف التحميل. (خطأ: جاري التحميل)",
   "[mspaint] Loading stopped. (ERROR: Already loaded)": "[mspaint] تقف التحميل. (خطأ: تحمل بالفعل)",
@@ -1413,5 +1413,75 @@
   "Auto Blow Bubbles": "نفخ الفقاعات تلقائيًا",
   "Auto Sell Interval": "الفاصل الزمني لبيع ",
   "What Currency": "ما العملة",
-  "Failed to claim code:": "فشل في المطالبة بالرمز:"
+  "Failed to claim code:": "فشل في المطالبة بالرمز:",
+  "Successfully loaded mspaint with the saved key!": "تم تحميل mspaint بنجاح باستخدام المفتاح المحفوظ!",
+  "Failed to load the changelog... 😢": "فشل تحميل سجل التغييرات... 😢",
+  "Made mspaint forsaken": "صنع mspaint forsaken",
+  "Anti-Abomination": "مكافحة الرجس",
+  "Disable Local Damage": "تعطيل الضرر العميل",
+  "This may break some interactions.": "قد يؤدي هذا إلى كسر بعض التفاعلات.",
+  "Document Name": "اسم المستند",
+  "Get Document [Kills you]": "الحصول على المستند [يقتلك]",
+  "Successfully requested the document. You have been killed so you can get the document.": "تم طلب المستند بنجاح. تم إيقافك لتتمكن من الحصول عليه.",
+  "Show Entity Path": "إظهار مسار الكيان",
+  "Detected Methods:": "الأساليب المكتشفة:",
+  "None": "لا أحد",
+  "Update Label": "تحديث التسمية",
+  "Your executor needs to support require to load mspaint in Forsaken.": "يجب أن يدعم المنفذ الخاص بك داله require ليحمل mspaint في Forsaken.",
+  "Your executor needs to support require to load mspaint in Grow A Garden.": "يجب أن يدعم المنفذ الخاص بك داله require ليحمل mspaint في Grow A Garden.",
+  "Waiting for setup to finish...": "في انتظار انتهاء الإعداد...",
+  "Failed to find your current farm plot, please re-execute mspaint.": "فشل في العثور على قطعة الأرض الزراعية الحالية الخاصة بك، يرجى إعادة تنفيذ mspaint.",
+  "Quests": "المهام",
+  "Removals": "إزالة",
+  "Anti-John Doe Trail": "مضاد-مسار جون دو",
+  "Anti-John Doe Footprint": "مضاد-بصمة جون دو",
+  "Velocity": "سرعة",
+  "Velocity Speed": "السرعة",
+  "Stamina Drain Rate": "معدل استنزاف القدرة على التحمل",
+  "No Backpedal Penalty": "لا عقوبة للرجوع للخلف",
+  "Auto Survivor": "الناجي التلقائي",
+  "Close 1x1x1x1 Popups": "إغلاق النوافذ المنبثقة 1x1x1x1",
+  "Auto Sprint": "الركض التلقائي",
+  "Enable Auto Sprint": "تفعيل الركض التلقائي",
+  "Survivor Settings:": "إعدادات الناجي:",
+  "Only on Threat": "فقط عند التهديد",
+  "Panic Sprint": "ركض الذعر",
+  "Elliot": "إليوت",
+  "Auto Pizza Throw": "رمي البيتزا التلقائي",
+  "Chance": "فرصة",
+  "Auto Coinflip": "تقلب العملات تلقائيًا",
+  "Attack": "هجوم",
+  "Enable Aura": "تفعيل الهجوم الجانبي",
+  "Attack Aura": "الهجوم الجانبي",
+  "Survivor": "الناجي",
+  "Chance: Flintlock Auto-Aim": "الفرصة: التصويب التلقائي باستخدام فلينتلوك",
+  "Killer": "القاتل",
+  "Selected Killer Settings": "إعدادات القاتل المحددة",
+  "Prediction Mode": "وضع التنبؤ",
+  "Aiming Mode": "وضع التصويب",
+  "Mass Infection Auto-Aim": "الهدف التلقائي للعدوى الجماعية",
+  "Entanglement Auto-Aim": "التشابك - التصويب التلقائي",
+  "Override Camera": "تجاوز الكاميرا",
+  "Camera Aspect Ratio": "نسبة عرض الكاميرا",
+  "Show Server Position": "إظهار موقعك في الخادم",
+  "Auto Collect": "التجميع التلقائي",
+  "Plant Whitelist": "القائمة البيضاء للنباتات",
+  "Mutation Whitelist": "القائمة البيضاء للطفرات",
+  "Pause during weather": "توقف أثناء الطقس",
+  "Minimum Age": "الحد الأدنى للعمر",
+  "Enable Auto Collect": "تفعيل التجميع التلقائي",
+  "Minimum Items": "الحد الأدنى من العناصر",
+  "Enable Auto Sell": "تفعيل البيع التلقائي",
+  "Sell Item": "بيع السلعة",
+  "Auto Plant": "الزرع التلقائي",
+  "Auto Water": "الري التلقائي",
+  "Enable Auto Plant": "تفعيل الزرع التلقائي",
+  "Crop to Water": "المحاصيل لري",
+  "Enable Auto Water": "تفعيل الري التلقائي",
+  "Water selected position": "موقع المياه المحدد",
+  "Auto Water uses Auto Plant's position if a crop is not specified. The Center position is recommended. Random will select a random plant instead of the random position.": "يستخدم الري التلقائي موضع النبات التلقائي إذا لم يُحدد المحصول. يُنصح باستخدام الموضع المركزي. سيختار \"عشوائي\" نباتًا عشوائيًا بدلاً من الموضع العشوائي.",
+  "Auto Buy Seeds": "شراء البذور تلقائيًا",
+  "Shops": "المتاجر",
+  "Seed Whitelist": "القائمة البيضاء للبذور",
+  "Rarity Whitelist": "القائمة البيضاء النادرة"
 }
