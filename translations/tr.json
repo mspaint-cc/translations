@@ -1676,5 +1676,15 @@
   "Item Features": "Ürün Özellikleri",
   "Player Features": "Oyuncu Özellikleri",
   "Teleportation and World Features": "Işınlanma ve Dünya Özellikleri",
-  "Discord Communication": "Discord İletişimi"
+  "Discord Communication": "Discord İletişimi",
+  "Could not find required Module.": "Gerekli Modül bulunamadı.",
+  "Your executor doesn't support require.": "Executorunuz'niz require'ı desteklemiyor.",
+  "Get All Documents": "Tüm Belgeleri Alın",
+  "Could not find required Folder.": "İstenilen Klasör bulunamadı.",
+  "Get All Documents Credits: indexell_": "Tüm Belgeleri Alın. Yapan kişi: indexell_",
+  "Disable Shame": "Shame'yi Devre Dışı Bırak",
+  "Please pickup the first beacon to start the Auto Farm.": "Lütfen Otomatik Çiftliği başlatmak için ilk işaretçiyi alın.",
+  "Failed to initialize the Auto Farm.": "Otomatik Çiftliği başlatma başarısız oldu.",
+  "Auto Farm ended.": "Otomatik Farm sona erdi.",
+  "Opening Vault...": "Kasa açılıyor..."
 }
