@@ -1683,5 +1683,22 @@
     "Item Features": "आइटम की सुविधाएँ",
     "Player Features": "प्लेयर की सुविधाएँ",
     "Teleportation and World Features": "टेलीपोर्टेशन और दुनिया की सुविधाएँ",
-    "Discord Communication": "डिस्कॉर्ड कम्युनिकेशन"
+    "Discord Communication": "डिस्कॉर्ड कम्युनिकेशन", 
+    "%s anticheat bypassed successfully.": "%s एंटी-चीट सफलतापूर्वक बायपास किया गया।",
+    "[mspaint] Your executor doesn't support the FileSystem API. Configs and Theme saving will not work.": "[mspaint] आपका Executor, FileSystem API का समर्थन नहीं करता है। कॉन्फिग और थीम सेविंग काम नहीं करेंगे।",
+    "Configs and Theme saving will not work.": "कॉन्फिग और थीम सेविंग काम नहीं करेंगे।",
+    "Menu Options": "मेन्यू विकल्प",
+    "UI": "यूआई",
+    "Home": "होम",
+    "Homepage for mspaint": "mspaint के लिए होमपेज",
+    "Account": "अकाउंट",
+    "Hello, %s!": "नमस्ते, %s!",
+    "Key Information": "कुंजी की जानकारी",
+    "Thank you for purchasing a Lifetime Key!": "लाइफटाइम कुंजी खरीदने के लिए धन्यवाद!",
+    "Thank you for purchasing a Monthly Key!": "मंथली कुंजी खरीदने के लिए धन्यवाद!",
+    "Your support allows us to continue working on mspaint. :D": "आपके समर्थन से हम mspaint पर काम करना जारी रख पाते हैं। :D",
+    "Unknown": "अज्ञात",
+    "Your key has expired; your access to mspaint will be revoked on the next execution unless you extend your key's duration or purchase a Lifetime Key.": "आपकी कुंजी समाप्त हो गई है। अगली बार चलाने पर mspaint तक आपकी पहुंच रद्द कर दी जाएगी, जब तक कि आप अपनी कुंजी की अवधि न बढ़ाएं या एक लाइफटाइम कुंजी न खरीदें।",
+    "Disabled": "अक्षम",
+    "Remote for pickup found.": "पिकअप के लिए रिमोट मिल गया।"
 }
