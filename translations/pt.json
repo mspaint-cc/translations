@@ -1434,5 +1434,22 @@
   "Generator [%d%%]": "Gerador [%d%%]",
   "Item Features": "Características do item",
   "Player Features": "Recursos do jogador",
-  "Teleportation and World Features": "Teletransporte e recursos mundiais"
+  "Teleportation and World Features": "Teletransporte e recursos mundiais",
+  "%s anticheat bypassed successfully.": "%s o anticheat foi ultrapassado com sucesso.",
+  "[mspaint] Your executor doesn't support the FileSystem API. Configs and Theme saving will not work.": "[mspaint] Seu executor não suporta a API FileSystem. O salvamento de configurações e temas não funcionará.",
+  "Configs and Theme saving will not work.": "O salvamento de configurações e temas não funcionará.",
+  "Menu Options": "Opções do menu",
+  "UI": "UI",
+  "Notifications": "Notificações",
+  "Home": "Página inicial",
+  "Homepage for mspaint": "Página inicial do mspaint",
+  "Account": "Conta",
+  "Hello, %s!": "Olá, %s!",
+  "Key Information": "Informações da chave",
+  "Thank you for purchasing a Lifetime Key!": "Obrigado por adquirir uma Chave Permanente!",
+  "Thank you for purchasing a Monthly Key!": "Obrigado por adquirir uma Chave Mensal!",
+  "Your support allows us to continue working on mspaint. :D": "Seu apoio nos permite continuar trabalhando no mspaint. :D",
+  "Unknown": "Desconhecido",
+  "Your key has expired; your access to mspaint will be revoked on the next execution unless you extend your key's duration or purchase a Lifetime Key.": "Sua chave expirou; seu acesso ao mspaint será revogado na próxima execução, a menos que você estenda a duração da sua chave ou adquira uma Chave Vitalícia.",
+  "Remote for pickup found.": "Controle remoto para retirada encontrado."
 }
