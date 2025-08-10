@@ -1686,5 +1686,6 @@
   "Your support allows us to continue working on mspaint. :D": "Tu apoyo nos permite seguir trabajando en mspaint. :D",
   "Unknown": "Desconocido",
   "Your key has expired; your access to mspaint will be revoked on the next execution unless you extend your key's duration or purchase a Lifetime Key.": "Tu llave se ha expirado; tu acceso a mspaint sera revocada en la próxima a menos que extiendas la duracion de tu llave o compras una llave de vida.",
-  "Remote for pickup found.": "Control remoto para pickup encontrado."
+  "Remote for pickup found.": "Control remoto para pickup encontrado.",
+  "Disabled": "Desactivado"
 }
