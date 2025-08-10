@@ -1411,7 +1411,7 @@
   "Crystal cutscene broke godmode, re-enabling godmode..": "水晶过场动画导致无敌模式失效，正在重新启用无敌模式……",
   "Godmode has been broken due to gauntlet encounter, will re-enable godmode after leaving the room.": "由于遭遇可恶的779挑战关卡，无敌模式已出现故障，离开房间后将重新启用无敌模式",
   "Angler": "Angler",
-  "pAInter": "779电脑",
+  "pAInter": "779",
   "The Crooked": "变异船员",
   "Sebastian": "塞巴斯蒂安",
   "Manipulation Speed": "操纵速度",
@@ -1424,5 +1424,6 @@
   "Waiting for Fisch to load.": "等待鱼加载",
   "Crafting": "制作",
   "Auto Craft Potions": "自动制作药水",
-  "This feature doesn't work in private servers.": "此功能在私人服务器中无法使用"
+  "This feature doesn't work in private servers.": "此功能在私人服务器中无法使用",
+  "Disabled": "不能使用"
 }
