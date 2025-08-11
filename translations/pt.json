@@ -1464,5 +1464,6 @@
   "Knob Farm is patched.": "Knob Farm foi arrumado.",
   "Speed Bypass: <font color='rgb(%s)'>%s</font>": "Bypass de velocidade: <font color=‘rgb(%s)’>%s</font>",
   "Auto Hiding Spot V2": "Auto Esconderijo V2",
-  "Stardust": "Stardust"
+  "Stardust": "Stardust",
+  "Speed Bypass: <font color=\"rgb(%s)\">%s</font>": "Bypass de Velocidade: <font color=\"rgb(%s)\">%s</font>"
 }
