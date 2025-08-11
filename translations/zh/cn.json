@@ -1437,5 +1437,6 @@
   "Knob Farm is patched.": "旋钮农场已被修复",
   "Speed Bypass: <font color='rgb(%s)'>%s</font>": "速度绕过: <font color='rgb(%s)'>%s</font>",
   "Auto Hiding Spot V2": "自动隐藏点 V2 版",
-  "Stardust": "星尘"
+  "Stardust": "星尘",
+  "Speed Bypass: <font color=\"rgb(%s)\">%s</font>": "速度绕过状态: <font color=\"rgb(%s)\">%s</font>"
 }
