@@ -1700,5 +1700,10 @@
     "Unknown": "अज्ञात",
     "Your key has expired; your access to mspaint will be revoked on the next execution unless you extend your key's duration or purchase a Lifetime Key.": "आपकी कुंजी समाप्त हो गई है। अगली बार चलाने पर mspaint तक आपकी पहुंच रद्द कर दी जाएगी, जब तक कि आप अपनी कुंजी की अवधि न बढ़ाएं या एक लाइफटाइम कुंजी न खरीदें।",
     "Disabled": "अक्षम",
-    "Remote for pickup found.": "पिकअप के लिए रिमोट मिल गया।"
+    "Remote for pickup found.": "पिकअप के लिए रिमोट मिल गया।", 
+    "Surge will start soon...": "Surge जल्द ही शुरू होगा...",
+    "You should go find a hiding place.": "आपको छिपने की जगह ढूंढ लेनी चाहिए।",
+    "Surge is starting...": "Surge शुरू हो रहा है...",
+    "Entities": "एंटिटीज़",
+    "Auto Mandrake": "ऑटो मैंड्रेक"
 }
