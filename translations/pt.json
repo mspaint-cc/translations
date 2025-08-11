@@ -1452,5 +1452,10 @@
   "Unknown": "Desconhecido",
   "Your key has expired; your access to mspaint will be revoked on the next execution unless you extend your key's duration or purchase a Lifetime Key.": "Sua chave expirou; seu acesso ao mspaint será revogado na próxima execução, a menos que você estenda a duração da sua chave ou adquira uma Chave Vitalícia.",
   "Remote for pickup found.": "Controle remoto para retirada encontrado.",
-  "Disabled": "Desativado"
+  "Disabled": "Desativado",
+  "Entities": "Entidades",
+  "Auto Mandrake": "Auto Mandrake",
+  "Surge is starting...": "A onda está começando...",
+  "You should go find a hiding place.": "Você deveria procurar um esconderijo.",
+  "Surge will start soon...": "A onda começará em breve..."
 }
