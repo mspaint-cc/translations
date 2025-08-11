@@ -1425,5 +1425,10 @@
   "Crafting": "制作",
   "Auto Craft Potions": "自动制作药水",
   "This feature doesn't work in private servers.": "此功能在私人服务器中无法使用",
-  "Disabled": "不能使用"
+  "Disabled": "不能使用",
+  "Surge will start soon...": "黄色闪电即将到来……",
+  "You should go find a hiding place.": "你应该去找个柜子躲起来",
+  "Surge is starting...": "黄色闪电来了……",
+  "Entities": "实体",
+  "Auto Mandrake": "自动萝卜怪"
 }
