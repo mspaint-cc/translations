@@ -1430,5 +1430,12 @@
   "You should go find a hiding place.": "你应该去找个柜子躲起来",
   "Surge is starting...": "黄色闪电来了……",
   "Entities": "实体",
-  "Auto Mandrake": "自动萝卜怪"
+  "Auto Mandrake": "自动萝卜怪",
+  "Godmode is patched, we are looking for an alternative method.": "“无敌模式”已被修复，我们正在寻找替代方法",
+  "Anti-Surge": "防 黄色闪电",
+  "Look at Monument": "看变异纪念碑",
+  "Knob Farm is patched.": "旋钮农场已被修复",
+  "Speed Bypass: <font color='rgb(%s)'>%s</font>": "速度绕过: <font color='rgb(%s)'>%s</font>",
+  "Auto Hiding Spot V2": "自动隐藏点 V2 版",
+  "Stardust": "星尘"
 }
