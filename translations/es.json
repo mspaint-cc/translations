@@ -1687,5 +1687,17 @@
   "Unknown": "Desconocido",
   "Your key has expired; your access to mspaint will be revoked on the next execution unless you extend your key's duration or purchase a Lifetime Key.": "Tu llave se ha expirado; tu acceso a mspaint sera revocada en la próxima a menos que extiendas la duracion de tu llave o compras una llave de vida.",
   "Remote for pickup found.": "Control remoto para pickup encontrado.",
-  "Disabled": "Desactivado"
+  "Disabled": "Desactivado",
+  "Stardust": "Stardust",
+  "Entities": "Entidades",
+  "Anti-Surge": "Anti-Surge",
+  "Look at Monument": "Mirar a monumento",
+  "Auto Mandrake": "Auto Mandrake",
+  "Knob Farm is patched.": "Farmeo de Knobs fue parcheado.",
+  "Surge will start soon...": "Surge va a empezar pronto...",
+  "You should go find a hiding place.": "Deberías ir a buscar un escondite.",
+  "Surge is starting...": "Surge esta empezando...",
+  "Speed Bypass: <font color=\"rgb(%s)\">%s</font>": "Bypass de velocidad: <font color=\"rgb(%s)\">%s</font>",
+  "Auto Hiding Spot V2": "Escondite automático V2",
+  "Godmode is patched, we are looking for an alternative method.": "Modo Dios esta parcheado, estamos buscando por metodos alternativos."
 }
