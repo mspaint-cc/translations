@@ -1715,5 +1715,22 @@
   "Auto Mandrake": "Otomatik Adamotu",
   "Look at Monument": "Anıt'a bakın",
   "Anti-Surge": "Dalgalanma Önleyici",
-  "Entities": "Varlıklar"
+  "Entities": "Varlıklar",
+  "Welcome back to mspaint!": "Mspaint'e tekrar hoş geldiniz!",
+  "Welcome to mspaint!": "Mspaint'e hoş geldiniz!",
+  "Good morning <b>%s</b>! %s": "Günaydın <b>%s</b>! %s",
+  "Good afternoon <b>%s</b>! %s": "İyi günler <b>%s</b>! %s",
+  "Good evening <b>%s</b>! %s": "İyi akşamlar <b>%s</b>! %s",
+  "Script Panel": "Komut Dosyası Paneli",
+  "Copied script panel link to clipboard": "Komut dosyası paneli bağlantısı panoya kopyalandı",
+  "Support Server": "Destek Sunucusu",
+  "Copied support discord link to clipboard": "Destek Discord bağlantısı panoya kopyalandı",
+  "Failed to load mspaint status...": "Mspaint durumu yüklenemedi...",
+  "Script Status": "Komut Dosyası Durumu",
+  "Loader version: %s": "Yükleyici sürümü: %s",
+  "Game version: %s": "Oyun sürümü: %s",
+  "Key Info": "Önemli Bilgiler",
+  "This feature doesn't work or is not implemented on this floor.": "Bu özellik bu katta çalışmıyor veya uygulanmıyor.",
+  "Speed Bypass: <font color=\"rgb(%s)\">%s</font>": "Hız Baypası: <font color=\"rgb(%s)\">%s</font>",
+  "Teleport to Staging Game": "Sahneye Işınlanma Oyunu"
 }
