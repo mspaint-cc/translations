@@ -563,7 +563,7 @@
   "Surge will start soon...": "Surge bir azdan başlayacaq...",
   "You should go find a hiding place.": "Sən gizlənməyə yer tapmalısan.",
   "Surge is starting...": "Surge başlayır...",
-  "Speed Bypass: <font color=\"rgb(%s)\">%s</font>": "Sürət Yan keçməsi : <şrift rəngi=\"rgb(%s)>%s</şrift)",
+  "Speed Bypass: <font color=\"rgb(%s)\">%s</font>": "Sürət Yan keçməsi : <font color=\"rgb(%s)\">%s</font>",
   "Auto Hiding Spot V2": "Avtomatik Gizlənmə Yeri Versiya 2",
   "Godmode is patched, we are looking for an alternative method.": "Ölümsüzlük yamaqlıdır, biz alternativ metod axtarırıq.",
   "Disabled": "Deaktiv edildi",
