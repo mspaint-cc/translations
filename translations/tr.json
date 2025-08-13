@@ -1732,5 +1732,16 @@
   "Key Info": "Önemli Bilgiler",
   "This feature doesn't work or is not implemented on this floor.": "Bu özellik bu katta çalışmıyor veya uygulanmıyor.",
   "Speed Bypass: <font color=\"rgb(%s)\">%s</font>": "Hız Baypası: <font color=\"rgb(%s)\">%s</font>",
-  "Teleport to Staging Game": "Sahneye Işınlanma Oyunu"
+  "Teleport to Staging Game": "Sahneye Işınlanma Oyunu",
+  "Active": "Aktif",
+  "Idle": "Boşta",
+  "Avoid Entities": "Varlıklardan Kaçının",
+  "Will go outside of the entitiy's field of view to avoid them.": "Onlardan kaçınmak için varlığın görüş alanının dışına çıkacaktır.",
+  "Show Entity POV": "Varlık Bakış Açısını Göster",
+  "Will show the entities POV when avoiding them.": "Varlıklardan kaçınırken onların bakış açısını gösterecek.",
+  "Disable Damage Side Effects": "Hasar Yan Etkilerini Devre Dışı Bırak",
+  "Disables side effects of damage.": "Hasarın yan etkilerini ortadan kaldırır.",
+  "Gate Button": "Kapı Düğmesi",
+  "Avoiding entities please wait for all entities to be completely destroyed...": "Varlıklardan uzak durun lütfen tüm varlıkların tamamen yok olmasını bekleyin...",
+  "Successfully avoided entities, returning to old position.": "Varlıklardan başarıyla kaçınıldı ve eski pozisyona geri dönüldü."
 }
