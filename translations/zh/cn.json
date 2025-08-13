@@ -1471,5 +1471,16 @@
   "Teleport to Custom Location": "传送到自定义位置",
   "Override Custom Location": "覆盖自定义位置",
   "Delete Custom Location": "删除自定义位置",
-  "Refresh Custom Locations": "重置自定义位置"
+  "Refresh Custom Locations": "重置自定义位置",
+  "Active": "活跃",
+  "Idle": "闲置",
+  "Avoid Entities": "躲避实体",
+  "Will go outside of the entitiy's field of view to avoid them.": "会传送到该实体的视野范围之外，以此避开它们",
+  "Show Entity POV": "显示实体视角",
+  "Will show the entities POV when avoiding them.": "在躲避这些实体时，会显示它们的视角",
+  "Disable Damage Side Effects": "禁用伤害副作用",
+  "Disables side effects of damage.": "禁用伤害的副作用",
+  "Gate Button": "铁门按钮",
+  "Avoiding entities please wait for all entities to be completely destroyed...": "正在躲避实体，请等待实体消失……",
+  "Successfully avoided entities, returning to old position.": "成功躲避实体，正在返回原位置"
 }
