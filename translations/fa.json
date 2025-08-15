@@ -51,7 +51,6 @@
   "Anti AFK": "کیک نشدن هنگام ثابت ماندن برای مدت زیاد",
   "Noclip": "رد شدن از دیوار(نوکلیپ)",
   "Twerk": "رقصیدن",
-  "Menu": "منو",
   "No Acceleration": "نداشتن شتاب",
   "Aimbot": "ایم بات(هدف گیری خودکار)",
   "Enable Aimbot": "فعال سازی ایم بات(هدف گیری خودکار)",
@@ -213,12 +212,6 @@
   "You have not selected any items to buy!": "شما وسیله ای را برای خرید انتخاب نکرده اید!",
   "You do not have enough knobs to buy the items you have selected!": "شما پول کافی برای خرید این وسیله را ندارید",
   "Anti-Seek Obstructions": "ضد دست و لوستر و آتش سییک",
-  "Knob Farm": "فارم پول",
-  "Only works in Room 100 and figure is spawned": "زمانی کار میکند که در اتاق 100 باشید و فیگور اسپاون شده باشد",
-  "Knob Farm Mode": "روش فارم پول",
-  "Knob Farm Warning": "هشدار فارم پول",
-  "The <b>I Love Pancakes!!!</b> modifier is required to use the snare method.": "مادیفایر <b>I Love Pancakes!!!</b> برای روش تله مورد نیاز است.",
-  "The <b>Last Breath</b> modifier should be used for a quicker knob farming experience": "مادیفایر <b>Last Breath</b> برای فارم سریعتر مورد نیاز است",
   "Modifiers": "مادیفایر ها",
   "No Voice Acting": "حذف مادیفایر صدا گذاری",
   "No Jammin": "حذف مادیفایر خرابی صدا (jammin)",
@@ -419,13 +412,9 @@
   "Save Error Logs": "ذخیره کردن خطا ها",
   "Your executor doesn't support the FileSystem API.": "اجرا کننده(اگزکیوتر) شما از این پشتیبانی نمیکند (FileSystem-API). ",
   "Developers": "سازندگان ",
-  "Thank you for supporting us by doing the key system!": "تشکر بابت انجام کلید و حمایت از ما!",
-  "Thank you for buying a lifetime key! Your support helps us continue mspaint :D": "تشکر ویژه بابت خرید کلید مادام العمر و حمایت از ما  D:",
   "Time left: ": "زمان باقی مانده: ",
   "Total Executions: ": "تعداد اجرا شدن ها: ",
-  "Not linked": "متصل نشده است",
   "Expired": "منقضی شده است",
-  "Your key has expired, your access to mspaint will be revoked on next execution unless you extend your key duration or buy a lifetime key.": "کلید شما منقضی شده است، بر روی اجرای بعدی شما نمیتوانید از اسکریپت استفاده کنید ،لطفا در سایت کلید خود را مجددا تازه سازی کنید یا یک کلید مادام العمر خریداری کنید.",
   "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint]  اجرا کننده(اگزکیوتر) شما این از این پشتیبانی نمی کند، افزونه‌ها کار نمی کنند(FileSystem API).",
   "[mspaint] Addons folder doesn't exist. Creating...": "[mspaint] پوشه افزونه ها وجود ندارد، درحال ساخت پوشه افزونه ها...",
   "[mspaint] Loading addons...": "[mspaint] بارگیری افزونه ها...",
@@ -698,7 +687,6 @@
   "Enabled Rarities Mention": "منشن کردن نادر بودن فعال شد",
   "Enabled Mutations Mention": "منشن کردن جهش‌های فعال شد",
   "Discord: ": "دیسکورد:",
-  "Build: ": "ساخت:",
   "Execute on Teleport": "اجرای مجدد خودکار هنگام ورود به بازی دیگر",
   "Menu keybind": "فهرست دکمه ها",
   "Owner": "مالک",
@@ -760,8 +748,6 @@
   "100% done! A glitch fragment will soon spawn somewhere, play like normal.": "100٪ انجام شد! یک قطعه گلیچ به زودی ظاهر خواهد شد، به‌طور معمول بازی کنید.",
   "%s%% done...": "%s%% انجام شد...",
   "Failed to get network ownership of Figure, retrying...": "دریافت مالکیت فیگور ناموفق بود، در حال تلاش مجدد...",
-  "Disable Knob Farm Security": "غیرفعال کردن امنیت فارم پول",
-  "Disables the check for room 100 to farm knobs": "بررسی اتاق 100 برای فارم پول را غیرفعال می‌کند",
   "Disable Entities (FE)": "غیرفعال کردن موجودها (FE)",
   "You have already disabled entities in the run.": "شما قبلاً موجودها را در این مچ غیرفعال کرده‌اید.",
   "Disabled all entities in the run.": "تمام موجود‌ها در مچ غیرفعال شدند.",
@@ -1006,7 +992,6 @@
   "Appraised to Abyssal!": "ارزیابی شد به سطح Abyssal!",
   "Completes the bestiary for you - will ignore event fishes": "bestiary را برای شما کامل می‌کند - ماهی‌های ایونت را نادیده می‌گیرد",
   "Create Logs": "ایجاد فایل لاگ",
-  "Auto-%s V2": "خودکار-%s نسخه ۲",
   "Automatically hides the player against entities:\nRush, Ambush, Blitz, A-60, A-120.": "بازیکن را به‌صورت خودکار در برابر موجوداتی مانند:\nRush، Ambush، Blitz، A-60، A-120 پنهان می‌کند.",
   "Automatic: Will pick the best algorithm.\nPrefer Safety: The player will stay hidden as long as possible.\nPrefer Timing: Will hide and unhide as needed.": "Automatic: بهترین الگوریتم را انتخاب می‌کند.\nPrefer Safety: بازیکن تا جای ممکن پنهان باقی می‌ماند.\nPrefer Timing: در صورت نیاز پنهان و ظاهر می‌شود.",
   "Algorithm mode": "حالت الگوریتم",
@@ -1158,7 +1143,6 @@
   "Auto Enchant has finished.": "enchant خودکار به پایان رسید.",
   "Rift": "Rift",
   "Failed to find the Egg.": "یافتن تخم‌ ناموفق بود.",
-  "[BETA] Seek Helper": "[آزمایشی] انجام دهنده Seek",
   "Auto Pickup Items": "برداشت خودکار آیتم‌ها",
   "Store Items Types": "انواع آیتم‌های ذخیره‌ شونده",
   "Pickup List": "فهرست برداشت",
@@ -1203,7 +1187,6 @@
   "Auto Claim Prizes (Quests)": "دریافت خودکار جوایز (مأموریت‌ها)",
   "Claiming '%s'...": "در حال دریافت '%s'...",
   "Egg was found!": "تخم پیدا شد!",
-  "Successfully loaded mspaint with the saved key!": "mspaint به همراه کلید ذخیره‌شده با موفقیت بارگذاری شد!",
   "Failed to load the changelog... 😢": "خطا در بارگذاری لیست تغییرات... 😢",
   "Detected Methods:": "روش‌های قابل‌شناسایی:",
   "None": "هیچ‌کدام",
@@ -1367,5 +1350,59 @@
   "Item Features": "ویژگی‌های آیتم",
   "Player Features": "ویژگی‌های بازیکن",
   "Teleportation and World Features": "تلپورت و ویژگی‌های محیطی",
-  "Discord Communication": "ارتباط دیسکورد"
+  "Discord Communication": "ارتباط دیسکورد",
+  "%s anticheat bypassed successfully.": "%s آنتی چیت با موفقیت دور زده شد.",
+  "[mspaint] Your executor doesn't support the FileSystem API. Configs and Theme saving will not work.": "[mspaint] اگرکیوتر شما از FileSystem API پشتیبانی نمی‌کند ،کانفیگ و تم ها ذخیره نخواهد شد.",
+  "Configs and Theme saving will not work.": "کانفیگ و تم های ذخیره شده کار نخواهد کرد.",
+  "Menu Options": "گزینه های منو",
+  "UI": "رابط کاربری ",
+  "Notifications": "اعلان ها",
+  "Language": "زبان",
+  "Home": "خانه",
+  "Homepage for mspaint": "صفحه خانه برای mspaint",
+  "Account": "حساب",
+  "Welcome back to mspaint!": "به mspaint خوش‌آمدید!",
+  "Welcome to mspaint!": "به mspaint خوش‌آمدید!",
+  "Good morning <b>%s</b>! %s": "صبح بخیر <b>%s</b>! %s",
+  "Good afternoon <b>%s</b>! %s": "بعدازظهر بخیر\n<b>%s</b>! %s",
+  "Good evening <b>%s</b>! %s": "عصر بخیر\n<b>%s</b>! %s",
+  "Script Panel": "پنل اسکریپت ",
+  "Copied script panel link to clipboard": "لینک پنل اسکریپت به کلیپ بورد کپی شد.",
+  "Support Server": "سرور پشتیبانی ",
+  "Copied support discord link to clipboard": "سرور پشتیبانی دیسکورد به کلیپ بورد ذخیره شد.",
+  "Failed to load mspaint status...": "بارگیری وضعیت mspaint شکست خورد...",
+  "Script Status": "وضعیت اسکریپت",
+  "Loader version: %s": "نسخه لودر: %s",
+  "Game version: %s": "نسخه بازی: %s",
+  "Key Info": "اطلاعات کلید",
+  "Thank you for purchasing a Lifetime Key!": "ممنون که کلید مادام‌العمر mspaint را خریداری کردید!",
+  "Thank you for purchasing a Monthly Key!": "ممنون که کلید ماهانه mspaint را خریداری کردید!",
+  "Unknown": "ناشناخته",
+  "Surge will start soon...": "Surge به زودی شروع می‌شود...",
+  "Your support allows us to continue working on mspaint. :D": "حمایت شما باعث ادامه دادن به توسعه mspaint می‌شود. :D",
+  "Disabled": "غیرفعال ",
+  "Entities": "موجودات ",
+  "Anti-Surge": "ضد Surge",
+  "Surge is starting...": "Surge درحال شروع شدن است...",
+  "You should go find a hiding place.": "شما باید یک مکان برای مخفی شدن پیدا کنید.",
+  "This feature doesn't work or is not implemented on this floor.": "این قابلیت کار نمی‌کند یا برای این طبقه طراحی نشده است.",
+  "Godmode is patched, we are looking for an alternative method.": "حالت خدا(God mode) درحال حاضر پچ شده است، ما درحال یافتن روش های دیگر برای حالت خدا هستیم.",
+  "Auto Mandrake": "انجام خودکار Mandrake",
+  "Knob Farm is patched.": "فارم پول(knob) پچ شده است.",
+  "Look at Monument": "به مانیومنت(Monument) نگاه کن",
+  "Speed Bypass: <font color=\"rgb(%s)\">%s</font>": "دورزدن آنتی چیت سرعت: <font color=\"rgb(%s)\">%s</font>",
+  "Active": "فعال",
+  "Idle": "در حال استراحت ",
+  "Stardust": "Stardust",
+  "Preset name": "نام تنظیمات از پیش تعیین شده",
+  "Auto Hiding Spot V2": "مخفی شدن خودکار V2",
+  "Preset list": "لیست تنظیمات از پیش تعیین شده",
+  "Load Preset": "بارگیری تنظیمات از پیش تعیین شده ",
+  "Override Preset": "جای گذاری تنظیمات از پیش تعیین شده",
+  "Delete Preset": "حذف تنظیمات از پیش تعیین شده",
+  "Refresh Presets": "بارگیری مجدد تنظیمات از پیش تعیین شده",
+  "Avoid Entities": "اجتناب از موجودات ",
+  "Will go outside of the entitiy's field of view to avoid them.": "با خارج شدن از میدان دید موجودات از آنها اجتناب می‌کند ",
+  "Show Entity POV": "نمایش میدان دید موجودات",
+  "Will show the entities POV when avoiding them.": "میدان دید موجودات را نمایش می‌دهد هنگامی که از آنها اجتناب می‌کنید."
 }
