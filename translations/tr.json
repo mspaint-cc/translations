@@ -1743,5 +1743,11 @@
   "Disables side effects of damage.": "Hasarın yan etkilerini ortadan kaldırır.",
   "Gate Button": "Kapı Düğmesi",
   "Avoiding entities please wait for all entities to be completely destroyed...": "Varlıklardan uzak durun lütfen tüm varlıkların tamamen yok olmasını bekleyin...",
-  "Successfully avoided entities, returning to old position.": "Varlıklardan başarıyla kaçınıldı ve eski pozisyona geri dönüldü."
+  "Successfully avoided entities, returning to old position.": "Varlıklardan başarıyla kaçınıldı ve eski pozisyona geri dönüldü.",
+  "Other languages currently have no translator.": "Diğer dillerde şu anda bir çevirmen bulunmuyor.",
+  "You need to enable 'Toggle Crouch' inside DOORS setting for this feature to work.": "Bu özelliğin çalışması için DOORS ayarında 'Çömelmeyi Aç/Kapat' seçeneğini etkinleştirmeniz gerekir.",
+  "What to collect": "Ne toplanmalı",
+  "Collect Loot": "Ganimet topla",
+  "Please complete the breaking box...": "Lütfen kırma kutusunu doldurun...",
+  "Delete Figure only works inside room 100. You can't delete Figure inside room 50!": "Figure (Figür) Silme sadece 100 numaralı odada çalışır. 50 numaralı odadaki Figürü silemezsiniz!"
 }
