@@ -1422,5 +1422,6 @@
   "Teleport to Custom Location": "تلپورت به مکان شخصی سازه شده",
   "Override Custom Location": "بازنویسی مکان شخصی سازه شده",
   "Delete Custom Location": "حذف مکان شخصی سازه شده",
-  "Refresh Custom Locations": "تازه سازی مکان های شخصی سازه شده"
+  "Refresh Custom Locations": "تازه سازی مکان های شخصی سازه شده",
+  "Your key has expired; your access to mspaint will be revoked on the next execution unless you extend your key's duration or purchase a Lifetime Key.": "کلید شما منقضی شده است؛ دسترسی شما به mspaint در اجرای بعدی لغو خواهد شد مگر اینکه مدت زمان کلید خود را تمدید کنید یا یک کلید مادام‌العمر خریداری نمایید."
 }
