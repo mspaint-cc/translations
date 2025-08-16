@@ -1473,6 +1473,6 @@
   "You need to enable 'Toggle Crouch' inside DOORS setting for this feature to work.": "要使此功能正常工作，你需要在DOORS的设置中启用“切换蹲伏”（Toggle Crouch）选项",
   "What to collect": "你要收集什么？",
   "Collect Loot": "收集你选择的物品",
-  "Please complete the breaking box...": "请完成破箱操作（？）……",
+  "Please complete the breaking box...": "请完成电闸盒…[先拉铁门拉杆]",
   "Delete Figure only works inside room 100. You can't delete Figure inside room 50!": "“删除Figure”功能仅在100号房间内生效。你无法在50号房间内删除Figure！"
 }
