@@ -1412,8 +1412,6 @@
   "Delete Custom Location": "Видалити власне місцезнаходження",
   "Refresh Custom Locations": "Оновити користувацькі локації",
   "Failed to find the ": "Не вдалося знайти ",
-  "Hello, %s!": "Привіт, %s!",
-  "Key Information": "Інформація про ключ",
   "Other languages currently have no translator.": "Інші мови наразі не мають перекладача.",
   "Minecart Teleport": "ТП Вагонетку",
   "Auto Play Minecart": "Автоуправління вагонетки",
@@ -1425,5 +1423,6 @@
   "Please complete the breaking box...": "Будь ласка, заповніть електрощиток...",
   "Delete Figure only works inside room 100. You can't delete Figure inside room 50!": "Видалити Фігуру працює лише в кімнаті 100. Ви не можете видалити Фігуру у кімнаті 50!",
   "Minecart teleport is ready! Waiting for the minecart...": "Телепорт вагонетки готовий! Чекаємо на вагонетку...",
-  "Minecart teleport started. Enjoy the ride!": "Телепорт вагонетки запущено. Насолоджуйтесь поїздкою!"
+  "Minecart teleport started. Enjoy the ride!": "Телепорт вагонетки запущено. Насолоджуйтесь поїздкою!",
+  "Godmode is patched, we are looking for an alternative method.": "Godmode виправлено, ми шукаємо альтернативний метод."
 }
