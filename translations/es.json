@@ -1665,7 +1665,7 @@
   "Your executor doesn't support require.": "Tu ejecutor no soporta 'require'.",
   "Get All Documents": "Obtener todos los documentos",
   "Could not find required Folder.": "No se pudo encontrar la carpeta requerida.",
-  "Get All Documents Credits: indexell_": "Obtener todos los documentos\nCréditos a: @indexell_",
+  "Get All Documents Credits: indexell_": "Obtener todos los documentos Créditos: indexell_",
   "Disable Shame": "Desactivar Shame",
   "Please pickup the first beacon to start the Auto Farm.": "Por favor, recoge el primer faro para iniciar la farmeo automatico.",
   "Failed to initialize the Auto Farm.": "No se pudo inicializar el farmeo automatico.",
@@ -1737,5 +1737,6 @@
   "What to collect": "Que recolectar",
   "Collect Loot": "Recoger botín",
   "Please complete the breaking box...": "Por favor termina la caja de ruptura...",
-  "Delete Figure only works inside room 100. You can't delete Figure inside room 50!": "Eliminar figura solo funciona dentro de la habitación 100. ¡No puedes eliminar figura dentro de la habitación 50!"
+  "Delete Figure only works inside room 100. You can't delete Figure inside room 50!": "Eliminar figura solo funciona dentro de la habitación 100. ¡No puedes eliminar figura dentro de la habitación 50!",
+  "Please complete the breaker box...": "Por favor, complete la caja de fusibles..."
 }
