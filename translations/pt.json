@@ -1509,5 +1509,14 @@
   "Teleport to Custom Location": "Teletransporte para local personalizado",
   "Override Custom Location": "Substituir localização personalizada",
   "Delete Custom Location": "Excluir localização personalizada",
-  "Refresh Custom Locations": "Atualizar locais personalizados"
+  "Refresh Custom Locations": "Atualizar locais personalizados",
+  "Other languages currently have no translator.": "Outros idiomas atualmente não têm tradutor.",
+  "Minecart Teleport": "Teletransporte de carrinho de mina",
+  "You need to enable 'Toggle Crouch' inside DOORS setting for this feature to work.": "Você precisa habilitar a opção “Alternar agachamento” nas configurações do DOORS para que esse recurso funcione.",
+  "What to collect": "O que coletar",
+  "Collect Loot": "Coletar Itens",
+  "Minecart teleport is ready! Waiting for the minecart...": "O teletransporte do carrinho de mina está pronto! Aguardando o carrinho de mina...",
+  "Minecart teleport started. Enjoy the ride!": "O teletransporte do carrinho de mina foi iniciado. Aproveite o passeio!",
+  "Please complete the breaker box...": "Por favor, complete a caixa de disjuntores...",
+  "Delete Figure only works inside room 100. You can't delete Figure inside room 50!": "A opção Excluir Figure só funciona dentro da sala 100. Não é possível excluir Figure dentro da sala 50!"
 }
