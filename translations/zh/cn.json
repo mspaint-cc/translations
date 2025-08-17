@@ -1474,5 +1474,6 @@
   "What to collect": "你要收集什么？",
   "Collect Loot": "收集你选择的物品",
   "Please complete the breaking box...": "请完成电闸盒…[先拉铁门拉杆]",
-  "Delete Figure only works inside room 100. You can't delete Figure inside room 50!": "“删除Figure”功能仅在100号房间内生效。你无法在50号房间内删除Figure！"
+  "Delete Figure only works inside room 100. You can't delete Figure inside room 50!": "“删除Figure”功能仅在100号房间内生效。你无法在50号房间内删除Figure！",
+  "Please complete the breaker box...": "请完成电闸盒……"
 }
