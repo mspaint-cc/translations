@@ -1495,5 +1495,22 @@
   "Map Data reloaded.": "地图数据已重新加载",
   "Fling %s": "甩飞 %s",
   "You are not innocent/dead!": "你不是平民/你还没死！",
-  "Failed to find the %s!": "未能找到%s！"
+  "Failed to find the %s!": "未能找到%s！",
+  "Enable Pathfinding": "启用寻路",
+  "Look Toward Direction": "朝指定方向看",
+  "Activate On..": "在……时激活",
+  "Killer: Low Health Priority": "杀手：低生命值目标优先",
+  "Killer: Predict Players": "杀手:预判玩家位置",
+  "Enable Targeting": "启用自瞄",
+  "Auto Generator Speed": "自动发电机速度",
+  "Closing Speed": "接近速度",
+  "Coinflip Decision Mode": "抛硬币决策模式",
+  "Show Hitbox": "显示碰撞箱",
+  "Look At Target": "看向目标",
+  "Minimum Target Distance": "最近目标距离",
+  "Ignore Conditions": "忽略条件",
+  "Attacking Mode": "攻击模式",
+  "Raging Pace On Stun Risk": "眩晕风险下的狂暴节奏",
+  "Corrupt Nature Auto-Aim": "腐化本质自动瞄准",
+  "Corrupt Energy Auto-Aim": "腐化能量自动瞄准"
 }
