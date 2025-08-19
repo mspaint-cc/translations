@@ -1523,5 +1523,8 @@
   "Mistake Backspace Delay": "错误退格延迟",
   "Mistake Correction Pause": "错误修正暂停",
   "Hesitation Chance (%)": "犹豫概率（%）",
-  "Hesitation Max (s)": "犹豫最长时长（秒）"
+  "Hesitation Max (s)": "犹豫最长时长（秒）",
+  "Bypass Mode": "绕过模式",
+  "Speed Bypass Delay": "速度绕过延迟",
+  "Vine Guillotine": "藤蔓断头台[暂定]"
 }
