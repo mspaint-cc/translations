@@ -1422,8 +1422,6 @@
   "Minecart teleport is ready! Waiting for the minecart...": "Телепорт вагонетки готовий! Чекаємо на вагонетку...",
   "Minecart teleport started. Enjoy the ride!": "Телепорт вагонетки запущено. Насолоджуйтесь поїздкою!",
   "Please complete the breaker box...": "Будь ласка, заповніть щиток",
-  "Hello, %s!": "Привіт, %s!",
-  "Key Information": "Інформація про ключ",
   "Helped with Forsaken": "Допомагали з Forsaken",
   "Health Threshold": "Поріг здоров'я",
   "High Health Target Part": "Цільова частина з високим рівнем здоров'я (я хз як перевезти)",
@@ -1460,5 +1458,18 @@
   "Map Data reloaded.": "Дані карти перезавантажено.",
   "Fling %s": "Викинути %s",
   "You are not innocent/dead!": "Ви не невинні/мертві!",
-  "Failed to find the %s!": "Не вдалося знайти %s!"
+  "Failed to find the %s!": "Не вдалося знайти %s!",
+  "Godmode is patched, we are looking for an alternative method.": "Godmode виправлено, ми шукаємо альтернативний метод.",
+  "Please complete the breaking box...": "Будь ласка, заповніть електрощиток...",
+  "Auto Suggest Next Word": "Автоматична пропозиція наступного слова",
+  "Found word: %s\nMandatory letters: %s": "Знайдено слово: %s\nОбов'язкові літери: %s",
+  "Auto Submit Beanstalk Plants": "Автоматичне надсилання рослин квасолі",
+  "Enable Auto Type": "Увімкнути автоматичний набір тексту",
+  "Humanize Typing": "\"Людинізація\" набору тексту",
+  "Allow Mistakes": "Допускати помилки",
+  "Mistake Chance (%)": "Ймовірність помилки (%)",
+  "Mistake Backspace Delay": "Помилка \"Затримка клавіші Backspace\"",
+  "Mistake Correction Pause": "Помилка \"Корекція паузи\"",
+  "Hesitation Chance (%)": "Ймовірність нерішучості 2 (%) ",
+  "Hesitation Max (s)": "Максимальна нерішучість (сек.)"
 }
