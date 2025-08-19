@@ -1477,5 +1477,9 @@
   "Fixed": "Виправлений",
   "Ping": "Пінг",
   "Ping Compensation": "Конперсація Пінгу",
-  "Speed Compensation": "Конперсація Швидкості"
+  "Speed Compensation": "Конперсація Швидкості",
+  "Hello, %s!": "Привіт, %s!",
+  "Key Information": "Інформація про ключ",
+  "Bypass Mode": "Режим обходу",
+  "Speed Bypass Delay": "Затримка обходу швидкості"
 }
