@@ -1512,5 +1512,16 @@
   "Attacking Mode": "攻击模式",
   "Raging Pace On Stun Risk": "眩晕风险下的狂暴节奏",
   "Corrupt Nature Auto-Aim": "腐化本质自动瞄准",
-  "Corrupt Energy Auto-Aim": "腐化能量自动瞄准"
+  "Corrupt Energy Auto-Aim": "腐化能量自动瞄准",
+  "Auto Suggest Next Word": "自动建议下一个词",
+  "Found word: %s\nMandatory letters: %s": "找到的单词：%s\n必填字母：%s",
+  "Auto Submit Beanstalk Plants": "自动提交豆茎植物",
+  "Enable Auto Type": "启用自动输入",
+  "Humanize Typing": "人性化输入",
+  "Allow Mistakes": "允许出错",
+  "Mistake Chance (%)": "错误概率（%）",
+  "Mistake Backspace Delay": "错误退格延迟",
+  "Mistake Correction Pause": "错误修正暂停",
+  "Hesitation Chance (%)": "犹豫概率（%）",
+  "Hesitation Max (s)": "犹豫最长时长（秒）"
 }
