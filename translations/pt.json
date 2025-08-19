@@ -1566,5 +1566,8 @@
   "Player Data reloaded.": "Dados do jogador recarregados.",
   "This might take a moment, please wait...": "Isso pode demorar um pouco, por favor aguarde...",
   "Map": "Mapa",
-  "Reload Data": "Recarregar dados"
+  "Reload Data": "Recarregar dados",
+  "Bypass Mode": "Modo Bypass",
+  "Speed Bypass Delay": "Atraso de Bypass de Velocidade",
+  "Vine Guillotine": "Guilhotina de videira"
 }
