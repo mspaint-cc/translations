@@ -1754,7 +1754,7 @@
   "Enable Targeting": "Activar selección de objetivo",
   "Player(s) To Target": "Jugador(es) objetivo",
   "Distance": "Distancia",
-  " studs": "studs",
+  " studs": " studs",
   "Prediction": "Predicción",
   "Characters": "Personajes",
   "Auto Generator Speed": "Velocidad de auto-generador",
@@ -1788,5 +1788,5 @@
   "You are not innocent/dead!": "No eres inocente/estás muerto!",
   "Failed to find the %s!": "No se pudo encontrar el %s!",
   "Bypass Mode": "Modo Bypass",
-  "Vine Guillotine": "Guillotina de enredaderas,"
+  "Vine Guillotine": "Guillotina de enredaderas"
 }
