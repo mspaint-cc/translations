@@ -1753,5 +1753,16 @@
   "Map Data reloaded.": "Дата карты перезагружена.",
   "Fling %s": "Флингануть %s",
   "You are not innocent/dead!": "Ты не мирный/мертвый!",
-  "Failed to find the %s!": "Не удалось найти %s"
+  "Failed to find the %s!": "Не удалось найти %s",
+  "Auto Suggest Next Word": "Авто предложение следующего слова",
+  "Found word: %s\nMandatory letters: %s": "Нашел слово: %s\nОбязательные буквы: %s",
+  "Auto Submit Beanstalk Plants": "Авто отправка Beanstalk",
+  "Enable Auto Type": "Включить Авто Печатание",
+  "Humanize Typing": "Очеловечить печатание",
+  "Allow Mistakes": "Допускать ошибка",
+  "Mistake Chance (%)": "Шанс ошибки (%)",
+  "Mistake Backspace Delay": "Ошибка задержки возврата",
+  "Mistake Correction Pause": "Ошибка паузы исправления",
+  "Hesitation Chance (%)": "Шанс колебания (%)",
+  "Hesitation Max (s)": "Максимальное Колебание (s)"
 }
