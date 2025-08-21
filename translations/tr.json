@@ -1798,5 +1798,7 @@
   "Map Data reloaded.": "Harita verileri geri yüklendi.",
   "Fling %s": "Fling %s",
   "You are not innocent/dead!": "Sen masum değilsin/ölmedin!",
-  "Failed to find the %s!": "%s Malesef bulunamadı."
+  "Failed to find the %s!": "%s Malesef bulunamadı.",
+  "Bypass Mode": "Bypass Modu",
+  "Vine Guillotine": "Asma Giyotini"
 }
