@@ -1122,7 +1122,6 @@
   "Pet equipped.": "حیوان تجهیز شد.",
   "Claimed %s successfully.": "%s با موفقیت دریافت شد.",
   "Please select a valid pet.": "لطفاً یک حیوان معتبر انتخاب کنید.",
-  "Please select an valid enchant.": "لطفاً یک enchant معتبر انتخاب کنید.",
   "Invalid pet.": "حیوان نامعتبر.",
   "Stopping Auto Enchant.": "توقف enchant خودکار.",
   "Invalid enchant or failed to fetch data about the enchant.": "enchant نامعتبر است یا دریافت اطلاعات مربوط به آن ناموفق بود.",
@@ -1472,5 +1471,10 @@
   "Map Data reloaded.": "داده‌های نقشه دوباره بارگذاری شدند.",
   "Fling %s": "پرتاب %s",
   "You are not innocent/dead!": "شما بی‌گناه یا مرده نیستید!",
-  "Failed to find the %s!": "یافتن %s ناموفق بود!"
+  "Failed to find the %s!": "یافتن %s ناموفق بود!",
+  "Execute on Teleport will not work, failed to get your key.": "اجرای مجدد هنگام تلپورت به مکان جدید کار نخواهد کرد، دریافت کلید شما ناموفق بود.",
+  "Please wait a moment...": "لطفاً کمی صبر کنید...",
+  "AntiCheat check bypassed successfully.": "بررسی آنتی چیت با موفقیت دور زده شد.",
+  "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "عدم موفقیت در دور زدن بررسی آنتی چیت، فارم خودکار غیرفعال شد. اگزکیوتر شما از توابع موردنیاز پشتیبانی نمی‌کند.",
+  "Please select a valid enchant.": "لطفاً یک enchant معتبر انتخاب کنید."
 }
