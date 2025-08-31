@@ -1569,5 +1569,10 @@
   "Reload Data": "Recarregar dados",
   "Bypass Mode": "Modo Bypass",
   "Speed Bypass Delay": "Atraso de Bypass de Velocidade",
-  "Vine Guillotine": "Guilhotina de videira"
+  "Vine Guillotine": "Guilhotina de videira",
+  "Execute on Teleport will not work, failed to get your key.": "Executar no Teleport não funcionará, não foi possível obter sua chave.",
+  "Please wait a moment...": "Por favor, aguarde um momento...",
+  "AntiCheat check bypassed successfully.": "Verificação AntiCheat ultrapassada com sucesso.",
+  "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "Falha ao ultrapassar a verificação AntiCheat, o Auto Farm foi desativado. Seu executor não suporta as funções necessárias.",
+  "Please select a valid enchant.": "Selecione um encantamento válido."
 }
