@@ -1531,5 +1531,7 @@
   "Please wait a moment...": "请稍等片刻……",
   "AntiCheat check bypassed successfully.": "反作弊已成功绕过",
   "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "绕过反作弊失败，自动农场已禁止使用，您的执行程序不支持所需功能",
-  "Please select a valid enchant.": "请选择一个有效的附魔"
+  "Please select a valid enchant.": "请选择一个有效的附魔",
+  "Failed to load the Game Module, require features will be disabled.": "游戏模块加载失败，相关功能将被禁用",
+  "You are not the sheriff/hero!": "你不是警长！"
 }
