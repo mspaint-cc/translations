@@ -1476,5 +1476,10 @@
   "Hello, %s!": "Привіт, %s!",
   "Key Information": "Інформація про ключ",
   "Bypass Mode": "Режим обходу",
-  "Speed Bypass Delay": "Затримка обходу швидкості"
+  "Speed Bypass Delay": "Затримка обходу швидкості",
+  "Execute on Teleport will not work, failed to get your key.": "Виконати на телепортації не вийде, не вдалося отримати ключ.",
+  "Please wait a moment...": "Будь ласка, зачекайте хвилинку...",
+  "AntiCheat check bypassed successfully.": "Перевірка AntiCheat успішно пройдена.",
+  "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "Не вдалося обійти перевірку AntiCheat, Автоферму вимкнено. Ваш виконавець не підтримує необхідні функції.",
+  "Please select a valid enchant.": "Будь ласка, виберіть дійсний заклинання."
 }
