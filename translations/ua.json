@@ -1481,5 +1481,7 @@
   "Please wait a moment...": "Будь ласка, зачекайте хвилинку...",
   "AntiCheat check bypassed successfully.": "Перевірка AntiCheat успішно пройдена.",
   "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "Не вдалося обійти перевірку AntiCheat, Автоферму вимкнено. Ваш виконавець не підтримує необхідні функції.",
-  "Please select a valid enchant.": "Будь ласка, виберіть дійсний заклинання."
+  "Please select a valid enchant.": "Будь ласка, виберіть дійсний заклинання.",
+  "You are not the sheriff/hero!": "Ви не шериф/герой!",
+  "Failed to load the Game Module, require features will be disabled.": "Якщо не вдасться завантажити ігровий модуль, обов'язкові функції будуть вимкнені."
 }
