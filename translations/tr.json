@@ -1800,5 +1800,12 @@
   "You are not innocent/dead!": "Sen masum değilsin/ölmedin!",
   "Failed to find the %s!": "%s Maalesef bulunamadı.",
   "Bypass Mode": "Bypass Modu",
-  "Vine Guillotine": "Asma Giyotini"
+  "Vine Guillotine": "Asma Giyotini",
+  "Execute on Teleport will not work, failed to get your key.": "Işınlandığınızda Script çalışmayacak, anahtarınız alınamadı",
+  "Failed to load the Game Module, require features will be disabled.": "Oyun Modülü yüklenemedi, gerekli özellikler devre dışı bırakılacak",
+  "Please wait a moment...": " Lütfen bir dakika bekleyin...",
+  "AntiCheat check bypassed successfully.": "Hile koruma kontrolü başarıyla atlatıldı.",
+  "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "Hile koruma kontrolü atlatılamadı, Otomatik Tarım devre dışı bırakıldı. Executorunuz gerekli fonksiyonları desteklemiyor.",
+  "You are not the sheriff/hero!": "Şerif/kahraman siz değilsiniz!",
+  "Please select a valid enchant.": "Lütfen geçerli bir büyü seçin."
 }
