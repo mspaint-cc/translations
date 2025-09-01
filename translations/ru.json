@@ -1766,5 +1766,12 @@
   "Hesitation Chance (%)": "Шанс колебания (%)",
   "Hesitation Max (s)": "Максимальное Колебание (s)",
   "Bypass Mode": "Режим обхода",
-  "Vine Guillotine": "Рычаг лианы"
+  "Vine Guillotine": "Рычаг лианы",
+  "Execute on Teleport will not work, failed to get your key.": "Запуск при Телепорте не сработает, не удалось получить ваш ключ.",
+  "Failed to load the Game Module, require features will be disabled.": "Не удалось прогрузить модуль игры, require функции будут выключены.",
+  "Please wait a moment...": "Пожалуйста подождите...",
+  "AntiCheat check bypassed successfully.": "Обход Слежки АнтиЧита был успешен.",
+  "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "Не удалось обойти слежку АнтиЧита, Авто Фарм был выключен. Ваш инжектор не поддерживает нужные функции.",
+  "You are not the sheriff/hero!": "Ты не шериф/герой!",
+  "Please select a valid enchant.": "Пожалуйста выберите правильную чару."
 }
