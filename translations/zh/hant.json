@@ -461,7 +461,6 @@
 "Killed all players!": "已將所有人幹了",
 "Sheriff": "警長",
 "Kill Murderer": "擊殺殺手",
-"You are not the sheriff!": "你不是警長",
 "Failed to find the murder!": "無法找到殺手",
 "Killed the murderer!": "已將殺手擊殺",
 "Auto Collect Coins": "自動撿金幣",
@@ -581,7 +580,7 @@
 "Click here to see the migration guide to the new addons api, only click this if you are the addon developer.": "如果你是插件開發者，請點擊這裡查看新插件API的遷移指南",
 "Copied to clipboard migration guide!": "已將遷移指南複製到剪切板！",
 "Discord Rich Presence": "讓Discord好友知道你在用mspaint",
-"Execute on Teleport": "在傳送時自動執行",
+"Execute on Teleport": "在切換遊戲後自動執行",
 "Restart mspaint to apply changes.": "請重啟mspaint以應用更改",
 "Menu keybind": "快捷按鍵菜單",
 "Restart mspaint to apply %s.": "請重啟mspaint以應用更改 %s",
@@ -1121,7 +1120,6 @@
 "Pet equipped.": "寵物已裝備",
 "Claimed %s successfully.": "成功領取 %s",
 "Please select a valid pet.": "請選擇一個有效的寵物",
-"Please select an valid enchant.": "請選擇一個有效的附魔",
 "Invalid pet.": "寵物無效",
 "Stopping Auto Enchant.": "正在停止自動附魔",
 "Invalid enchant or failed to fetch data about the enchant.": "無效的附魔或者無法獲取關於此附魔的數據",
@@ -1472,5 +1470,12 @@
 "Map Data reloaded.": "已重載地圖數據",
 "Fling %s": "甩飛 %s",
 "You are not innocent/dead!": "你不是平民或已出局",
-"Failed to find the %s!": "無法找到 %s !"
+"Failed to find the %s!": "無法找到 %s !",
+"Execute on Teleport will not work, failed to get your key.": "\"在切換遊戲後自動執行\"功能無法啟用, 因為無法找到你的金鈅",
+"Failed to load the Game Module, require features will be disabled.": "加載遊戲套件失敗, require功能將被禁用",
+"Please wait a moment...": "請稍等...",
+"AntiCheat check bypassed successfully.": "反作弊檢查已成功繞過",
+"Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "因為你的執行器不支持所需的函數, 所以無法繞過反作弊檢查, 自動農場將被禁用",
+"You are not the sheriff/hero!": "你不是警長或英雄!",
+"Please select a valid enchant.": "請選擇一個有效的附魔"
 }
