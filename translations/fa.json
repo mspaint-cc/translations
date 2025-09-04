@@ -487,7 +487,6 @@
   "Killed all players!": "همه بازیکن ها کشته شدند!",
   "Sheriff": "کلانتر",
   "Kill Murderer": "کشتن قاتل",
-  "You are not the sheriff!": "شما کلانتر نیستید!",
   "Failed to find the murder!": "پیدا کردن قاتل شکست خورد!",
   "Killed the murderer!": "قاتل کشته شد!",
   "Auto Collect Coins": "جمع کردن خودکار سکه ها",
@@ -1476,5 +1475,7 @@
   "Please wait a moment...": "لطفاً کمی صبر کنید...",
   "AntiCheat check bypassed successfully.": "بررسی آنتی چیت با موفقیت دور زده شد.",
   "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "عدم موفقیت در دور زدن بررسی آنتی چیت، فارم خودکار غیرفعال شد. اگزکیوتر شما از توابع موردنیاز پشتیبانی نمی‌کند.",
-  "Please select a valid enchant.": "لطفاً یک enchant معتبر انتخاب کنید."
+  "Please select a valid enchant.": "لطفاً یک enchant معتبر انتخاب کنید.",
+  "Failed to load the Game Module, require features will be disabled.": "بارگذاری ماژول بازی ناموفق بود، برخی قابلیت‌های موردنیاز غیرفعال خواهند شد.",
+  "You are not the sheriff/hero!": "شما کلانتر/قهرمان نیستید!"
 }
