@@ -126,5 +126,10 @@
     "pl": {
         "NativeName": "Polski",
         "EnglishName": "Polish"
+    },
+
+    "he": {
+        "NativeName": "עברית‎",
+        "EnglishName": "Hebrew"
     }
 }
