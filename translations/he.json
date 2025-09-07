@@ -26,7 +26,7 @@
   "Invalid 'Game' variable (expected 'string/table/number' got '": "Invalid 'Game' variable (expected 'string/table/number' got '",
   "[mspaint] Addon '": "[mspaint] תוסף '",
   "' didn't load: Invalid 'Game' variable (expected 'string/table/number' got '": "' didn't load: Invalid 'Game' variable (expected 'string/table/number' got '",
-  "' didn't load: Wrong game.": "טעינת תוסף זה נכשלה:",
+  "' didn't load: Wrong game.": "' didn't load: Wrong game.",
   "Failed to load this addon:": "טעינת תוסף זה נכשלה:",
   "Migration Guide": "מדריך מיגרציה",
   "Click here to see the migration guide to the new addons api, only click this if you are the addon developer.": "לחצו כאן לצפייה במדריך המיגרציה ל-API החדש של התוספים. מיועד למפתחי תוספים בלבד.",
