@@ -11,7 +11,7 @@
   "%d seconds": "%d שניות",
   "%d second": "%d שנייה",
   "%s anticheat bypassed successfully.": "האנטי-צ'יט %s נעקף בהצלחה.",
-  "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] סביבת ההרצה שלך אינה תומכת ב-FileSystem API. תוספים לא יעבדו.",
+  "[mspaint] Your executor doesn't support the FileSystem API. Addons will not work.": "[mspaint] האקזקיוטור שלך אינו תומך ב-FileSystem API. תוספים לא יעבדו.",
   "Addons": "תוספים",
   "Community Addons for mspaint": "תוספים קהילתיים עבור mspaint",
   "WARNING": "אזהרה",
