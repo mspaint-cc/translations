@@ -1773,5 +1773,13 @@
   "AntiCheat check bypassed successfully.": "Обход Слежки АнтиЧита был успешен.",
   "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "Не удалось обойти слежку АнтиЧита, Авто Фарм был выключен. Ваш инжектор не поддерживает нужные функции.",
   "You are not the sheriff/hero!": "Ты не шериф/герой!",
-  "Please select a valid enchant.": "Пожалуйста выберите правильную чару."
+  "Please select a valid enchant.": "Пожалуйста выберите правильную чару.",
+  "Plants": "Растения",
+  "Value": "Валюта",
+  "Forsaken": "Forsaken",
+  " sec": "сек",
+  "Fuel": "Топливо",
+  "Food": "Еда",
+  "Animal": "Животное",
+  "Enemy": "Враг"
 }
