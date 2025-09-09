@@ -1838,5 +1838,16 @@
   "You died, disabling Auto Rooms...": "Moriste, desactivando Auto Rooms...",
   "Skipping loot, no waypoints found.": "Saltando botín, no se encontraron puntos de referencia.",
   "Combat Features": "Características de combate",
-  "Survivor Features": "Características de Survivor"
+  "Survivor Features": "Características de Survivor",
+  "[mspaint] Addon '%s' didn't load: Invalid 'Game' variable (expected 'string/table/number' got '%s')": "[mspaint] El complemento '%s' no se cargó: variable 'Juego' no válida (se esperaba 'cadena/tabla/número' y obtuvo '%s')",
+  "[mspaint] Addon '%s' didn't load: Wrong game.": "[mspaint] El complemento '%s' no se cargó: Juego incorrecto.",
+  "[mspaint] Failed to load addon '%s':": "[mspaint] Error al cargar el complemento '%s':",
+  "Plants": "Plantas",
+  "Plants Features": "Características de las plantas",
+  "Visualize Prediction": "Visualizar predicción ",
+  "Ignore Condition(s)": "Ignorar condicion(es)",
+  "Aiming Target": "Objetivo de puntería",
+  "Flintlock Auto-Aim": "Pistola de chispa con apuntado automático",
+  "Pathfinding": "Búsqueda de caminos",
+  "Status: <font color=\"rgb(%s)\">%s</font>": "Estado: <font color=\"rgb(%s)\">%s</font>"
 }
