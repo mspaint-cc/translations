@@ -1849,5 +1849,15 @@
   "Aiming Target": "Objetivo de puntería",
   "Flintlock Auto-Aim": "Pistola de chispa con apuntado automático",
   "Pathfinding": "Búsqueda de caminos",
-  "Status: <font color=\"rgb(%s)\">%s</font>": "Estado: <font color=\"rgb(%s)\">%s</font>"
+  "Status: <font color=\"rgb(%s)\">%s</font>": "Estado: <font color=\"rgb(%s)\">%s</font>",
+  "We are rewriting this feature, it is coming back at a later time!": "¡Estamos reescribiendo esta función y volverá más adelante!",
+  "Pathfind when role": "Pathfind cuando el rol",
+  "Survivor Settings": "Configuración de Survivor",
+  "Generator Priority": "Prioridad del generador ",
+  "Distance To Avoid Killer": "Distancia para evitar al asesino",
+  "Ignore Killer Threat": "Ignorar la amenaza asesina",
+  "Show Avoiding Position": "Mostrar posición de evitación",
+  "Pathfinding Stuck Delay": "Retraso en la búsqueda de rutas atascadas",
+  "Auto Open Generator": "Ventana de apertura automática",
+  "Killer Settings": "Configuración de asesino"
 }
