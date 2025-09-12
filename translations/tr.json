@@ -1904,5 +1904,12 @@
   "Checking if we have already met the requirement...": "Gereksinimi zaten karşılayıp karşılamadığımız kontrol ediliyor...",
   "Fast Reel might not work properly! Your ping is quite high.": "Hızlı Sarma düzgün çalışmayabilir! Pinginiz oldukça yüksek.",
   "Discover All Locations": "Tüm Konumları Keşfet",
-  "Invalid 'Game' variable (expected 'string/table/number' got '%s'": "Geçersiz 'Oyun' değişkeni (beklenen: 'yazı/tablo/sayı', alınan: '%s')"
+  "Invalid 'Game' variable (expected 'string/table/number' got '%s'": "Geçersiz 'Oyun' değişkeni (beklenen: 'yazı/tablo/sayı', alınan: '%s')",
+  "Anti-Eyes": "Anti-Eyes",
+  "Anti-Lookman": "Anti-Lookman",
+  "Anti-Dupe": "Anti-Dupe",
+  "Anti-Vacuum": "Anti-Vacuum",
+  "[mspaint guard]: mspaint guard received invalid anticheat data from the server. For your security, we have kicked you.": "[mspaint koruması]: mspaint koruması sunucudan geçersiz hile koruma verileri aldı. Güvenliğiniz için sizi oyundan attık.",
+  " seconds": "saniyeler",
+  "Auto Open Block Doors": "Otomatik Engellenen kapıları aç"
 }
