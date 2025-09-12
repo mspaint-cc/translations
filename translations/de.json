@@ -1202,5 +1202,11 @@
   "Wire is currently at %s%% from being fixed!": "Das Kabel ist schon zu %s%% repariert",
   "Wire has automatically been fixed!": "Das Kabel wurde automatisch repapiert!",
   "Disable Camera Static": "Deaktiviere statische Kamera",
-  "Enable Silent Aim": "Aktiviere ruhiges Zielen"
+  "Enable Silent Aim": "Aktiviere ruhiges Zielen",
+  "Silent Aim Method": "Methode für ruhiges Zielen",
+  "Silent Aim uses settings from Aimbot.": "Ruhiges Zielen benutzt die Einstellungen vom Aimbot.",
+  "Please select 'Mouse' in 'Get Closest From' dropdown.": "Bitte wähle 'Mouse' im 'Get Closest From' Dropdown-Menü",
+  "Colors": "Farben",
+  "FOV Circle Color": "Sichtfeld-Kreis Farbe",
+  "[Tuned]": "[eingestellt]"
 }
