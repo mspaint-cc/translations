@@ -1192,5 +1192,15 @@
   "Stopped bringing items.": "Items bringen wurde gestoppt.",
   "Auto Rooms V3": "Auto Rooms V3",
   "Stardust": "Stardust",
-  "Disable The Crooked": "Deaktivieren den Crooked"
+  "Disable The Crooked": "Deaktivieren den Crooked",
+  "Will go outside of the entitiy's field of view to avoid them.": "Geht aus dem Sichtfeld der Entität um sie zu Vermeiden",
+  "This is not available on The Hunted or Raveyard for security reasons.": "Das ist aus Sicherheitsgründen in The Hunted oder Raveyard nicht verfügbar.",
+  "The crooked has been disabled.": "Der Crooked wurde deaktiviert",
+  "Could not find the position to tune the radio to please fallback to manual tuning.": "Die Position zum einstellen des Radios konnte nicht gefunden werden, bitte greife auf die manuelle Funktion zurück.",
+  "Radio has automatically been tuned to the position!": "Das Radio wurde automatisch eingestellt!",
+  "Fixing wire, the wire is currently at %s%% from fixed.": "Das Kabel wird repariert. Das Kabel ist schon zu %s%% repariert",
+  "Wire is currently at %s%% from being fixed!": "Das Kabel ist schon zu %s%% repariert",
+  "Wire has automatically been fixed!": "Das Kabel wurde automatisch repapiert!",
+  "Disable Camera Static": "Deaktiviere statische Kamera",
+  "Enable Silent Aim": "Aktiviere ruhiges Zielen"
 }
