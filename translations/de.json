@@ -1182,5 +1182,15 @@
   "Getting the Drill...": "Hole den Bohrer...",
   "Getting the Green Energy Crystal...": "Hole den Grünen Energie Kristall...",
   "Getting the Red Energy Crystal...": "Hole den Roten Energie Kristall...",
-  "Teleporting to the Submarine...": "Teleportiere zum U-Boot"
+  "Teleporting to the Submarine...": "Teleportiere zum U-Boot",
+  "Latest Changelog": "Letzte Änderungen",
+  "Failed to load the changelog... 😢": "Fehler beim laden der Liste von letzen Änderungen... 😢",
+  "Waiting for '%s' to finish...": "Warten bis '%s' fertig ist...",
+  "Game Exploits": "Game Exploits",
+  "Invalid 'Game' variable (expected 'string/table/number' got '%s'": "Die 'Game' Variable ist ungültig ('string/table/number' erwartet, '%s' bekommen)",
+  "Stop Bringing Items": "Items bringen stoppen",
+  "Stopped bringing items.": "Items bringen wurde gestoppt.",
+  "Auto Rooms V3": "Auto Rooms V3",
+  "Stardust": "Stardust",
+  "Disable The Crooked": "Deaktivieren den Crooked"
 }
