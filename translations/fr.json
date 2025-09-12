@@ -520,5 +520,6 @@
   "Auto Appraise": "Évaluation automatique",
   "Appraisal List": "Liste des évaluations",
   "Restart mspaint to apply changes.": "Redémarrez mspaint pour appliquer les changements.",
-  "%d days": "%d journées"
+  "%d days": "%d journées",
+  "%d hours": "%d heures"
 }
