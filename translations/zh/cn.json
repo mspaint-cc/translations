@@ -1631,5 +1631,13 @@
   "No direct path; taking a detour...": "无直达路径，正在绕行...",
   "Checking if we have already met the requirement...": "正在检查是否已满足要求...",
   "Fast Reel might not work properly! Your ping is quite high.": "“快速收线”功能可能无法正常工作！您的网络延迟（ping值）过高",
-  "Discover All Locations": "发现所有地点"
+  "Discover All Locations": "发现所有地点",
+  "[mspaint guard]: mspaint guard received invalid anticheat data from the server. For your security, we have kicked you.": "[Mspaint防护程序]：MSpaint防护程序从服务器接收到无效的反作弊数据，为保障你的安全，你已被强制退出",
+  "Invalid 'Game' variable (expected 'string/table/number' got '%s')": "“Game”变量无效（预期类型为“字符串/表格/数字”，实际得到“%s”）",
+  " seconds": "秒",
+  "Anti-Vacuum": "防 真空",
+  "Anti-Dupe": "防 假门",
+  "Anti-Lookman": "防 Lookman",
+  "Anti-Eyes": "防 Eyes",
+  "Auto Open Block Doors": "自动开启被阻挡的门"
 }
