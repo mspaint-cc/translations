@@ -1208,5 +1208,16 @@
   "Please select 'Mouse' in 'Get Closest From' dropdown.": "Bitte wähle 'Mouse' im 'Get Closest From' Dropdown-Menü",
   "Colors": "Farben",
   "FOV Circle Color": "Sichtfeld-Kreis Farbe",
-  "[Tuned]": "[eingestellt]"
+  "[Tuned]": "[eingestellt]",
+  "[mspaint guard]: mspaint guard received invalid anticheat data from the server. For your security, we have kicked you.": "[mspaint guard]: mspaint guard hat ungültige AntiCheat Daten vom Server erhalten. Zur Sicherheit, haben wir dich gekickt.",
+  "Invalid 'Game' variable (expected 'string/table/number' got '%s')": "Ungültige 'Game' Variable (erwartet 'string/table/number' erhalten '%s')",
+  " seconds": "Sekunden",
+  "Anti-Dupe": "Anti-Dupe",
+  "Anti-Lookman": "Anti-Lookman",
+  "Anti-Eyes": "Anti-Eyes",
+  "Token": "Token",
+  "Gate Button": "Gate-Knopf",
+  "Pets": "Haustiere",
+  "Plants": "Pflanzen",
+  "Your executor doesn't support require.": "Dein Executor unterstützt 'require' nicht."
 }
