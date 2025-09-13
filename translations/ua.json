@@ -1582,5 +1582,13 @@
   "You need to have a Fairy Net in your inventory to use Auto Fairy Net.": "Для використання автоматичної казкової сітки вам потрібно мати у своєму інвентарі казкову сітку.",
   "Checking if we have already met the requirement...": "Перевірка, чи ми вже виконали вимогу...",
   "Fast Reel might not work properly! Your ping is quite high.": "Можливо, Fast Reel не працює належним чином! Ваш пінг дуже високий.",
-  "Discover All Locations": "Відкрити всі локації"
+  "Discover All Locations": "Відкрити всі локації",
+  "[mspaint guard]: mspaint guard received invalid anticheat data from the server. For your security, we have kicked you.": "[mspaint guard]: mspaint guard отримав від сервера невірні дані антирейтингу. Задля вашої безпеки ми вас вигнали.",
+  "Invalid 'Game' variable (expected 'string/table/number' got '%s')": "Невірна змінна 'Game' (очікуваний 'рядок/таблиця/число' отримав '%s')",
+  " seconds": " секунди",
+  "Anti-Vacuum": "Анти-Вакуум",
+  "Anti-Dupe": "Анти-Дюп",
+  "Anti-Lookman": "Анти-ЛукМен",
+  "Anti-Eyes": "Анти-Очі",
+  "Auto Open Block Doors": "Автоматичне відкривання дверей"
 }
