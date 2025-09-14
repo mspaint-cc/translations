@@ -1219,5 +1219,17 @@
   "Gate Button": "Gate-Knopf",
   "Pets": "Haustiere",
   "Plants": "Pflanzen",
-  "Your executor doesn't support require.": "Dein Executor unterstützt 'require' nicht."
+  "Your executor doesn't support require.": "Dein Executor unterstützt 'require' nicht.",
+  "Anti-Vacuum": "Anti-Vacuum",
+  "Your executor needs to support require to load mspaint in Forsaken.": "Dein Executor muss 'require' unterstützen um mspaint in Forsaken zu laden.",
+  "Survivor": "Überlebender",
+  "Password Paper": "Passwort Zettel",
+  "Could not find required Module.": "Konnte benötigtes Modul nicht finden.",
+  "Quests": "Aufgaben",
+  "Hitboxes": "Hitboxen",
+  "Train": "Zug",
+  "Train Fuel: %s%%": "Zug-Brennstoff: %s%%",
+  "Train Distance: %s": "Zug-Distanz: %s",
+  "Teleport back to Train": "Teleportiere zurück zum Zug",
+  "You have been teleported to the end, enjoy!": "Du wurdest zum Ende teleportiert!"
 }
