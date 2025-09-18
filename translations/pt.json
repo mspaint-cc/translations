@@ -1674,7 +1674,7 @@
   "Checking if we have already met the requirement...": "Verificando se já cumprimos o requisito...",
   "Fast Reel might not work properly! Your ping is quite high.": "O Fast Reel pode não funcionar corretamente! Seu ping está muito alto.",
   "Discover All Locations": "Descubra todos os locais",
-  "[mspaint guard]: mspaint guard received invalid anticheat data from the server. For your security, we have kicked you.": "[mspaint guard]: o mspaint guard recebeu dados anticheat inválidos do servidor. Por motivos de segurança, você foi expulso.",
+  "[mspaint guard]: mspaint guard received invalid anticheat data from the server. For your security, we have kicked you.": "[mspaint guard]: O mspaint guard recebeu dados anticheat inválidos do servidor. Por motivos de segurança, você foi expulso.",
   "Invalid 'Game' variable (expected 'string/table/number' got '%s')": "Variável ‘Game’ inválida (esperava ‘string/tabela/número’, mas recebeu ‘%s’)",
   " seconds": " segundos",
   "Anti-Vacuum": "Anti-Vácuo",
