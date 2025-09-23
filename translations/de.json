@@ -1255,5 +1255,17 @@
   "Eggs": "Eier",
   "Removing": "Entferne",
   "Position": "Position",
-  "Combat": "Kampf"
+  "Combat": "Kampf",
+  "Build name": "Build-Name",
+  "Build list": "Build-Liste",
+  "Delete Build": "Build löschen",
+  "Refresh Builds": "Builds neuladen",
+  "Complete Game": "Spiel vervollständigen",
+  "Teleport to End": "Teleportiere zum Ende",
+  "Teleport to Tesla Lab": "Teleportiere zum Tesla Lab",
+  "Tesla Lab not found, teleport failed!": "Tesla Lab nicht gefunden, teleportation fehlgeschlagen!",
+  "Generator not found, teleport failed!": "Generator nicht gefunden, teleportation fehlgeschlagen!",
+  "Teleport to Tesla Lab...": "Teleportiere zum Tesla Lab...",
+  "Interval (Minutes)": "Interval (Minuten)",
+  "Teleport To": "Teleportiere zu"
 }
