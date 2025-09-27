@@ -1525,6 +1525,15 @@
 "Anti-Lookman": "反Lookman",
 "Anti-Eyes": "反Eyes",
 "Auto Open Block Doors": "自動打開阻擋的門",
-"Invalid 'Game' variable (expected 'string/table/number' got '%s'": "Invalid 'Game' variable (expected 'string/table/number' got '%s'",
-" sec": "秒"
+"Look Toward Direction": "看向方向",
+"Activate On..": "激活..",
+"Killer: Low Health Priority": "殺手: 低血量優先級",
+"Killer: Predict Players": "殺手: 預測玩家",
+"Enable Targeting": "啟用定位",
+"Closing Speed": "關閉速度",
+"Coinflip Decision Mode": "拋硬幣決策模式",
+"Show Hitbox": "展示命中箱",
+"Ignore Conditions": "忽略座標",
+"Attacking Mode": "攻擊模式",
+"Auto Submit Beanstalk Plants": "自動提交豆莖植物"
 }
