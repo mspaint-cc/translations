@@ -1286,5 +1286,13 @@
   "Teleporting to end, DO NOT TOUCH ANYTHING WHILE MSPAINT IS TELEPORTING YOU...": "Teleportiere zum Ende, berühre nichts während mspaint dich teleportiert!",
   "Elliot": "Elliot",
   "Auto Sprint": "Auto Sprint",
-  "Enable Auto Sprint": "Aktiviere Auto Sprint"
+  "Enable Auto Sprint": "Aktiviere Auto Sprint",
+  "Auto Collect Moneybags": "Geldbeutel automatisch aufsammeln",
+  "Auto Drive Train": "Zug automatisch fahren",
+  "Auto Fuel Train": "Zug automatisch befüllen",
+  "Auto Use Snake Oil": "Snake Oil automatisch nutzen",
+  "Auto Use Bandage": "Bandagen automatisch nutzen",
+  "Chance": "Chance",
+  "Pathfinding": "Wegfindung",
+  "Enable Pathfinding": "Wegfindung aktivieren"
 }
