@@ -1644,7 +1644,7 @@
   "Main Server": "主要服务器",
   "Copied main server Discord link to clipboard.": "将主服务器Discord链接复制到剪贴板",
   "Copied support server Discord link to clipboard.": "已将支持服务器 Discord 链接复制到剪贴板",
-  "You can report any bugs or suggest features in our Discord Server using these commands:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>": "您可以使用以下命令在我们的 Discord 服务器中报告任何错误或建议功能：\\n - <font color=\\\"rgb(173,245,255)\\\">/bugreport</font>\\n - <font color=\\\"rgb(173,245,255)\\\">/suggestion</font>\"",
+  "You can report any bugs or suggest features in our Discord Server using these commands:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>": "您可以使用以下命令在我们的 Discord 服务器中报告任何错误或建议功能：\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>",
   "Free Private Server": "免费私人服务器",
   "Reserves a free private server (CREDITS: sashaa169)": "预留一个免费私人服务器（鸣谢：sashaa169）",
   "Atempted to reserve a private server.": "尝试预留私人服务器",
