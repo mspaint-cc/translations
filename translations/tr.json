@@ -1916,7 +1916,7 @@
   "Main Server": "Ana Sunucu",
   "Copied main server Discord link to clipboard.": "Ana sunucu Discord bağlantısı panoya kopyalandı.",
   "Copied support server Discord link to clipboard.": "Destek sunucusu Discord bağlantısı panoya kopyalandı.",
-  "You can report any bugs or suggest features in our Discord Server using these commands:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>": "Herhangi bir hatayı bildirmek veya özellik önermek için Discord sunucumuzda şu komutları kullanabilirsiniz:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>",
+  "You can report any bugs or suggest features in our Discord Server using these commands:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>": "Herhangi bir hatayı bildirmek veya özellik önermek için Discord sunucumuzda şu komutları kullanabilirsiniz:\n/bugreport veya /suggestion",
   "Free Private Server": "Ücretsiz Özel Sunucu",
   "Reserves a free private server (CREDITS: sashaa169)": "Ücretsiz bir özel sunucu rezerve eder (KREDİ: sashaa169)",
   "Atempted to reserve a private server.": "Özel sunucu ayırtılmaya çalışıldı.",
