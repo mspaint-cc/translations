@@ -367,7 +367,7 @@
 "Auto Reel": "自動收線",
 "Stopped.": "已停止。",
 "Auto Shake": "自動搖動",
-"Make sure nothing is covering the shake safezone.\nIf you want to do something turn off Auto Shake first,\nit will click on any UI element thats on top of the shake button if you keep it on.": "確保沒有東西遮擋搖動安全區。\n如果你想做其他事情，先關閉自動搖動，\n如果保持開啟，它會點擊覆蓋在搖動按鈕上的任何 UI 元素。",
+"Make sure nothing is covering the shake safezone.\n\nIf you want to do something turn off Auto Shake first,\nit will click on any UI element thats on top of the shake button if you keep it on.": "確保沒有東西遮擋搖動安全區。\\nn如果你想做其他事情，先關閉自動搖動，\n如果保持開啟，它會點擊覆蓋在搖動按鈕上的任何 UI 元素。",
 "Delay": "延遲",
 "Enable": "啟用",
 "Exceptions": "例外",
