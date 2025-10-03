@@ -1294,5 +1294,10 @@
   "Auto Use Bandage": "Bandagen automatisch nutzen",
   "Chance": "Chance",
   "Pathfinding": "Wegfindung",
-  "Enable Pathfinding": "Wegfindung aktivieren"
+  "Enable Pathfinding": "Wegfindung aktivieren",
+  "Copied support server Discord link to clipboard.": "Support Server Link in die Zwischenablage kopiert.",
+  "Copied main server Discord link to clipboard.": "Haupt-Server Link in die Zwischenablage kopiert.",
+  "Main Server": "Haupt-Server",
+  "Copied script panel link to clipboard.": "Script-Panel in die Zwischenablage kopiert.",
+  "You can report any bugs or suggest features in our Discord Server using these commands:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>": "Du kannst Fehler melden oder Ideen vorschlagen auf unserem Discord Server mit diesem Befehlen:\n- <font color=\"rgb(173,245,255)\">/bugreport</font>\n  <font color=\"rgb(173,245,255)\">/suggestion</font>"
 }
