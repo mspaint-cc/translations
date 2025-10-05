@@ -1938,5 +1938,14 @@
   "Invalid coordinates!": "¡Coordenadas inválidas!",
   "Waiting for Auto Use Totem to finish...": "Esperando a que finalice el uso automático del tótem...",
   "Using Totem...": "Usando Totem...",
-  "Auto Use Totem on Event": "Uso automático de tótem en evento"
+  "Auto Use Totem on Event": "Uso automático de tótem en evento",
+  "Anti-Environment": "Anti-ambiental",
+  "Anti-Toxic Water": "Agua antitóxica",
+  "Bypass Killer Only Entrances": "Entradas exclusivas para evitar asesinos",
+  "Loading Miscellaneous Utilities...": " Cargando utilidades varias...",
+  "Sell after xxx catches": "Vender después de xxx capturas",
+  "Attributes List": "Lista de atributos",
+  "Options": "Opciones",
+  "'%s' mutation": "mutación '%s'",
+  "'%s' attribute(s)": "Atributos '%s'"
 }
