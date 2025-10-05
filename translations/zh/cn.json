@@ -1679,5 +1679,9 @@
   "Invalid coordinates!": "无效的坐标！",
   "Waiting for Auto Use Totem to finish...": "正在等待自动使用图腾完成…",
   "Using Totem...": "正在使用图腾…",
-  "Auto Use Totem on Event": "在事件时自动使用图腾"
+  "Auto Use Totem on Event": "在事件时自动使用图腾",
+  "⚠️ WARNING! mspaint is currently not working or is detected by the anticheat in '%s'! If you want to bypass this kick, execute this before executing mspaint:": "⚠️ WARNING! mspaint is currently not working or is detected by the anticheat in '%s'! If you want to bypass this kick, execute this before executing mspaint:",
+  "Anti-Toxic Water": "1",
+  "ℹ️ NOTE! mspaint may not work correctly in '%s'! We are sorry if you encounter any problems.": "ℹ️ NOTE! mspaint may not work correctly in '%s'! We are sorry if you encounter any problems.",
+  "You can report any bugs or suggest features in our Discord Server using these commands:<br/> - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>": "You can report any bugs or suggest features in our Discord Server using these commands:<br/> - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>"
 }
