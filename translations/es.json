@@ -1947,5 +1947,6 @@
   "Attributes List": "Lista de atributos",
   "Options": "Opciones",
   "'%s' mutation": "mutación '%s'",
-  "'%s' attribute(s)": "Atributos '%s'"
+  "'%s' attribute(s)": "Atributos '%s'",
+  "Loading Data - Functions...": "Cargando datos - Funciones..."
 }
