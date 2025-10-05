@@ -1949,5 +1949,6 @@
   "'%s' mutation": "mutación '%s'",
   "'%s' attribute(s)": "Atributos '%s'",
   "Loading Data - Functions...": "Cargando datos - Funciones...",
-  "Loading Data - Datatables...": "Cargando datos - Tablas de datos..."
+  "Loading Data - Datatables...": "Cargando datos - Tablas de datos...",
+  "Loading Data - Enchants...": "Cargando datos - Encantamientos..."
 }
