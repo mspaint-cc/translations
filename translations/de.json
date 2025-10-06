@@ -1299,5 +1299,22 @@
   "Copied main server Discord link to clipboard.": "Haupt-Server Link in die Zwischenablage kopiert.",
   "Main Server": "Haupt-Server",
   "Copied script panel link to clipboard.": "Script-Panel in die Zwischenablage kopiert.",
-  "You can report any bugs or suggest features in our Discord Server using these commands:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>": "Du kannst Fehler melden oder Ideen vorschlagen auf unserem Discord Server mit diesem Befehlen:\n- <font color=\"rgb(173,245,255)\">/bugreport</font>\n  <font color=\"rgb(173,245,255)\">/suggestion</font>"
+  "You can report any bugs or suggest features in our Discord Server using these commands:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>": "Du kannst Fehler melden oder Ideen vorschlagen auf unserem Discord Server mit diesem Befehlen:\n- <font color=\"rgb(173,245,255)\">/bugreport</font>\n  <font color=\"rgb(173,245,255)\">/suggestion</font>",
+  "⚠️ WARNING! mspaint is currently not working or is detected by the anticheat in '%s'! If you want to bypass this kick, execute this before executing mspaint:": "⚠️WARNUNG! mspaint funktioniert gerade nicht oder ist erkannt vom anticheat in '%s'! Wenn du diesen Kick umgehen willst führe das vor mspaint aus: ",
+  "Atempted to reserve a private server.": "Versucht einen Privat Server zu reservieren.",
+  "Reserves a free private server (CREDITS: sashaa169)": "Reserviert einen Privat Server (CREDITS: sashaa169)",
+  "Free Private Server": "Umsonst Privat Server",
+  "Teleport to Vampire Castle": "Teleportiere zum Vampir Schloss",
+  "You have been teleported to Vampire Castle, enjoy!": "Du wurdest zum Vampir Schloss teleportiert, viel Spass!",
+  "Invisibility": "Unsichtbarkeit",
+  "Enable Invisibility": "Unsichtbarkeit aktivieren",
+  "Totems": "Totems",
+  "Loading Fisch...": "Lade Fisch...",
+  "Loading Events...": "Lade Events...",
+  "Loading UI...": "Lade UI...",
+  "Loading Data...": "Lade Daten...",
+  "Loading Tabs...": "Lade Tabs...",
+  "Inventory Features": "Inventar Funktionen",
+  "Player Features": "Spieler Funktionen",
+  "Shop": "Shop"
 }
