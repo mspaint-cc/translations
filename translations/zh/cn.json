@@ -1708,5 +1708,10 @@
   "Loading Data - Rarities...": "正在加载数据 - 稀有度...",
   "Loading Data - Rarity Colors...": "正在加载数据 - 稀有度颜色...",
   "Loading Data - Rods...": "正在加载数据 - 鱼竿...",
-  "Buy From Merlin": "从梅林处购买"
+  "Buy From Merlin": "从梅林处购买",
+  "Private Server Code:": "私服代码:",
+  "Join Private Server": "加入私服",
+  "Attempted to join a private server.": "尝试加入私服",
+  "Attempted to reserve a private server.": "尝试预留私服",
+  "Private Servers": "私服"
 }
