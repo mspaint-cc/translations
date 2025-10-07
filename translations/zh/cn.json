@@ -1681,7 +1681,7 @@
   "Using Totem...": "正在使用图腾…",
   "Auto Use Totem on Event": "在事件时自动使用图腾",
   "⚠️ WARNING! mspaint is currently not working or is detected by the anticheat in '%s'! If you want to bypass this kick, execute this before executing mspaint:": "⚠️ 警告！mspaint 目前无法工作，或是在 '%s' 中被反作弊系统检测到！如果你想绕过这次踢出，请在执行 mspaint 之前执行此操作：\n解释：",
-  "Anti-Toxic Water": "禁用毒水效果",
+  "Anti-Toxic Water": "禁用毒河效果",
   "ℹ️ NOTE! mspaint may not work correctly in '%s'! We are sorry if you encounter any problems.": "ℹ️ 注意！mspaint 可能无法在 '%s' 中正常工作！如果您遇到任何问题，我们深表歉意。\n解释：",
   "You can report any bugs or suggest features in our Discord Server using these commands:<br/> - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>": "您可以使用以下命令在我们的 Discord 服务器中报告任何错误或提出功能建议:<font color='rgb(173,245,255)'>/bugreport</font><font color='rgb(173,245,255)'>/suggestion</font>",
   "Anti-Environment": "禁用环境伤害",
