@@ -59,7 +59,7 @@
 "Successfully saved %s's build into '%s'!": "成功將 %s 的建築存入 '%s'！",
 "Auto Build [BETA]": "自動建造 [測試版]",
 "Save Player's Build": "保存玩家建築",
-"Build with that name already exists!": "名稱為「%s」的建築已存在！",
+"Build with that name already exists!": "同名的建築已經存在！",
 "Outdated version! (Data Version: %s | Current Version: %s)": "版本過舊！(資料版本: %s | 目前版本: %s)",
 "Build data loaded, building...\n  Version: %s\nBlocks: %s": "建築資料載入完成，開始建造...\n  版本: %s\n方塊數: %s",
 "Setting %s colors...": "設定 %s 的顏色...",
@@ -1515,7 +1515,6 @@
 "Copied support server Discord link to clipboard.": "已將Discord售後伺服器鏈接複製到粘貼板",
 "Free Private Server": "免費私人伺服器",
 "Reserves a free private server (CREDITS: sashaa169)": "預約一個免費私人伺服器（鳴謝：sashaa169）",
-"Atempted to reserve a private server.": "正在嘗試預約一個免費私人服務器",
 "Show Chat History": "展示聊天記錄",
 "Loading Fisch...": "載入Fisch中...",
 "Loading Events...": "載入事件中...",
@@ -1576,5 +1575,15 @@
 "Loading Data - Rarities...": "正在載入資料 - 稀有度...",
 "Loading Data - Rarity Colors...": "正在載入資料 - 稀有顏色...",
 "Loading Data - Rods...": "Loading Data - 魚竿...",
-"Buy From Merlin": "從梅林購買"
+"Buy From Merlin": "從梅林購買",
+"Invalid 'Game' variable (expected 'string/table/number' got '%s'": "Invalid 'Game' variable (expected 'string/table/number' got '%s'",
+" sec": "秒",
+"[mspaint guard]: mspaint guard received invalid anticheat data from the server. For your security, we have kicked you.": "[mspaint安全中心]: mspaint安全中心接收到了無效的反作弊數據, 為了您的安全, 我們使您退出了遊戲",
+"You can report any bugs or suggest features in our Discord Server using these commands:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>": "您可以在我們的Discord伺服器中使用以下指令回報任何錯誤或建議功能：\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>",
+"Failed to find Merling.": "無法找到梅林",
+"Private Server Code:": "私人伺服器代碼：",
+"Join Private Server": "加入私人伺服器",
+"Attempted to join a private server.": "已嘗試加入私人伺服器。",
+"Attempted to reserve a private server.": "已嘗試預約一個私人伺服器。",
+"Private Servers": "私人伺服器"
 }
