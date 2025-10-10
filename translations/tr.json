@@ -1973,5 +1973,16 @@
   "Loading Data - Rarities...": "Veri Yükleniyor - Nadirlikler...",
   "Loading Data - Rarity Colors...": "Veri Yükleniyor - Nadirlik Renkleri...",
   "Loading Data - Rods...": "Veri Yükleniyor - Oltalar...",
-  "Buy From Merlin": "Merlin'den Satın Al"
+  "Buy From Merlin": "Merlin'den Satın Al",
+  "⚠️ WARNING! mspaint is currently not working or is detected by the anticheat in '%s'! If you want to bypass this kick, execute this before executing mspaint:": "⚠️ UYARI! mspaint şu anda '%s' içinde çalışmıyor veya anticheat (hile önleyici) tarafından tespit ediliyor! Bu kick'i atlatmak istiyorsanız, mspaint'i çalıştırmadan önce bunu uygulayın:",
+  "ℹ️ NOTE! mspaint may not work correctly in '%s'! We are sorry if you encounter any problems.": "ℹ️ NOT: mspaint '%s' içinde düzgün çalışmayabilir! Herhangi bir sorun yaşarsanız üzgünüz.",
+  "You can report any bugs or suggest features in our Discord Server using these commands:<br/> - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>": "Herhangi bir hatayı bildirebilir veya özellik önerebilirsiniz. Discord sunucumuzda şu komutları kullanın:<br/> - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>",
+  "Private Server Code:": "Özel Sunucu Kodu:",
+  "Join Private Server": "Özel Sunucuya Katıl",
+  "Attempted to join a private server.": "Özel bir sunucuya katılmaya çalışıldı.",
+  "Attempted to reserve a private server.": "Özel bir sunucuyu rezerve etmeye çalışıldı.",
+  "We are not responsible for any bans or data deletion caused by these exploits.<br/><b>USE AT YOUR OWN RISK</b>": "Bu exploit'lerin sebebiyle banlardan veya veri silinmelerinden sorumlu değiliz.<br/><b>KULLANIM RİSKİ SİZE AİTTİR</b>",
+  "Generate Fish (Lost Jungle)": "Balık Oluştur (Kayıp Orman)",
+  "Failed to find correct zone, teleport to Lost Jungle.": "Doğru bölge bulunamadı, Kayıp Orman'a ışınlanılıyor.",
+  "Private Servers": "Özel Sunucular"
 }
