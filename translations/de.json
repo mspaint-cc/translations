@@ -1316,5 +1316,15 @@
   "Loading Tabs...": "Lade Tabs...",
   "Inventory Features": "Inventar Funktionen",
   "Player Features": "Spieler Funktionen",
-  "Shop": "Shop"
+  "Shop": "Shop",
+  "ℹ️ NOTE! mspaint may not work correctly in '%s'! We are sorry if you encounter any problems.": "ℹ️ NOTIZ! mspaint könnte nicht funktionieren in '%s'! Es tut uns leid wenn du Fehler kriegst.",
+  "You can report any bugs or suggest features in our Discord Server using these commands:<br/> - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>": "Du kannst jegliche Fehler melden oder Funktionen vorschlagen in unserem Discord-Server mit diesen Befehlen:<br/>﻿ - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>",
+  "Join Private Server": "Betrete Privat Server",
+  "Private Server Code:": "Privat Server Code:",
+  "Attempted to join a private server.": "Versuchte einen Privat Server zu joinen.",
+  "Attempted to reserve a private server.": "Versuchte einen Privat Server zu reservieren,",
+  "You have been teleported to Fort Constitution, enjoy!": "Du wurdest zur Fort Consitution teleportiert, viel Spass!",
+  "Teleporting to Tesla Lab, please wait...": "Teleportiere zum Tesla Lab, bitte warte...",
+  "You have been teleported to Tesla Lab, enjoy!": "Du wurdest zum Tesla Lab teleportiert, viel Spass!",
+  "Teleporting to Fort Constitution, please wait...": "Teleportiere zur Fort Constitution, bitte warte..."
 }
