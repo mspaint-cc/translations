@@ -1763,5 +1763,45 @@
   "Enable FOV": "تمكين مجال الرؤية",
   "Show Chat History": "عرض سجل الدردشة",
   "Value": "قيمة",
-  "Show Plant Info on Hover": "إظهار معلومات النبات عند التمرير"
+  "Show Plant Info on Hover": "إظهار معلومات النبات عند التمرير",
+  "⚠️ WARNING! mspaint is currently not working or is detected by the anticheat in '%s'! If you want to bypass this kick, execute this before executing mspaint:": "⚠️ تحذير! برنامج mspaint لا يعمل حاليًا أو تم اكتشافه بواسطة برنامج مكافحة الغش في '%s'! لتفادي هذه المشكلة، نفّذ ما يلي قبل تشغيل mspaint:",
+  "ℹ️ NOTE! mspaint may not work correctly in '%s'! We are sorry if you encounter any problems.": "ملاحظة: قد لا يعمل mspaint بشكل صحيح في '%s'! نأسف إذا واجهت أي مشكلة.",
+  "You can report any bugs or suggest features in our Discord Server using these commands:<br/> - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>": "يمكنك الإبلاغ عن أي أخطاء أو اقتراح ميزات في خادم Discord الخاص بنا باستخدام هذه الأوامر:<br/> - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>",
+  "Private Server Code:": "رمز الخادم الخاص:",
+  "Join Private Server": "الانضمام إلى الخادم الخاص",
+  "Attempted to join a private server.": "حاول الانضمام إلى خادم خاص.",
+  "Attempted to reserve a private server.": "تمت محاولة حجز خادم خاص.",
+  "Anti-Environment": "مضاد-البيئة",
+  "Anti-Toxic Water": "مضاد-المياه السامة",
+  "Bypass Killer Only Entrances": "تجاوز مداخل القاتل فقط",
+  "Magnifying 🔍": "مكبر 🔍",
+  "Teleport to Staging Game": "الانتقال الفوري إلى لعبة التجهيز",
+  "Friendship Pot": "وعاء الصداقة",
+  "Auto Tend Friendship Pot": "وعاء الصداقة التلقائي",
+  "The Center position is recommended. Random will select a random plant.": "يُنصح باختيار الموضع المركزي. سيختار الخيار عشوائيًا نباتًا عشوائيًا.",
+  "Auto Join Fairy World": "الانضمام التلقائي إلى عالم الجنيات",
+  "Auto Get Fairy Points": "الحصول على نقاط الجنية تلقائيًا",
+  "Auto Fairy Net is disabled while Auto Get Fairy Points is enabled.": "يتم تعطيل شبكة الجنيات التلقائية أثناء تمكين الحصول التلقائي على نقاط الجنيات.",
+  "Auto Fairy Net": "Fairy Net تلقائيا",
+  "Auto Get Fairy Points is disabled while Auto Fairy Net is enabled.": "يتم تعطيل الحصول التلقائي على Fairy Net تلقائيا تمكين Fairy Net تلقائيا.",
+  "You need to have a Fairy Net in your inventory to use Auto Fairy Net.": "يجب أن يكون لديك Fairy Net في مخزونك لاستخدام Fairy Net تلقائيا.",
+  "Please wait a moment...": "من فضلك انتظر لحظة...",
+  "AntiCheat check bypassed successfully.": "تم تجاوز فحص AntiCheat بنجاح.",
+  "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "فشل تجاوز فحص مكافحة الغش، تم تعطيل المزرعة التلقائية. مُنفِّذك لا يدعم الوظائف المطلوبة.",
+  "Remote for pickup found.": "تم العثور على ريموت لالتقاط.",
+  "Enable Auto Type": "تمكين النوع التلقائي",
+  "Humanize Typing": "أنسنة الكتابة",
+  "Allow Mistakes": "السماح بالأخطاء",
+  "Mistake Chance (%)": "احتمال الخطأ (%)",
+  "Mistake Backspace Delay": "خطأ تأخير المسافة الخلفية",
+  "Mistake Correction Pause": "تصحيح الخطأ مؤقتًا",
+  "Hesitation Chance (%)": "فرصة التردد (%)",
+  "Hesitation Max (s)": "التردد الأقصى (s)",
+  "Forsaken": "Forsaken",
+  "No direct path; taking a detour...": "لا يوجد طريق مباشر، اتخاذ طريق بديل...",
+  "Loading Fisch...": "Loading Fisch...",
+  "Loading Events...": "Loading Events...",
+  "Loading UI...": "جاري تحميل واجهة المستخدم...",
+  "Loading Data...": "جارٍ تحميل البيانات...",
+  "Loading Utilities...": "Loading Utilities..."
 }
