@@ -1349,5 +1349,9 @@
   "Sold '%s' for %s%s.": "Verkauft '%s' für %s%s.",
   "Usage": "Nutzung",
   "Opening '%s'...": "Öffne '%s'...",
-  "Failed to claim code:": "Fehler beim einlösen des Code: "
+  "Failed to claim code:": "Fehler beim einlösen des Code: ",
+  "Third Person View": "Dritte Person Ansicht",
+  "Auto Collect": "Automatisch Aufsammeln",
+  "Show Chat History": "Zeige Chat Verlauf",
+  "Show Server Position": "Zeige Server Position"
 }
