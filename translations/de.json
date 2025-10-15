@@ -1353,5 +1353,10 @@
   "Third Person View": "Dritte Person Ansicht",
   "Auto Collect": "Automatisch Aufsammeln",
   "Show Chat History": "Zeige Chat Verlauf",
-  "Show Server Position": "Zeige Server Position"
+  "Show Server Position": "Zeige Server Position",
+  "Coinflip Mode": "Münzwurf Modus",
+  "Potions": "Tränke",
+  "Requesting quest...": "Fordere Auftrag an...",
+  "Completing quest...": "Erfülle Auftrag...",
+  "Automations": "Automationen"
 }
