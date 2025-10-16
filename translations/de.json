@@ -1358,5 +1358,10 @@
   "Potions": "Tränke",
   "Requesting quest...": "Fordere Auftrag an...",
   "Completing quest...": "Erfülle Auftrag...",
-  "Automations": "Automationen"
+  "Automations": "Automationen",
+  "Killer Settings": "Killer Einstellungen",
+  "Enable Walk Speed": "Aktiviere Walk Speed",
+  "Inventory Value: %s¢": "Inventar Wert: %s¢",
+  "Pet Value: %s¢": "Haustier Wert: %s¢",
+  "Check Value": "Wert anschauen"
 }
