@@ -1363,5 +1363,9 @@
   "Enable Walk Speed": "Aktiviere Walk Speed",
   "Inventory Value: %s¢": "Inventar Wert: %s¢",
   "Pet Value: %s¢": "Haustier Wert: %s¢",
-  "Check Value": "Wert anschauen"
+  "Check Value": "Wert anschauen",
+  "If you put nothing in the whitelist, it will check all crops.": "Wenn die Whitelist leer ist, werden alle Pflanzen gecheckt.",
+  "Fruit Whitelist": "Früchte-Whitelist",
+  "Valuable Plants": "Wertvolle Pflanzen",
+  "Auto Water": "Auto Bewässern"
 }
