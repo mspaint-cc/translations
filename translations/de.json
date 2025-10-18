@@ -1367,5 +1367,10 @@
   "If you put nothing in the whitelist, it will check all crops.": "Wenn die Whitelist leer ist, werden alle Pflanzen gecheckt.",
   "Fruit Whitelist": "Früchte-Whitelist",
   "Valuable Plants": "Wertvolle Pflanzen",
-  "Auto Water": "Auto Bewässern"
+  "Auto Water": "Auto Bewässern",
+  "Stay At Spawn": "Bleibe am Spawn",
+  "Successfully inspected %s/%s crops.": "Erfolgreich %s/%s Pflanzen inspiziert.",
+  "Disable Pulse": "Deaktiviere Pulse",
+  "Disable Shame": "Deaktiviere Shame",
+  "Disable Drain": "Deaktiviere Drain"
 }
