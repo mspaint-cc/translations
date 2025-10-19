@@ -1372,5 +1372,9 @@
   "Successfully inspected %s/%s crops.": "Erfolgreich %s/%s Pflanzen inspiziert.",
   "Disable Pulse": "Deaktiviere Pulse",
   "Disable Shame": "Deaktiviere Shame",
-  "Disable Drain": "Deaktiviere Drain"
+  "Disable Drain": "Deaktiviere Drain",
+  "Autoblock": "Autoblock",
+  "Hitbox Distance": "Hitbox Distanz",
+  "Hitbox Color": "Hitbox Farbe",
+  "Anti-Environment": "Anti-Umgebung"
 }
