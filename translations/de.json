@@ -132,7 +132,7 @@
   "Save Player's Build": "Build des Spielers speichern",
   "Build with that name already exists!": "Ein Gebäude mit diesem Namen existiert bereits!",
   "Auto Build [BETA]": "Automatischer Aufbau [BETA]",
-  "Load Build": "Last aufbauen",
+  "Load Build": "Build aufbauen",
   "Loading data...": "Daten laden...",
   "Outdated version! (Data Version: %s | Current Version: %s)": "Überholte Version! (Datenversion: %s | Aktuelle Version: %s)",
   "Build data loaded, building...\n  Version: %s\nBlocks: %s": "Build-Daten geladen, Aufbau...\n  Version: %s\nBlocks: %s",
