@@ -220,7 +220,7 @@
   "Infinite Crucifix": "Unendliches Kruzifix",
   "Very risky, you might die/lose the crucifix": "Sehr riskant, du könntest sterben oder das Kruzifix verlieren",
   "Delete Seek (FE)": "Seek löschen (FE)",
-  "Delete Figure (FE)": "Figure löschen (FE)",
+  "Delete Figure (FE)": "Fugure löschen (FE)",
   "Enable Star Rift": "Star Rift aktivieren",
   "Star Rift": "Sternenkluft",
   "You already have the rift enabled.": "Sie haben den Rift bereits aktiviert.",
@@ -450,7 +450,7 @@
   "Godmode cannot be disabled while Auto R&D is active.": "Der Godmode kann nicht deaktiviert werden, wenn Auto R&D aktiviert ist.",
   "Auto R&D is active": "Auto R&D ist aktiv",
   "Battery": "Batterie",
-  "Table": "Tabelle",
+  "Table": "Tisch",
   "No Flashlight Shadow": "Keine Taschenlampe Schatten",
   "No Blur": "Keine Unschärfe",
   "Disable glass bridge": "Glasbrücke deaktivieren",
@@ -1486,5 +1486,6 @@
   "Show Plant Info on Hover": "Pflanzeninfo beim Hover anzeigen",
   "Calculate Inventory Value": "Inventory-Wert berechnen",
   "Calculate Garden Value": "Garden-Wert berechnen",
-  "Calculate Pet (Tools) Value": "Pet (Tools) Wert berechnen"
+  "Calculate Pet (Tools) Value": "Pet (Tools) Wert berechnen",
+  "Failed to load HTML Parser.": "Fehler beim laden des HTML Parser:"
 }
