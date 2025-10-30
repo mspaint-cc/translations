@@ -1663,5 +1663,175 @@
   " studs": "studs",
   "Prediction": "تنبؤ",
   "Characters": "الشخصيات",
-  "Auto Generator Speed": "سرعة المولد التلقائي"
+  "Auto Generator Speed": "سرعة المولد التلقائي",
+  "[mspaint guard]: mspaint guard received invalid anticheat data from the server. For your security, we have kicked you.": "[mspaint guard]: استلم mspaint guard بيانات غير صالحة لمكافحة الغش من الخادم. حرصًا على سلامتك، تم إيقافك.",
+  "Your addons FOLDER is empty! (%s)": "مجلد الإضافات الخاص بك فارغ! (%s)",
+  "[mspaint] Invalid file extension for '%s' ('%s')...": "[mspaint] ملحق الملف غير صالح لـ '%s' ('%s')...",
+  "[mspaint] Loading addon '%s'...": "[mspaint] جاري تحميل الإضافة '%s'...",
+  "Failed to load this addon (%s):": "فشل تحميل هذه الإضافة (%s):",
+  "Invalid 'Game' variable (expected 'string/table/number' got '%s')": "متغير \"لعبة\" غير صالح (المتوقع أن يكون \"سلسلة/جدول/رقم\" هو \"%s\")",
+  "[mspaint] Addon '%s' didn't load: Invalid 'Game' variable (expected 'string/table/number' got '%s')": "[mspaint] لم يتم تحميل الإضافة '%s': متغير 'Game' غير صالح (المتوقع أن يكون 'string/table/number' هو '%s')",
+  "[mspaint] Addon '%s' didn't load: Wrong game.": "[mspaint] لم يتم تحميل الإضافة '%s': اللعبة خاطئة.",
+  "[mspaint] Failed to load addon '%s':": "[mspaint] فشل تحميل الإضافة '%s':",
+  "Resources": "موارد",
+  "Resources & Items": "الموارد والعناصر",
+  "Sounds [FE]": "الأصوات [FE]",
+  "Sound Selection": "اختيار الصوت",
+  "Sound Volume": "حجم الصوت",
+  "Mute Sending Sound": "كتم ارسال الاصوات",
+  "Play Sound": "تشغيل الصوت",
+  "Loop Play Sound": "تشغيل الصوت المتكرر",
+  "Send Sound Interval": "الفاصل الزمني لأرسال الصوت",
+  " seconds": "ثواني",
+  "Kids Location": "موقع الاطفال",
+  "Kid Selection": "اختيار طفل",
+  "Teleport to Kid": "النقل الفوري للطفل",
+  "Back to Campfire": "العودة إلى نار المخيم",
+  "Weapon Selection": "اختيار السلاح",
+  "Enable Kill Aura": "تمكين هالة القتل",
+  "Range": "نطاق",
+  "Resource Type": "نوع المورد",
+  "Only Uncollected": "غير المجمعة فقط",
+  "Bring all items": "إحضار كافة العناصر",
+  "Bringing all items...": " جاري إحضار كافة العناصر...",
+  "All items have been brought to you.": "لقد تم جلب كافة العناصر إليك.",
+  "Stop Bringing Items": "توقف عن جلب العناصر",
+  "Stopped bringing items.": " تم توقف عن جلب العناصر.",
+  "Animal": "حيوان",
+  "Enemy": "العدو",
+  "Lost Kid": "طفل ضائع",
+  "Food": "طعام",
+  "Scrap": "خردة",
+  "Fuel": "وقود",
+  "Misc Item": "عنصر متنوع",
+  "Lost": "ضائع",
+  "Found": "وجد",
+  "Failed to load the Game Module, require features will be disabled.": "require فشل تحميل وحدة اللعبة، سيتم تعطيل ميزات .",
+  "Anti-Vacuum": "Anti-Vacuum",
+  "Anti-Lookman": "Anti-Lookman",
+  "Auto Rooms V3": "غرف تلقائية V3",
+  "Auto Open Block Doors": "فتح الأبواب المسدودة تلقائيًا",
+  "You died, disabling Auto Rooms...": "لقد مت، مما أدى إلى تعطيل الغرف التلقائية...",
+  "Skipping loot, no waypoints found.": "تخطي الغنائم، لم يتم العثور على نقاط طريق.",
+  "Combat Features": "ميزات القتال",
+  "Survivor Features": "ميزات الناجين",
+  "Plants": "النباتات",
+  "Plants Features": "مميزات النباتات",
+  "Look At Target": "انظر إلى الهدف",
+  "Minimum Target Distance": "الحد الأدنى للمسافة المستهدفة",
+  "Visualize Prediction": "تصور التنبؤ",
+  "Ignore Condition(s)": "تجاهل الشرط(الشروط)",
+  "Raging Pace On Stun Risk": "وتيرة هائجة في خطر الصعق",
+  "Corrupt Nature Auto-Aim": "الطبيعة الفاسدة - التصويب التلقائي",
+  "Corrupt Energy Auto-Aim": "هدف الطاقة الفاسدة التلقائي",
+  "Aiming Target": "هدف التصويب",
+  "Flintlock Auto-Aim": "التصويب التلقائي ببندقية فلينتلوك",
+  "Status: <font color=\"rgb(%s)\">%s</font>": "الحالة: <font color=\"rgb(%s)\">%s</font>",
+  "Pathfinding": "اكتشاف المسار",
+  "We are rewriting this feature, it is coming back at a later time!": "نحن نقوم بإعادة كتابة هذه الميزة، وسوف تعود في وقت لاحق!",
+  "Pathfind when role": "البحث عن المسار عند الدور",
+  "Survivor Settings": "إعدادات الناجين",
+  "Generator Priority": "أولوية المولد",
+  "Distance To Avoid Killer": "المسافة لتجنب القاتل",
+  "Ignore Killer Threat": "تجاهل التهديد القاتل",
+  "Show Avoiding Position": "إظهار موقع التجنب",
+  "Pathfinding Stuck Delay": "تأخير العثور على المسار",
+  "Auto Open Generator": "مولد فتح تلقائي",
+  "Killer Settings": "إعدادات القاتل",
+  "Survivor Targeting Priority": "أولوية استهداف الناجين",
+  "Movement Prediction": "التنبؤ بالحركة",
+  "Invisibility": "الخفاء",
+  "Enable Invisibility": "تمكين الإخفاء",
+  "Anti-Killer": "مضاد-القاتل",
+  "Strength": "قوة",
+  "Copied script panel link to clipboard.": "تم نسخ رابط لوحة البرنامج النصي إلى الحافظة.",
+  "Main Server": "الخادم الرئيسي",
+  "Copied main server Discord link to clipboard.": "تم نسخ رابط خادم Discord الرئيسي إلى الحافظة.",
+  "Copied support server Discord link to clipboard.": "تم نسخ رابط خادم الدعم Discord إلى الحافظة.",
+  "You can report any bugs or suggest features in our Discord Server using these commands:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>": "يمكنك الإبلاغ عن أي أخطاء أو اقتراح ميزات في خادم Discord الخاص بنا باستخدام هذه الأوامر:\n - <font color=\"rgb(173,245,255)\">/bugreport</font>\n - <font color=\"rgb(173,245,255)\">/suggestion</font>",
+  "Free Private Server": "خادم خاص مجاني",
+  "Reserves a free private server (CREDITS: sashaa169)": "يحجز خادم خاص مجاني (credits: sashaa169)",
+  "Atempted to reserve a private server.": "تمت محاولة حجز خادم خاص.",
+  "The invisiblity feature only works with R6 rigs.": "تعمل ميزة عدم الرؤية فقط مع جسم R6.",
+  "Disable Backpedal Penalty": "تعطيل عقوبة الرجوع للخلف",
+  "Ignore Stamina Management": "تجاهل إدارة التحمل",
+  "Enable Auto Generator": "تمكين المولد التلقائي",
+  "Health to target": "الصحة للهدف",
+  "Coinflip Mode": "وضع العملة المعدنية",
+  "1x1x1x1 Popups": "1x1x1x1 النوافذ المنبثقة",
+  "Auto Close Popups": "إغلاق النوافذ المنبثقة تلقائيًا",
+  "Enable FOV": "تمكين مجال الرؤية",
+  "Show Chat History": "عرض سجل الدردشة",
+  "Value": "قيمة",
+  "Show Plant Info on Hover": "إظهار معلومات النبات عند التمرير",
+  "⚠️ WARNING! mspaint is currently not working or is detected by the anticheat in '%s'! If you want to bypass this kick, execute this before executing mspaint:": "⚠️ تحذير! برنامج mspaint لا يعمل حاليًا أو تم اكتشافه بواسطة برنامج مكافحة الغش في '%s'! لتفادي هذه المشكلة، نفّذ ما يلي قبل تشغيل mspaint:",
+  "ℹ️ NOTE! mspaint may not work correctly in '%s'! We are sorry if you encounter any problems.": "ملاحظة: قد لا يعمل mspaint بشكل صحيح في '%s'! نأسف إذا واجهت أي مشكلة.",
+  "You can report any bugs or suggest features in our Discord Server using these commands:<br/> - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>": "يمكنك الإبلاغ عن أي أخطاء أو اقتراح ميزات في خادم Discord الخاص بنا باستخدام هذه الأوامر:<br/> - <font color='rgb(173,245,255)'>/bugreport</font><br/> - <font color='rgb(173,245,255)'>/suggestion</font>",
+  "Private Server Code:": "رمز الخادم الخاص:",
+  "Join Private Server": "الانضمام إلى الخادم الخاص",
+  "Attempted to join a private server.": "حاول الانضمام إلى خادم خاص.",
+  "Attempted to reserve a private server.": "تمت محاولة حجز خادم خاص.",
+  "Anti-Environment": "مضاد-البيئة",
+  "Anti-Toxic Water": "مضاد-المياه السامة",
+  "Bypass Killer Only Entrances": "تجاوز مداخل القاتل فقط",
+  "Magnifying 🔍": "مكبر 🔍",
+  "Teleport to Staging Game": "الانتقال الفوري إلى لعبة التجهيز",
+  "Friendship Pot": "وعاء الصداقة",
+  "Auto Tend Friendship Pot": "وعاء الصداقة التلقائي",
+  "The Center position is recommended. Random will select a random plant.": "يُنصح باختيار الموضع المركزي. سيختار الخيار عشوائيًا نباتًا عشوائيًا.",
+  "Auto Join Fairy World": "الانضمام التلقائي إلى عالم الجنيات",
+  "Auto Get Fairy Points": "الحصول على نقاط الجنية تلقائيًا",
+  "Auto Fairy Net is disabled while Auto Get Fairy Points is enabled.": "يتم تعطيل شبكة الجنيات التلقائية أثناء تمكين الحصول التلقائي على نقاط الجنيات.",
+  "Auto Fairy Net": "Fairy Net تلقائيا",
+  "Auto Get Fairy Points is disabled while Auto Fairy Net is enabled.": "يتم تعطيل الحصول التلقائي على Fairy Net تلقائيا تمكين Fairy Net تلقائيا.",
+  "You need to have a Fairy Net in your inventory to use Auto Fairy Net.": "يجب أن يكون لديك Fairy Net في مخزونك لاستخدام Fairy Net تلقائيا.",
+  "Please wait a moment...": "من فضلك انتظر لحظة...",
+  "AntiCheat check bypassed successfully.": "تم تجاوز فحص AntiCheat بنجاح.",
+  "Failed to bypass AntiCheat check, Auto Farm has been disabled. Your executor doesn't support the required functions.": "فشل تجاوز فحص مكافحة الغش، تم تعطيل المزرعة التلقائية. مُنفِّذك لا يدعم الوظائف المطلوبة.",
+  "Remote for pickup found.": "تم العثور على ريموت لالتقاط.",
+  "Enable Auto Type": "تمكين النوع التلقائي",
+  "Humanize Typing": "أنسنة الكتابة",
+  "Allow Mistakes": "السماح بالأخطاء",
+  "Mistake Chance (%)": "احتمال الخطأ (%)",
+  "Mistake Backspace Delay": "خطأ تأخير المسافة الخلفية",
+  "Mistake Correction Pause": "تصحيح الخطأ مؤقتًا",
+  "Hesitation Chance (%)": "فرصة التردد (%)",
+  "Hesitation Max (s)": "التردد الأقصى (s)",
+  "Forsaken": "Forsaken",
+  "No direct path; taking a detour...": "لا يوجد طريق مباشر، اتخاذ طريق بديل...",
+  "Loading Fisch...": "Loading Fisch...",
+  "Loading Events...": "Loading Events...",
+  "Loading UI...": "جاري تحميل واجهة المستخدم...",
+  "Loading Data...": "جارٍ تحميل البيانات...",
+  "Loading Utilities...": "Loading Utilities...",
+  "Position Offset": "إزاحة الموقع",
+  "Offsets your position so you do not need to hide": "يغير موقعك حتى لا تحتاج إلى الاختباء",
+  "Enable On Entity Spawn": "تمكين عند ظهور الكيان",
+  "Automatically enables position offset on entity spawn": "يتم تمكين إزاحة الموضع تلقائيًا عند ظهور الكيان",
+  "Autoblock": "صد التلقائي",
+  "Survivor Autoblock": "الصد الناجي التلقائي",
+  "Killer Autoblock": "الصد التلقائي القاتل",
+  "Block Projectiles": "صد المقذوفات",
+  "Hitbox Distance": "مسافة هيت بوكس",
+  "Hitbox Expansion": "توسعة Hitbox",
+  "Hitbox Transparency": "شفافية Hitbox",
+  "Hitbox Color": "لون هيت بوكس",
+  "Random Delay": "تأخير عشوائي",
+  "Loading Miscellaneous Utilities...": "جاري تحميل الأدوات المتنوعة...",
+  "Loading Tabs...": "جاري تحميل علامات التبويب...",
+  "Inventory Features": "ميزات الانفيتوري",
+  "Totems": "Totems",
+  "Totems Features": "ميزات الطواطم",
+  "Loading Handlers...": "جاري تحميل المعالجات...",
+  "Auto Send Trade Request": "إرسال طلب التجارة تلقائيًا",
+  "Sending Trade request and waiting for accepting...": "إرسال طلب التبديل وانتظار القبول...",
+  "You are not the sheriff/hero!": "أنت لست الشريف/البطل!",
+  "Auto Hatch": "فتح البيض تلقائيا",
+  "Egg": "بيضة",
+  "Prefer Rifts": "تفضل الشقوق",
+  "Hatch closest egg": "فقس أقرب بيضة",
+  "Auto Open Egg": "فتح البيض تلقائيًا",
+  "You need to be close to the Egg to open it.": "يجب أن تكون قريبًا من البيضة لفتحها.",
+  "Rifts": "Rifts",
+  "Auto Open Chest Rifts": "شقوق الصندوق المفتوحة تلقائيًا"
 }
