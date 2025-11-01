@@ -1641,5 +1641,10 @@
   "Boat despawned, respawning...": "Barca despawnata, respawnando...",
   "Stopping...": "Smettendo...",
   "Mod Detector - %s (%s)": "Rilevatore Mod - %s (%s)",
-  "Failed to teleport.": "Impossibile teletrasportare."
+  "Failed to teleport.": "Impossibile teletrasportare.",
+  "Unloading mspaint...": "Rimuovendo mspaint...",
+  "Disable Roblox's Anti AFK kick.": "Disabilita il sistema anti AFK di Roblox.",
+  "Unloading %s...": "Rimuovendo %s...",
+  "Successfully unloaded %s!": "Rimosso %s con successo!",
+  "ℹ️ NOTE! Bubble Gum Simulator: Infinity is no longer maintained.": "ℹ️ NOTA! Bubble Gum Simulator: Infinity non è più supportato/mantenuto."
 }
