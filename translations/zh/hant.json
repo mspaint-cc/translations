@@ -58,7 +58,7 @@
   "Instant Interact": "瞬間互動",
   "Disable Roblox Void": "禁用虚空傷害",
   "Inf Jump": "無限跳",
-  "No Acceleration": "無加速",
+  "No Acceleration": "禁用加速後搖",
   "Enable Aimbot": "啟用自瞄",
   "Enable Aimbot Smoothness": "啟用自瞄流暢度",
   "Smoothness": "流暢度",
@@ -1655,5 +1655,10 @@
   "Getting Rod Of The Depths...\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS GETTING THE ROD.": "正在取得深淵之杖…\\\\nMSPAINT 取得釣竿時請勿觸碰任何東西",
   "Speed Bypass: <font color=\"rgb(%s)\">%s</font>": "速度繞過：<font color=\\\\\"rgb(%s)\\\\\">%s</font>",
   "Build data loaded, building...\n  Version: %s\nBlocks: %s": "建築資料已載入，正在建造…\\\\n  版本：%s\\\\n方塊：%s",
-  "Status: <font color=\"rgb(%s)\">%s</font>": "狀態：<font color=\\\\\"rgb(%s)\\\\\">%s</font>"
+  "Status: <font color=\"rgb(%s)\">%s</font>": "狀態：<font color=\\\\\"rgb(%s)\\\\\">%s</font>",
+  "Unloading mspaint...": "正在解除載入 mspaint...",
+  "Disable Roblox's Anti AFK kick.": "禁用 Roblox 的防閒置踢出",
+  "Unloading %s...": "正在解除載入 %s...",
+  "Successfully unloaded %s!": "成功解除載入 %s！",
+  "ℹ️ NOTE! Bubble Gum Simulator: Infinity is no longer maintained.": "ℹ️ 注意:Bubble Gum Simulator: Infinity已停止維護"
 }
