@@ -1641,5 +1641,10 @@
   "Boat despawned, respawning...": "船已消失，正在重新生成...",
   "Stopping...": "正在停止...",
   "Mod Detector - %s (%s)": "作弊检测器 - %s (%s)",
-  "Failed to teleport.": "传送失败"
+  "Failed to teleport.": "传送失败",
+  "Unloading mspaint...": "正在卸载mspaint...",
+  "Disable Roblox's Anti AFK kick.": "禁用 Roblox 的挂机踢出",
+  "Unloading %s...": "正在卸载 %s...",
+  "Successfully unloaded %s!": "成功卸载 %s！",
+  "ℹ️ NOTE! Bubble Gum Simulator: Infinity is no longer maintained.": "ℹ️注意！Bubble Gum Simulator: Infinity 已不再维护"
 }
