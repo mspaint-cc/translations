@@ -1743,5 +1743,10 @@
   "You don't have The Depths Key, getting one...": "您沒有深淵鑰匙 (The Depths Key)，正在取得一把...",
   "Mod Detector - %s (%s)": "管理員偵測器 - %s (%s)",
   "Moderator left, starting Auto Fish...": "管理員已離開，正在啟動自動釣魚...",
-  "Failed to teleport.": "傳送失敗"
+  "Failed to teleport.": "傳送失敗",
+  "Found word: %s\nMandatory letters: %s": "找到單字：%s\n必選字母：%s",
+  "Build data loaded, building...\n  Version: %s\nBlocks: %s": "載入建置資料，正在建置...\n  版本：%s\n區塊：%s",
+  "Calculated Objective Successfully!\nObjective: %s\nCreating path...": "成功計算目標！\n目標：%s\n正在建立路徑...",
+  "Typing word: %s\nMandatory letters: %s": "正在輸入單字：%s\n必選字母：%s",
+  "Successfully placed the best fishes for your aquarium based on your settings.\n\nPriority: %s\nComputed optimal selection in %s seconds": "已根據您的設定，成功為您的水族箱放置最佳魚類\n\n優先順序：%s\n在 %s 秒內計算出最佳選擇"
 }
