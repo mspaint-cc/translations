@@ -1511,5 +1511,12 @@
   "Place": "Platzieren",
   "Options": "Optionen",
   "Buy": "Kaufen",
-  "Trading": "Handeln"
+  "Trading": "Handeln",
+  "Unloading %s...": "Entlade %s",
+  "Unloading mspaint...": "Entlade mspaint...",
+  "Unlock all Islands": "Schalte alle Inseln frei",
+  "Cooldowns": "Cooldowns",
+  "Cooldowns:": "Cooldowns:",
+  "Update Data": "Daten aktualisieren",
+  "Sending %s%s/%s%s. This may take a while...": "Sende %s%s/%s%s. Dies könnte dauern..."
 }
