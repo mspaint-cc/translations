@@ -1518,5 +1518,9 @@
   "Cooldowns": "Cooldowns",
   "Cooldowns:": "Cooldowns:",
   "Update Data": "Daten aktualisieren",
-  "Sending %s%s/%s%s. This may take a while...": "Sende %s%s/%s%s. Dies könnte dauern..."
+  "Sending %s%s/%s%s. This may take a while...": "Sende %s%s/%s%s. Dies könnte dauern...",
+  "Disable Roblox's Anti AFK kick.": "Deaktiviere Roblox's Anti AFK Kick.",
+  "Successfully unloaded %s!": "Erfolgreich '%s' entladen!",
+  "What to remove": "Was zum entfernen",
+  "No plants found.": "Keine Pflanzen gefunden."
 }
