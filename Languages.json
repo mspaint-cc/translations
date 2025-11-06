@@ -141,5 +141,10 @@
     "it": {
         "NativeName": "Italiano",
         "EnglishName": "Italian"
+    },
+
+    "nl": {
+        "NativeName": "Nederlands",
+        "EnglishName": "Dutch"
     }
 }
