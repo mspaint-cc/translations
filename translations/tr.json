@@ -2064,5 +2064,10 @@
   "Boat despawned, respawning...": "Tekne kaldırıldı, yeniden çağrılıyor...",
   "Stopping...": "Durduruluyor...",
   "Mod Detector - %s (%s)": "Mod Algılayıcı - %s (%s)",
-  "Failed to teleport.": "Işınlanma başarısız oldu."
+  "Failed to teleport.": "Işınlanma başarısız oldu.",
+  "Unloading mspaint...": "Mspaint kaldırılıyor...",
+  "Disable Roblox's Anti AFK kick.": "Roblox'un Anti AFK Atılmasını kapat.",
+  "Unloading %s...": "Kapatılıyor %s...",
+  "Successfully unloaded %s!": "Başarıyla Kapatıldı %s!",
+  "ℹ️ NOTE! Bubble Gum Simulator: Infinity is no longer maintained.": "ℹ️ NOT! Bubble Gum Simulator: Infinity artık güncellenmiyor."
 }
