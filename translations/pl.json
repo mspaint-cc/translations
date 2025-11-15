@@ -1768,5 +1768,15 @@
   "Repair Treasure Maps": "Napraw mapy skarbów",
   "Repairing maps (%d), please wait...": "Naprawianie map (%d), proszę czekać...",
   "Claim Treasure Maps": "Odbierz mapy skarbów",
-  "Claiming maps, please wait...": "Odbieranie map, proszę czekać..."
+  "Claiming maps, please wait...": "Odbieranie map, proszę czekać...",
+  "Loading Words...": "Ładowanie słów...",
+  "Pause during Admin Event": "Pauza podczas wydarzenia administracji",
+  "Fish Whitelist": "Biała lista ryb",
+  "Fish Rarity Blacklist": "Czarna lista rzadkości ryb",
+  "Fish Mutation Whitelist": "Biała lista mutacji ryb",
+  "Invisible Water Platform": "Niewidzialna platforma wodna",
+  "Boat ESP": "ESP łodzi",
+  "Auto Fish - Blacklist Rarity": "Auto-łowienie - czarna lista rzadkości",
+  "Catch: %s\nRarity: %s": "Złowiono: %s\nRzadkość: %s",
+  "Catch: %s\nMutation: %s\nConfidence: %.2f%%": "Złowiono: %s\nMutacja: %s\nPewność: %.2f%%"
 }
