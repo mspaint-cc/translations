@@ -1750,5 +1750,15 @@
   "You don't have enough money to buy Heaven's Rod, getting more money...": "Non hai abbastanza soldi per acquistare la Heaven's Rod, ottenendo più soldi...",
   "You don't have enough money to buy Avalanche Totem, getting more money...": "Non hai abbastanza soldi per acquistare Avalanche Totem, ottenendo più soldi...",
   "You don't have enough money to buy the Red Energy Crystal, getting more money...": "Non hai abbastanza soldi per acquistare il Red Energy Crystal, ottenendo più soldi...",
-  "Getting Rod Of The Depths...": "Ottenendo Rod Of The Depths..."
+  "Getting Rod Of The Depths...": "Ottenendo Rod Of The Depths...",
+  "Loading Words...": "Caricando le Parole...",
+  "Pause during Admin Event": "Pausa durante Evento Admin",
+  "Fish Whitelist": "Lista Pesce(i)",
+  "Fish Rarity Blacklist": "Blacklist Rarità Pesce(i)",
+  "Fish Mutation Whitelist": "Lista Mutazione Pesce(i)",
+  "Invisible Water Platform": "Piattaforma Invisibile d'Acqua",
+  "Boat ESP": "ESP Barca",
+  "Auto Fish - Blacklist Rarity": "Pesca Automatica - Blacklist Rarità",
+  "Catch: %s\nRarity: %s": "Cattura: %s\nRarità: %s",
+  "Catch: %s\nMutation: %s\nConfidence: %.2f%%": "Cattura: %s\nMutazione: %s\nConfidenza: %.2f%%\n"
 }
