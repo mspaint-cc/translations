@@ -1543,5 +1543,10 @@
   "Enable Sliding": "Aktiviere Sliding",
   "The lobby code is %q": "Der Lobby Code ist %q",
   "Do not hide": "Nicht verstecken",
-  "Saving %s's build into %q...": "Speichere %s's Gebautes in %q..."
+  "Saving %s's build into %q...": "Speichere %s's Gebautes in %q...",
+  "Failed to initialize the Auto Farm.": "Fehler beim initialisieren der Auto Farm.",
+  "Successfully claimed code %q!": "Erfolgreich Code beansprucht: %q!",
+  "Failed to claim code %q. It's maybe invalid now.": "Fehler beim Einlösen des Code's %q. Vielleicht ist dieser abgelaufen.",
+  "Type Method": "Schreibmethode",
+  "Sold %q for %s%s.": "%q verkauft für %s%s."
 }
