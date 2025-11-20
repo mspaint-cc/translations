@@ -1753,5 +1753,15 @@
   "Claiming maps, please wait...": "正在领取地图，请稍候...",
   "A-666 is %.2f studs away.\nStage: %s\nRecommendation: %s": "A-666 距离 %.2f 远\n阶段：%s\n建议：%s",
   "%s\nDO NOT TOUCH ANYTHING WHILE MSPAINT IS %s.": "%s\n当MSPAINT正在%s时，请不要触摸任何东西\n",
-  "Catch: %s%s\nConfidence: %.2f%%": "捕获：%s%s\n置信度：%.2f%%"
+  "Catch: %s%s\nConfidence: %.2f%%": "捕获：%s%s\n置信度：%.2f%%",
+  "Loading Words...": "正在加载单词...",
+  "Catch: %s\nMutation: %s\nConfidence: %.2f%%": "捕获：%s\n\n突变：%s\n\n信心：%.2f%%",
+  "Catch: %s\nRarity: %s": "勾住: %s\n稀有: %s",
+  "Auto Fish - Blacklist Rarity": "自动鱼-黑名单稀有",
+  "Boat ESP": "船ESP",
+  "Pause during Admin Event": "管理活动期间暂停",
+  "Fish Whitelist": "鱼白名单",
+  "Fish Mutation Whitelist": "鱼类突变白名单",
+  "Invisible Water Platform": "隐形水上平台",
+  "Fish Rarity Blacklist": "鱼稀有黑名单"
 }
