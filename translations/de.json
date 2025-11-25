@@ -1548,5 +1548,11 @@
   "Successfully claimed code %q!": "Erfolgreich Code beansprucht: %q!",
   "Failed to claim code %q. It's maybe invalid now.": "Fehler beim Einlösen des Code's %q. Vielleicht ist dieser abgelaufen.",
   "Type Method": "Schreibmethode",
-  "Sold %q for %s%s.": "%q verkauft für %s%s."
+  "Sold %q for %s%s.": "%q verkauft für %s%s.",
+  "A-666 has despawned temporarily, you can now exit the locker.": "A-666 ist temporär despawnt, du kannst nun den Schrank verlassen.",
+  "Loading Words...": "Lade Wörter...",
+  "Successfully saved %s's build into %q!": "Erfolgreich %s's Build in %q gespeichert!",
+  "Buying %q...": "Kaufe %q...",
+  "Claimed %s successfully.": "%s erfolgreich eingelöst.",
+  "Claiming %q...": "Löse %q ein..."
 }
