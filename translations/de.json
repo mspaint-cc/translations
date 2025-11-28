@@ -1554,5 +1554,18 @@
   "Successfully saved %s's build into %q!": "Erfolgreich %s's Build in %q gespeichert!",
   "Buying %q...": "Kaufe %q...",
   "Claimed %s successfully.": "%s erfolgreich eingelöst.",
-  "Claiming %q...": "Löse %q ein..."
+  "Claiming %q...": "Löse %q ein...",
+  "Claiming code %q...": "Löse %q ein...",
+  "Daily Quests": "Tägliche Quests",
+  "Opening %q...": "Öffne %q...",
+  "Auto Claim Chests": "Auto Kisten einlösen",
+  "Auto Wheel Spin": "Auto Rad drehen",
+  "World 2 Minigames": "Welt 2 Minispiele",
+  "Free Fish": "Kostenlos Fisch",
+  "Boat Fling": "Boot Fling",
+  "Using these exploits can cause data loss, please use them at your own risk.": "Nutzen dieser Exploits, kann zu Datenverlust führen, nutzen auf eigene Gefahr.",
+  "Generate Fish (Lost Jungle)": "Generiere Fisch (Lost Jungle)",
+  "Storage": "Speicher",
+  "Advanced Mode": "Erweiterter Modus",
+  "Select Player": "Spieler auswählen"
 }
