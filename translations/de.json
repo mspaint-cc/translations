@@ -1567,5 +1567,21 @@
   "Generate Fish (Lost Jungle)": "Generiere Fisch (Lost Jungle)",
   "Storage": "Speicher",
   "Advanced Mode": "Erweiterter Modus",
-  "Select Player": "Spieler auswählen"
+  "Select Player": "Spieler auswählen",
+  "You must own the Trowel to move the plants!": "Du musst die Trowel besitzen um Pflanzen zu verschieben!",
+  "You must hold a shovel to remove the plants!": "Du musst eine Schaufel halten, um die Pflanzen zu entfernen!",
+  "Mistake Chance (%)": "Fehler Chance (%)",
+  "You don't have enough Crab Cages.": "Du hast nicht genug Crab Cages.",
+  "You don't have a Crab Cage.": "Du hast keinen Crab Cage.",
+  "Player ID": "Spieler ID",
+  "New Player ID": "Neue Spieler ID",
+  "Player Name": "Spieler Name",
+  "New Player Name": "Neuer Spieler Name",
+  "Invisible Water Platform": "Unsichtbare Wasserplatform",
+  "Disable Oxygen": "Sauerstoff deaktivieren",
+  "Waiting Time": "Wartezeit",
+  "First Totem": "Erstes Totem",
+  "Second Totem": "Zweites Totem",
+  "Boat ESP": "Boot ESP",
+  "Totem": "Totem"
 }
