@@ -1783,5 +1783,6 @@
   "Shipwright NPC": "造船匠 NPC",
   "Loading %s...": "正在加载 %s...",
   "Failed to find %s.": "无法找到 %s。",
-  "You already have an Angler Quest. Complete the quest or select the correct Angler NPC.": "你已经有一个垂钓者任务。请完成该任务或选择正确的垂钓者 NPC。"
+  "You already have an Angler Quest. Complete the quest or select the correct Angler NPC.": "你已经有一个垂钓者任务。请完成该任务或选择正确的垂钓者 NPC。",
+  "Use Rainbow Color": "使用彩虹色"
 }
