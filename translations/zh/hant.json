@@ -1796,5 +1796,6 @@
   "You already have an Angler Quest. Complete the quest or select the correct Angler NPC.": "你已經有一個垂釣者任務。請完成該任務或選擇正確的垂釣者 NPC。",
   "Auto Fish - Blacklist Rarity": "自動釣魚 - 黑名單稀有度",
   "Catch: %s\nRarity: %s": "漁獲：%s\n稀有度：%s",
-  "Catch: %s\nMutation: %s\nConfidence: %.2f%%": "漁獲：%s\n變異：%s\n信心度：%.2f%%"
+  "Catch: %s\nMutation: %s\nConfidence: %.2f%%": "漁獲：%s\n變異：%s\n信心度：%.2f%%",
+  "Use Rainbow Color": "使用彩虹色"
 }
