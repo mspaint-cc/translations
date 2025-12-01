@@ -1975,5 +1975,5 @@
   "Speed Bypass: <font color=%q>%s</font>": "Обход Скорости: <font color=%q>%s</font>",
   "Enable Sliding": "Включить слайды",
   "Failed to load HTML Parser.": "Не удалось загрузить HTML Parser.",
-  "The lobby code is %q": "Код лобби %s"
+  "The lobby code is %q": "Код лобби %q"
 }
