@@ -2202,5 +2202,6 @@
   "Shipwright NPC": "Gemi Ustası NPC",
   "Loading %s...": "%s yükleniyor...",
   "Failed to find %s.": "%s bulunamadı.",
-  "You already have an Angler Quest. Complete the quest or select the correct Angler NPC.": "Zaten bir Balıkçı Göreviniz var. Görevi tamamlayın veya doğru Balıkçı NPC'sini seçin."
+  "You already have an Angler Quest. Complete the quest or select the correct Angler NPC.": "Zaten bir Balıkçı Göreviniz var. Görevi tamamlayın veya doğru Balıkçı NPC'sini seçin.",
+  "Use Rainbow Color": "Gökkuşağı rengi kullan"
 }
