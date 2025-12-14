@@ -1922,5 +1922,6 @@
   "[%d%%] Loading Miscellaneous Utilities...": "[%d%%] 正在載入雜項公用程式...",
   "Mod Detector - %s (%s) [%s]": "模組偵測器 - %s (%s) [%s]",
   "Force Disable Cutscenes": "強制停用過場動畫",
-  "Equipping selected event rod...": "正在裝備已選活動魚竿..."
+  "Equipping selected event rod...": "正在裝備已選活動魚竿...",
+  "Auto Equip/Unequip": "自動裝備/不裝備"
 }
