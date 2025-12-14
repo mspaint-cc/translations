@@ -1909,5 +1909,6 @@
   "[%d%%] Loading Miscellaneous Utilities...": "[%d%%] 正在加载杂项实用程序...",
   "Mod Detector - %s (%s) [%s]": "模组检测器 - %s (%s) [%s]",
   "Force Disable Cutscenes": "强制禁用过场动画",
-  "Equipping selected event rod...": "正在装备已选活动鱼竿..."
+  "Equipping selected event rod...": "正在装备已选活动鱼竿...",
+  "Auto Equip/Unequip": "自动装备/不装备"
 }
