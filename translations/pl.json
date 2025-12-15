@@ -1924,5 +1924,6 @@
   "[%d%%] Loading Miscellaneous Utilities...": "[%d%%] Ładowanie narzędzi dodatkowych...",
   "Mod Detector - %s (%s) [%s]": "Wykrywacz modów – %s (%s) [%s]",
   "Force Disable Cutscenes": "Wymuś wyłączenie przerywników",
-  "Equipping selected event rod...": "Zakładanie wybranej wędki eventowej..."
+  "Equipping selected event rod...": "Zakładanie wybranej wędki eventowej...",
+  "Auto Equip/Unequip": "Automatyczne zakładanie / zdejmowanie"
 }
