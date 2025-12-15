@@ -1601,5 +1601,12 @@
   "Delete Custom Location": "Eigene Location löschen",
   "Failed to delete custom location: %q": "Fehler beim löschen der Location: %q",
   "Deleted custom location: %q": "Location gelöscht: %q",
-  "Refresh Custom Locations": "Eigene Locations neuladen"
+  "Refresh Custom Locations": "Eigene Locations neuladen",
+  "Loading The Forge...": "Lade The Forge...",
+  "Loading Instances...": "Lade Instanzen...",
+  "[%d%%] Loading Utilities...": "[%d%%] Lade Utilities...",
+  "[%d%%] Loading Controllers...": "[%d%%] Lade Kontroller...",
+  "[%d%%] Loading World Handlers...": "[%d%%] Lade World Handler...",
+  "[%d%%] Loading Tabs...": "[%d%%] Lade Tabs...",
+  "Loaded!": "Geladen!"
 }
