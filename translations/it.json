@@ -1905,5 +1905,6 @@
   "[%d%%] Loading Miscellaneous Utilities...": "[%d%%] Caricamento utilità varie...",
   "Mod Detector - %s (%s) [%s]": "Rilevatore Mod - %s (%s) [%s]",
   "Force Disable Cutscenes": "Forza la disattivazione delle cutscene",
-  "Equipping selected event rod...": "Equipaggiamento della canna da pesca dell'evento selezionata..."
+  "Equipping selected event rod...": "Equipaggiamento della canna da pesca dell'evento selezionata...",
+  "Auto Equip/Unequip": "Equipaggiamento/Disequipaggiamento automatico"
 }
