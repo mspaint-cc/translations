@@ -2328,5 +2328,6 @@
   "[%d%%] Loading Miscellaneous Utilities...": "[%d%%] Çeşitli araçlar yükleniyor...",
   "Mod Detector - %s (%s) [%s]": "Mod Tespitçisi - %s (%s) [%s]",
   "Force Disable Cutscenes": "Ara sahneleri zorla kapat",
-  "Equipping selected event rod...": "Seçili etkinlik oltası takılıyor..."
+  "Equipping selected event rod...": "Seçili etkinlik oltası takılıyor...",
+  "Auto Equip/Unequip": "Otomatik Kuşan/Kuşanmayı Bırak"
 }
