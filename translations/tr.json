@@ -2329,5 +2329,16 @@
   "Mod Detector - %s (%s) [%s]": "Mod Tespitçisi - %s (%s) [%s]",
   "Force Disable Cutscenes": "Ara sahneleri zorla kapat",
   "Equipping selected event rod...": "Seçili etkinlik oltası takılıyor...",
-  "Auto Equip/Unequip": "Otomatik Kuşan/Kuşanmayı Bırak"
+  "Auto Equip/Unequip": "Otomatik Kuşan/Kuşanmayı Bırak",
+  "Unloading Loader...": "Yükleyici boşaltılıyor...",
+  "Loader Unloaded.": "Yükleyici boşaltıldı.",
+  "Last Handler Unloaded.": "Son işlemci boşaltıldı.",
+  "Failed to find the murderer!": "Katil bulunamadı!",
+  "Loading Doors...": "Kapılar yükleniyor...",
+  "Loading Connections...": "Bağlantılar yükleniyor...",
+  "Voice Acting folder has not been found.": "Seslendirme klasörü bulunamadı.",
+  "Godmode/Noclip Bypass is required to use figure godmode": "Figure godmode kullanmak için Godmode/Noclip Bypass gerekli.",
+  "Godmode/Noclip Bypass not enabled.": "Godmode/Noclip Bypass etkin değil.",
+  "<font color=%q>Full Bar will always result in Perfect Catches!</font>": "<font color=%q>Tam bar her zaman Mükemmel Yakalamalar sağlar!</font>",
+  "Failed to open Shipwright UI.": "Shipwright arayüzü açılamadı."
 }
