@@ -1608,5 +1608,16 @@
   "[%d%%] Loading Controllers...": "[%d%%] Lade Kontroller...",
   "[%d%%] Loading World Handlers...": "[%d%%] Lade World Handler...",
   "[%d%%] Loading Tabs...": "[%d%%] Lade Tabs...",
-  "Loaded!": "Geladen!"
+  "Loaded!": "Geladen!",
+  "Waiting for %q to finish...": "Warte auf %q…",
+  "Farming World": "Farm Welt",
+  "What Currency": "Welche Währung",
+  "Collecting currency...": "Sammle Währung ein…",
+  "Data": "Daten",
+  "Equipment": "Ausrüstung",
+  "Selected Equipments": "Ausgewählte Ausrüstung",
+  "Failed to find the %s!": "Fehler bei finden von %s!",
+  "Player Data reloaded.": "Spielerdaten neugeladen.",
+  "Map Data reloaded.": "Kartendaten neugeladen.",
+  "Fling %s": "Flinge %s"
 }
