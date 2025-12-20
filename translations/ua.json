@@ -1851,5 +1851,16 @@
   "Mod Detector - %s (%s)": "Режим модератора - %s (%s)",
   "This location has no Legit spots, you cant 'Auto Fish' there.": "У цій локації немає легальних місць, тут не можна ловити рибу.",
   "Player %q is a %s! (%s)": "Гравець %q є %s! (%s)",
-  "Auto Equip/Unequip": "Автоматичне екіпірування / зняття екіпірування"
+  "Auto Equip/Unequip": "Автоматичне екіпірування / зняття екіпірування",
+  "Unloading Loader...": "Розвантаження завантажувача...",
+  "Loader Unloaded.": "Завантажувач розвантажений.",
+  "Last Handler Unloaded.": "Останній обробник розвантажено.",
+  "Failed to find the murderer!": "Не вдалося знайти вбивцю!",
+  "Loading Doors...": "Завантаження дверей...",
+  "Loading Connections...": "Завантаження з'єднань...",
+  "Voice Acting folder has not been found.": "Папка «Озвучування» не знайдена.",
+  "Godmode/Noclip Bypass is required to use figure godmode": "Для використання режиму Godmode/Noclip необхідний обхідний шлях.",
+  "Godmode/Noclip Bypass not enabled.": "Godmode/Noclip Bypass не ввімкнено.",
+  "<font color=%q>Full Bar will always result in Perfect Catches!</font>": "<font color=%q>Повна шкала завжди призведе до ідеальних уловів!</font>",
+  "Failed to open Shipwright UI.": "Не вдалося відкрити інтерфейс користувача Shipwright."
 }
