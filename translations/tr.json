@@ -2340,5 +2340,12 @@
   "Godmode/Noclip Bypass is required to use figure godmode": "Figure godmode kullanmak için Godmode/Noclip Bypass gerekli.",
   "Godmode/Noclip Bypass not enabled.": "Godmode/Noclip Bypass etkin değil.",
   "<font color=%q>Full Bar will always result in Perfect Catches!</font>": "<font color=%q>Tam bar her zaman Mükemmel Yakalamalar sağlar!</font>",
-  "Failed to open Shipwright UI.": "Shipwright arayüzü açılamadı."
+  "Failed to open Shipwright UI.": "Shipwright arayüzü açılamadı.",
+  "Presents ESP": "Hediyeler ESP",
+  "Complete Floor": "Katı Tamamla",
+  "You need to start this after the cutscene!": "Bunu ara sahneden sonra başlatmalısın!",
+  "Waiting for cutscene to finish...": "Ara sahnenin bitmesi bekleniyor...",
+  "Completed!": "Tamamlandı!",
+  "Credits: %s": "Katkılar: %s",
+  "Present": "Hediye"
 }
