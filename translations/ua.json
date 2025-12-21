@@ -1862,5 +1862,12 @@
   "Godmode/Noclip Bypass is required to use figure godmode": "Для використання режиму Godmode/Noclip необхідний обхідний шлях.",
   "Godmode/Noclip Bypass not enabled.": "Godmode/Noclip Bypass не ввімкнено.",
   "<font color=%q>Full Bar will always result in Perfect Catches!</font>": "<font color=%q>Повна шкала завжди призведе до ідеальних уловів!</font>",
-  "Failed to open Shipwright UI.": "Не вдалося відкрити інтерфейс користувача Shipwright."
+  "Failed to open Shipwright UI.": "Не вдалося відкрити інтерфейс користувача Shipwright.",
+  "Presents ESP": "Подарунки ESP",
+  "Complete Floor": "Пройти поверх",
+  "You need to start this after the cutscene!": "Ви повинні почати це після катцени!",
+  "Waiting for cutscene to finish...": "Очікування завершення катцени...",
+  "Completed!": "Завершено!",
+  "Credits: %s": "Кредити: %s",
+  "Present": "Подарунок"
 }
