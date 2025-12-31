@@ -1,5 +1,5 @@
 {
-  "mspaint": "MSpaint [聖誕節]🎄",
+  "mspaint": "MSpaint [新年快樂]🧧",
   "Main": "基本",
   "Exploits": "主要功能",
   "Visuals": "視覺",
@@ -1923,5 +1923,23 @@
   "Mod Detector - %s (%s) [%s]": "模組偵測器 - %s (%s) [%s]",
   "Force Disable Cutscenes": "強制停用過場動畫",
   "Equipping selected event rod...": "正在裝備已選活動魚竿...",
-  "Auto Equip/Unequip": "自動裝備/不裝備"
+  "Auto Equip/Unequip": "自動裝備/不裝備",
+  "Unloading Loader...": "正在卸載載入器...",
+  "Loader Unloaded.": "載入器已卸載。",
+  "Last Handler Unloaded.": "最後一個處理程序已卸載。",
+  "Failed to find the murderer!": "找不到兇手！",
+  "Loading Doors...": "正在載入傳送門...",
+  "Loading Connections...": "正在載入連接...",
+  "Voice Acting folder has not been found.": "找不到配音資料夾。",
+  "Presents ESP": "禮物 ESP (透視)",
+  "Complete Floor": "完成樓層",
+  "You need to start this after the cutscene!": "你需要在過場動畫結束後啟動！",
+  "Waiting for cutscene to finish...": "正在等待過場動畫結束...",
+  "Completed!": "已完成！",
+  "Credits: %s": "製作人員：%s",
+  "Present": "禮物",
+  "Godmode/Noclip Bypass is required to use figure godmode": "使用人物無敵模式需要開啟無敵/穿牆繞過",
+  "Godmode/Noclip Bypass not enabled.": "無敵/穿牆繞過未啟用。",
+  "<font color=%q>Full Bar will always result in Perfect Catches!</font>": "<font color=%q>滿條將始終達成完美捕捉！</font>",
+  "Failed to open Shipwright UI.": "無法開啟造船廠介面。"
 }
