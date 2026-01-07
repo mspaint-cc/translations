@@ -1641,5 +1641,22 @@
   "You need to be close to the Egg to open it.": "Du musst in der Nähe eines Eis' sein um es zu öffnen.",
   "Auto Shiny": "Auto Glänzend",
   "Pet equipped.": "Haustier ausgerüstet",
-  "Equipped Pets:": "Ausgerüstete Pets:"
+  "Equipped Pets:": "Ausgerüstete Pets:",
+  "ℹ️ NOTE! mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "ℹ️INFO! mspaint könnte nicht richtig in %q funktionieren! Es tut uns leid wenn Fehler auftreten.",
+  "Player Race": "Spieler Rennen",
+  "Desync/Invisible": "Desync/Unsichtbarkeit",
+  "Mod Detector - New Moderator": "Mod Detector - Neuer Moderator",
+  "[%s] %s (%s)": "[%s] %s (%s)",
+  "Teleport Options": "Teleport Optionen",
+  "Failed to select ores: %q\nStopping...": "Fehler beim auswählen der Erze: %q\nStoppe...",
+  "Islands": "Inseln",
+  "Island": "Insel",
+  "Teleport to Island": "Teleportiere zu Insel",
+  "You need to finish all of the requirements to access %q:\n%s": "Du musst alle Anforderung erfüllen um %q zu betreten:\n%s",
+  "Teleporting to %q...": "Teleportiere zu %q...",
+  "NPC": "NPC",
+  "Failed to find %q.": "Fehler beim finden von %q.",
+  "Loading Doors...": "Lade Türen...",
+  "Loading Connections...": "Lade Connections...",
+  "UI not visible.": "UI nicht sichtbar."
 }
