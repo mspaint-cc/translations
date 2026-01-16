@@ -1658,5 +1658,20 @@
   "Failed to find %q.": "Fehler beim finden von %q.",
   "Loading Doors...": "Lade Türen...",
   "Loading Connections...": "Lade Connections...",
-  "UI not visible.": "UI nicht sichtbar."
+  "UI not visible.": "UI nicht sichtbar.",
+  "Hero": "Held",
+  "Map": "Karte",
+  "Reload Data": "Daten neuladen",
+  "This might take a moment, please wait...": "Dies könnte einen Moment dauern, bitte warte...",
+  "You are not innocent/dead!": "Du bist nicht unschuldig/tot!",
+  "Invalid pet or failed to fetch info about Pet.": "Ungültiges Haustier oder Fehler beim abrufen der Infos des Haustiers'.",
+  "Failed to enchant or ran out of Gems.": "Fehler beim Verzaubern oder keine Gems mehr über.",
+  "Sell Only When Full": "Verkaufe nur wenn voll",
+  "Wait for Health to Regen.": "Warte bis Leben regeneriert.",
+  "Mob Camera": "Monster Kamera",
+  "Open Forge UI": "Öffne Forge UI",
+  "Item Type": "Item Typ",
+  "Ore Blacklist": "Erz-Blacklist",
+  "Code: %s": "Code: %s",
+  "Failed to find %q, retrying...": "Fehler beim finden von %q, versuche erneut..."
 }
