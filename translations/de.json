@@ -1673,5 +1673,21 @@
   "Item Type": "Item Typ",
   "Ore Blacklist": "Erz-Blacklist",
   "Code: %s": "Code: %s",
-  "Failed to find %q, retrying...": "Fehler beim finden von %q, versuche erneut..."
+  "Failed to find %q, retrying...": "Fehler beim finden von %q, versuche erneut...",
+  "[OnUnload] [ESP] Unloading...": "[OnUnload] [ESP] Entlade...",
+  "[OnUnload] [ESP] ========== ESP Unloaded. ==========": "[OnUnload] [ESP] ========== ESP entladen. ==========",
+  "Successfully loaded mspaint with the saved key!": "Erfolgreich mspaint geladen mit gespeichertem Key!",
+  "Text Font Face": "Schriftart",
+  "[OnUnload] [UI] Unloading...": "[OnUnload] [UI] Entlade...",
+  "[OnUnload] [UI] ========== Unloaded. ==========": "[OnUnload] [UI] ========== Entladen. ==========",
+  "[OnUnload] [States] Unloading...": "[OnUnload] [States] Entlade...",
+  "[OnUnload] [States] ========== Unloaded. ==========": "[OnUnload] [States] ========== Entladen. ==========",
+  "Failed to find the murderer!": "Fehler beim Finden des Mörders!",
+  "Monster ESP": "Monster ESP",
+  "Failed to load the Game Module, certain features will be disabled.": "Fehler beim Laden des Spiel Moduls', bestimmte Funktionen sind deaktiviert.",
+  "Loading Game Module...": "Lade Spiel Modul...",
+  "Loading Room Information...": "Lade Raum Information...",
+  "Loading Modifiers...": "Lade Modifier...",
+  "Loading Modules...": "Lade Module...",
+  "Loading Functions...": "Lade Funktionen..."
 }
