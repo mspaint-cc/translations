@@ -1689,5 +1689,12 @@
   "Loading Room Information...": "Lade Raum Information...",
   "Loading Modifiers...": "Lade Modifier...",
   "Loading Modules...": "Lade Module...",
-  "Loading Functions...": "Lade Funktionen..."
+  "Loading Functions...": "Lade Funktionen...",
+  "Auto Enchant has finished.": "Auto Enchant ist fertig.",
+  "Fighting": "Kämpfen",
+  "Stopping Auto Enchant.": "Stoppe Auto Enchant.",
+  "Please select a valid enchant.": "Bitte wähle eine gültige Verzauberung aus.",
+  "Invalid enchant or failed to fetch data about the enchant.": "Ungültige Verzauberung oder Fehler beim abrufen der Verzauberung",
+  "Min Health": "Min Leben",
+  "Max Health": "Max Leben"
 }
