@@ -1696,5 +1696,7 @@
   "Please select a valid enchant.": "Bitte wähle eine gültige Verzauberung aus.",
   "Invalid enchant or failed to fetch data about the enchant.": "Ungültige Verzauberung oder Fehler beim abrufen der Verzauberung",
   "Min Health": "Min Leben",
-  "Max Health": "Max Leben"
+  "Max Health": "Max Leben",
+  "Sleep Time": "Schlaf Zeit",
+  "Disable %q first.": "Deaktiviere %q zuerst."
 }
