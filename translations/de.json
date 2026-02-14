@@ -1698,5 +1698,12 @@
   "Min Health": "Min Leben",
   "Max Health": "Max Leben",
   "Sleep Time": "Schlaf Zeit",
-  "Disable %q first.": "Deaktiviere %q zuerst."
+  "Disable %q first.": "Deaktiviere %q zuerst.",
+  "Pickaxe data was not found, please equip your pickaxe.": "Keine Spitzhackendaten gefunden, bitte Spitzhacke ausrüsten.",
+  "Manual mode enabled.": "Manueller Modus aktiviert.",
+  "Manual mode disabled.": "Manueller Modus deaktiviert.",
+  "Delay after finishing": "Verzögerung nach Fertigstellung",
+  "Failed to kill the monster, moving to the next one...": "Das Monster konnte nicht getötet werden, gehe zum nächsten über...",
+  "Weapon data was not found, please equip your weapon.": "Waffendaten wurden nicht gefunden, bitte rüste deine Waffe aus.",
+  "Failed to mine the rock, moving to the next one...": "Das Abbauen des Felsens ist fehlgeschlagen, wir gehen zum nächsten über..."
 }
