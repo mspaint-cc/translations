@@ -2444,5 +2444,16 @@
   "Equipping event rod...": "Etkinlik oltası takılıyor...",
   "Loading location...": "Konum yükleniyor...",
   "Updating location...": "Konum güncelleniyor...",
-  "Fixing broken rod...": "Kırık olta tamir ediliyor..."
+  "Fixing broken rod...": "Kırık olta tamir ediliyor...",
+  "Script Dashboard": "Script Kontrol Paneli",
+  "Copied script dashboard link to clipboard.": "Script kontrol paneli bağlantısı panoya kopyalandı.",
+  "You can report bugs or suggest features in the on-site dashboard:": "Hataları bildirebilir veya özellik önerilerini site içi kontrol panelinden yapabilirsiniz:",
+  "Failed to copy link.": "Bağlantı kopyalanamadı.",
+  "Link copied.": "Bağlantı kopyalandı.",
+  "The executor you are using (%s) does not support %q, mspaint cannot proceed to load %q.": "Kullandığınız çalıştırıcı (%s) %q özelliğini desteklemiyor, mspaint %q yüklemeye devam edemiyor.",
+  "This feature will make you lose streak!": "Bu özellik serinizi kaybetmenize neden olacak!",
+  "Force Full Bar": "Tam Çubuğu Zorla",
+  "If Auto Reel does not work with Tryhard Rod, enable Force Full Bar. Make sure to also have the correct enchant on the rod: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> or <font color=%q>Herculean</font>.": "Auto Reel Tryhard Rod ile çalışmazsa, Tam Çubuğu Zorla seçeneğini etkinleştirin. Ayrıca oltada doğru büyünün olduğundan emin olun: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> veya <font color=%q>Herculean</font>.",
+  "Catch: %s\nRarity: %s\nSpecial Rarity: %s\nSize: %s": "Yakalanan: %s\nNadirlik: %s\nÖzel Nadirlik: %s\nBoyut: %s",
+  "Failed to repair the map!": "Harita onarılamadı!"
 }
