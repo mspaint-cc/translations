@@ -2019,5 +2019,16 @@
   "Auto Forge Mode": "Modalità Forgia Automatica",
   "[OnUnload] [States] Unloading...": "[OnUnload] [States] Rimuovendo...",
   "[OnUnload] [UI] ========== Unloaded. ==========": "[OnUnload] [UI] ========== Rimosso. ==========",
-  "[OnUnload] [States] ========== Unloaded. ==========": "[OnUnload] [States] ========== Rimosso. =========="
+  "[OnUnload] [States] ========== Unloaded. ==========": "[OnUnload] [States] ========== Rimosso. ==========",
+  "Script Dashboard": "Dashboard Script",
+  "Copied script dashboard link to clipboard.": "Link dashboard script copiato.",
+  "You can report bugs or suggest features in the on-site dashboard:": "Puoi segnalare bug o consigliare nuove funzioni sulla dashboard:",
+  "Failed to copy link.": "Impossibile copiare link.",
+  "Link copied.": "Link copiato.",
+  "The executor you are using (%s) does not support %q, mspaint cannot proceed to load %q.": "Il tuo executor (%s) non supporta %q, mspaint non può caricare %q.",
+  "This feature will make you lose streak!": "Questa funzione ti farà perdere la streak!",
+  "Force Full Bar": "Forza Barra Piena",
+  "If Auto Reel does not work with Tryhard Rod, enable Force Full Bar. Make sure to also have the correct enchant on the rod: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> or <font color=%q>Herculean</font>.": "Se Auto Reel non funziona con Tryhard Rod, abilita Forza Barra Completa. Assicurati anche di avere l'incantesimo corretto sulla canna da pesca: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> or <font color=%q>Herculean</font>.",
+  "Failed to repair the map!": "Impossibile riparare la mappa!",
+  "Catch: %s\nRarity: %s\nSpecial Rarity: %s\nSize: %s": "Cattura: %s\nRarità: %s\nRarità Speciale: %s\nDimensione: %s"
 }
