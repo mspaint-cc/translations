@@ -2167,5 +2167,16 @@
   "Equipping event rod...": "Equipando vara de evento...",
   "Loading location...": "Carregando local...",
   "Updating location...": "Atualizando local...",
-  "Fixing broken rod...": "Consertando vara quebrada..."
+  "Fixing broken rod...": "Consertando vara quebrada...",
+  "Script Dashboard": "Painel de controle do script",
+  "Copied script dashboard link to clipboard.": "Link do painel do script copiado para a área de transferência.",
+  "You can report bugs or suggest features in the on-site dashboard:": "Você pode relatar erros ou sugerir recursos no painel do site:",
+  "Failed to copy link.": "Falha ao copiar o link.",
+  "Link copied.": "Link copiado.",
+  "The executor you are using (%s) does not support %q, mspaint cannot proceed to load %q.": "O executor que você está usando (%s) não suporta %q, o mspaint não pode prosseguir com o carregamento de %q.",
+  "This feature will make you lose streak!": "Este recurso fará com que você perca a sequência!",
+  "Force Full Bar": "Forçe barra completa",
+  "If Auto Reel does not work with Tryhard Rod, enable Force Full Bar. Make sure to also have the correct enchant on the rod: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> or <font color=%q>Herculean</font>.": "Se o Auto Reel não funcionar com a Tryhard Rod, habilite o Force Full Bar. Certifique-se também de ter o encantamento correto na vara: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> ou <font color=%q>Herculean</font>.",
+  "Catch: %s\nRarity: %s\nSpecial Rarity: %s\nSize: %s": "Captura: %s\nRaridade: %s\nRaridade especial: %s\nTamanho: %s",
+  "Failed to repair the map!": "Falha ao reparar o mapa!"
 }
