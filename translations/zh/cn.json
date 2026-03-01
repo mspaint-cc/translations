@@ -2023,5 +2023,13 @@
   "Equipping event rod...": "正在装备事件鱼竿...",
   "Loading location...": "正在加载位置...",
   "Updating location...": "正在更新位置...",
-  "Fixing broken rod...": "正在修理折断的鱼竿..."
+  "Fixing broken rod...": "正在修理折断的鱼竿...",
+  "Script Dashboard": "脚本面板",
+  "Copied script dashboard link to clipboard.": "脚本面板链接已复制",
+  "You can report bugs or suggest features in the on-site dashboard:": "你可以在面板网站上报告bug",
+  "Failed to copy link.": "复制链接失败",
+  "Link copied.": "链接复制成功",
+  "The executor you are using (%s) does not support %q, mspaint cannot proceed to load %q.": "你在用的注入器(%s)不支持%q,\nmspaint无法继续加载 %q",
+  "Force Full Bar": "强制全屏",
+  "Failed to repair the map!": "修复地图失败"
 }
