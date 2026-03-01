@@ -34,13 +34,13 @@
             "NativeName": "繁體中文",
             "EnglishName": "Chinese Traditional"
         },
+        
+        "classical": {
+            "NativeName": "文言文",
+            "EnglishName": "Classical Chinese"
+        },
 
         "Default": "cn"
-    },
-
-    "lzh": {
-        "NativeName": "文言文",
-        "EnglishName": "Classical Chinese"
     },
 
     "ru": {
