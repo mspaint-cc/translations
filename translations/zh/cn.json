@@ -2032,7 +2032,7 @@
   "The executor you are using (%s) does not support %q, mspaint cannot proceed to load %q.": "你在用的注入器(%s)不支持%q,\nmspaint无法继续加载 %q",
   "Force Full Bar": "强制满进度条",
   "Failed to repair the map!": "修复地图失败",
-  "If Auto Reel does not work with Tryhard Rod, enable Force Full Bar. Make sure to also have the correct enchant on the rod: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> or <font color=%q>Herculean</font>.": "如果自动卷线不与强力钓竿一起工作，请启用强制满力条。确保在鱼竿上有正确的附魔:< font color=%q >耐久</font >，< font color=%q >可控</font >或者< font color=%q >巨力</font >。",
+  "If Auto Reel does not work with Tryhard Rod, enable Force Full Bar. Make sure to also have the correct enchant on the rod: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> or <font color=%q>Herculean</font>.": "如果自动卷线不与强力钓竿一起工作，请启用强制满力条。确保在鱼竿上有正确的附魔:<font color=%q>耐久</font>，<font color=%q>可控</font>或者<font color=%q>巨力</font>。",
   "This feature will make you lose streak!": "这个功能会使你打断连击[?]",
   "Catch: %s\nRarity: %s\nSpecial Rarity: %s\nSize: %s": "捕捉: %s\n稀有度: %s\n特殊稀有度: %s\n大小: %s"
 }
