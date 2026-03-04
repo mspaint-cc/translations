@@ -2041,5 +2041,16 @@
   "Equipping event rod...": "Wyposażanie wędki eventowej...",
   "Loading location...": "Ładowanie lokacji...",
   "Updating location...": "Aktualizowanie lokacji...",
-  "Fixing broken rod...": "Naprawianie uszkodzonej wędki..."
+  "Fixing broken rod...": "Naprawianie uszkodzonej wędki...",
+  "Script Dashboard": "Panel skryptu",
+  "Copied script dashboard link to clipboard.": "Skopiowano link do panelu skryptu do schowka.",
+  "You can report bugs or suggest features in the on-site dashboard:": "Możesz zgłaszać błędy lub sugerować funkcje w panelu na stronie:",
+  "Failed to copy link.": "Nie udało się skopiować linku.",
+  "Link copied.": "Link skopiowany.",
+  "The executor you are using (%s) does not support %q, mspaint cannot proceed to load %q.": "Używany przez Ciebie executor (%s) nie obsługuje %q, mspaint nie może kontynuować ładowania %q.",
+  "This feature will make you lose streak!": "Ta funkcja spowoduje utratę serii!",
+  "Force Full Bar": "Wymuś pełny pasek",
+  "If Auto Reel does not work with Tryhard Rod, enable Force Full Bar. Make sure to also have the correct enchant on the rod: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> or <font color=%q>Herculean</font>.": "Jeśli Auto Reel nie działa z Tryhard Rod, włącz Wymuś pełny pasek. Upewnij się również, że wędka ma odpowiednie zaklęcie: <font color=%q>Niezniszczalna</font>, <font color=%q>Kontrolowana</font> lub <font color=%q>Herkulejska</font>.",
+  "Catch: %s\nRarity: %s\nSpecial Rarity: %s\nSize: %s": "Połów: %s\nRzadkość: %s\nSpecjalna rzadkość: %s\nRozmiar: %s",
+  "Failed to repair the map!": "Nie udało się naprawić mapy!"
 }
