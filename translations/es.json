@@ -1139,7 +1139,7 @@
   "Auto Join": "Unirse Automaticamente",
   "Successfully joined the game.": "Se ha unido al juego exitosamente.",
   "[Value: %s$]%s": "[Valor: %s$]%s",
-  "[Fuel: %.1f%%]": "[Combustible: %1$1.f%%]",
+  "[Fuel: %.1f%%]": "[Combustible: %.1f%%]",
   "Waiting for turn... (%s / %s)": "Esperando turno... (%s/%s)",
   "Checking other features...": "Comprobando otras funciones",
   "Waiting for turn...": "Esperando turno...",
