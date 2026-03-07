@@ -2034,5 +2034,10 @@
   "Voice Acting folder has not been found.": "未找到语音文件夹",
   "<font color=%q>Full Bar will always result in Perfect Catches!</font>": "<font color=%q>满进度条将始终达成完美捕捉！</font>",
   "⚠ Your character is not be compatible with Position Offset (You will die with this feature enabled):\n%s": "⚠️ 您的角色与位置偏移功能不兼容 (开启后会导致死亡)：\n%s",
-  "Your character might not be compatible with Position Offset:\n%s": "⚠️您的角色可能与位置偏移不兼容：\n%s"
+  "Your character might not be compatible with Position Offset:\n%s": "⚠️您的角色可能与位置偏移不兼容：\n%s",
+  "Get All Stickers": "获取所有徽章",
+  "You need to rejoin to recieve the stickers.": "你需要重进游戏获取徽章",
+  "Auto Farm is not implemented in this sub-floor.": "该子楼层未开放自动农场。",
+  "Get All Stickers Credits: 92yd": "获取所有徽章 鸣谢:92yd",
+  "Could not find required instances.": "找不到所需的实例。"
 }
