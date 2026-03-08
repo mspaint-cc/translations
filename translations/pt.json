@@ -1462,7 +1462,7 @@
   "Anti-Surge": "Anti-Surto",
   "Look at Monument": "Veja o Monumento",
   "Knob Farm is patched.": "Knob Farm foi arrumado.",
-  "Speed Bypass: <font color='rgb(%s)'>%s</font>": "Bypass de velocidade: <font color=‘rgb(%s)’>%s</font>",
+  "Speed Bypass: <font color='rgb(%s)'>%s</font>": "Bypass de velocidade:  <font color='rgb(%s)'>%s</font>",
   "Auto Hiding Spot V2": "Auto Esconderijo V2",
   "Stardust": "Stardust",
   "Speed Bypass: <font color=\"rgb(%s)\">%s</font>": "Bypass de Velocidade: <font color=\"rgb(%s)\">%s</font>",
@@ -2178,5 +2178,10 @@
   "Force Full Bar": "Forçe barra completa",
   "If Auto Reel does not work with Tryhard Rod, enable Force Full Bar. Make sure to also have the correct enchant on the rod: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> or <font color=%q>Herculean</font>.": "Se o Auto Reel não funcionar com a Tryhard Rod, habilite o Force Full Bar. Certifique-se também de ter o encantamento correto na vara: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> ou <font color=%q>Herculean</font>.",
   "Catch: %s\nRarity: %s\nSpecial Rarity: %s\nSize: %s": "Captura: %s\nRaridade: %s\nRaridade especial: %s\nTamanho: %s",
-  "Failed to repair the map!": "Falha ao reparar o mapa!"
+  "Failed to repair the map!": "Falha ao reparar o mapa!",
+  "Get All Stickers": "Pegar todos os adesivos",
+  "Could not find required instances.": "Não foi possível encontrar as instâncias necessárias.",
+  "You need to rejoin to recieve the stickers.": "Você precisa re-entrar para receber os adesivos.",
+  "Get All Stickers Credits: 92yd": "Creditós para o Pegar todos os adesivos: 92yd",
+  "Auto Farm is not implemented in this sub-floor.": "Auto Farm não esta implementado nesse sub-andar."
 }
