@@ -2435,5 +2435,10 @@
   "Loading location...": "Cargando ubicación...",
   "Updating location...": "Actualizando ubicación...",
   "Fixing broken rod...": "Arreglando caña rota...",
-  "Failed to repair the map!": "¡Error al reparar el mapa!"
+  "Failed to repair the map!": "¡Error al reparar el mapa!",
+  "Get All Stickers": "Conseguir Todos los Stickers",
+  "Could not find required instances.": "No se pudo encontrar instancias requeridas.",
+  "You need to rejoin to recieve the stickers.": "Necesitas volverte a unir para conseguir los stickers.",
+  "Get All Stickers Credits: 92yd": "Creditos de Conseguir Todos los Stickers: 92yd",
+  "Auto Farm is not implemented in this sub-floor.": "Farmeo automatico no esta implementado para este sub-piso."
 }
