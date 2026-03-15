@@ -2052,5 +2052,10 @@
   "Force Full Bar": "Wymuś pełny pasek",
   "If Auto Reel does not work with Tryhard Rod, enable Force Full Bar. Make sure to also have the correct enchant on the rod: <font color=%q>Unbreakable</font>, <font color=%q>Controlled</font> or <font color=%q>Herculean</font>.": "Jeśli Auto Reel nie działa z Tryhard Rod, włącz Wymuś pełny pasek. Upewnij się również, że wędka ma odpowiednie zaklęcie: <font color=%q>Niezniszczalna</font>, <font color=%q>Kontrolowana</font> lub <font color=%q>Herkulejska</font>.",
   "Catch: %s\nRarity: %s\nSpecial Rarity: %s\nSize: %s": "Połów: %s\nRzadkość: %s\nSpecjalna rzadkość: %s\nRozmiar: %s",
-  "Failed to repair the map!": "Nie udało się naprawić mapy!"
+  "Failed to repair the map!": "Nie udało się naprawić mapy!",
+  "Get All Stickers": "Zdobądź wszystkie naklejki",
+  "Could not find required instances.": "Nie można znaleźć wymaganych instancji.",
+  "You need to rejoin to recieve the stickers.": "Musisz ponownie dołączyć, aby otrzymać naklejki.",
+  "Get All Stickers Credits: 92yd": "Autor funkcji Zdobądź wszystkie naklejki: 92yd",
+  "Auto Farm is not implemented in this sub-floor.": "Auto Farm nie jest zaimplementowany na tym podpoziomie."
 }
