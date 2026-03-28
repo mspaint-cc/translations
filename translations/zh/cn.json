@@ -1343,7 +1343,7 @@
   "Successfully unloaded %s!": "成功卸载 %s！",
   "ℹ️ NOTE! Bubble Gum Simulator: Infinity is no longer maintained.": "ℹ️注意！Bubble Gum Simulator: Infinity 已不再维护",
   "[mspaint guard]: mspaint guard received invalid anticheat data from the server. For your security, we have kicked you.": "[msp防护]: mspaint 团队收到了来自服务器的无效反作弊数据。出于您的安全考虑，我们已将您踢出",
-  "⚠️ WARNING! mspaint is currently not working or is detected by the anticheat in %q! If you want to bypass this kick, execute this before executing mspaint:": "⚠️ 警告！mspaint 当前无法运行或在 %q 中被反作弊检测到！如果您想绕过这次踢出，请在执行 mspaint 之前执行此操作：",
+  "⚠️ WARNING! mspaint is currently not working or is detected by the anticheat in %q! If you want to bypass this kick, execute this before executing mspaint:": "⚠️ 警告！mspaint 当前无法运行或在 %q 中被反作弊检测到！如果您想绕过这次踢出，请在key代码上面添加一行此内容：",
   "ℹ️ NOTE! mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "ℹ️ 注意！mspaint 可能无法在 %q 中正常工作！如果您遇到任何问题，我们深表歉意。",
   "[mspaint] Invalid file extension for %q (%q)...": "[mspaint] %q 的文件扩展名无效 (%q)...",
   "[mspaint] Loading addon %q...": "[mspaint] 正在加载插件 %q...",
