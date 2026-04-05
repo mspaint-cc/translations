@@ -146,5 +146,10 @@
     "nl": {
         "NativeName": "Nederlands",
         "EnglishName": "Dutch"
+    },
+
+    "ko": {
+        "NativeName": "한국어",
+        "EnglishName": "Korean"
     }
 }
