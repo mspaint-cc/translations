@@ -2472,5 +2472,9 @@
   "Total Executions: %s": "Ejecuciones totales: %s",
   "Time left: <font color=%q>Expired</font>": "Tiempo restante: <font color=%q>Expirado</font>",
   "Time left: %s": "Tiempo restante: %s",
-  "Thickness": "Espesor"
+  "Thickness": "Espesor",
+  "Failed to claim code: %s": "Error en reclamar codigo: %s",
+  "Invalid enchant or failed to fetch data about the enchant. Stopping Auto Enchant...": "Encantamiento no válido o error al recuperar los datos del encantamiento. Deteniendo el encantamiento automático...",
+  "Invalid pet or failed to fetch info about Pet. Stopping Auto Enchant...": "Mascota invalida o error al recuperar información sobre la mascota. Deteniendo el encantamiento automático...",
+  "Invalid pet. Stopping Auto Enchant...": "Mascota invalida. Deteniendo el encantamiento automático..."
 }
