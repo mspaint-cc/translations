@@ -1704,5 +1704,7 @@
   "Typing Speed": "타이핑 속도",
   "Typing word: %s\nMandatory letters: %s": "입력 중인 단어: %s\n필수 글자: %s",
   "Word Priority": "단어 우선순위",
-  "You have no words left, how is that even possible?": "남은 단어가 없습니다. 어떻게 이런 일이 가능한걸까요?"
+  "You have no words left, how is that even possible?": "남은 단어가 없습니다. 어떻게 이런 일이 가능한걸까요?",
+  "Successfully unloaded %s!": "%s 불러오기 취소 완료!",
+  "Unloading %s...": "%s 불러오기 취소 중...."
 }
