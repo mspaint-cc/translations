@@ -1562,5 +1562,21 @@
   "__LOADING_DESCRIPTION": "二群:972505548 需先加入ms的dc\n再在群问题中回答dc用户名",
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "🔴 mspaint当前不能在%q中运行!\n请等我们更新它,谢谢",
   "Avoidance Priority": "回避优先",
-  "Anti-Bleach Screen": "防bleach黑屏"
+  "Anti-Bleach Screen": "防bleach黑屏",
+  "Ammo": "子弹",
+  "Anti-Door Stuck": "防卡门(《carmen》)",
+  "Anti-Freeze Frame": "防受伤冻结画面",
+  "Anti-Noodle Legs": "防面条腿",
+  "Anti-Paranoia": "防偏执(幽闭恐惧症V2)",
+  "Anti-Sitcom": "防私人笑声",
+  "Dam is not loaded in yet.": "大坝还没加载好",
+  "Disable All Entities": "禁用所有实体",
+  "Locating generator...": "定位发动机中....",
+  "Powering up bridge...": "大桥启动中.....",
+  "Show FOV Circle": "显示视野圈(bro不会翻这个)",
+  "Starting completion sequence...": "启动自动完成程序",
+  "Waiting for Stage %s/3...": "等待关卡%s/3",
+  "You haven't reached door 200.": "你tm没到200门",
+  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint的%q脚本正在维护中!\n请等我们更新脚本谢谢喵 ",
+  "Solving Stage %s/3...": "解决关卡%s/3"
 }
