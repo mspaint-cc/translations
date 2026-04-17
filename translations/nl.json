@@ -2510,5 +2510,21 @@
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🔴] mspaint werkt nu niet in %q! Wacht tot we het script hebben bijgewerkt, bedankt.",
   "__LOADING_DESCRIPTION": "Even laden...",
   "mspaint %s": "mspaint %s",
-  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint werkt misschien niet helemaal goed in %q! Sorry alvast als je problemen krijgt."
+  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint werkt misschien niet helemaal goed in %q! Sorry alvast als je problemen krijgt.",
+  "Ammo": "Munitie",
+  "Anti-Door Stuck": "Anti-deur vast",
+  "Anti-Freeze Frame": "Anti-freeze frame",
+  "Anti-Noodle Legs": "Anti-slappe benen",
+  "Anti-Paranoia": "Anti-paranoia",
+  "Anti-Sitcom": "Anti-sitcom",
+  "Dam is not loaded in yet.": "Dam is nog niet geladen.",
+  "Disable All Entities": "Schakel alle entiteiten uit",
+  "Locating generator...": "Generator wordt gelokaliseerd...",
+  "Powering up bridge...": "Brug wordt opgestart...",
+  "Show FOV Circle": "Toon FOV-cirkel",
+  "Solving Stage %s/3...": "Fase %s/3 wordt opgelost...",
+  "Starting completion sequence...": "Voltooiingsreeks wordt gestart...",
+  "Waiting for Stage %s/3...": "Wachten op fase %s/3...",
+  "You haven't reached door 200.": "Je hebt deur 200 nog niet bereikt.",
+  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint is momenteel in onderhoud in %q! Wacht even tot we het script hebben bijgewerkt, bedankt."
 }
