@@ -2453,5 +2453,21 @@
   "[⚠️] mspaint is currently detected by the anticheat in %q! Please wait for us to update the script, thank you.": "[⚠️] ميزة mspaint مكشوفة حالياً بواسطة نظام الحماية في %q! يرجى انتظارنا لتحديث السكربت، شكراً لك.",
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🛑] ميزة mspaint لا تعمل حالياً في %q! يرجى انتظارنا لتحديث السكربت، شكراً لك.",
   "__LOADING_DESCRIPTION": "are you, are you .... coming to the tree",
-  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "قد لا تعمل mspaint بشكل صحيح في %q! نأسف إذا واجهت أي مشاكل."
+  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "قد لا تعمل mspaint بشكل صحيح في %q! نأسف إذا واجهت أي مشاكل.",
+  "Ammo": "ذخيرة",
+  "Anti-Door Stuck": "مانع-العلوق في الأبواب",
+  "Anti-Freeze Frame": "مانع-تجمد الشاشة",
+  "Anti-Noodle Legs": "مانع-تمايل الأرجل",
+  "Anti-Paranoia": "مانع البارانويا",
+  "Anti-Sitcom": "مانع الـ Sitcom",
+  "Dam is not loaded in yet.": "لم يتم تحميل السد بعد.",
+  "Disable All Entities": "تعطيل جميع الكائنات",
+  "Locating generator...": "جاري تحديد موقع المولد...",
+  "Powering up bridge...": "جاري تشغيل الجسر...",
+  "Show FOV Circle": "إظهار دائرة مجال الرؤية (FOV)",
+  "Solving Stage %s/3...": "...3/%s حل المرحلة",
+  "Starting completion sequence...": "...بدء تسلسل الإنهاء",
+  "Waiting for Stage %s/3...": "...3/%s انتظار المرحلة",
+  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "في %q حالياً! يرجى انتظارنا لتحديث السكربت، شكراً لك. mspaint [ 🔴 ] قيد الصيانة",
+  "You haven't reached door 200.": ".200 لم تصل إلى الباب رقم"
 }
