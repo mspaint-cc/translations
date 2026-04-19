@@ -2557,5 +2557,21 @@
   "[⚠️] mspaint is currently detected by the anticheat in %q! Please wait for us to update the script, thank you.": "[⚠️] mspaint şu anda %q içinde hile koruması tarafından tespit edildi! Lütfen scriptimizi güncellememizi bekleyin, teşekkürler.",
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🔴] mspaint şu anda %q içinde çalışmıyor! Lütfen scriptimizin güncellememizi bekleyin, teşekkürler.",
   "__LOADING_DESCRIPTION": "__AÇIKLAMA_YÜKLENİYOR",
-  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint %q içinde düzgün çalışmayabilir! Herhangi bir sorunla karşılaşırsanız üzgünüz."
+  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint %q içinde düzgün çalışmayabilir! Herhangi bir sorunla karşılaşırsanız üzgünüz.",
+  "Ammo": "Mermi",
+  "Anti-Door Stuck": "Kapıya Sıkışma Engelleyici",
+  "Anti-Freeze Frame": "Ekran Donma Engelleyici",
+  "Anti-Noodle Legs": "Sarsılma (Anti-Noodle) Engelleyici",
+  "Anti-Paranoia": "Anti-Paranoya",
+  "Anti-Sitcom": "Anti-Sitcom",
+  "Dam is not loaded in yet.": "Baraj henüz yüklenmedi.",
+  "Disable All Entities": "Tüm Varlıkları Devre Dışı Bırak",
+  "Locating generator...": "Jeneratör konumlandırılıyor...",
+  "Powering up bridge...": "Köprüye güç veriliyor...",
+  "Show FOV Circle": "Görüş Alanı (FOV) Çemberini Göster",
+  "Solving Stage %s/3...": "Aşama %s/3 çözülüyor...",
+  "Starting completion sequence...": "Tamamlama dizisi başlatılıyor...",
+  "Waiting for Stage %s/3...": "Aşama %s/3 için bekleniyor...",
+  "You haven't reached door 200.": "Henüz 200. kapıya ulaşmadınız.",
+  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint şu anda %q içinde bakımda! Lütfen betiği güncellememizi bekleyin, teşekkürler."
 }
