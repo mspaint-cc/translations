@@ -2508,7 +2508,7 @@
   "[OnUnload] [UI] Unloading...": "[OnUnload] [UI] Ontladen...",
   "[⚠️] mspaint is currently detected by the anticheat in %q! Please wait for us to update the script, thank you.": "[⚠️] mspaint wordt nu gedetecteerd door de anticheat in %q! Wacht tot we het script hebben bijgewerkt, bedankt.",
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🔴] mspaint werkt nu niet in %q! Wacht tot we het script hebben bijgewerkt, bedankt.",
-  "__LOADING_DESCRIPTION": "Even laden...",
+  "__LOADING_DESCRIPTION": "De pixels aan het tellen. 1001, 1002, 1003... {{MOTD}}",
   "mspaint %s": "mspaint %s",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint werkt misschien niet helemaal goed in %q! Sorry alvast als je problemen krijgt.",
   "Ammo": "Munitie",
