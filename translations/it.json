@@ -2134,5 +2134,21 @@
   "This feature is not available in the current Pressure variant.": "Questa funzione non è disponibile in questa versione di Pressure.",
   "Took %sms.": "Impiegato %sms.",
   "[⚠️] mspaint is currently detected by the anticheat in %q! Please wait for us to update the script, thank you.": "[⚠️] mspaint è rilevato dall'anticheat in %q! Per favore aspetta che aggiorniamo lo script, grazie.",
-  "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🔴] mspaint non funziona in %q! Per favore aspetta che aggiorniamo lo script, grazie."
+  "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🔴] mspaint non funziona in %q! Per favore aspetta che aggiorniamo lo script, grazie.",
+  "Ammo": "Munizioni",
+  "Locating generator...": "Cercando generatore...",
+  "Anti-Door Stuck": "Anti-Porta Bloccata",
+  "Anti-Freeze Frame": "Anti-Congelamento Frame",
+  "Anti-Noodle Legs": "Anti-Gambe Spaghetto",
+  "Anti-Paranoia": "Anti-Paranoia",
+  "Anti-Sitcom": "Anti-Sitcom",
+  "Dam is not loaded in yet.": "Dam non è ancora caricato.",
+  "Disable All Entities": "Disabilita Le Entità",
+  "Powering up bridge...": "Accendendo il ponte...",
+  "Show FOV Circle": "Mostra Cerchio FOV",
+  "Solving Stage %s/3...": "Risolvendo stage %s/3...",
+  "Starting completion sequence...": "Iniziando sequenza completamento...",
+  "Waiting for Stage %s/3...": "Aspettando per stage %s/3...",
+  "You haven't reached door 200.": "Non hai raggiunto la porta 200.",
+  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint è in manutenzione in %q! Per favore aspetta che aggiorniamo lo script, grazie."
 }
