@@ -1785,5 +1785,6 @@
   "Starting completion sequence...": "완료 프로토콜 시작 중...",
   "Waiting for Stage %s/3...": "%s/3 단계 대기 중...",
   "You haven't reached door 200.": "아직 200번 문에 도달하지 못하였습니다.",
-  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint은(는) 현재 %q에서 점검 중입니다! 스크립트 업데이트까지 잠시만 기다려 주세요. 감사합니다."
+  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint은(는) 현재 %q에서 점검 중입니다! 스크립트 업데이트까지 잠시만 기다려 주세요. 감사합니다.",
+  "This feature is available only for Premium Users.": "이 기능은 프리미엄 사용자에게만 제공됩니다."
 }
