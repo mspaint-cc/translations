@@ -1346,7 +1346,7 @@
         "This feature doesn't work on this floor.": "DOORS",
         "This feature doesn't work or is not implemented on this floor.": "DOORS",
         "This feature is always on for your safety.": "Rooms & Doors",
-        "This feature is available only for Premium Keys.": "DOORS",
+        "This feature is available only for Premium Users.": "DOORS",
         "This feature is not available in the current Pressure variant.": "Pressure",
         "This feature is not implemented on this floor.": "DOORS",
         "This feature isn't implemented on this floor.": "DOORS",
