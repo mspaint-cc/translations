@@ -2573,5 +2573,6 @@
   "Starting completion sequence...": "Tamamlama dizisi başlatılıyor...",
   "Waiting for Stage %s/3...": "Aşama %s/3 için bekleniyor...",
   "You haven't reached door 200.": "Henüz 200. kapıya ulaşmadınız.",
-  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint şu anda %q içinde bakımda! Lütfen betiği güncellememizi bekleyin, teşekkürler."
+  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint şu anda %q içinde bakımda! Lütfen betiği güncellememizi bekleyin, teşekkürler.",
+  "This feature is available only for Premium Users.": "Bu özellik sadece Premium Kullanıcılara özel tasarlandı."
 }
