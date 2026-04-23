@@ -2526,5 +2526,6 @@
   "Starting completion sequence...": "Voltooiingsreeks wordt gestart...",
   "Waiting for Stage %s/3...": "Wachten op fase %s/3...",
   "You haven't reached door 200.": "Je hebt deur 200 nog niet bereikt.",
-  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint is momenteel in onderhoud in %q! Wacht even tot we het script hebben bijgewerkt, bedankt."
+  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint is momenteel in onderhoud in %q! Wacht even tot we het script hebben bijgewerkt, bedankt.",
+  "This feature is available only for Premium Users.": "Deze functie is alleen beschikbaar voor Premium-gebruikers."
 }
