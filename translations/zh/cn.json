@@ -1574,5 +1574,6 @@
   "Waiting for Stage %s/3...": "等待关卡%s/3",
   "You haven't reached door 200.": "你tm没到200门",
   "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint的%q脚本正在维护中!\n请等我们更新脚本谢谢喵 ",
-  "Solving Stage %s/3...": "解决关卡%s/3"
+  "Solving Stage %s/3...": "解决关卡%s/3",
+  "This feature is available only for Premium Users.": "该功能需要充值1225Robux 大卫说的"
 }
