@@ -1554,7 +1554,7 @@
   "Solving pipe puzzle...": "解决管道谜题中...",
   "Solve Pipe Puzzle": "解决管道谜题",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "msp可能不在%q中工作!我们对你可能遇到的问题致歉",
-  "__LOADING_DESCRIPTION": "你找不到               你的MOTD了",
+  "__LOADING_DESCRIPTION": "upio本人的b站:@_upio 已被mstudio45证实\n",
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "🔴 mspaint当前不能在%q中运行!\n请等我们更新它,谢谢",
   "Avoidance Priority": "回避优先",
   "Anti-Bleach Screen": "防bleach黑屏",
@@ -1574,5 +1574,6 @@
   "You haven't reached door 200.": "你tm没到200门",
   "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint的%q脚本正在维护中!\n请等我们更新脚本谢谢喵 ",
   "Solving Stage %s/3...": "解决关卡%s/3",
-  "This feature is available only for Premium Users.": "该功能需要充值1225Robux 大卫说的"
+  "This feature is available only for Premium Users.": "该功能需要充值1225Robux 大卫说的",
+  "This feature is available only for Premium Keys.": "你得氪金才能用，大卫说的"
 }
