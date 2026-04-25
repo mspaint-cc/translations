@@ -2536,7 +2536,7 @@
   "Your executor doesn't support the FileSystem API.\nYou won't be able to save Configurations and Themes.": "Tu ejecutor no soporta la API FileSystem.\nNo podrás guardar Configuraciones ni Temas.",
   "[⚠️] mspaint is currently detected by the anticheat in %q! Please wait for us to update the script, thank you.": "[⚠️] mspaint está siendo detectado por el anticheat en %q. Espera a que actualicemos el script, gracias.",
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🔴] mspaint actualmente no funciona en %q. Espera a que actualicemos el script, gracias.",
-  "__LOADING_DESCRIPTION": "upioguard NEVER!! {{MOTD}}",
+  "__LOADING_DESCRIPTION": "find the hidden herobrine in the script {{MOTD}}",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint puede no funcionar correctamente en %q. Lamentamos si encuentras algún problema.",
   "Ammo": "Munición",
   "Anti-Door Stuck": "Anti-Puerta Atascada",
