@@ -2150,5 +2150,6 @@
   "Starting completion sequence...": "Iniziando sequenza completamento...",
   "Waiting for Stage %s/3...": "Aspettando per stage %s/3...",
   "You haven't reached door 200.": "Non hai raggiunto la porta 200.",
-  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint è in manutenzione in %q! Per favore aspetta che aggiorniamo lo script, grazie."
+  "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint è in manutenzione in %q! Per favore aspetta che aggiorniamo lo script, grazie.",
+  "This feature is available only for Premium Users.": "Questa funzione è disponibile solo per gli Utenti Premium."
 }
