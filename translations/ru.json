@@ -2263,5 +2263,15 @@
   "Show Pipe Puzzle Solution": "Показать Решение Трубных Головоломок",
   "Solve Pipe Puzzle": "Решить Трубные Головоломки",
   "Solving pipe puzzle...": "Решаю трубные головоломки…",
-  "This feature is not available in the current Pressure variant.": "Эта функция не доступна в текущей вариации Pressure."
+  "This feature is not available in the current Pressure variant.": "Эта функция не доступна в текущей вариации Pressure.",
+  "You haven't reached door 200.": "Ты не дошел до 200 двери.",
+  "Waiting for Stage %s/3...": "Жду этапа %s/3…",
+  "This feature is available only for Premium Users.": "Эта функция доступна только премиум пользователям.",
+  "Starting completion sequence...": "Начинаю прохождение…",
+  "Solving Stage %s/3...": "Прохожу Этап %s/3…",
+  "Powering up bridge...": "Включаю мост…",
+  "Locating generator...": "Нахожу генератор…",
+  "Gloombats are in the next room!": "Глумбаты в следующей комнате!",
+  "Do not look at it.": "Не смотри на них.",
+  "Dam is not loaded in yet.": "Дэм еще не загрузился."
 }
