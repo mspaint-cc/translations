@@ -2169,5 +2169,6 @@
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🔴] mspaint obecnie nie działa w %q! Poczekaj na aktualizację skryptu, dziękujemy.",
   "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint jest obecnie w trakcie konserwacji w %q! Poczekaj na aktualizację skryptu, dziękujemy.",
   "__LOADING_DESCRIPTION": "__OPIS_ŁADOWANIA",
-  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint może nie działać poprawnie w %q! Przepraszamy za ewentualne problemy."
+  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint może nie działać poprawnie w %q! Przepraszamy za ewentualne problemy.",
+  "This feature is available only for Premium Users.": "Ta funkcja jest dostępna wyłącznie dla użytkowników Premium."
 }
