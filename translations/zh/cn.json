@@ -1583,7 +1583,7 @@
   "Buffer reads are not available.": "缓冲读取不可用(bruh我英语没这么好)",
   "Build Image": "图像建造",
   "Build button to build. Right click/cancel button to cancel.\nClick/tap plot to move. Drag rotation arcs or press R.\nRotation X/Y/Z: %s/%s/%s deg. %s pixels using %s blocks.%s": "按[建造]来建造 右键/[取消]来取消\n点击地块来删除[我这段不会]\n拖动旋转弧或按R来旋转\n旋转坐标XYZ:%s/%s/%s 度\n%s像素使用%s个方块%s",
-  "Building %sx%s image with %s visible pixels using %s blocks...": "使用%s$4个块构建具有%s$3个可见像素的%s$1x%s$2个图像...",
+  "Building %sx%s image with %s visible pixels using %s blocks...": "使用%3$s个块构建具有%4$s个可见像素的%1$sx%2$s个图像...",
   "Built %s/%s pixels (%s blocks) in %ss...": "已建造%s/%s个像素(%s个方块)于%ss.....",
   "Depth Offset": "深度偏移",
   "Decoded image is too large: %sx%s. Maximum supported size is %sx%s.": "已解码的图像太大了:%sx%s 最大智齿的大小是%sx%s",
@@ -1601,7 +1601,7 @@
   "Failed to decode image: %s": "解码图像%s失败",
   "Fishing": "钓鱼",
   "Fishing Features": "钓鱼功能",
-  "Getting '%s (%s)' from %s%s... (%s%%)": "从%s$3%s$4获取%s$1(%s$2)....(%s%%)",
+  "Getting '%s (%s)' from %s%s... (%s%%)": "从%3$s%4$s获取%1$s(%2$s)....(%s%%)",
   "Getting money for Crab Cages... (%s / %s)": "拿钱买蟹笼中...(%s/%s)",
   "Height": "高度",
   "Hopping server for: %s": "为%s跳转服务器",
@@ -1639,5 +1639,6 @@
   "Scale Pixels": "缩放像素",
   "Server Hop": "换个服务器",
   "Shop": "商店",
-  "Totem Settings": "图腾设置"
+  "Totem Settings": "图腾设置",
+  "Move the preview back inside your plot before building.": "在建造前请把那个预览移回你的地块谢谢喵"
 }
