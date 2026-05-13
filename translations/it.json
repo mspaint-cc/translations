@@ -2128,7 +2128,7 @@
   "Testing Executor functionality...": "Testando Funzioni Executor...",
   "This feature doesn't work in this floor.": "Questa funzione non funziona su questo piano.",
   "Your executor doesn't support the FileSystem API.\nYou won't be able to save Configurations and Themes.": "Il tuo executor non supporta l'API FileSystem.\nI temi e le configurazioni non verranno salvati.",
-  "__LOADING_DESCRIPTION": "meow :3",
+  "__LOADING_DESCRIPTION": "free nitro at bigrat.monster",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint potrebbe non funzionare correttamente in %q! Ci scusiamo per qualunque errore che potresti trovare.",
   "This feature only works inside the Lobby.": "Questa funzione funziona solo nella Lobby.",
   "This feature is not available in the current Pressure variant.": "Questa funzione non è disponibile in questa versione di Pressure.",
@@ -2198,5 +2198,6 @@
   "You own %s %s blocks, but this image needs %s blocks for %s visible pixels.": "Possiedi %s %s blocchi ma questa immagine ha bisogno di %s blocchi per %s pixel.",
   "Your executor does not support custom assets.": "Il tuo executor non supporta gli asset personalizzati.",
   "Your executor does not support the file system.": "Il tuo executor non supporta il file system.",
-  "\nPreview is outside your plot.": "L'anteprima è fuori dal tuo plot."
+  "\nPreview is outside your plot.": "L'anteprima è fuori dal tuo plot.",
+  "Buffer reads are not available.": "I buffer read non sono disponibili."
 }
