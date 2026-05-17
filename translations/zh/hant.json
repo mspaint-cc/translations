@@ -2071,5 +2071,13 @@
   "Anti-Paranoia": "反妄想症",
   "Anti-Restless Dreams Fog": "反不眠之夢的霧",
   "Anti-Sitcom": "反情景喜劇",
-  "Anti-Witching Hour Movement": "反魔女之夜"
+  "Anti-Witching Hour Movement": "反魔女之夜",
+  "Auto Farm Delay": "msp幫你肝的延遲",
+  "Auto Farm is not implemented in this sub-floor: %s": "msp的肝在這个子樓層廢了：%s",
+  "Auto Pickup Hearts": "自動撿心",
+  "Block name": "方塊名字",
+  "Block name is empty.": "方塊名字是空的😡😡",
+  "Buffer reads are not available.": "讀取操作不可用",
+  "Build Image": "建造圖片",
+  "Build button to build. Right click/cancel button to cancel.\nClick/tap plot to move. Drag rotation arcs or press R.\nRotation X/Y/Z: %s/%s/%s deg. %s pixels using %s blocks.%s": "用來建造的按鈕。右鍵或者按取消即可取消\n點擊或者點擊地塊來移動，拖拽弧線或者按R來轉動\n你選中的模型的角度（xyz）：%s/%s/%s。%s 像素在用%s個方塊.%s（我不明白說的什麼啊）"
 }
