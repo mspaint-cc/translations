@@ -2021,7 +2021,7 @@
   "[OnUnload] [UI] ========== Unloaded. ==========": "[卸载] [界面] ========== 已卸载。 ==========",
   "[OnUnload] [States] Unloading...": "[卸载] [状态] 正在卸载...",
   "[OnUnload] [States] ========== Unloaded. ==========": "[卸载] [状态] ========== 已卸载。 ==========",
-  "Recommended Settings:\nWalkspeed: <font color=%q>35 or lower</font>\nSpeed Bypass: <font color=%q>On (25-35 walkspeed)</font> - <font color=%q>Off (25 or lower walkspeed)</font>\nNoclip: <font color=%q>Off</font>": "推荐设置：\n移动速度：<font color=%q>35 或更低</font>\n速度绕过：<font color=%q>开启 (25-35 速度)</font> - <font color=%q>关闭 (25 或更低速度)</font>\n穿墙：<font color=%q>关闭</font>",
+  "Recommended Settings:\nWalkspeed: <font color=%q>35 or lower</font>\nSpeed Bypass: <font color=%q>On (25-35 walkspeed)</font> - <font color=%q>Off (25 or lower walkspeed)</font>\nNoclip: <font color=%q>Off</font>": "推薦設置：\n移動速度：<font color=%q>35 或更低</font>\n速度繞過：<font color=%q>開啟 (25-35 速度)</font> - <font color=%q>關閉 (25 或更低速度)</font>\n穿墙：<font color=%q>關閉</font>",
   "Anti Entity": "防实体",
   "Anti Dread": "防 Dread",
   "Anti Halt": "防 Halt",
