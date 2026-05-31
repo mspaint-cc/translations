@@ -1609,7 +1609,7 @@
   "Pixel Size": "像素大小",
   "No visible pixels were found in the image.": "找不到看得见的像素",
   "Loading image...": "加载图像中...",
-  "Loaded! Interact with a bandage to disable Fake Revive (you won't be able to enable it again).": "加载成功!捡一个创可贴来关闭这个功能(哥们就一次机会)",
+  "Loaded! Interact with a bandage to disable Fake Revive (you won't be able to enable it again).": "加载成功!捡一个创可贴来关闭这个功能(这辈子就这一次机会)",
   "Image request returned an empty body.": "图像请求回复了空内容",
   "Preserve Aspect Ratio": "保留纵横比",
   "Waiting for game to start...": "等待游戏开始...",
