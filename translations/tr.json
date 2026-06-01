@@ -2622,5 +2622,6 @@
   "You own %s %s blocks, but this image needs %s blocks for %s visible pixels.": "Sizde %s adet %s bloğu var, ancak bu görsel %s görünür piksel için %s blok gerektiriyor.",
   "Your executor does not support custom assets.": "Executor'ınız özel varlıkları (custom assets) desteklemiyor.",
   "Your executor does not support the file system.": "Executor'ınız dosya sistemini desteklemiyor.",
-  "\nPreview is outside your plot.": "\nÖnizleme arazinizin dışında."
+  "\nPreview is outside your plot.": "\nÖnizleme arazinizin dışında.",
+  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "Topluluk tarafından oluşturulan eklentileri <b>site içi kontrol panelinde</b> bulabilirsiniz (URL, Ana Sayfa sekmesindedir)."
 }
