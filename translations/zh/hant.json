@@ -2208,5 +2208,6 @@
   "\nPreview is outside your plot.": "預覽在你的地盤外面",
   "mspaint %s": "mspaint %s",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "msp可能在%q中不能正確地運作，如果你遇到了任何問題的話，我們深表歉意",
-  "__LOADING_DESCRIPTION": "hello,world 你好，世界"
+  "__LOADING_DESCRIPTION": "hello,world 你好，世界",
+  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "你可以在<b>網站儀錶盤</b>中找到社區弄的插件（網站在主頁能找到）"
 }
