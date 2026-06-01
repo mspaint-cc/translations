@@ -1640,5 +1640,6 @@
   "Waiting for %s in %s...": "正在等待%s 在%s中",
   "Server Hop": "换个服务器",
   "Shop": "商店",
-  "Totem Settings": "图腾设置"
+  "Totem Settings": "图腾设置",
+  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "你可以在<b>站点脚本面板</b>上找到社区插件(主页有链接可复制）"
 }
