@@ -2218,5 +2218,6 @@
   "You own %s %s blocks, but this image needs %s blocks for %s visible pixels.": "Posiadasz %s bloków %s, ale ten obraz wymaga %s bloków dla %s widocznych pikseli.",
   "Your executor does not support custom assets.": "Twój executor nie obsługuje niestandardowych assetów.",
   "Your executor does not support the file system.": "Twój executor nie obsługuje systemu plików.",
-  "\nPreview is outside your plot.": "\nPodgląd znajduje się poza twoją działką."
+  "\nPreview is outside your plot.": "\nPodgląd znajduje się poza twoją działką.",
+  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "Dodatki stworzone przez społeczność znajdziesz w <b>panelu na stronie</b> (adres URL znajduje się w zakładce \"Strona główna\")."
 }
