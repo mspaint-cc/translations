@@ -2575,5 +2575,6 @@
   "You own %s %s blocks, but this image needs %s blocks for %s visible pixels.": "Je hebt %s %s blokken, maar deze afbeelding heeft %s blokken nodig voor %s zichtbare pixels.",
   "Your executor does not support custom assets.": "Je executor ondersteunt geen eigen assets.",
   "Your executor does not support the file system.": "Je executor ondersteunt het bestandssysteem niet.",
-  "\nPreview is outside your plot.": "\nVoorvertoning is buiten je plot."
+  "\nPreview is outside your plot.": "\nVoorvertoning is buiten je plot.",
+  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "Je kan de community-gemaakt addons vinden in de <b>on-site dashboard</b> (URL is in de Home tab)"
 }
