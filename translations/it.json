@@ -2199,5 +2199,6 @@
   "Your executor does not support custom assets.": "Il tuo executor non supporta gli asset personalizzati.",
   "Your executor does not support the file system.": "Il tuo executor non supporta il file system.",
   "\nPreview is outside your plot.": "L'anteprima è fuori dal tuo plot.",
-  "Buffer reads are not available.": "I buffer read non sono disponibili."
+  "Buffer reads are not available.": "I buffer read non sono disponibili.",
+  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "Puoi trovare gli add-on fatti dalla comunità nella <b>dashboard sul sito</b> (L'URL è nella tab Home)"
 }
