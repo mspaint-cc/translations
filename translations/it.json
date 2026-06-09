@@ -2200,5 +2200,10 @@
   "Your executor does not support the file system.": "Il tuo executor non supporta il file system.",
   "\nPreview is outside your plot.": "L'anteprima è fuori dal tuo plot.",
   "Buffer reads are not available.": "I buffer read non sono disponibili.",
-  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "Puoi trovare gli add-on fatti dalla comunità nella <b>dashboard sul sito</b> (L'URL è nella tab Home)"
+  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "Puoi trovare gli add-on fatti dalla comunità nella <b>dashboard sul sito</b> (L'URL è nella tab Home)",
+  "This feature will only work when the anticheat is bypassed (which is not possible in every floor). Please use 'Anticheat Manipulation' instead!": "Questa funzione funzionerà solo quando l'anticheat sarà bypassato (che non è possibile in ogni piano). Per favore usa 'Manipolazione Anticheat' invece!",
+  "You already have 'Auto Hiding Spot' enabled, this feature may interfere with the other one.": "Hai già la funzione 'Nascondiglio Automatico' attivata, questa funzione potrebbe interferire con l'altra.",
+  "You already have 'Position Offset' enabled, this feature may interfere with the other one.": "Hai già la funzione 'Offset Posizione' attivata, questa funzione potrebbe interferire con l'altra.",
+  "You can find community-made addons in the <b>script dashboard</b> (URL is in the Home tab).": "Puoi trovare add-on fatti dalla comunità nella <b>dashboard script</b> (L'URL si trova nella tab Home).",
+  "[mspaint] Addon %q is disabled, skipping...": "[mspaint] L'addon %q è disabilitato, saltandolo..."
 }
