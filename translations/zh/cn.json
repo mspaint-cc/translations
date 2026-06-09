@@ -1641,5 +1641,10 @@
   "Server Hop": "换个服务器",
   "Shop": "商店",
   "Totem Settings": "图腾设置",
-  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "你可以在<b>站点脚本面板</b>上找到社区插件(主页有链接可复制）"
+  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "你可以在<b>站点脚本面板</b>上找到社区插件(主页有链接可复制）",
+  "This feature will only work when the anticheat is bypassed (which is not possible in every floor). Please use 'Anticheat Manipulation' instead!": "这个功能只在反作弊绕过后生效（并不是每个楼层都能） 请使用\"无拉回穿墙\"代替!",
+  "You already have 'Auto Hiding Spot' enabled, this feature may interfere with the other one.": "你已经开启了\"自动躲藏点\",这个功能可能会和另一个冲突",
+  "You already have 'Position Offset' enabled, this feature may interfere with the other one.": "你已经开启了\"位置偏移/伪无敌\"，这个功能可能会和其他功能冲突",
+  "You can find community-made addons in the <b>script dashboard</b> (URL is in the Home tab).": "你可以在<b>脚本面板</b>找到社区制作的脚本(主页有链接）",
+  "[mspaint] Addon %q is disabled, skipping...": "[mspaint]插件%q已禁用,跳过这个插件中...."
 }
