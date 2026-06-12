@@ -39,6 +39,10 @@
             "NativeName": "文言文",
             "EnglishName": "Classical Chinese"
         },
+        "apf": {
+            "NativeName": "简体中文(愚人节特供)",
+            "EnglishName": "Chinese AprilFools"
+        },
 
         "Default": "cn"
     },
