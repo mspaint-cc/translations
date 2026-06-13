@@ -2623,5 +2623,10 @@
   "Your executor does not support custom assets.": "Executor'ınız özel varlıkları (custom assets) desteklemiyor.",
   "Your executor does not support the file system.": "Executor'ınız dosya sistemini desteklemiyor.",
   "\nPreview is outside your plot.": "\nÖnizleme arazinizin dışında.",
-  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "Topluluk tarafından oluşturulan eklentileri <b>site içi kontrol panelinde</b> bulabilirsiniz (URL, Ana Sayfa sekmesindedir)."
+  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "Topluluk tarafından oluşturulan eklentileri <b>site içi kontrol panelinde</b> bulabilirsiniz (URL, Ana Sayfa sekmesindedir).",
+  "This feature will only work when the anticheat is bypassed (which is not possible in every floor). Please use 'Anticheat Manipulation' instead!": "Bu özellik yalnızca hile önleme sistemi atlandığında çalışır (bu her katta mümkün değildir). Lütfen bunun yerine 'Hile Önleme Manipülasyonu'nu kullanın!",
+  "You already have 'Auto Hiding Spot' enabled, this feature may interfere with the other one.": "“Otomatik Gizleme Noktası” özelliği zaten etkin durumda; bu özellik diğer özellikle çakışabilir.",
+  "You already have 'Position Offset' enabled, this feature may interfere with the other one.": "“Konum Kaydırma” özelliği zaten etkin durumda; bu özellik diğer özellikle çakışabilir.",
+  "You can find community-made addons in the <b>script dashboard</b> (URL is in the Home tab).": "Topluluk tarafından geliştirilen eklentileri <b>script kontrol panelinde</b> bulabilirsiniz (URL, Ana Sayfa sekmesinde yer almaktadır).",
+  "[mspaint] Addon %q is disabled, skipping...": "[mspaint] %q eklentisi devre dışı, atlanıyor..."
 }
