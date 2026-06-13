@@ -1,1 +1,12 @@
-{}
+{
+  " seconds": "秒",
+  " studs": "耳釘",
+  "%d day": "%d 一日",
+  "%d days": "%d 日",
+  "%d hour": "%d 一時間",
+  "%d hours": "%d 小時",
+  "%d minute": "%d 一分鐘",
+  "%d minutes": "%d 分鐘s",
+  "%d second": "%d 二",
+  "%d seconds": "%d 秒"
+}
