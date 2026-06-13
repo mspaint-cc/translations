@@ -2576,5 +2576,10 @@
   "Your executor does not support custom assets.": "Je executor ondersteunt geen eigen assets.",
   "Your executor does not support the file system.": "Je executor ondersteunt het bestandssysteem niet.",
   "\nPreview is outside your plot.": "\nVoorvertoning is buiten je plot.",
-  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "Je kan de community-gemaakt addons vinden in de <b>on-site dashboard</b> (URL is in de Home tab)"
+  "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "Je kan de community-gemaakt addons vinden in de <b>on-site dashboard</b> (URL is in de Home tab)",
+  "This feature will only work when the anticheat is bypassed (which is not possible in every floor). Please use 'Anticheat Manipulation' instead!": "Deze functie werkt alleen wanneer de anticheat wordt omzeild (wat niet op elke verdieping mogelijk is). Gebruik in plaats daarvan 'Anticheat Manipulation'!",
+  "You already have 'Auto Hiding Spot' enabled, this feature may interfere with the other one.": "Je hebt 'Auto Hiding Spot' al ingeschakeld, deze functie kan de andere verstoren.",
+  "You already have 'Position Offset' enabled, this feature may interfere with the other one.": "Je hebt 'Position Offset' al ingeschakeld, deze functie kan de andere verstoren.",
+  "You can find community-made addons in the <b>script dashboard</b> (URL is in the Home tab).": "Je kunt door de community gemaakte add-ons vinden in het <b>scriptdashboard</b> (de URL staat in het tabblad Home).",
+  "[mspaint] Addon %q is disabled, skipping...": "[mspaint] Add-on %q is uitgeschakeld, overslaan..."
 }
