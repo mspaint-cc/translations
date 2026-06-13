@@ -34,7 +34,12 @@
             "NativeName": "繁體中文",
             "EnglishName": "Chinese Traditional"
         },
-        
+
+        "aft": {
+            "NativeName": "繁體中文(愚人節)",
+            "EnglishName": "Chinese Traditional Fools"
+        },
+
         "classical": {
             "NativeName": "文言文",
             "EnglishName": "Classical Chinese"
