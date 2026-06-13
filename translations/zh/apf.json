@@ -1624,5 +1624,12 @@
   "mspaint %s": "mspaint %s",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint 在%1$q 场景中可能运行异常，若遇到问题敬请谅解。",
   "A-1000 reached by mspaint autorooms": "通过自动rooms到达A1000",
-  "Auto R&D is active": "自动R&D正在运作"
+  "Auto R&D is active": "自动R&D正在运作",
+  "Auto Breaker Solver": "自动破障机关",
+  "This feature is always on for your safety.": "守护相随，此功能始终运转。",
+  "This feature is available only for Premium Users.": "专属贵客才可使用此项能力。",
+  "This feature is not available in the current Pressure variant.": "当前挑战模式，无法动用该能力。",
+  "This feature is not implemented on this floor.": "此地楼层，尚未布设该机关。",
+  "[Value: %s$]%s": "[数值：%s$]%s",
+  "[mspaint guard]: mspaint guard received invalid anticheat data from the server. For your security, we have kicked you.": "[mspaint护符]：侦测到异常防护数据，为保平安，已将你驱逐出境。"
 }
