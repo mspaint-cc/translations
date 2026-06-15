@@ -2554,5 +2554,15 @@
   "Waiting for Stage %s/3...": "Esperando la etapa %s/3...",
   "You haven't reached door 200.": "No has llegado a la puerta 200.",
   "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint se encuentra actualmente en mantenimiento en %q. Por favor, espere mientras actualizamos el script. Gracias.",
-  "This feature is available only for Premium Users.": "Esta función solo esta disponible a usuarios de Premium."
+  "This feature is available only for Premium Users.": "Esta función solo esta disponible a usuarios de Premium.",
+  "Block name": "Nombre del bloque",
+  "Block name is empty.": "El nombre del bloque está vacío.",
+  "Buffer reads are not available.": "Las lecturas de búfer no están disponibles.",
+  "Build Image": "Crear imagen",
+  "Build button to build. Right click/cancel button to cancel.\nClick/tap plot to move. Drag rotation arcs or press R.\nRotation X/Y/Z: %s/%s/%s deg. %s pixels using %s blocks.%s": "Botón Construir para construir. Botón Clic derecho/Cancelar para cancelar.\nHaz clic o toca el gráfico para moverlo. Arrastra los arcos de rotación o pulsa R.\nRotación X/Y/Z: %s/%s/%s grados. %s píxeles usando %s bloques.%s",
+  "Building %sx%s image with %s visible pixels using %s blocks...": "Construyendo la imagen %sx%s con %s píxeles visibles usando %s bloques...",
+  "Built %s/%s pixels (%s blocks) in %ss...": "Construido %s/%s píxeles (%s bloques) en %ss...",
+  "Bypass Method": "Método de derivación",
+  "Cancel / Force Stop Image Build": "Cancelar / Forzar detención de la compilación de la imagen",
+  "Content.fromUri is not available.": "El contenido de Content.fromUri no está disponible."
 }
