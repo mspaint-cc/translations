@@ -2518,5 +2518,10 @@
   "You own %s %s blocks, but this image needs %s blocks for %s visible pixels.": "تملك %s من مكعبات %s، لكن هذه الصورة تتطلب %s مكعب لـ %s بكسل مرئي.",
   "Your executor does not support custom assets.": "المحقن الخاص بك لا يدعم الملفات الخارجية.",
   "Your executor does not support the file system.": "المحقن الخاص بك لا يدعم نظام الملفات.",
-  "\nPreview is outside your plot.": "المعاينة خارج منطقتك."
+  "\nPreview is outside your plot.": "المعاينة خارج منطقتك.",
+  "This feature will only work when the anticheat is bypassed (which is not possible in every floor). Please use 'Anticheat Manipulation' instead!": "ستعمل هذه الميزة فقط عندما يتم تخطي نظام الحماية (وهذا ليس ممكناً في كل طابق). يرجى استخدام 'التلاعب بنظام الحماية' بدلاً من ذلك!",
+  "You already have 'Auto Hiding Spot' enabled, this feature may interfere with the other one.": "لقد قمت بتفعيل 'مكان الاختباء التلقائي' بالفعل، قد تتداخل هذه الميزة مع الميزة الأخرى.",
+  "You already have 'Position Offset' enabled, this feature may interfere with the other one.": "لقد قمت بتفعيل 'إزاحة الموقع' بالفعل، قد تتداخل هذه الميزة مع الميزة الأخرى.",
+  "You can find community-made addons in the <b>script dashboard</b> (URL is in the Home tab).": "يمكنك العثور على إضافات من صنع المجتمع في <b>لوحة تحكم السكريبت</b> (الرابط موجود في علامة تبويب الصفحة الرئيسية).",
+  "[mspaint] Addon %q is disabled, skipping...": "[mspaint] الإضافة %q معطلة، يتم التخطي..."
 }
