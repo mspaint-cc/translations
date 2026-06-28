@@ -150,7 +150,7 @@
   "Field of View": "视野范围",
   "No Camera Bobbing": "无镜头晃动",
   "No Camera Shake": "禁用镜头震动",
-  "No Cutscenes": "跳过过场动画",
+  "No Cutscenes": "无过场动画(只是不给你改视角)",
   "Translucent %s": "半透明 %s",
   "Hiding Transparency": "躲藏时柜子的透明度",
   "Viewmodel Offset": "视角模型偏移",
