@@ -1646,5 +1646,15 @@
   "You already have 'Auto Hiding Spot' enabled, this feature may interfere with the other one.": "你已经开启了\"自动躲藏点\",这个功能可能会和另一个冲突",
   "You already have 'Position Offset' enabled, this feature may interfere with the other one.": "你已经开启了\"位置偏移/伪无敌\"，这个功能可能会和其他功能冲突",
   "You can find community-made addons in the <b>script dashboard</b> (URL is in the Home tab).": "你可以在<b>脚本面板</b>找到社区制作的脚本(主页有链接）",
-  "[mspaint] Addon %q is disabled, skipping...": "[mspaint]插件%q已禁用,跳过这个插件中...."
+  "[mspaint] Addon %q is disabled, skipping...": "[mspaint]插件%q已禁用,跳过这个插件中....",
+  "Addon %q didn't load: Invalid 'Game' variable (expected 'table/string/number' got %q)": "插件%q没加载:\"游戏\"变量无效(要求为'表/字符串/数字',得到的是%q)",
+  "Failed to get addon data": "获取插件数据失败",
+  "Invalid 'Game' variable (expected 'table/string/number' got %q)": "无效的\"游戏\"变量(要求为'表/字符串/数字',得到的是%q)",
+  "Position Offset Method": "伪无敌模式[#2是可视遁地的版本]",
+  "Reload Addon": "重新加载插件",
+  "Reloading addon...": "重新加载插件中......",
+  "Thank you for completing the Key System!": "感谢解卡!",
+  "Your Addon is using the outdated API, please ask the developer to migrate their code to use the new API": "你的插件使用的API过时了,去催开发者更新他们的插件以适配新API吧",
+  "[mspaint]: Failed to initialize %q in %q": "[mspaint]:初始化%2$q中的%1$q失败",
+  "Door Noclip": "穿过门[穿墙但是门]"
 }
