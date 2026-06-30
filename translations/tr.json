@@ -2628,5 +2628,15 @@
   "You already have 'Auto Hiding Spot' enabled, this feature may interfere with the other one.": "“Otomatik Gizleme Noktası” özelliği zaten etkin durumda; bu özellik diğer özellikle çakışabilir.",
   "You already have 'Position Offset' enabled, this feature may interfere with the other one.": "“Konum Kaydırma” özelliği zaten etkin durumda; bu özellik diğer özellikle çakışabilir.",
   "You can find community-made addons in the <b>script dashboard</b> (URL is in the Home tab).": "Topluluk tarafından geliştirilen eklentileri <b>script kontrol panelinde</b> bulabilirsiniz (URL, Ana Sayfa sekmesinde yer almaktadır).",
-  "[mspaint] Addon %q is disabled, skipping...": "[mspaint] %q eklentisi devre dışı, atlanıyor..."
+  "[mspaint] Addon %q is disabled, skipping...": "[mspaint] %q eklentisi devre dışı, atlanıyor...",
+  "Addon %q didn't load: Invalid 'Game' variable (expected 'table/string/number' got %q)": "%q eklentisi yüklenemedi: Geçersiz 'Game' değişkeni ('table/string/number' bekleniyordu, %q alındı)",
+  "Door Noclip": "Kapı İçinden Geçme (Noclip)",
+  "Failed to get addon data": "Eklenti verileri alınamadı",
+  "Invalid 'Game' variable (expected 'table/string/number' got %q)": "Geçersiz 'Game' değişkeni ('table/string/number' bekleniyordu, %q alındı)",
+  "Position Offset Method": "Pozisyon Ofset Yöntemi",
+  "Reload Addon": "Eklentiyi Yeniden Yükle",
+  "Reloading addon...": "Eklenti yeniden yükleniyor...",
+  "Thank you for completing the Key System!": "Anahtar Sistemini tamamladığınız için teşekkür ederiz!",
+  "Your Addon is using the outdated API, please ask the developer to migrate their code to use the new API": "Eklentiniz eski bir API kullanıyor, lütfen geliştiriciden kodunu yeni API'ye taşımasını isteyin",
+  "[mspaint]: Failed to initialize %q in %q": "[mspaint]: %q, %q içinde başlatılamadı"
 }
