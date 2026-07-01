@@ -2205,5 +2205,15 @@
   "You already have 'Auto Hiding Spot' enabled, this feature may interfere with the other one.": "Hai già la funzione 'Nascondiglio Automatico' attivata, questa funzione potrebbe interferire con l'altra.",
   "You already have 'Position Offset' enabled, this feature may interfere with the other one.": "Hai già la funzione 'Offset Posizione' attivata, questa funzione potrebbe interferire con l'altra.",
   "You can find community-made addons in the <b>script dashboard</b> (URL is in the Home tab).": "Puoi trovare add-on fatti dalla comunità nella <b>dashboard script</b> (L'URL si trova nella tab Home).",
-  "[mspaint] Addon %q is disabled, skipping...": "[mspaint] L'addon %q è disabilitato, saltandolo..."
+  "[mspaint] Addon %q is disabled, skipping...": "[mspaint] L'addon %q è disabilitato, saltandolo...",
+  "Addon %q didn't load: Invalid 'Game' variable (expected 'table/string/number' got %q)": "Add-on %q non ha caricato: Variabile 'Game' invalida (aspettato 'table/string/number\" ricevuto %q)",
+  "Door Noclip": "Noclip Porta",
+  "Failed to get addon data": "Impossibile ottenere dati addon",
+  "Invalid 'Game' variable (expected 'table/string/number' got %q)": "Variabile 'Game' invalida (aspettato 'table/string/number' ricevuto %q)",
+  "Position Offset Method": "Metodo Offset Posizione",
+  "Reload Addon": "Ricarica Add-on",
+  "Reloading addon...": "Ricaricando Add-on...",
+  "Thank you for completing the Key System!": "Grazie per aver completato il Key System!",
+  "Your Addon is using the outdated API, please ask the developer to migrate their code to use the new API": "Il tuo Add-on usa una versione vecchia dell'API, per favore chiedi allo sviluppatore di aggiornare il codice per usare la nuova API",
+  "[mspaint]: Failed to initialize %q in %q": "[mspaint]: Impossibile inizializzare %q in %q"
 }
