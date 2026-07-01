@@ -1628,5 +1628,15 @@
   "minute(s)": "分钟",
   "mspaint": "mspaint",
   "mspaint %s": "mspaint %s",
-  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint在 %1$q 中可能无法正常工作！如果您遇到任何问题，我们深表歉意。"
+  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint在 %1$q 中可能无法正常工作！如果您遇到任何问题，我们深表歉意。",
+  "Addon %q didn't load: Invalid 'Game' variable (expected 'table/string/number' got %q)": "插件%q没加载 游戏变量不对(反正就是游戏不对 %q)",
+  "Door Noclip": "无视门直接传过去",
+  "Failed to get addon data": "获取数据失败",
+  "Invalid 'Game' variable (expected 'table/string/number' got %q)": "游戏变量不对(反正就是游戏不对 %q)",
+  "Position Offset Method": "位置偏移方式",
+  "Reload Addon": "重新加载插件",
+  "Reloading addon...": "重新加载中",
+  "Thank you for completing the Key System!": "感谢解卡",
+  "Your Addon is using the outdated API, please ask the developer to migrate their code to use the new API": "你这个插件是老瓜蛋子 让你插件开发者更新去",
+  "[mspaint]: Failed to initialize %q in %q": "在%q中初始化%q失败"
 }
