@@ -2581,5 +2581,15 @@
   "You already have 'Auto Hiding Spot' enabled, this feature may interfere with the other one.": "Je hebt 'Auto Hiding Spot' al ingeschakeld, deze functie kan de andere verstoren.",
   "You already have 'Position Offset' enabled, this feature may interfere with the other one.": "Je hebt 'Position Offset' al ingeschakeld, deze functie kan de andere verstoren.",
   "You can find community-made addons in the <b>script dashboard</b> (URL is in the Home tab).": "Je kunt door de community gemaakte add-ons vinden in het <b>scriptdashboard</b> (de URL staat in het tabblad Home).",
-  "[mspaint] Addon %q is disabled, skipping...": "[mspaint] Add-on %q is uitgeschakeld, overslaan..."
+  "[mspaint] Addon %q is disabled, skipping...": "[mspaint] Add-on %q is uitgeschakeld, overslaan...",
+  "Addon %q didn't load: Invalid 'Game' variable (expected 'table/string/number' got %q)": "Addon %q is niet geladen: Ongeldige 'Game'-variabele (verwachtte 'table/string/number', kreeg %q)",
+  "Door Noclip": "Deur Noclip",
+  "Failed to get addon data": "Ophalen van addon-gegevens mislukt",
+  "Invalid 'Game' variable (expected 'table/string/number' got %q)": "Ongeldige 'Game'-variabele (verwachtte 'table/string/number', kreeg %q)",
+  "Position Offset Method": "Positie-offset-methode",
+  "Reload Addon": "Addon herladen",
+  "Reloading addon...": "Addon herladen...",
+  "Thank you for completing the Key System!": "Bedankt voor het voltooien van het Key System!",
+  "Your Addon is using the outdated API, please ask the developer to migrate their code to use the new API": "Je addon gebruikt een verouderde API; vraag de ontwikkelaar om de code over te zetten naar de nieuwe API",
+  "[mspaint]: Failed to initialize %q in %q": "[mspaint]: Initialiseren van %q in %q mislukt"
 }
