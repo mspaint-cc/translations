@@ -88,7 +88,7 @@
   "Helped with Fisch Webhooks": "Geholfen mit Fisch Webhooks",
   "Translators": "Übersetzer",
   "Main": "Main",
-  "Builds": "Errichtet",
+  "Builds": "Builds",
   "Exploits": "Exploits",
   "Successfully unloaded ": "Erfolgreich entladen",
   "Closet": "Schrank",
@@ -2262,5 +2262,15 @@
   "\nPreview is outside your plot.": "\nVorschau ist außerhalb deines Plots.",
   "__LOADING_DESCRIPTION": "__LADE_BESCHREIBUNG",
   "mspaint %s": "mspaint %s",
-  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint funktioniert möglicherweise in %q nicht richtig! Es tut uns leid, falls du auf Probleme stößt."
+  "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint funktioniert möglicherweise in %q nicht richtig! Es tut uns leid, falls du auf Probleme stößt.",
+  "Addon %q didn't load: Invalid 'Game' variable (expected 'table/string/number' got %q)": "Addon %q wurde nicht geladen: Ungültige 'Game' variable (erwartet 'table/string/number' erhalten %q)",
+  "Door Noclip": "Türen Noclip",
+  "Failed to get addon data": "Fehler beim laden der Addon-Daten",
+  "Invalid 'Game' variable (expected 'table/string/number' got %q)": "Ungültige 'Game' variable (erwartet 'table/string/number' erhalten %q)",
+  "Position Offset Method": "Positions' Offset Methode",
+  "Reload Addon": "Addon neuladen",
+  "Reloading addon...": "Lade Addon neu...",
+  "Thank you for completing the Key System!": "Danke fürs erledigen des Key Systems!",
+  "Your Addon is using the outdated API, please ask the developer to migrate their code to use the new API": "Dein Addon verwendet die veraltete API, bitte frage den Entwickler seinen Code zu der neuen API zu migrieren.",
+  "[mspaint]: Failed to initialize %q in %q": "[mspaint]: Fehler beim initialisieren %q in %q"
 }
