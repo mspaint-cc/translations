@@ -1656,5 +1656,14 @@
   "Thank you for completing the Key System!": "感谢解卡!",
   "Your Addon is using the outdated API, please ask the developer to migrate their code to use the new API": "你的插件使用的API过时了,去催开发者更新他们的插件以适配新API吧",
   "[mspaint]: Failed to initialize %q in %q": "[mspaint]:初始化%2$q中的%1$q失败",
-  "Door Noclip": "穿过门[穿墙但是门]"
+  "Door Noclip": "穿过门[穿墙但是门]",
+  "Accurate Projectile Throw": "准确丢投掷物(砸人)",
+  "Auto Collect Pads": "自动拾取半个门板",
+  "Don't look at it.": "别看它",
+  "Don't step on them.": "别踩到它们",
+  "Fast Projectile Throw": "快速丢投掷物(依旧砸人)",
+  "Knob Farm": "旋钮农场",
+  "Powerup Pad ESP": "Powerup板子透视",
+  "Powerup Pad [%s]": "Powerup板子[%s]",
+  "Projectile Speed": "投掷物速度"
 }
