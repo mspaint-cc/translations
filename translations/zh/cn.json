@@ -1658,12 +1658,12 @@
   "[mspaint]: Failed to initialize %q in %q": "[mspaint]:初始化%2$q中的%1$q失败",
   "Door Noclip": "穿过门[穿墙但是门]",
   "Accurate Projectile Throw": "准确丢投掷物(砸人)",
-  "Auto Collect Pads": "自动拾取半个门板",
+  "Auto Collect Pads": "自动拾取加成",
   "Don't look at it.": "别看它",
   "Don't step on them.": "别踩到它们",
   "Fast Projectile Throw": "快速丢投掷物(依旧砸人)",
   "Knob Farm": "旋钮农场",
-  "Powerup Pad ESP": "Powerup板子透视",
-  "Powerup Pad [%s]": "Powerup板子[%s]",
+  "Powerup Pad ESP": "加成板子透视",
+  "Powerup Pad [%s]": "加成板子[%s]",
   "Projectile Speed": "投掷物速度"
 }
