@@ -1458,7 +1458,7 @@
   "Failed to find Voice Acting module.": "Не вдалося знайти модуль озвучування.",
   "Failed to find data for: %q": "Не вдалося знайти дані для: %q",
   "Failed to load custom location: %s": "Не вдалося завантажити вказане місце розташування: %s",
-  "__LOADING_DESCRIPTION": "Yeah..."
+  "__LOADING_DESCRIPTION": "Yeah...",
   "Accurate Projectile Throw": "Точний кидок снаряда",
 	"Addon %q didn't load: Invalid 'Game' variable (expected 'table/string/number' got %q)": "Аддон %q не завантажився: неправильна змінна 'Game' (очікувалось 'table/string/number', отримано %q)",
 	"Appraise skipped, price is over the limit (%s %s > %s %s).": "Оцінку пропущено, ціна перевищує ліміт (%s %s > %s %s).",
