@@ -2272,5 +2272,13 @@
   "Reloading addon...": "Lade Addon neu...",
   "Thank you for completing the Key System!": "Danke fürs erledigen des Key Systems!",
   "Your Addon is using the outdated API, please ask the developer to migrate their code to use the new API": "Dein Addon verwendet die veraltete API, bitte frage den Entwickler seinen Code zu der neuen API zu migrieren.",
-  "[mspaint]: Failed to initialize %q in %q": "[mspaint]: Fehler beim initialisieren %q in %q"
+  "[mspaint]: Failed to initialize %q in %q": "[mspaint]: Fehler beim initialisieren %q in %q",
+  "Don't look at it.": "Schau es dir nicht an!",
+  "Don't step on them.": "Trete nicht auf sie!",
+  "Minigames": "Minispiele",
+  "Method": "Methode",
+  "Failed to find Enchant Altar, retrying...": "Fehler beim finden des Verzauberungs-Altar, versuche erneut...",
+  "Tabs": "Tabs",
+  "Powerup Pad [%s]": "Powerup Pad [%s]",
+  "Projectile Speed": "Projektil-Geschwindigkeit"
 }
