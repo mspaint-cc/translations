@@ -1665,5 +1665,12 @@
   "Knob Farm": "旋钮农场",
   "Powerup Pad ESP": "板子透视",
   "Powerup Pad [%s]": "板子[%s]",
-  "Projectile Speed": "投掷物速度"
+  "Projectile Speed": "投掷物速度",
+  "Enabled Animations": "启用动画",
+  "Dropdown": "下拉菜单",
+  "Tab Swipe Direction": "标签页滑动方向",
+  "Tab Swipe Offset": "标签页滑动偏移",
+  "Tab Transition Time": "标签页切换时间",
+  "Tabs": "标签页",
+  "Window Toggle": "窗口切换"
 }
