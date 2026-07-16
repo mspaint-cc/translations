@@ -2208,7 +2208,7 @@
   "\nPreview is outside your plot.": "預覽在你的地盤外面",
   "mspaint %s": "mspaint %s",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "msp可能在%q中不能正確地運作，如果你遇到了任何問題的話，我們深表歉意",
-  "__LOADING_DESCRIPTION": "2×0=0，3×0=0，所以2=3",
+  "__LOADING_DESCRIPTION": "移除了AL_14",
   "You can find community-made addons in the <b>on-site dashboard</b> (URL is in the Home tab).": "你可以在<b>網站儀錶盤</b>中找到社區弄的插件（網站在主頁能找到）",
   "This feature will only work when the anticheat is bypassed (which is not possible in every floor). Please use 'Anticheat Manipulation' instead!": "這個功能只會在反作弊被繞過時工作（因此此功能在部分樓層不能運作）請使用無拉回穿牆作為替代！",
   "You already have 'Auto Hiding Spot' enabled, this feature may interfere with the other one.": "你已經啟用了“自動躲藏”，這個功能可能會与另外一個功能衝突",
