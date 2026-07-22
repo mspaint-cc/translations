@@ -2273,5 +2273,12 @@
   "Locating generator...": "Нахожу генератор…",
   "Gloombats are in the next room!": "Глумбаты в следующей комнате!",
   "Do not look at it.": "Не смотри на них.",
-  "Dam is not loaded in yet.": "Дэм еще не загрузился."
+  "Dam is not loaded in yet.": "Дэм еще не загрузился.",
+  "Ammo": "Патроны",
+  "Anti-Door Stuck": "Анти-Застрявание в дверях",
+  "Anti-Noodle Legs": "Анти-Ноги Нудла",
+  "Anti-Paranoia": "Анти-Паранойя ",
+  "Anti-Sitcom": "Анти-Ситком",
+  "Show FOV Circle": "Отображать FOV Круга",
+  "Anti-Freeze Frame": "Анти - Freeze Frame"
 }
