@@ -220,7 +220,7 @@
   "Infinite Crucifix": "Unendliches Kruzifix",
   "Very risky, you might die/lose the crucifix": "Sehr riskant, du könntest sterben oder das Kruzifix verlieren",
   "Delete Seek (FE)": "Seek löschen (FE)",
-  "Delete Figure (FE)": "Fugure löschen (FE)",
+  "Delete Figure (FE)": "Figure löschen (FE)",
   "Enable Star Rift": "Star Rift aktivieren",
   "Star Rift": "Sternenkluft",
   "You already have the rift enabled.": "Sie haben den Rift bereits aktiviert.",
@@ -2260,7 +2260,7 @@
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🔴] mspaint funktioniert derzeit nicht in %q! Bitte warte, bis wir das Skript aktualisieren, danke.",
   "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint ist derzeit in %q in Wartung! Bitte warte, bis wir das Skript aktualisieren, danke.",
   "\nPreview is outside your plot.": "\nVorschau ist außerhalb deines Plots.",
-  "__LOADING_DESCRIPTION": "__LADE_BESCHREIBUNG",
+  "__LOADING_DESCRIPTION": "mspaint > allem anderen",
   "mspaint %s": "mspaint %s",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint funktioniert möglicherweise in %q nicht richtig! Es tut uns leid, falls du auf Probleme stößt.",
   "Addon %q didn't load: Invalid 'Game' variable (expected 'table/string/number' got %q)": "Addon %q wurde nicht geladen: Ungültige 'Game' variable (erwartet 'table/string/number' erhalten %q)",
@@ -2280,5 +2280,9 @@
   "Failed to find Enchant Altar, retrying...": "Fehler beim finden des Verzauberungs-Altar, versuche erneut...",
   "Tabs": "Tabs",
   "Powerup Pad [%s]": "Powerup Pad [%s]",
-  "Projectile Speed": "Projektil-Geschwindigkeit"
+  "Projectile Speed": "Projektil-Geschwindigkeit",
+  "Auto Minigame": "Auto Minispiel",
+  "No crates found in inventory!": "Keine Kisten im Inventar gefunden!",
+  "Skip Dead Fish": "Überspringe Tote Fische",
+  "You don't have enough money (%s %s / %s %s).": "Du hast nicht genug Geld (%s %s / %s %s)."
 }
