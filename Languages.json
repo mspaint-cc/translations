@@ -20,8 +20,17 @@
     },
 
     "pt": {
-        "NativeName": "Português",
-        "EnglishName": "Portuguese"
+        "br": {
+            "NativeName": "Brazil Português",
+            "EnglishName": "Brazil Portuguese"
+        },
+
+        "pt": {
+            "NativeName": "Portugal Português",
+            "EnglishName": "Portugal Portuguese"
+        },
+
+        "Default": "br"
     },
 
     "zh": {
