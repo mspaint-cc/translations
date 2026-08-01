@@ -2245,5 +2245,6 @@
   "Tabs": "Schede",
   "Waiting for fish to be equipped...": "Aspettando che il pesce sia equipaggiato...",
   "Window Toggle": "Cambio Finestra",
-  "You don't have enough money (%s %s / %s %s).": "Non hai abbastanza soldi (%s %s / %s %s)."
+  "You don't have enough money (%s %s / %s %s).": "Non hai abbastanza soldi (%s %s / %s %s).",
+  "Auto Claim Sunken Chests": "a"
 }
