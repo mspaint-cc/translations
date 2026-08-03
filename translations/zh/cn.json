@@ -1743,5 +1743,7 @@
   "Wall Check is always active.": "墙壁检查始终处于活动状态。",
   "Warning": "警告",
   "You don't have enough money (%s %s / %s %s).": "你没钱\n(%s %s / %s %s)",
-  "You need to equip the Crab Cage.": "你需要装备蟹笼"
+  "You need to equip the Crab Cage.": "你需要装备蟹笼",
+  "Favorited Items: <font color=%q>%s</font>": "收藏的物品:<font color=%q>%s</font>",
+  "Triggerbot": "触发自瞄"
 }
