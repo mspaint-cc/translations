@@ -1745,5 +1745,21 @@
   "You don't have enough money (%s %s / %s %s).": "你没钱\n(%s %s / %s %s)",
   "You need to equip the Crab Cage.": "你需要装备蟹笼",
   "Favorited Items: <font color=%q>%s</font>": "收藏的物品:<font color=%q>%s</font>",
-  "Triggerbot": "触发自瞄"
+  "Triggerbot": "触发自瞄",
+  "Animations": "动画",
+  "Interface": "界面",
+  "Menu": "菜单",
+  "Save Errors": "保存错误",
+  "Test Caption": "测试弹窗",
+  "Captions": "弹窗",
+  "[%d%%] Loading Auto Complete...": "[%d%%]加载自动完成中........",
+  "Your executor may not be supported by mspaint. Do you still want to continue?": "你的注入器可能不受支持,继续前进?",
+  "Your executor is not supported by mspaint. Do you still want to continue?": "你的注入器不受支持,这意味着我们不管你的BugReport\n继续前进?",
+  "Widgets": "小组件",
+  "dashboard": "仪表板",
+  "discord server": "dc服务器",
+  "mspaint Settings": "mspaint设置",
+  "mspaint links": "mspaint链接",
+  "mspaint site": "mspaint网站",
+  "support server": "支持服务器"
 }
