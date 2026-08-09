@@ -2307,5 +2307,21 @@
   "Right-click any slider to type a custom value.": "右鍵點選任意滑桿，即可輸入自訂數值",
   "Valid fish found, keeping fish...": "發現有效魚類，保留魚類…",
   "Warning": "警告",
-  "You need to equip the Crab Cage.": "你需要裝備蟹籠。"
+  "You need to equip the Crab Cage.": "你需要裝備蟹籠。",
+  "Animations": "動畫",
+  "Interface": "介面",
+  "Menu": "選單",
+  "Save Errors": "儲存錯誤",
+  "Test Caption": "測試說明文字",
+  "Widgets": "小部件",
+  "Captions": "說明文字",
+  "Your executor is not supported by mspaint. Do you still want to continue?": "mspaint 不支援您的注入器。仍要繼續嗎？",
+  "Your executor may not be supported by mspaint. Do you still want to continue?": "你的注入器可能不受 mspaint 支持。仍要繼續嗎？",
+  "[%d%%] Loading Auto Complete...": "[%d%%] 正在加載自動完成…",
+  "dashboard": "儀表板",
+  "discord server": "discord伺服器",
+  "mspaint Settings": "mspaint設置",
+  "mspaint links": "mspaint鏈接",
+  "mspaint site": "mspaint網站",
+  "support server": "支援伺服器"
 }
