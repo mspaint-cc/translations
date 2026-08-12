@@ -1852,5 +1852,6 @@
   "Tiny": "微小",
   "Uptime": "正常运行时间",
   "Weather": "天气",
-  "Version": "版本"
+  "Version": "版本",
+  "Enabled Event Mentions": "启用事件提示"
 }
