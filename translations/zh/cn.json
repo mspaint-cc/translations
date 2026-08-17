@@ -1895,5 +1895,21 @@
   "Caught": "抓住",
   "Change": "改变",
   "Waiting to get close to the padlock...": "等待靠近挂锁",
-  "This will bruteforce the code no matter how many digits are missing. You must be within the unlock distance.": "这会暴力破解密码，不管缺了多少位。你必须在解锁距离内。"
+  "This will bruteforce the code no matter how many digits are missing. You must be within the unlock distance.": "这会暴力破解密码，不管缺了多少位。你必须在解锁距离内。",
+  "Meteors": "陨石",
+  "Rarities": "稀有度",
+  "Paused for Auto Map Vote...": "为地图投票而停止",
+  "Rarities to Show": "展示稀有度",
+  "Selected Detector": "选择的检测器",
+  "Sells": "售出",
+  "Sizes": "大小",
+  "Used": "已使用",
+  "Treasure Maps": "宝藏地图",
+  "Total": "总共",
+  "Sunken Chests": "埋没的箱子",
+  "Started": "已开始",
+  "Start Level": "开始关卡",
+  "Starfalls": "流星",
+  "Levels Gained": "获得的等级",
+  "Levels": "等级"
 }
