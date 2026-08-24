@@ -4,6 +4,11 @@
         "EnglishName": "English"
     },
 
+    "en-cat": {
+        "NativeName": "English Cat",
+        "EnglishName": "English Cat"
+    },
+
     "fr": {
         "NativeName": "Français",
         "EnglishName": "French"
