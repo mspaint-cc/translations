@@ -2532,5 +2532,11 @@
   "Your executor is not supported by mspaint. Do you still want to continue (not recommended)?": "mspaint 不支援你的執行程式。你仍要繼續嗎？（不建議）",
   "Your executor may not be supported by mspaint. Do you still want to continue (not recommended)?": "mspaint 可能不支援你的執行程式。你仍要繼續嗎？（不建議）",
   "[%d%%] Loading Handlers...": "[%d%%] 正在載入處理程式……",
-  "Collecting the gun...": "正在收集槍…"
+  "Collecting the gun...": "正在收集槍…",
+  "Continue": "继续",
+  "Failed to copy link to the dashboard.": "無法複製儀表板連結。",
+  "Helped with QoL and fix bugs for DOORS": "協助改善《DOORS》的遊戲體驗並修復了漏洞",
+  "Link your Key": "鏈接你的金鑰",
+  "You need to be a premium user to use this feature.": "您需要成為高級用戶/會員才能使用此功能",
+  "Your free key is not linked to your Discord account. To be able to report bugs or make suggestions, please link your key through the Script Dashboard at mspaint.cc.": "您的免費金鑰尚未關聯至您的 Discord 帳戶。如需提交錯誤報告或提出建議，請前往 mspaint.cc 的腳本儀表板關聯您的金鑰。"
 }
