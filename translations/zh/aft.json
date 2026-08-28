@@ -1881,5 +1881,11 @@
   "mspaint links": "mspaint 連結67",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint 在 %q 中可能無法正常運作！如果你遇到任何問題，我們深感抱歉。67",
   "mspaint site": "mspaint 網站67",
-  "support server": "支援伺服器67"
+  "support server": "支援伺服器67",
+  "Continue": "繼67續",
+  "Failed to copy link to the dashboard.": "無法複製67板連結。",
+  "Helped with QoL and fix bugs for DOORS": "協助改善《DOORS floor 67》的遊戲體驗並修復了漏洞。",
+  "Link your Key": "鏈接67的金鑰",
+  "You need to be a premium user to use this feature.": "您需要成為67用戶/67會員才能使用此功能。",
+  "Your free key is not linked to your Discord account. To be able to report bugs or make suggestions, please link your key through the Script Dashboard at mspaint.cc.": "您的67金鑰尚未關聯至您的 Discord 帳戶。如需提交67報告或提出建67議，請前往 mspaint.cc 的67儀表板關聯您的金鑰"
 }
