@@ -1880,5 +1880,8 @@
   "Helped with QoL and fix bugs for DOORS": "帮忙改进了 DOORS 的使用体验并修复了一些 bug",
   "Link your Key": "链接你的卡密",
   "You need to be a premium user to use this feature.": "是的这玩意要钱XD",
-  "Your free key is not linked to your Discord account. To be able to report bugs or make suggestions, please link your key through the Script Dashboard at mspaint.cc.": "你的免费卡密还没有绑定到你的 Discord 账号。想要报告漏洞或提出建议，请通过 mspaint.cc 上的脚本仪表板绑定你的卡密。"
+  "Your free key is not linked to your Discord account. To be able to report bugs or make suggestions, please link your key through the Script Dashboard at mspaint.cc.": "你的免费卡密还没有绑定到你的 Discord 账号。想要报告漏洞或提出建议，请通过 mspaint.cc 上的脚本仪表板绑定你的卡密。",
+  "Failed to copy link to the dashboard.": "无法复制仪表板链接。",
+  "Fish to Show": "展示的鱼",
+  "Wall Kick Force Modifier": "墙面反弹力度调整"
 }
