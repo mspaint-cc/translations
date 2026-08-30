@@ -2939,5 +2939,11 @@
   "Wall Kick Force Modifier": "Duvardan Tepme Gücü Çarpanı",
   "Wins": "Galibiyetler",
   "XP & Bricks giver Credits: oke3": "XP ve Tuğla veren Yapımcı: oke3",
-  "XP and Bricks giver are only available in Reprieve.": "XP ve Tuğla veren özellik yalnızca Reprieve modunda mevcuttur."
+  "XP and Bricks giver are only available in Reprieve.": "XP ve Tuğla veren özellik yalnızca Reprieve modunda mevcuttur.",
+  "Continue": "Devam Et",
+  "Failed to copy link to the dashboard.": "Bağlantı, kontrol paneline kopyalanamadı.",
+  "Helped with QoL and fix bugs for DOORS": "DOORS için QoL ve hataları gidermeye katkıda bulunuldu",
+  "Link your Key": "Anahtarınızı Bağla",
+  "You need to be a premium user to use this feature.": "Bu özelliği kullanmak için premium kullanıcı olmanız gerekir.",
+  "Your free key is not linked to your Discord account. To be able to report bugs or make suggestions, please link your key through the Script Dashboard at mspaint.cc.": "Ücretsiz anahtarınız Discord hesabınızla bağlı değil. Hataları bildirebilmek veya önerilerde bulunabilmek için lütfen mspaint.cc adresindeki Script Dashboard üzerinden anahtarınızı bağlayın."
 }
