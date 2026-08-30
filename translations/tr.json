@@ -2556,7 +2556,7 @@
   "Your executor doesn't support the FileSystem API.\nYou won't be able to save Configurations and Themes.": "Yürütücünüz Dosya Sistemi API'sini desteklemiyor.\nYapılandırmaları (Configleri) ve Temaları kaydedemeyeceksiniz.",
   "[⚠️] mspaint is currently detected by the anticheat in %q! Please wait for us to update the script, thank you.": "[⚠️] mspaint şu anda %q içinde hile koruması tarafından tespit edildi! Lütfen scriptimizi güncellememizi bekleyin, teşekkürler.",
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🔴] mspaint şu anda %q içinde çalışmıyor! Lütfen scriptimizin güncellememizi bekleyin, teşekkürler.",
-  "__LOADING_DESCRIPTION": "__AÇIKLAMA_YÜKLENİYOR",
+  "__LOADING_DESCRIPTION": "Dün gece Kardin Hong Doors oynuyordu o sırada mspaint te credits bölümünü açtı ve üzerinde \"ilyax [Turkish]\" yazıyordu çok sevindik 30 bin kişi yayını izlerken bizim ismini gördüler ünlü olduk arkadaşlarıma hava attım. Kardin Hong teşekkür ederim eğer sen olmasaydın hayatımda hiç ünlü olamazdım :c ",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint %q içinde düzgün çalışmayabilir! Herhangi bir sorunla karşılaşırsanız üzgünüz.",
   "Ammo": "Mermi",
   "Anti-Door Stuck": "Kapıya Sıkışma Engelleyici",
