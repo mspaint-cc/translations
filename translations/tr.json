@@ -3024,5 +3024,10 @@
   "Uses an office chair. Grab a chair to activate it.": "Bir ofis sandalyesi kullanır. Etkinleştirmek için bir sandalye al.",
   "Vine Door": "Sarmaşık Kapısı",
   "Vine Door ESP": "Sarmaşık Kapısı ESP",
-  "You are not close to a depot box. Please go near one and try again.": "Bir depo kutusunun yakınında değilsin. Lütfen birinin yanına git ve tekrar dene."
+  "You are not close to a depot box. Please go near one and try again.": "Bir depo kutusunun yakınında değilsin. Lütfen birinin yanına git ve tekrar dene.",
+  "Delete Bramble [FE]": "Bramble'yi Sil [FE]",
+  "Indexing Words...": "Kelimeler dizinleniyor...",
+  "Unavailable": "Mevcut değil",
+  "Keep looking at it!": "Bakmaya Devam Et!",
+  "No word found for the current letters.": "Mevcut harflerle eşleşen bir kelime bulunamadı."
 }
