@@ -1869,7 +1869,7 @@
   "[🔴] mspaint is currently not working in %q! Please wait for us to update the script, thank you.": "[🔴] mspaint 目前在 %q 中無法運作！請等待我們更新腳本，謝謝。67",
   "[🛑] mspaint is currently in maintenance in %q! Please wait for us to update the script, thank you.": "[🛑] mspaint 目前在 %q 中進行維護！請等待我們更新腳本，謝謝。67",
   "\nPreview is outside your plot.": "\n預覽超出你的地塊範圍。67",
-  "__LOADING_DESCRIPTION": "__LOADING_DESCRIPTION67",
+  "__LOADING_DESCRIPTION": "{{MOTD}}",
   "catches": "捕獲次數67",
   "dashboard": "儀表板67",
   "discord server": "Discord 伺服器67",
