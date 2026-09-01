@@ -2617,5 +2617,10 @@
   "Vine Door": "藤蔓門",
   "Vine Door ESP": "藤蔓門 ESP",
   "You are not close to a depot box. Please go near one and try again.": "你不在儲物箱附近。請靠近一個儲物箱再試一次。",
-  "Honcho Package ESP": "老闆的包裹 esp"
+  "Honcho Package ESP": "老闆的包裹 esp",
+  "Delete Bramble [FE]": "刪除bramble(路燈人)（FE）",
+  "Indexing Words...": "正在建立詞彙索引…",
+  "Keep looking at it!": "一直盯著它看！",
+  "No word found for the current letters.": "當前字母組合未找到對應單字",
+  "Unavailable": "不可用"
 }
