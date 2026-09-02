@@ -2482,5 +2482,6 @@
   "Pop Out Boxes": "Pop Out Boxen",
   "Captions": "Untertitel",
   "Test Caption": "Untertitel Testen",
-  "No Damage from Glitch Screech": "Kein Schaden von Glitch Screech"
+  "No Damage from Glitch Screech": "Kein Schaden von Glitch Screech",
+  "%s\nFish Name: %s\nRarity: %s\nMutation: %s\nConfidence: %s": "%s\nFisch Name: %s\nSeltenheit: %s\nMutation: %s\nSicherheit: %s"
 }
