@@ -174,5 +174,15 @@
     "ko": {
         "NativeName": "한국어",
         "EnglishName": "Korean"
+    },
+
+    "cs": {
+        "NativeName": "Czech",
+        "EnglishName": "Čeština"
+    },
+
+    "sk": {
+        "NativeName": "Slovenčina",
+        "EnglishName": "Slovak"
     }
 }
