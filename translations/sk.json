@@ -427,5 +427,11 @@
   "Play Sound": "Prehrať Zvuk",
   "Send Sound Interval": "Interval odosielania zvuku",
   "Sound Selection": "Výber Zvukov",
-  "Weapon Selection": "Výber Zbraní"
+  "Weapon Selection": "Výber Zbraní",
+  "Solving the breaker box...": "Riešim Ističovú Skrinku",
+  "Anticheat Bypass Method": "Metóda Obchádzka Anti-Cheatu",
+  "Anti Chair Impact": "Vplyv na obmedzenie Stoličky",
+  "If you have issues with collision, you need to crouch and uncrouch.": "Ak máte problémy s kolíziami, musíte si čupnúť a znova sa postaviť.",
+  "Spam Other Tools": "Spamovať ostatné nástroje",
+  "Stops office chairs from colliding with your character.": "Zabraňuje tomu, aby kancelárske stoličky narážali do vašej postavy."
 }
