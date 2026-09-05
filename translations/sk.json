@@ -509,5 +509,19 @@
   "XP and Bricks giver are only available in Reprieve.": "XP a Tehly giver Funguje iba v Režime Reprieve.",
   "Unable to reward when player was already rewarded. Please rejoin the game.": "Nemožné Odmeniť hráča ktorý už bol Odmenený, Prosím opätovne sa napojte do hry.",
   "Something went wrong when trying to give rewards. Please try again.": "Niečo sa stalo ked sme sa vás snažili odmeniť. Prosim vyskúšajte znova.",
-  "Wall Kick Force Modifier": "Modifikátor sily odrazu od steny"
+  "Wall Kick Force Modifier": "Modifikátor sily odrazu od steny",
+  "A-666 has despawned temporarily, you can now exit the locker.": "A-666 sa dočasne despawnol, môžete opustiť skriňu.",
+  "Auto R&D": "Auto R&D",
+  "Auto R&D is active": "Auto R&D je aktívne",
+  "Do not hide": "Neschovavajte sa.",
+  "Godmode cannot be disabled while Auto R&D is active.": "Nesmrtelnosť nemôže byť zakázane ked je Auto R&D Aktívny",
+  "Failed to compute path to %s: %s": "Nepodarilo sa vypočítať trasu do %s: %s",
+  "Computing Path to %s...": "Vypočítavanie Trasy do %s",
+  "Calculated Objective Successfully!\nObjective: %s\nCreating path...": "Cieľ úspešne vypočítaný!\nCieľ: %s\nVytváranie trasy...",
+  "Auto R&D Stuck Delay": "Auto R&D Oneskorenie Zaskenutia",
+  "Infinite Flashlight": "Nekonečné Svietidlo",
+  "No Blur": "Žiadné Rozmazanie",
+  "No Flashlight Shadow": "Žiadný Tieň Svietidla",
+  "Pathfinding failed with status %s": "\nVyhľadávanie cesty zlyhalo so stavom %s",
+  "This feature is always on for your safety.": "Táto funkcia je vždy zapnutá pre vaše dobro."
 }
