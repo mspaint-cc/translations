@@ -469,5 +469,6 @@
   "Leave empty to apply box 3d to all ESP types.": "Ponechajte prázdne, ak chcete použiť 3D Box na všetky typy ESP",
   "Leave empty to apply box 2d to all ESP types.": "Ponechajte prázdne, ak chcete použiť 2D Box na všetky typy ESP",
   "Leave empty to apply arrows to all ESP types.": "Ponechajte prázdne, ak chcete použiť šípky pre všetky typy ESP.",
-  "Intensity Part": "Časť intenzity"
+  "Intensity Part": "Časť intenzity",
+  "mspaint": "mspaint"
 }
