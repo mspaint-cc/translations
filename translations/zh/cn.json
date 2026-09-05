@@ -1960,5 +1960,9 @@
   "Vine Door": "藤蔓门",
   "Vine Door ESP": "藤蔓门透视",
   "You are not close to a depot box. Please go near one and try again.": "你没有靠近货箱。请靠近一个再试一次。",
-  "Pop Out Boxes": "弹出盒子"
+  "Pop Out Boxes": "弹出盒子",
+  "Delete Bramble [FE]": "删除Bramble",
+  "Keep looking at it!": "保持注视它",
+  "The depot room roof could not be found.": "找不到仓库的屋顶",
+  "Unavailable": "不可用"
 }
