@@ -1965,15 +1965,16 @@
   "Keep looking at it!": "保持注视它",
   "The depot room roof could not be found.": "找不到仓库的屋顶",
   "Unavailable": "不可用",
-  "Anti Chair Impact": "防止被椅子创思",
+  "Anti Chair Impact": "防被椅子撞飞",
   "Anticheat Bypass Method": "反作弊绕过方式",
   "Enabling Instant Minigame could potentionally get you banned from the game! Are you sure you want to proceed?": "启用秒过迷你游戏可能会让你被封禁！您确定要继续吗？",
   "For ESP Types": "对于ESP类型",
   "Get Document": "获取文档",
   "Leave empty to apply arrows to all ESP types.": "留空以将箭头应用于所有ESP类型。",
-  "Stops office chairs from colliding with your character.": "防止办公椅与你的角色发生冲突。",
+  "Stops office chairs from colliding with your character.": "防止办公椅碰到你的角色。",
   "Leave empty to apply tracers to all ESP types.": "留空以将追踪线应用于所有ESP类型",
   "Leave empty to apply skeleton to all ESP types.": "留空以将骨骼应用于所有ESP类型。",
   "Leave empty to apply box 3d to all ESP types.": "留空以将3D框应用于所有ESP类型。",
-  "Leave empty to apply box 2d to all ESP types.": "留空以将2D框应用于所有ESP类型"
+  "Leave empty to apply box 2d to all ESP types.": "留空以将2D框应用于所有ESP类型",
+  "Aggressive": "愤怒的"
 }
