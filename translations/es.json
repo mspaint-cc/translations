@@ -3015,5 +3015,16 @@
   "mspaint Settings": "Configuración de mspaint",
   "mspaint links": "enlaces de mspaint",
   "mspaint site": "sitio de mspaint",
-  "support server": "servidor de soporte"
+  "support server": "servidor de soporte",
+  "Appraiser NPC": "Tasador NPC",
+  "Auto Starfall Server Hop": "Cambio automático de servidor de Starfall",
+  "Collected": "Recogido",
+  "Collected %s starfalls": "Recolectadas %s estrellas fugaces",
+  "Delete Drones (FE)": "Eliminar drones (FE)",
+  "Executor: %s (%s)": "Ejecutor: %s (%s)",
+  "Look around or keep going to find it.": "Mira a tu alrededor o sigue avanzando para encontrarlo.",
+  "No starfalls found": "No se encontraron estrellas fugaces.",
+  "Passives": "Pasivas",
+  "Sally Toy": "Juguete de Sally",
+  "This feature will not work while Anticheat Bypass is active.": "Esta función no funcionará mientras el bypass del anticheat esté activo."
 }
