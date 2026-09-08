@@ -3049,5 +3049,16 @@
   "Leave empty to apply box 3d to all ESP types.": "3 boyutlu kutuyu tüm ESP türlerine uygulamak için boş bırakın",
   "Leave empty to apply skeleton to all ESP types.": "İskeleti tüm ESP türlerine uygulamak için boş bırakın.",
   "Leave empty to apply tracers to all ESP types.": "İzleyicileri tüm ESP türlerine uygulamak için boş bırakın.",
-  "Stops office chairs from colliding with your character.": "Ofis sandalyelerinin karakterinizle çarpışmasını engeller."
+  "Stops office chairs from colliding with your character.": "Ofis sandalyelerinin karakterinizle çarpışmasını engeller.",
+  "Appraiser NPC": "Değerleme Uzman NPC",
+  "Auto Starfall Server Hop": "Otomatik Starfall Sunucu Değiştirme",
+  "Collected": "Toplandı",
+  "Collected %s starfalls": "%s yıldız düşüşü toplandı",
+  "Delete Drones (FE)": "Droneleri Sil (FE)",
+  "Executor: %s (%s)": "Executor: %s (%s)",
+  "Look around or keep going to find it.": "Etrafına bak ya da onu bulmak için ilerlemeye devam et.",
+  "No starfalls found": "Hiçbir yıldız düşüşü bulunamadı",
+  "Passives": "Pasifler",
+  "Sally Toy": "Sally Oyuncak",
+  "This feature will not work while Anticheat Bypass is active.": "Hile Koruma Bypass etkinken bu özellik çalışmayacaktır."
 }
