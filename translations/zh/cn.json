@@ -1976,5 +1976,19 @@
   "Leave empty to apply skeleton to all ESP types.": "留空以将骨骼应用于所有ESP类型。",
   "Leave empty to apply box 3d to all ESP types.": "留空以将3D框应用于所有ESP类型。",
   "Leave empty to apply box 2d to all ESP types.": "留空以将2D框应用于所有ESP类型",
-  "Aggressive": "愤怒的"
+  "Aggressive": "愤怒的",
+  "Executor: %s (%s)": "注入器：%s(%s)",
+  "Indexing Words...": "正在搜索词语...",
+  "Look around or keep going to find it.": "四处看看或者继续走去找它",
+  "Delete Drones (FE)": "删除Drones(FE)",
+  "Appraiser NPC": "鉴定师NPC",
+  "Auto Starfall Server Hop": "自动陨星服务器跳转",
+  "Collected": "已收集",
+  "Collected %s starfalls": "收集了 %s 次陨星",
+  "Dynamic Reel Chances": "动态卷轴机会",
+  "End Level": "结束关卡",
+  "No starfalls found": "没有发现陨星",
+  "No word found for the current letters.": "没有找到符合当前字母的单词。",
+  "Sally Toy": "Sally的玩具",
+  "This feature will not work while Anticheat Bypass is active.": "当反作弊绕过开启时，这个功能无法使用"
 }
