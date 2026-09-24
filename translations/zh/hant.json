@@ -1985,5 +1985,14 @@
   "Shopping Cart": "購物車",
   "Shopping Cart ESP": "購物車 ESP",
   "Stops office chairs from colliding with your character.": "防止辦公椅與你的角色碰撞。",
-  "This feature will not work while Anticheat Bypass is active.": "當反作弊繞過啟用時，此功能將無法運作。"
+  "This feature will not work while Anticheat Bypass is active.": "當反作弊繞過啟用時，此功能將無法運作。",
+  "%s\nFish Name: %s\nRarity: %s\nMutation: %s\nConfidence: %s\nAttributes: %s": "%s\n魚名：%s\n稀有度：%s\n突變：%s\n信心（？）：%s\n屬性：%s",
+  "Attribute Whitelist": "屬性白名單",
+  "Developer & UI Library Developer": "開發者與 UI 函式庫開發者",
+  "Don't show me again": "不要再顯示",
+  "Enabled Values": "已啟用的值",
+  "Main Developer": "主要開發者",
+  "Sell is currently in progress.": "販賣目前正在進行中。",
+  "Tool Profile": "工具設定檔",
+  "True Progress Speed": "真實進度速度"
 }
