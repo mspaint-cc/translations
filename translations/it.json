@@ -2128,7 +2128,7 @@
   "Testing Executor functionality...": "Testando Funzioni Executor...",
   "This feature doesn't work in this floor.": "Questa funzione non funziona su questo piano.",
   "Your executor doesn't support the FileSystem API.\nYou won't be able to save Configurations and Themes.": "Il tuo executor non supporta l'API FileSystem.\nI temi e le configurazioni non verranno salvati.",
-  "__LOADING_DESCRIPTION": "anyone plays mmorpgs maybe? old school runescape? pls",
+  "__LOADING_DESCRIPTION": "im in my reverse engineering and osu! arc",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint potrebbe non funzionare correttamente in %q! Ci scusiamo per qualunque errore che potresti trovare.",
   "This feature only works inside the Lobby.": "Questa funzione funziona solo nella Lobby.",
   "This feature is not available in the current Pressure variant.": "Questa funzione non è disponibile in questa versione di Pressure.",
@@ -2639,5 +2639,14 @@
   "Sally Toy": "Sally Toy",
   "Shopping Cart": "Shopping Cart",
   "Shopping Cart ESP": "ESP Shopping Cart",
-  "This feature will not work while Anticheat Bypass is active.": "Questa funzione non funzionerà mentre il Bypass dell'Anticheat è attivo."
+  "This feature will not work while Anticheat Bypass is active.": "Questa funzione non funzionerà mentre il Bypass dell'Anticheat è attivo.",
+  "%s\nFish Name: %s\nRarity: %s\nMutation: %s\nConfidence: %s\nAttributes: %s": "%s\nNome Pesce: %s\nRarità: %s\nMutazione: %s\nConfidenza: %s\nAttributi: %s",
+  "Attribute Whitelist": "Whitelist Attributi",
+  "Developer & UI Library Developer": "Sviluppatore & Sviluppatore Libreria UI",
+  "Don't show me again": "Non mostrare di nuovo",
+  "Enabled Values": "Valori Attivati",
+  "Main Developer": "Sviluppatore Principale",
+  "Sell is currently in progress.": "Sell è in progresso.",
+  "Tool Profile": "Profilo Oggetto",
+  "True Progress Speed": "Velocità Progresso Vero"
 }
