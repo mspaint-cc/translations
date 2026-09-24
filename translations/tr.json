@@ -3068,5 +3068,14 @@
   "Don't look too much and don't get close.": "Çok fazla bakma ve fazla yaklaşma.",
   "Room %d": "Oda %d",
   "Shopping Cart": "Alışveriş Arabası",
-  "Shopping Cart ESP": "Alışveriş Arabası ESP"
+  "Shopping Cart ESP": "Alışveriş Arabası ESP",
+  "%s\nFish Name: %s\nRarity: %s\nMutation: %s\nConfidence: %s\nAttributes: %s": "%s\nBalık Adı: %s\nNadirlik: %s\nMutasyon: %s\nGüven: %s\nÖzellikler: %s",
+  "Attribute Whitelist": "Özellik Beyaz Listesi",
+  "Developer & UI Library Developer": "Geliştirici ve UI Kütüphanesi Geliştiricisi",
+  "Don't show me again": "Bunu bir daha gösterme",
+  "Enabled Values": "Etkin Değerler",
+  "Main Developer": "Ana Geliştirici",
+  "Sell is currently in progress.": "Satış şu anda devam ediyor.",
+  "Tool Profile": "Araç Profili",
+  "True Progress Speed": "Gerçek İlerleme Hızı"
 }
