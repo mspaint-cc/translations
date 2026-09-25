@@ -2001,5 +2001,11 @@
   "Roaming Fish ESP": "漫游鱼 ESP",
   "Room %d": "%d房间",
   "Shopping Cart": "购物车",
-  "Shopping Cart ESP": "购物车透视"
+  "Shopping Cart ESP": "购物车透视",
+  "Developer & UI Library Developer": "开发者&ObsidianUI开发者",
+  "Don't show me again": "不再显示",
+  "Main Developer": "主开发者",
+  "Sell is currently in progress.": "正在售卖",
+  "Tool Profile": "工具信息",
+  "%s\nFish Name: %s\nRarity: %s\nMutation: %s\nConfidence: %s\nAttributes: %s": "%s\n鱼名:%s\n稀有度:%s\n突变度:%s\nConfidence:%s\n属性:%s"
 }
