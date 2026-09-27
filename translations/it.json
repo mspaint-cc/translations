@@ -2128,7 +2128,7 @@
   "Testing Executor functionality...": "Testando Funzioni Executor...",
   "This feature doesn't work in this floor.": "Questa funzione non funziona su questo piano.",
   "Your executor doesn't support the FileSystem API.\nYou won't be able to save Configurations and Themes.": "Il tuo executor non supporta l'API FileSystem.\nI temi e le configurazioni non verranno salvati.",
-  "__LOADING_DESCRIPTION": "im in my reverse engineering and osu! arc",
+  "__LOADING_DESCRIPTION": "ez ratted",
   "mspaint may not work correctly in %q! We are sorry if you encounter any problems.": "mspaint potrebbe non funzionare correttamente in %q! Ci scusiamo per qualunque errore che potresti trovare.",
   "This feature only works inside the Lobby.": "Questa funzione funziona solo nella Lobby.",
   "This feature is not available in the current Pressure variant.": "Questa funzione non è disponibile in questa versione di Pressure.",
@@ -2648,5 +2648,9 @@
   "Main Developer": "Sviluppatore Principale",
   "Sell is currently in progress.": "Sell è in progresso.",
   "Tool Profile": "Profilo Oggetto",
-  "True Progress Speed": "Velocità Progresso Vero"
+  "True Progress Speed": "Velocità Progresso Vero",
+  "Disable Dropped Item Pickup": "Disabilita Raccolta Oggetti Caduti",
+  "Disables the ability to pick up dropped items.": "Disabilita la possibilità di raccogliere gli oggetti caduti.",
+  "Orbit Dropped Items": "Orbita Attorno Oggetti Caduti",
+  "Orbits dropped items around your character, helps for storage wars.": "Ti fa orbitare attorno gli oggetti caduti, aiuta per storage war."
 }
