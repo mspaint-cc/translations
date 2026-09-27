@@ -2007,5 +2007,8 @@
   "Main Developer": "主开发者",
   "Sell is currently in progress.": "正在售卖",
   "Tool Profile": "工具信息",
-  "%s\nFish Name: %s\nRarity: %s\nMutation: %s\nConfidence: %s\nAttributes: %s": "%s\n鱼名:%s\n稀有度:%s\n突变度:%s\nConfidence:%s\n属性:%s"
+  "%s\nFish Name: %s\nRarity: %s\nMutation: %s\nConfidence: %s\nAttributes: %s": "%s\n鱼名:%s\n稀有度:%s\n突变度:%s\nConfidence:%s\n属性:%s",
+  "Attribute Whitelist": "属性白名单",
+  "Enabled Values": "启用的值",
+  "True Progress Speed": "真正进度速度"
 }
