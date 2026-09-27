@@ -3077,5 +3077,9 @@
   "Main Developer": "Ana Geliştirici",
   "Sell is currently in progress.": "Satış şu anda devam ediyor.",
   "Tool Profile": "Araç Profili",
-  "True Progress Speed": "Gerçek İlerleme Hızı"
+  "True Progress Speed": "Gerçek İlerleme Hızı",
+  "Disable Dropped Item Pickup": "Düşen Eşyaları Alma",
+  "Disables the ability to pick up dropped items.": "Düşen eşyaları almayı devre dışı bırakır.",
+  "Orbit Dropped Items": "Düşen Eşyaları Döndür",
+  "Orbits dropped items around your character, helps for storage wars.": "Düşen eşyaları kendi kararkter etrafında döndürür. depo savaşları için işe yarar."
 }
