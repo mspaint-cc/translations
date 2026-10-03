@@ -2556,5 +2556,20 @@
   "Serverhop": "Serverhop",
   "Starfalls": "Starfalls",
   "Start Level": "Start Level",
-  "XP & Bricks giver Credits: oke3": "XP & Bricks giver Credits: oke3"
+  "XP & Bricks giver Credits: oke3": "XP & Bricks giver Credits: oke3",
+  "Catches": "Fänge",
+  "Executor: %s (%s)": "Executor: %s (%s)",
+  "Failed to resolve language: %s": "Fehler beim Auflösen der Sprache: %s",
+  "Freeze Fish": "Fische einfrieren",
+  "New Catch": "Neuer Fang",
+  "No starfalls found": "Keine Starfalls gefunden",
+  "Main Developer": "Hauptentwickler",
+  "Losses": "Verluste",
+  "Runs": "Runs",
+  "Summary": "Zusammenfassung",
+  "Stopping...": "Stoppe...",
+  "Started": "Gestartet",
+  "Tool A": "Tool A",
+  "Tool B": "Tool B",
+  "Unavailable": "Nicht verfügbar."
 }
