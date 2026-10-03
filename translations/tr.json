@@ -3086,7 +3086,7 @@
   "bobber_esp_desc": "Mantar (Bobber) ESP üzerindeki mutasyon ve balık isimlerini, oyunun kendi mutasyon ve nadirlik renkleriyle renklendirir.",
   "disabling_boat_features": "Tekne özellikleri devre dışı bırakılıyor...",
   "enabling_old_states": "Eski durumlara geri dönülüyor...",
-  "failed_to_resolve_language": "%s dili çözümlenemedi.",
+  "failed_to_resolve_language": "dil çözümlenemedi.",
   "fire_delay": "Ateşleme Gecikmesi",
   "forced_tool": "Zorunlu Alet",
   "resetting_anchor_values": "Çapa değerleri sıfırlanıyor...",
