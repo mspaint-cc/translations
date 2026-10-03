@@ -2010,5 +2010,10 @@
   "%s\nFish Name: %s\nRarity: %s\nMutation: %s\nConfidence: %s\nAttributes: %s": "%s\n鱼名:%s\n稀有度:%s\n突变度:%s\nConfidence:%s\n属性:%s",
   "Attribute Whitelist": "属性白名单",
   "Enabled Values": "启用的值",
-  "True Progress Speed": "真正进度速度"
+  "True Progress Speed": "真正进度速度",
+  "Disable Dropped Item Pickup": "禁用拾取旋转物品",
+  "Disables the ability to pick up dropped items.": "不让你捡起周围旋转的物品(防自动互动误触)",
+  "Failed to resolve language: %s": "无法解析语言:%s",
+  "Orbit Dropped Items": "让丢弃的物品旋转",
+  "Orbits dropped items around your character, helps for storage wars.": "在你的角色周围环绕掉落的物品，有助于StorageWars"
 }
