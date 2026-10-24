@@ -685,7 +685,7 @@
   "Bit by": "被咬",
   "Auto Unlock Door": "自动解锁门",
   "Password Paper": "密码纸",
-  "Migration Guide": "未加载：“游戏”变量无效（预期为“字符串/表格/数字”类型，却得到了…… ）",
+  "Migration Guide": "迁移指南",
   "Click here to see the migration guide to the new addons api, only click this if you are the addon developer.": "单击此处查看新插件API的迁移指南，如果您是插件开发人员，请单击此操作",
   "Copied to clipboard migration guide!": "复制到剪贴板迁移指南！",
   "Anti-Imaginary Friend": "移除虚拟朋友",
