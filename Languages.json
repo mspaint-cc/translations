@@ -9,6 +9,11 @@
         "EnglishName": "English Cat"
     },
 
+    "en-dog": {
+        "NativeName": "English Dog",
+        "EnglishName": "English Dog"
+    },
+    
     "fr": {
         "NativeName": "Français",
         "EnglishName": "French"
