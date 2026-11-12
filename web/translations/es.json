@@ -27,5 +27,9 @@
   "Landing.socialProof.averageRating": "Calificación promedio de mspaint: {rating}⭐",
   "Landing.socialProof.kardin": "Y hasta por **Kardin Hong**",
   "Landing.socialProof.reviews": "Esto es lo que la gente dice sobre <mark></mark>mspaint",
-  "Landing.socialProof.usedBy": "Usado por sobre <count/> personas"
+  "Landing.socialProof.usedBy": "Usado por sobre <count/> personas",
+  "SignIn.description": "Conecta tu Discord para manejar tu subscripcion",
+  "SignIn.discord": "Continuar con Discord",
+  "SignIn.legal": "Al continuar, aceptas nuestros <tos>Términos de servicio</tos> y nuestra <privacy>Política de privacidad.</privacy>",
+  "SignIn.title": "Inicia sesion"
 }
