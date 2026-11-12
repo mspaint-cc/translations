@@ -10,6 +10,7 @@
   "Landing.features.title": "mspaint features:",
   "Landing.footer.disclaimer": "Ovaj softver nije povezan, asociran, ovlašten, podržan niti na bilo koji način službeno povezan s Robloxom ili Microsoftom ili bilo kojom njihovom podružnicom ili povezanim društvom.",
   "Landing.footer.madeBy": "Stranice napravljena od upio",
+  "Landing.games.subtitle": "kvaliteta i kvantiteta",
   "Landing.games.title": "{count, plural, one {mspaint supporta #igricu} few {mspaint supporta #igrica} other {mspaint supporta # igrica}}",
   "Landing.hero.buy": "Kupi mspaint",
   "Landing.hero.discord": "Discord Server",
@@ -27,9 +28,5 @@
   "Landing.socialProof.averageRating": "Prosječna ocjena u mspaint: {rating} ⭐",
   "Landing.socialProof.kardin": "I čak od Kardin Hong",
   "Landing.socialProof.reviews": "Ovo je šta drugi ljudi govore o <mark>mspaint</mark>",
-  "Landing.socialProof.usedBy": "Korišteno preko <count/> ljudi",
-  "SignIn.description": "⁣‌‌‌‍‍‌‌‍‌‌‍‍‌‍‌‌‍‍‍‍‌‍‌‌‍‌‌‌‌‍‌‍‌‍‍‌‌‌‌‌‍‍‌‌‍‌‍Povežite svoj Discord kako biste upravljali svojom pretplatom",
-  "SignIn.discord": "Nastavi sa Discord-om",
-  "SignIn.legal": "Nastavkom prihvaćate naše <tos>Uvjete korištenja</tos> i <privacy>Pravila o privatnosti.</privacy>",
-  "SignIn.title": "Prijavi se"
+  "Landing.socialProof.usedBy": "Korišteno preko <count/> ljudi"
 }
