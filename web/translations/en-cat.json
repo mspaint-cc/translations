@@ -1,4 +1,10 @@
 {
+  "Landing.faq.full": "Thw fwll FAQ ws in twe <discord></discord><discord></discord><discord>Discwed Serwa</discord>",
+  "Landing.faq.title": "FAQ nya",
+  "Landing.features.noGame": "No gwme fouwd nya.",
+  "Landing.features.searchGame": "sewrch er gawe meow",
+  "Landing.features.selectGame": "sewect er garmw nya",
+  "Landing.features.title": "meowint fewtures purr",
   "Landing.games.subtitle": "quwlwty & quawtiwy",
   "Landing.games.title": "{count, plural, one {meowint owwicially suwworts # gwae} other {meowint owwicially suwworts # gwae}}",
   "Landing.hero.buy": "bww meowint",
@@ -6,11 +12,17 @@
   "Landing.hero.executors": "suwproting ur fawvrite execweors",
   "Landing.hero.moreExecutors": "Awd maey wore...",
   "Landing.hero.tagline": "**Twe bwet <game/> swript**",
+  "Landing.languages.subtitle": "accesshibiwity done right nya",
+  "Landing.languages.title": "{count, plural, one {meowint is tranwlates in # lawguage} other {meowint is tranwlates in #  lawguage}}",
   "Landing.nav.close": "Clwse navwgauton wenu",
   "Landing.nav.dashboard": "dawhboerw",
   "Landing.nav.keySystem": "Kew swytem",
   "Landing.nav.label": "Siwe navagrion",
   "Landing.nav.language": "owLengwuge",
   "Landing.nav.open": "Opwn navwgition wenu",
-  "Landing.nav.shop": "Owr Shwp"
+  "Landing.nav.shop": "Owr Shwp",
+  "Landing.socialProof.averageRating": "Avewage meow mspaint wating: {rating} ⭐ purr",
+  "Landing.socialProof.kardin": "And ewen nya by Kardin Hong",
+  "Landing.socialProof.reviews": "Hewe's what peopwe meow shay abowt <mark>mspaint</mark> ",
+  "Landing.socialProof.usedBy": "Used by **owve **<count/>**+ people**"
 }
