@@ -27,5 +27,9 @@
   "Landing.socialProof.averageRating": "Prosječna ocjena u mspaint: {rating} ⭐",
   "Landing.socialProof.kardin": "I čak od Kardin Hong",
   "Landing.socialProof.reviews": "Ovo je šta drugi ljudi govore o <mark>mspaint</mark>",
-  "Landing.socialProof.usedBy": "Korišteno preko <count/> ljudi"
+  "Landing.socialProof.usedBy": "Korišteno preko <count/> ljudi",
+  "SignIn.description": "⁣‌‌‌‍‍‌‌‍‌‌‍‍‌‍‌‌‍‍‍‍‌‍‌‌‍‌‌‌‌‍‌‍‌‍‍‌‌‌‌‌‍‍‌‌‍‌‍Povežite svoj Discord kako biste upravljali svojom pretplatom",
+  "SignIn.discord": "Nastavi sa Discord-om",
+  "SignIn.legal": "Nastavkom prihvaćate naše <tos>Uvjete korištenja</tos> i <privacy>Pravila o privatnosti.</privacy>",
+  "SignIn.title": "Prijavi se"
 }
