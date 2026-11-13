@@ -38,5 +38,6 @@
   "Landing.socialProof.averageRating": "Avewage meow meowprrint wating: {rating} ⭐ purr",
   "Landing.socialProof.kardin": "And ewen nya by Kardin Hong",
   "Landing.socialProof.reviews": "Hewe's what peopwe meow shay abowt <mark>meowprrint</mark>",
-  "Landing.socialProof.usedBy": "Used by **owve **<count/>**+ people**"
+  "Landing.socialProof.usedBy": "Used by **owve **<count/>**+ people**",
+  "SignIn.title": "sign in nya!"
 }
