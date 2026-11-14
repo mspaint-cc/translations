@@ -1,5 +1,6 @@
 {
   "Dashboard.account.addonProfile": "Profilo addon",
+  "Dashboard.account.dashboard": "Dashboard",
   "Dashboard.account.logOut": "Log out",
   "Dashboard.account.menu": "Menù account",
   "Dashboard.accountCard.description": "Il tuo account Discord collegato.",
@@ -80,6 +81,7 @@
   "Dashboard.hwid.title": "ID Hardware",
   "Dashboard.nav.addons": "Addon",
   "Dashboard.nav.bugReport": "Segnalazione Bug",
+  "Dashboard.nav.close": "Chiudi menù navigazione",
   "Dashboard.nav.label": "Navigazione Dashboard",
   "Dashboard.nav.language": "Lingua",
   "Dashboard.nav.open": "Apri menù navigazione",
@@ -193,6 +195,7 @@
   "Dashboard.subscription.historyUnclaimed": "Non riscattato",
   "Dashboard.subscription.keySystemExpiredNotice": "La tua chiave è scaduta. Apri la pagina del <key>Key System</key>, completalo e poi clicca **Renew **(se hai la stessa sessione).",
   "Dashboard.subscription.keySystemExpiredNoticeAfter": "Dopo, clicca **Ricarica stato** per sincronizzare la chiave o clicca **Riscatta** se hai una nuova chiave.",
+  "Dashboard.subscription.keySystemKey": "Chiave Key System",
   "Dashboard.subscription.keySystemKeyExpired": "Chiave Key System (Scaduta)",
   "Dashboard.subscription.lastSynced": "Ultima sincronizzazione {time}",
   "Dashboard.subscription.lifetime": "Accesso Permanente ★",
