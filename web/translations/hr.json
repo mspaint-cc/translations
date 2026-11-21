@@ -264,7 +264,7 @@
   "Dashboard.trusted.accessGranted": "Imate pouzdani pristup. Provjere neovlaštenih zahvata više ne dovode do rušenja niti blokade vašeg računa.",
   "Dashboard.trusted.accessReason": "Na čemu radite i zašto trebate isključiti provjere neovlaštenog otvaranja na svom računu?",
   "Dashboard.trusted.accessTitle": "Pouzdan pristup",
-  "Dashboard.trusted.apply": "Prijaviti se",
+  "Dashboard.trusted.apply": "Objavi",
   "Dashboard.trusted.applyAgain": "Možete se ponovno prijaviti na {date}.",
   "Dashboard.trusted.approved": "Odobreno",
   "Dashboard.trusted.creatorDescription": "Vaši dodatci automatski dobivaju oznaku Safe (Verified), uz vaše ime se prikazuje pouzdana oznaka, a možete objavljivati obfuscated addon-e pomoću luast.",
