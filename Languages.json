@@ -4,24 +4,40 @@
         "EnglishName": "English"
     },
 
-    "en-cat": {
-        "NativeName": "English Cat",
-        "EnglishName": "English Cat"
+    "zh": {
+        "cn": {
+            "NativeName": "简体中文",
+            "EnglishName": "Chinese Simplified"
+        },
+
+        "hant": {
+            "NativeName": "繁體中文",
+            "EnglishName": "Chinese Traditional"
+        },
+
+        "classical": {
+            "NativeName": "文言文",
+            "EnglishName": "Classical Chinese"
+        },
+
+        "apf": {
+            "NativeName": "简体中文(愚人节特供)",
+            "EnglishName": "Chinese AprilFools",
+            "joke": true
+        },
+
+        "aft": {
+            "NativeName": "繁體中文(愚人節)",
+            "EnglishName": "Chinese Traditional Fools",
+            "joke": true
+        },
+
+        "Default": "cn"
     },
 
-    "en-dog": {
-        "NativeName": "English Dog",
-        "EnglishName": "English Dog"
-    },
-    
-    "fr": {
-        "NativeName": "Français",
-        "EnglishName": "French"
-    },
-
-    "de": {
-        "NativeName": "Deutsch",
-        "EnglishName": "German"
+    "ru": {
+        "NativeName": "Русский",
+        "EnglishName": "Russian"
     },
 
     "es": {
@@ -43,67 +59,9 @@
         "Default": "br"
     },
 
-    "zh": {
-        "cn": {
-            "NativeName": "简体中文",
-            "EnglishName": "Chinese Simplified"
-        },
-
-        "hant": {
-            "NativeName": "繁體中文",
-            "EnglishName": "Chinese Traditional"
-        },
-
-        "aft": {
-            "NativeName": "繁體中文(愚人節)",
-            "EnglishName": "Chinese Traditional Fools"
-        },
-
-        "classical": {
-            "NativeName": "文言文",
-            "EnglishName": "Classical Chinese"
-        },
-        "apf": {
-            "NativeName": "简体中文(愚人节特供)",
-            "EnglishName": "Chinese AprilFools"
-        },
-
-        "Default": "cn"
-    },
-
-    "ru": {
-        "NativeName": "Русский",
-        "EnglishName": "Russian"
-    },
-
-    "ua": {
-        "NativeName": "Українська",
-        "EnglishName": "Ukrainian"
-    },
-
-    "fa": {
-        "NativeName": "فارسی",
-        "EnglishName": "Persian"
-    },
-
-    "ar": {
-        "NativeName": "عربي",
-        "EnglishName": "Arabic"
-    },
-
-    "ur": {
-        "NativeName": "اردو",
-        "EnglishName": "Urdu"
-    },
-
-    "kz": {
-        "NativeName": "қазақ",
-        "EnglishName": "Kazakh"
-    },
-
-    "id": {
-        "NativeName": "Bahasa Indonesia",
-        "EnglishName": "Indonesian"
+    "vi": {
+        "NativeName": "Tiếng Việt",
+        "EnglishName": "Vietnamese"
     },
 
     "tr": {
@@ -111,44 +69,14 @@
         "EnglishName": "Turkish"
     },
 
-    "hi": {
-        "NativeName": "हिंदी",
-        "EnglishName": "Hindi"
+    "ko": {
+        "NativeName": "한국어",
+        "EnglishName": "Korean"
     },
 
-    "hr": {
-        "NativeName": "Hrvatski",
-        "EnglishName": "Croatian"
-    },
-
-    "vi": {
-        "NativeName" : "Tiếng Việt",
-        "EnglishName": "Vietnamese"
-    },
-
-    "hu": {
-        "NativeName": "Magyar",
-        "EnglishName": "Hungarian"
-    },
-
-    "ja": {
-        "NativeName" : "日本語",
-        "EnglishName": "Japanese"
-    },
-
-    "am": {
-        "NativeName": "հայկ",
-        "EnglishName": "Armenian"
-    }, 
-
-    "sv": {
-        "NativeName": "Svenska",
-        "EnglishName": "Swedish"
-    },
-
-    "az": {
-        "NativeName": "Azərbaycanca",
-        "EnglishName": "Azerbaijani"
+    "de": {
+        "NativeName": "Deutsch",
+        "EnglishName": "German"
     },
 
     "pl": {
@@ -156,9 +84,14 @@
         "EnglishName": "Polish"
     },
 
-    "he": {
-        "NativeName": "עברית‎",
-        "EnglishName": "Hebrew"
+    "id": {
+        "NativeName": "Bahasa Indonesia",
+        "EnglishName": "Indonesian"
+    },
+
+    "fr": {
+        "NativeName": "Français",
+        "EnglishName": "French"
     },
 
     "it": {
@@ -166,28 +99,107 @@
         "EnglishName": "Italian"
     },
 
+    "ar": {
+        "NativeName": "عربي",
+        "EnglishName": "Arabic"
+    },
+
+    "ja": {
+        "NativeName": "日本語",
+        "EnglishName": "Japanese"
+    },
+
+    "fa": {
+        "NativeName": "فارسی",
+        "EnglishName": "Persian"
+    },
+
+    "ua": {
+        "NativeName": "Українська",
+        "EnglishName": "Ukrainian"
+    },
+
+    "cs": {
+        "NativeName": "Čeština",
+        "EnglishName": "Czech"
+    },
+
+    "he": {
+        "NativeName": "עברית‎",
+        "EnglishName": "Hebrew"
+    },
+
     "nl": {
         "NativeName": "Nederlands",
         "EnglishName": "Dutch"
     },
 
-    "ko": {
-        "NativeName": "한국어",
-        "EnglishName": "Korean"
-    },
-
-    "cs": {
-        "NativeName": "Czech",
-        "EnglishName": "Čeština"
-    },
-
     "sk": {
-        "NativeName": "Slovenčina",
+        "NativeName": "Slovenčina",
         "EnglishName": "Slovak"
+    },
+
+    "az": {
+        "NativeName": "Azərbaycanca",
+        "EnglishName": "Azerbaijani"
+    },
+
+    "hu": {
+        "NativeName": "Magyar",
+        "EnglishName": "Hungarian"
+    },
+
+    "hr": {
+        "NativeName": "Hrvatski",
+        "EnglishName": "Croatian"
+    },
+
+    "sv": {
+        "NativeName": "Svenska",
+        "EnglishName": "Swedish"
+    },
+
+    "kz": {
+        "NativeName": "қазақ",
+        "EnglishName": "Kazakh"
+    },
+
+    "hi": {
+        "NativeName": "हिंदी",
+        "EnglishName": "Hindi"
+    },
+
+    "am": {
+        "NativeName": "հայկ",
+        "EnglishName": "Armenian"
+    },
+
+    "ur": {
+        "NativeName": "اردو",
+        "EnglishName": "Urdu"
+    },
+
+    "en-cat": {
+        "NativeName": "English Cat",
+        "EnglishName": "English Cat",
+        "joke": true
+    },
+
+    "en-dog": {
+        "NativeName": "English Dog",
+        "EnglishName": "English Dog",
+        "joke": true
     },
 
     "cbl": {
         "NativeName": "|:–|8|8ọₒ.|˙.o˙|ᐧ|",
-        "EnglishName": "Cobblish"
+        "EnglishName": "Cobblish",
+        "joke": true
+    },
+
+    "wd": {
+        "NativeName": "🕈︎♓︎■︎♑︎♎︎♓︎■︎♑︎⬧︎",
+        "EnglishName": "Wingdings",
+        "joke": true
     }
 }
